@@ -3,7 +3,7 @@
   "timezone": "Europe/Rome",
   "telegram_enabled": true,
   "telegram_language": "it",
-  "site_url": "https://daily-news.pages.dev",
+  "site_url": "https://daily-news-8aw.pages.dev",
   "sections": {
     "ita": true,
     "reg": true,
