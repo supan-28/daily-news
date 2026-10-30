@@ -1,0 +1,9 @@
+name = "daily-news-cron"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[triggers]
+crons = ["*/10 * * * *"]
+
+[vars]
+GITHUB_REPO = "supan-28/daily-news"

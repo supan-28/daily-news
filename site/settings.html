@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover">
+<title>Daily News · Settings</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0}
+:root{--bg:#07080b;--card:#101218;--ink:#f3f5f8;--mut:#9aa3b2;--line:rgba(255,255,255,.12)}
+body{background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;min-height:100dvh;padding:24px 16px 60px}
+main{max-width:480px;margin:0 auto}
+a.back{color:var(--mut);text-decoration:none;font-size:13px}
+h1{font-size:28px;font-weight:800;letter-spacing:-.02em;margin:14px 0 24px}
+fieldset{border:1px solid var(--line);border-radius:16px;background:var(--card);padding:16px;margin-bottom:16px}
+legend{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--mut);padding:0 6px}
+label{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-size:15px}
+label:last-child{border-bottom:0}
+input[type=time],input[type=text],input[type=password],select{background:#0b0d12;color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit;min-width:150px}
+input[type=checkbox]{width:44px;height:26px;appearance:none;background:#2a2f3a;border-radius:999px;position:relative;cursor:pointer;transition:background .2s;flex:none}
+input[type=checkbox]::after{content:"";position:absolute;left:3px;top:3px;width:20px;height:20px;border-radius:50%;background:#fff;transition:transform .2s}
+input[type=checkbox]:checked{background:#1f9d62}
+input[type=checkbox]:checked::after{transform:translateX(18px)}
+button{width:100%;padding:15px;border-radius:16px;background:#fff;color:#000;font:inherit;font-weight:700;border:0;cursor:pointer}
+button:disabled{opacity:.5}
+#msg{margin-top:14px;font-size:14px;min-height:20px;text-align:center}
+.ok{color:#4cd08a}.err{color:#ff6b62}
+small{display:block;color:var(--mut);font-size:12px;margin-top:10px;line-height:1.5}
+</style>
+</head>
+<body>
+<main>
+<a class="back" href="./">&larr; Back to news</a>
+<h1>Settings</h1>
+<form id="f">
+<fieldset><legend>Telegram delivery</legend>
+<label>Send every day at<input type="time" id="send_time" required></label>
+<label>Time zone<select id="timezone"></select></label>
+<label>Telegram language<select id="telegram_language"><option value="en">English</option><option value="it">Italiano</option></select></label>
+<label>Italian voice<select id="voice_it"><option value="it-IT-GiuseppeMultilingualNeural">Giuseppe (multilingual, male)</option><option value="en-US-AvaMultilingualNeural">Ava (multilingual, female)</option><option value="en-US-EmmaMultilingualNeural">Emma (multilingual, female)</option><option value="en-US-AndrewMultilingualNeural">Andrew (multilingual, male)</option><option value="en-US-BrianMultilingualNeural">Brian (multilingual, male)</option><option value="it-IT-IsabellaNeural">Isabella (female)</option><option value="it-IT-ElsaNeural">Elsa (female)</option><option value="it-IT-DiegoNeural">Diego (male)</option></select></label>
+<label>English voice<select id="voice_en"><option value="en-GB-SoniaNeural">Sonia (UK, female)</option><option value="en-GB-RyanNeural">Ryan (UK, male)</option><option value="en-US-AvaMultilingualNeural">Ava (multilingual, female)</option><option value="en-US-EmmaMultilingualNeural">Emma (multilingual, female)</option><option value="en-US-AndrewMultilingualNeural">Andrew (multilingual, male)</option><option value="en-US-BrianMultilingualNeural">Brian (multilingual, male)</option><option value="en-US-AriaNeural">Aria (US, female)</option></select></label>
+<small>Voices apply from the next deploy (about 5 minutes after saving). Samples: mockups/voices.html.</small>
+<label>Send Telegram message<input type="checkbox" id="telegram_enabled"></label>
+<small>The briefing is prepared before this time and sent at the first check after it (checks run every 10 minutes).</small>
+</fieldset>
+<fieldset><legend>Sections</legend><div id="secs"></div></fieldset>
+<fieldset><legend>Authorization</legend>
+<label>Password<input type="password" id="password" autocomplete="current-password" required></label>
+</fieldset>
+<button id="save" type="submit">Save</button>
+<div id="msg" role="status"></div>
+</form>
+</main>
+<script>
+const NAMES={ita:'Italy (all topics)',reg:'AI Regulation (EU & Italy)',ai:'AI & Technology',pol:'Politics & Geopolitics',inn:'Innovation',biz:'Business, Economy & Finance',lav:'Labour Market',vc:'Venture Capital',cr7:'Cristiano Ronaldo'};
+const $=id=>document.getElementById(id);
+const zones=['Europe/Rome','Europe/London','Europe/Paris','Europe/Berlin','Europe/Madrid','America/New_York','America/Chicago','America/Los_Angeles','Asia/Dubai','Asia/Tokyo','UTC'];
+$('timezone').innerHTML=zones.map(z=>`<option>${z}</option>`).join('');
+$('secs').innerHTML=Object.entries(NAMES).map(([k,v])=>`<label>${v}<input type="checkbox" data-sec="${k}"></label>`).join('');
+(async()=>{
+  try{
+    const c=await (await fetch('config.json',{cache:'no-cache'})).json();
+    $('send_time').value=c.send_time;$('timezone').value=c.timezone;$('telegram_enabled').checked=c.telegram_enabled;$('telegram_language').value=c.telegram_language||'en';$('voice_it').value=c.voice_it||'it-IT-GiuseppeMultilingualNeural';$('voice_en').value=c.voice_en||'en-GB-SoniaNeural';
+    document.querySelectorAll('[data-sec]').forEach(i=>i.checked=!!c.sections[i.dataset.sec]);
+  }catch{$('msg').textContent='Could not load current settings.';$('msg').className='err'}
+})();
+$('f').onsubmit=async e=>{
+  e.preventDefault();
+  const sections={};document.querySelectorAll('[data-sec]').forEach(i=>sections[i.dataset.sec]=i.checked);
+  $('save').disabled=true;$('msg').className='';$('msg').textContent='Saving…';
+  try{
+    const r=await fetch('/api/config',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({password:$('password').value,send_time:$('send_time').value,timezone:$('timezone').value,telegram_enabled:$('telegram_enabled').checked,telegram_language:$('telegram_language').value,voice_it:$('voice_it').value,voice_en:$('voice_en').value,sections})});
+    const j=await r.json().catch(()=>({}));
+    if(!r.ok)throw new Error(j.error||'Error '+r.status);
+    $('msg').className='ok';$('msg').textContent='Saved. Live in about a minute.';
+  }catch(err){$('msg').className='err';$('msg').textContent=err.message}
+  $('save').disabled=false;
+};
+</script>
+</body>
+</html>

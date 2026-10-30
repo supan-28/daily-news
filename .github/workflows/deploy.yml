@@ -1,0 +1,37 @@
+name: Deploy site
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", "functions/**"]
+  workflow_dispatch:
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: site/loops
+          key: loops-v1-${{ github.run_id }}
+          restore-keys: loops-v1-
+      - name: Fetch stock loops for feed backgrounds (optional)
+        run: python3 scripts/fetch_loops.py || echo "loop fetch failed, feed falls back to images"
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      - name: Generate neural voice audio (optional)
+        run: |
+          pip install -q edge-tts
+          python3 scripts/make_audio.py || echo "audio generation failed, site falls back to browser voice"
+      - run: npx --yes wrangler@3 pages deploy site --project-name daily-news --branch main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

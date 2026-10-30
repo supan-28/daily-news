@@ -1,0 +1,7 @@
+.env
+node_modules/
+.DS_Store
+site/audio/
+site/loops/
+__pycache__/
+*.pyc

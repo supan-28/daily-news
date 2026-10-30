@@ -1,0 +1,20 @@
+{
+  "send_time": "07:30",
+  "timezone": "Europe/Rome",
+  "telegram_enabled": true,
+  "telegram_language": "it",
+  "site_url": "https://daily-news.pages.dev",
+  "sections": {
+    "ita": true,
+    "reg": true,
+    "ai": true,
+    "pol": true,
+    "inn": true,
+    "biz": true,
+    "lav": true,
+    "vc": false,
+    "cr7": false
+  },
+  "voice_it": "it-IT-GiuseppeMultilingualNeural",
+  "voice_en": "en-US-AriaNeural"
+}
