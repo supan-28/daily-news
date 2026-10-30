@@ -17,3 +17,11 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      - name: Token the worker uses to start send.yml
+        if: env.GH_PAT != ''
+        run: echo "$GH_PAT" | npx --yes wrangler@3 secret put GITHUB_TOKEN
+        working-directory: cron
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
