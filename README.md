@@ -25,6 +25,6 @@ Personal morning briefing. A scheduled Claude routine researches the news and co
 5. Cloudflare environment:
    - Pages project: `SETTINGS_PASSWORD`, `GITHUB_TOKEN`, `GITHUB_REPO`
    - Worker (`cd cron && npx wrangler deploy`): `GITHUB_TOKEN`, deployed by `deploy-cron.yml` on push
-6. Create a scheduled Claude Code routine on your copy that runs the contents of `routine/PROMPT.md` each morning.
+6. `briefing.yml` runs Claude Code with `routine/PROMPT.md` each morning. Run `claude setup-token` locally and save the token as the repo secret `CLAUDE_CODE_OAUTH_TOKEN`.
 
 Local runs: copy `.env.example` to `.env`.

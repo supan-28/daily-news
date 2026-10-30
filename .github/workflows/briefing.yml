@@ -1,0 +1,39 @@
+name: Write daily briefing
+on:
+  schedule:
+    - cron: "30 4 * * *" # 05:30 Europe/Rome in winter, 06:30 in summer
+  workflow_dispatch:
+concurrency:
+  group: briefing
+permissions:
+  contents: write
+  actions: write
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: |
+          git config user.name "daily-news-bot"
+          git config user.email "bot@users.noreply.github.com"
+      - name: Research and write the briefing
+        run: |
+          claude -p "$(cat routine/PROMPT.md)" \
+            --model claude-sonnet-5-5 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --output-format text
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+      # Pushes made with the workflow token do not trigger other workflows, so start the deploy here.
+      - run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
