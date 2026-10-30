@@ -1,0 +1,2334 @@
+{
+ "date": "2026-10-30",
+ "date_label": "Friday, 30 October 2026",
+ "items": [
+  {
+   "id": 1,
+   "sec": "ita",
+   "time": "21:30",
+   "read": 4,
+   "title": "Italy's cabinet approves a 26 billion euro budget with a tax cut up to 55,000 euros",
+   "summary": "The Meloni government approved its fifth budget law on 28 October. It is worth about 26 billion euros and cuts income tax for middle earners, extends parental leave, raises the flat tax ceiling for self-employed people and adds a bonus for workers under 30. Parliament now has to approve it, and Meloni told her majority to avoid mistakes.",
+   "body": [
+    "The Council of Ministers cleared the 2027 budget law on 28 October. ANSA reports that it totals about 26 billion euros and focuses on families, births, lower taxes, purchasing power, incentives to work, businesses and health.",
+    "On taxes, the second income tax bracket is widened up to 55,000 euros a year, a change worth about 500 euros a year. The ceiling for the flat tax regime for self-employed workers rises from 85,000 to 100,000 euros. On families, paid parental leave at 80 percent gains one extra month, reaching four months, five for a second child and six from a third child. There is also a savings account for newborns and a bonus of 2,500 euros, taxed at 1 percent, for workers under 30.",
+    "For businesses, the existing energy release scheme for energy-intensive firms is confirmed and a new one for small and medium companies is funded with 1 billion euros. According to a summary of the government's plan, the money comes partly from banks and insurers, about 5.5 billion euros, plus energy companies and the gaming sector. Meloni said the government had done what was possible and hoped banks would understand.",
+    "What is still open: the text must pass Parliament, where Meloni asked the coalition for no mistakes. Opposition parties have criticised the package, and the exact legal wording of several measures, including the under-30 bonus, is not yet public."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=qry__zI5ufM",
+     "cap": "TG La7 report on the cabinet approving the 2027 budget",
+     "credit": "TG La7",
+     "start": 8,
+     "end": 48
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/fabdc6847a6755f5b3e1f576f6f812f8.jpg",
+     "cap": "Cabinet approval of the budget law, 28 October",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.quotidiano.net/image-service/view/acePublic/alias/contentid/ODViMjE4ODktZmFhOS00/0/la-presidente-del-consiglio-giorgia-meloni-durante-la-conferenza-sulla-manovra.jpg?f=16:9&w=1200&h=675",
+     "cap": "Prime Minister Giorgia Meloni at the budget press conference",
+     "credit": "Quotidiano.net"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/10/28/via-libera-del-consiglio-dei-ministri-alla-manovra.-meloni-vale_a800dc0a-5e17-4252-b135-567ad9587d2b.html",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA, measures",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/28/piu-fondi-alla-sanita-arrivano-le-targhe-personalizzate_a3ae192a-1cb5-463a-970e-1bb34aeae5ca.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Nordest",
+     "u": "https://www.ilnordest.it/italia-ed-esteri/meloni-la-manovra-vale-circa-26-miliardi-di-euro-ln0frrjn",
+     "t": "Regional daily"
+    },
+    {
+     "n": "La Voce di Venezia",
+     "u": "https://www.lavocedivenezia.it/manovra-da-26-miliardi-meloni-richiama-la-maggioranza-niente-errori-in-parlamento/",
+     "t": "Regional daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The budget is worth about 26 billion euros",
+     "n": "ANSA and two regional outlets report the same figure."
+    },
+    {
+     "s": "ok",
+     "c": "Second income tax bracket raised to 55,000 euros",
+     "n": "Reported by ANSA; the legal text is not yet published."
+    },
+    {
+     "s": "warn",
+     "c": "Banks and insurers contribute about 5.5 billion euros",
+     "n": "Single summary of the plan; final amounts may change in Parliament."
+    }
+   ],
+   "ctx": "Italy's budget law is presented each autumn and must be approved by Parliament before the end of the year. It also has to respect European Union fiscal rules, and Italy is still under the excessive deficit procedure after its 2025 deficit was certified at 3.08 percent. The revenue split reported here comes from a single summary and may change in Parliament. This is a news summary, not tax advice.",
+   "loop_query": "government palace Rome evening",
+   "i18n": {
+    "it": {
+     "title": "Il governo approva una manovra da 26 miliardi di euro con taglio Irpef fino a 55mila euro",
+     "summary": "Il 28 ottobre il governo Meloni ha approvato la sua quinta legge di bilancio, del valore di circa 26 miliardi di euro. Taglia l'Irpef per i redditi medi, allunga il congedo parentale, alza la soglia della flat tax per le partite Iva e introduce un premio per i lavoratori under 30. Ora tocca al Parlamento, e Meloni ha chiesto alla maggioranza di evitare errori.",
+     "body": [
+      "Il Consiglio dei ministri ha dato il via libera alla legge di bilancio 2027 il 28 ottobre. Secondo l'ANSA vale circa 26 miliardi di euro e si concentra su famiglia, natalità, riduzione delle tasse, potere d'acquisto, incentivi al lavoro, imprese e sanità.",
+      "Sul fronte fiscale, il secondo scaglione Irpef viene allargato fino a 55mila euro l'anno, con un beneficio di circa 500 euro annui. La soglia del forfettario per le partite Iva sale da 85mila a 100mila euro. Per le famiglie, il congedo parentale retribuito all'80 per cento guadagna un mese in più, arrivando a quattro mesi, cinque per il secondo figlio e sei dal terzo. C'è anche un salvadanaio previdenziale per i nuovi nati e un premio di 2.500 euro, tassato all'1 per cento, per i lavoratori under 30.",
+      "Per le imprese è confermato l'energy release per le aziende energivore e ne viene finanziato uno nuovo per le piccole e medie imprese, con 1 miliardo di euro. Secondo una sintesi del piano del governo, le coperture arrivano in parte da banche e assicurazioni, circa 5,5 miliardi di euro, oltre che da società energetiche e dal settore del gioco. Meloni ha detto che il governo ha fatto il possibile e che spera che le banche capiscano.",
+      "Cosa resta aperto: il testo deve passare in Parlamento, dove Meloni ha chiesto alla maggioranza di non commettere errori. Le opposizioni hanno criticato il pacchetto e il testo normativo di diverse misure, compreso il premio under 30, non è ancora pubblico."
+     ],
+     "checks": [
+      {
+       "c": "La manovra vale circa 26 miliardi di euro",
+       "n": "ANSA e due quotidiani regionali riportano la stessa cifra."
+      },
+      {
+       "c": "Secondo scaglione Irpef allargato fino a 55mila euro",
+       "n": "Riportato da ANSA; il testo di legge non è ancora pubblicato."
+      },
+      {
+       "c": "Banche e assicurazioni contribuiscono per circa 5,5 miliardi di euro",
+       "n": "Una sola sintesi del piano; gli importi finali possono cambiare in Parlamento."
+      }
+     ],
+     "ctx": "La legge di bilancio viene presentata ogni autunno e deve essere approvata dal Parlamento entro fine anno. Deve inoltre rispettare le regole fiscali dell'Unione europea, e l'Italia è ancora in procedura per deficit eccessivo dopo che il deficit 2025 è stato certificato al 3,08 per cento. La ripartizione delle coperture riportata qui viene da una sola sintesi e può cambiare in Parlamento. Questo è un riepilogo giornalistico, non una consulenza fiscale.",
+     "media_caps": [
+      "Servizio del TG La7 sul via libera alla manovra 2027",
+      "Il via libera del Consiglio dei ministri alla manovra, 28 ottobre",
+      "La premier Giorgia Meloni alla conferenza stampa sulla manovra"
+     ]
+    }
+   },
+   "topic": "pol"
+  },
+  {
+   "id": 2,
+   "sec": "ita",
+   "time": "08:30",
+   "read": 3,
+   "title": "Meloni attacks Istat again over the 3.08 percent deficit that kept Italy in the EU procedure",
+   "summary": "In excerpts from a new book by journalist Bruno Vespa, Prime Minister Giorgia Meloni says some state bodies seem stricter than international rating agencies. She is referring to Istat, the national statistics office, whose certification of a 3.08 percent deficit for 2025 blocked Italy's exit from the European Union excessive deficit procedure.",
+   "body": [
+    "Meloni said she did not want some state apparatus, for reasons she finds incomprehensible, to be stricter than the main international financial agencies. She also argued that Istat has repeatedly revised its gross domestic product estimates upward, and that it would be a mockery if Italy turned out to have already reached the 3 percent target.",
+    "The background is the end of September, when Istat certified the 2025 deficit at 3.08 percent of gross domestic product. That was just 0.08 points above the ceiling, and it stopped Italy from leaving the procedure. Meloni said then that she did not know whether Istat underestimates Italians or the government.",
+    "Meloni argues that leaving the procedure would have freed more resources for the budget. Other commentators note that the answer is not to weaken the autonomy of the statistics office but to improve the quality and timing of public accounts data.",
+    "Not yet known: whether the 2025 figure will be revised again in later releases, and how the European Commission will treat Italy's deficit in its next assessment."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://images.class.atexcloud.io/view/acePublic/alias/contentid/238fdd6b-b316-4753-a27d-eb498fd4e872/0/istat-nuova-foto-jpg.webp",
+     "cap": "The Istat national statistics office",
+     "credit": "ItaliaOggi"
+    },
+    {
+     "type": "image",
+     "u": "https://www.quotidiano.net/image-service/view/acePublic/alias/contentid/ODViMjE4ODktZmFhOS00/0/la-presidente-del-consiglio-giorgia-meloni-durante-la-conferenza-sulla-manovra.jpg?f=16:9&w=1200&h=675",
+     "cap": "Giorgia Meloni at a budget press conference",
+     "credit": "Quotidiano.net"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Quotidiano.net, Meloni on Istat",
+     "u": "https://www.quotidiano.net/politica/meloni-istat-pil-dq8h9r6r",
+     "t": "National daily"
+    },
+    {
+     "n": "Quotidiano.net, deficit 0.1 percent",
+     "u": "https://www.quotidiano.net/economia/deficit-la-beffa-dello-0-1-meloni-non-so-se-listat-sottostima-gli-italiani-o-il-governo-owcpven0",
+     "t": "National daily"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/governo/meloni-a-tutto-campo-tetto-agli-stranieri-norma-di-buonsenso-il-colle-non-e-contro-critiche-m5s-al-bollo-auto-stiamo-ancora-pagando-i-bonus-edilizi-di-conte/",
+     "t": "National daily"
+    },
+    {
+     "n": "ilSud24",
+     "u": "https://www.ilsud24.it/2026/09/23/deficit-al-308-meloni-non-so-se-listat-sottostimi-gli-italiani-o-il-governo/",
+     "t": "Regional daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Istat certified the 2025 deficit at 3.08 percent and Italy stayed in the procedure",
+     "n": "Several outlets report the figure and the consequence."
+    },
+    {
+     "s": "warn",
+     "c": "Istat has systematically revised GDP upward",
+     "n": "This is Meloni's claim as reported; the press has run pieces on twenty years of revisions, with no single verdict."
+    }
+   ],
+   "ctx": "The excessive deficit procedure is the European Union mechanism that applies when a country's deficit exceeds 3 percent of gross domestic product. Istat is an independent public body. The government and Istat disagree publicly; this item reports the prime minister's stated position and the context in the press, without judging the data.",
+   "loop_query": "newspaper press conference politics",
+   "i18n": {
+    "it": {
+     "title": "Meloni torna ad attaccare l'Istat sul deficit al 3,08 per cento che tiene l'Italia nella procedura Ue",
+     "summary": "Negli estratti del nuovo libro del giornalista Bruno Vespa, la premier Giorgia Meloni dice che alcuni apparati dello Stato sembrano più severi delle agenzie finanziarie internazionali. Si riferisce all'Istat, il cui deficit certificato al 3,08 per cento per il 2025 ha bloccato l'uscita dell'Italia dalla procedura europea per deficit eccessivo.",
+     "body": [
+      "Meloni ha detto di non volere che alcuni apparati dello Stato siano, per ragioni a lei incomprensibili, più severi delle principali agenzie finanziarie internazionali. Ha anche sostenuto che l'Istat ha rivisto più volte al rialzo le stime sul prodotto interno lordo e che sarebbe una beffa scoprire che l'Italia aveva già raggiunto l'obiettivo del 3 per cento.",
+      "Lo sfondo è la fine di settembre, quando l'Istat ha certificato il deficit 2025 al 3,08 per cento del prodotto interno lordo. Erano appena 0,08 punti sopra il tetto, e questo ha impedito all'Italia di uscire dalla procedura. Già allora Meloni aveva detto di non sapere se l'Istat sottostimi gli italiani o il governo.",
+      "Secondo Meloni, uscire dalla procedura avrebbe liberato più risorse per la manovra. Altri commentatori osservano che la risposta non può essere indebolire l'autonomia dell'istituto di statistica, ma migliorare qualità e tempestività dei dati dei conti pubblici.",
+      "Non è ancora noto se il dato 2025 sarà rivisto di nuovo nelle prossime pubblicazioni, né come la Commissione europea tratterà il deficit italiano nella prossima valutazione."
+     ],
+     "checks": [
+      {
+       "c": "L'Istat ha certificato il deficit 2025 al 3,08 per cento e l'Italia è rimasta nella procedura",
+       "n": "Più testate riportano la cifra e la conseguenza."
+      },
+      {
+       "c": "L'Istat ha rivisto sistematicamente al rialzo il Pil",
+       "n": "È l'affermazione di Meloni così come riportata; la stampa ha pubblicato analisi su vent'anni di revisioni, senza un verdetto unico."
+      }
+     ],
+     "ctx": "La procedura per deficit eccessivo è il meccanismo dell'Unione europea che scatta quando il deficit di un Paese supera il 3 per cento del prodotto interno lordo. L'Istat è un ente pubblico indipendente. Governo e Istat sono in disaccordo pubblico: questa scheda riporta la posizione della presidente del Consiglio e il contesto sulla stampa, senza giudicare i dati.",
+     "media_caps": [
+      "L'Istat, istituto nazionale di statistica",
+      "Giorgia Meloni durante una conferenza sulla manovra"
+     ]
+    }
+   },
+   "topic": "pol"
+  },
+  {
+   "id": 3,
+   "sec": "ita",
+   "time": "10:00",
+   "read": 4,
+   "title": "Istat: Italian employment steady in September, jobless rate 6.3 percent, youth rate 19.9 percent",
+   "summary": "Istat says the number of employed people in Italy stayed at about 24.3 million in September, with an employment rate of 63 percent. Unemployment held at 6.3 percent, and youth unemployment fell to 19.9 percent. Over twelve months employment grew by 198,000 people, but permanent jobs declined while fixed-term jobs grew.",
+   "body": [
+    "Istat's provisional data for September show 24.328 million employed people, stable on the month and up 0.8 percent, or 198,000 people, on September 2025. The employment rate is unchanged at 63 percent. Growth over the year involved men, women and all age groups except those aged 35 to 49, among whom employment fell.",
+    "The unemployment rate is stable at 6.3 percent. For people aged 15 to 24 it stands at 19.9 percent, down 0.4 percentage points. The number of people looking for work is up 7.8 percent, or 117,000, on a year earlier, while the number of inactive people aged 15 to 64 fell 2.4 percent, or 293,000. In other words, more people are entering the labour market and searching.",
+    "By contract type, permanent employees are about 16.49 million and declining, fixed-term workers are about 2.57 million and growing, and self-employed workers are about 5.27 million and stable.",
+    "For a young engineer, the headline is mixed: youth unemployment is lower than a year ago, but the shift towards fixed-term contracts means that stability still has to be negotiated. Monthly data are provisional and often revised."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=YYD7GEHWd68",
+     "cap": "News bulletin on Istat's September jobless rate at 6.3 percent",
+     "credit": "Flash Notizie 24"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ildiariodellavoro.it/wp-content/uploads/2023/06/Imago_ricerca-lavoro-1024x681.jpg",
+     "cap": "Job search (archive image)",
+     "credit": "Il Diario del Lavoro"
+    },
+    {
+     "type": "image",
+     "u": "https://images.class.atexcloud.io/view/acePublic/alias/contentid/238fdd6b-b316-4753-a27d-eb498fd4e872/0/istat-nuova-foto-jpg.webp",
+     "cap": "Istat headquarters image",
+     "credit": "ItaliaOggi"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Il Diario del Lavoro",
+     "u": "https://www.ildiariodellavoro.it/lavoro-istat-occupati-stabili-a-settembre-198mila-in-un-anno-disoccupazione-al-63/",
+     "t": "Trade daily"
+    },
+    {
+     "n": "ItaliaOggi",
+     "u": "https://www.italiaoggi.it/economia-e-politica/listat-occupazione-stabile-a-settembre-2026-tasso-al-63-disoccupazione-in-lieve-aumento-6-3-moj8ln99",
+     "t": "National daily"
+    },
+    {
+     "n": "Borsa Italiana, Radiocor",
+     "u": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/lavoro-istat-tassi-occupazione-e-disoccupazione-fermi-a-settembre-rco-nRC_29102026_1013_285797909.html",
+     "t": "News agency feed"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Employed people about 24.3 million, rate 63 percent, unemployment 6.3 percent",
+     "n": "Three outlets repeating the Istat release agree."
+    },
+    {
+     "s": "ok",
+     "c": "Youth unemployment 19.9 percent, down 0.4 points",
+     "n": "Reported by two outlets; the reference period of the 0.4 change differs in wording between them."
+    },
+    {
+     "s": "warn",
+     "c": "Permanent employees declining, fixed-term growing",
+     "n": "Figures taken from one summary of the release; check the Istat tables for exact change."
+    }
+   ],
+   "ctx": "Istat publishes provisional monthly labour data about a month after the reference period. The unemployment rate counts people actively looking for work, so it can rise even when employment grows. A rate of 6.3 percent in Italy is close to the euro area average of 6.5 percent published the same week by Eurostat.",
+   "loop_query": "job seekers office employment",
+   "i18n": {
+    "it": {
+     "title": "Istat: occupazione stabile a settembre, disoccupazione al 6,3 per cento, quella giovanile al 19,9",
+     "summary": "Secondo l'Istat a settembre gli occupati in Italia sono rimasti a circa 24,3 milioni, con un tasso di occupazione del 63 per cento. La disoccupazione è ferma al 6,3 per cento e quella giovanile scende al 19,9. In un anno gli occupati sono cresciuti di 198mila, ma i contratti a tempo indeterminato calano e quelli a termine aumentano.",
+     "body": [
+      "I dati provvisori dell'Istat per settembre indicano 24 milioni 328mila occupati, stabili sul mese e in crescita dello 0,8 per cento, pari a 198mila persone, rispetto a settembre 2025. Il tasso di occupazione è invariato al 63 per cento. La crescita annua ha riguardato uomini, donne e tutte le fasce d'età tranne quella tra 35 e 49 anni, dove l'occupazione è scesa.",
+      "Il tasso di disoccupazione è stabile al 6,3 per cento. Tra i 15 e i 24 anni è al 19,9 per cento, in calo di 0,4 punti percentuali. Le persone in cerca di lavoro sono aumentate del 7,8 per cento, cioè di 117mila, su base annua, mentre gli inattivi tra 15 e 64 anni sono scesi del 2,4 per cento, cioè di 293mila. In altre parole, più persone entrano nel mercato del lavoro e cercano un impiego.",
+      "Per tipo di contratto, i dipendenti permanenti sono circa 16,49 milioni e in calo, quelli a termine circa 2,57 milioni e in crescita, gli autonomi circa 5,27 milioni e stabili.",
+      "Per un giovane ingegnere il quadro è misto: la disoccupazione giovanile è più bassa di un anno fa, ma lo spostamento verso i contratti a termine significa che la stabilità va ancora negoziata. I dati mensili sono provvisori e spesso rivisti."
+     ],
+     "checks": [
+      {
+       "c": "Occupati circa 24,3 milioni, tasso 63 per cento, disoccupazione 6,3 per cento",
+       "n": "Tre testate che riprendono il comunicato Istat concordano."
+      },
+      {
+       "c": "Disoccupazione giovanile al 19,9 per cento, in calo di 0,4 punti",
+       "n": "Riportato da due testate; il periodo di confronto dei 0,4 punti è formulato in modo diverso."
+      },
+      {
+       "c": "Dipendenti permanenti in calo, a termine in crescita",
+       "n": "Dati da una sola sintesi del comunicato; per la variazione esatta vedere le tavole Istat."
+      }
+     ],
+     "ctx": "L'Istat pubblica i dati mensili provvisori sul lavoro circa un mese dopo il periodo di riferimento. Il tasso di disoccupazione conta chi cerca attivamente lavoro, quindi può salire anche quando l'occupazione cresce. Un tasso del 6,3 per cento è vicino alla media dell'area euro, il 6,5 per cento, pubblicata nella stessa settimana da Eurostat.",
+     "media_caps": [
+      "Notiziario sul tasso di disoccupazione di settembre al 6,3 per cento",
+      "Ricerca di lavoro (immagine d'archivio)",
+      "Immagine dell'Istat"
+     ]
+    }
+   },
+   "topic": "lav"
+  },
+  {
+   "id": 4,
+   "sec": "ita",
+   "time": "12:00",
+   "read": 3,
+   "title": "Budget bonus for workers under 30: 2,500 euros taxed at 1 percent, details still missing",
+   "summary": "Italy's budget law introduces a bonus of 2,500 euros for workers under 30, taxed at a flat 1 percent, so about 25 euros of tax. It can be paid in twelve monthly instalments or in one sum. Contract types, income limits and duration have not been defined yet.",
+   "body": [
+    "ANSA reports that the budget includes a prize for young workers under 30 worth 2,500 euros, taxed at 1 percent. On that amount, a 1 percent substitute tax is 25 euros. The worker can receive it in twelve monthly instalments or in one payment.",
+    "Prime Minister Meloni said the aim is to encourage young people starting their careers in Italy and to counter the emigration of Italian talent abroad.",
+    "What is missing matters most. Sky TG24 and tax specialists say that the type of contract, the length of the job, any income ceiling and the deadline for meeting the requirements will be set in the bill text sent to Parliament. It is also not clear whether the bonus is limited to first jobs or new hires.",
+    "For a graduate engineer, the practical message is to wait for the text before counting on it. If it applies to employees of any contract, it adds about 200 euros a month over a year before tax, but that is only an illustration based on the headline figure."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=4x6kWzgRwzA",
+     "cap": "Related: Rai report on the 26 billion euro budget, tax cuts and family aid",
+     "credit": "Rai",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/66093cf113c81e0dc643c7204b55a771.jpg",
+     "cap": "The under-30 bonus announced in the budget",
+     "credit": "ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/in-manovra-premio-per-i-lavoratori-under30-2.500-euro-tassati-all1_7888dc1a-110e-4a23-8e19-a39379f99c1f.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/economia/2026/10/29/premio-2500-euro-giovani-lavoratori-under-30",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "Informazione Fiscale",
+     "u": "https://www.informazionefiscale.it/premio-2500-euro-giovani-under-30-bonus-fiscale-manovra-2027",
+     "t": "Tax specialist site"
+    },
+    {
+     "n": "QuiFinanza",
+     "u": "https://quifinanza.it/fisco-tasse/bonus-fiscali/bonus-giovani-under-30-manovra-2027/1021817/",
+     "t": "Finance outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Bonus of 2,500 euros taxed at 1 percent for workers under 30",
+     "n": "ANSA, Sky TG24 and specialist outlets agree."
+    },
+    {
+     "s": "warn",
+     "c": "Who exactly qualifies",
+     "n": "Contract type, duration and income limits are not defined until the bill text reaches Parliament."
+    }
+   ],
+   "ctx": "A substitute tax is a flat tax that replaces the normal progressive income tax on a specific income. The bonus is part of a bill that Parliament can change. Italy has seen many young graduates move abroad for higher salaries; the government presents this measure as a response.",
+   "loop_query": "young workers office laptop",
+   "i18n": {
+    "it": {
+     "title": "Premio per gli under 30 in manovra: 2.500 euro tassati all'1 per cento, ma mancano i dettagli",
+     "summary": "La legge di bilancio introduce un premio da 2.500 euro per i lavoratori under 30, tassato con un'imposta sostitutiva dell'1 per cento, cioè circa 25 euro. Può essere versato in dodici rate mensili o in un'unica soluzione. Tipo di contratto, limiti di reddito e durata non sono ancora definiti.",
+     "body": [
+      "L'ANSA riferisce che la manovra prevede un premio per i giovani lavoratori sotto i 30 anni da 2.500 euro, tassato all'1 per cento. Su quella cifra, un'imposta sostitutiva dell'1 per cento vale 25 euro. Il lavoratore può riceverlo in dodici rate mensili oppure in una sola volta.",
+      "La premier Meloni ha spiegato che l'obiettivo è spronare i giovani che iniziano la carriera in Italia e contrastare l'emigrazione dei talenti italiani all'estero.",
+      "Quello che manca è la parte più importante. Sky TG24 e gli esperti di fisco spiegano che tipo di contratto, durata del rapporto, eventuale tetto di reddito e scadenza per soddisfare i requisiti saranno fissati nel testo trasmesso al Parlamento. Non è chiaro nemmeno se il bonus sarà limitato al primo impiego o ai nuovi assunti.",
+      "Per un neolaureato in ingegneria il messaggio pratico è di aspettare il testo prima di contarci. Se valesse per i dipendenti con qualsiasi contratto, sarebbero circa 200 euro al mese su un anno prima delle tasse, ma è solo un'illustrazione basata sulla cifra annunciata."
+     ],
+     "checks": [
+      {
+       "c": "Premio di 2.500 euro tassato all'1 per cento per gli under 30",
+       "n": "ANSA, Sky TG24 e siti specializzati concordano."
+      },
+      {
+       "c": "Chi ne ha diritto esattamente",
+       "n": "Tipo di contratto, durata e limiti di reddito non sono definiti finché il testo non arriva in Parlamento."
+      }
+     ],
+     "ctx": "Un'imposta sostitutiva è un'imposta a aliquota fissa che sostituisce la normale Irpef progressiva su uno specifico reddito. Il premio fa parte di un disegno di legge che il Parlamento può modificare. Molti giovani laureati italiani vanno all'estero per stipendi più alti: il governo presenta questa misura come una risposta.",
+     "media_caps": [
+      "Related: servizio Rai sulla manovra da 26 miliardi, tagli alle tasse e aiuti alle famiglie",
+      "Il premio per gli under 30 annunciato in manovra"
+     ]
+    }
+   },
+   "topic": "lav"
+  },
+  {
+   "id": 5,
+   "sec": "ita",
+   "time": "18:00",
+   "read": 3,
+   "title": "Milan stocks edge up 0.3 percent as Campari falls 6.6 percent; BTP-Bund spread at 114 points",
+   "summary": "Piazza Affari closed slightly higher on 29 October, with Prysmian and Leonardo up and Campari down 6.6 percent after results. The gap between Italian and German ten-year yields stayed at 114 basis points, with the Italian yield at 4.49 percent. Other European markets did better than Milan.",
+   "body": [
+    "The FTSE MIB index closed up about 0.3 percent in a quiet session. Prysmian led gains after quarterly results, Leonardo rose 3.9 percent, and Campari fell 6.6 percent to 6.13 euros after publishing its results. Frankfurt gained 1.4 percent and Paris 1 percent, while London rose 0.3 percent and Madrid slipped 0.1 percent.",
+    "On the bond market, the spread between Italian and German ten-year government bonds closed at 114 basis points, slightly lower, with the Italian ten-year yield at 4.49 percent. The Treasury raised 4.5 billion euros at its short-term bill auction, with yields between 2.6 and 2.8 percent, and held the month's last medium and long-term bond auction.",
+    "Energy prices eased: Dutch natural gas futures fell 2.1 percent to 98.60 euros per megawatt hour and crude oil fell 1.3 percent to about 101 dollars a barrel, according to ANSA.",
+    "The European Central Bank's decision to hold rates and United States data had little effect on trading. Markets are now watching Friday's Asian tech selloff and the budget debate in Parliament. This is a market report, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.soldionline.it/content/uploads/2022/03/01/borsa-positiva_2.jpeg",
+     "cap": "Trading screens (archive image)",
+     "credit": "SoldiOnline"
+    },
+    {
+     "type": "image",
+     "u": "https://quifinanza.it/wp-content/uploads/sites/5/2026/10/spread-29-ottobre-2026.jpg",
+     "cap": "BTP-Bund spread on 29 October",
+     "credit": "QuiFinanza"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-milano-tiene-con-prysmian-e-leonardo-giu-campari_f90d856d-53f8-4869-8b1c-4e62f078cc68.html",
+     "t": "News agency"
+    },
+    {
+     "n": "QuiFinanza, Borsa",
+     "u": "https://quifinanza.it/dirette/borsa-ultime-notizie-29-ottobre-2026/1021823/",
+     "t": "Finance outlet"
+    },
+    {
+     "n": "QuiFinanza, spread",
+     "u": "https://quifinanza.it/economia/finanza/spread-btp-bund-29-ottobre-2026/1021822/",
+     "t": "Finance outlet"
+    },
+    {
+     "n": "L'Adige",
+     "u": "https://www.ladige.it/attualita/lo-spread-tra-btp-e-bund-chiude-in-marginale-calo-a-114-punti-base-mmdcn2dx",
+     "t": "Regional daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Spread closed at 114 basis points with the ten-year yield at 4.49 percent",
+     "n": "ANSA, QuiFinanza and L'Adige agree."
+    },
+    {
+     "s": "ok",
+     "c": "Milan closed up between 0.3 and 0.36 percent",
+     "n": "Sources differ slightly on the second decimal."
+    },
+    {
+     "s": "warn",
+     "c": "Oil fell to about 101 dollars",
+     "n": "A benchmark price from ANSA; other outlets quote Brent above 105 dollars the same week."
+    }
+   ],
+   "ctx": "A spread is the difference between two yields, here Italian and German bonds, and it is read as the extra return investors demand to hold Italian debt. A basis point is one hundredth of a percentage point, so 114 basis points is 1.14 percentage points. Oil prices quoted in different outlets differ depending on the benchmark used.",
+   "loop_query": "stock exchange trading screens",
+   "i18n": {
+    "it": {
+     "title": "Borsa di Milano a +0,3 per cento, crolla Campari, spread Btp-Bund a 114 punti base",
+     "summary": "Piazza Affari ha chiuso il 29 ottobre in lieve rialzo, con Prysmian e Leonardo in evidenza e Campari in calo del 6,6 per cento dopo i conti. Il differenziale tra i titoli di Stato italiani e tedeschi a dieci anni è rimasto a 114 punti base, con il rendimento del Btp al 4,49 per cento. Le altre Borse europee hanno fatto meglio di Milano.",
+     "body": [
+      "L'indice Ftse Mib ha chiuso in rialzo di circa lo 0,3 per cento in una seduta tranquilla. Prysmian ha guidato i rialzi dopo i conti trimestrali, Leonardo è salita del 3,9 per cento e Campari è scesa del 6,6 per cento a 6,13 euro dopo la pubblicazione dei risultati. Francoforte ha guadagnato l'1,4 per cento e Parigi l'1, mentre Londra è salita dello 0,3 e Madrid ha perso lo 0,1.",
+      "Sul mercato obbligazionario, lo spread tra Btp e Bund a dieci anni ha chiuso a 114 punti base, in lieve calo, con il rendimento del decennale italiano al 4,49 per cento. Il Tesoro ha collocato 4,5 miliardi di euro all'asta dei Bot, con rendimenti tra il 2,6 e il 2,8 per cento, e ha tenuto l'ultima asta del mese sui titoli a medio e lungo termine.",
+      "I prezzi dell'energia sono scesi: i future sul gas olandese hanno perso il 2,1 per cento a 98,60 euro al megawattora e il petrolio è calato dell'1,3 per cento a circa 101 dollari al barile, secondo l'ANSA.",
+      "La decisione della Banca centrale europea di lasciare invariati i tassi e i dati americani hanno avuto poco effetto sugli scambi. I mercati guardano ora al crollo dei titoli tecnologici in Asia di venerdì e al dibattito sulla manovra in Parlamento. Questo è un resoconto di mercato, non un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Spread a 114 punti base con rendimento decennale al 4,49 per cento",
+       "n": "ANSA, QuiFinanza e L'Adige concordano."
+      },
+      {
+       "c": "Milano ha chiuso in rialzo tra lo 0,3 e lo 0,36 per cento",
+       "n": "Le fonti divergono lievemente sul secondo decimale."
+      },
+      {
+       "c": "Il petrolio è sceso a circa 101 dollari",
+       "n": "Prezzo di riferimento dell'ANSA; altre testate indicano il Brent sopra 105 dollari nella stessa settimana."
+      }
+     ],
+     "ctx": "Lo spread è la differenza tra due rendimenti, qui quelli dei titoli italiani e tedeschi, ed è letto come il rendimento extra che gli investitori chiedono per detenere debito italiano. Un punto base è un centesimo di punto percentuale, quindi 114 punti base sono 1,14 punti percentuali. I prezzi del petrolio citati dalle varie testate differiscono a seconda del riferimento usato.",
+     "media_caps": [
+      "Schermi di Borsa (immagine d'archivio)",
+      "Lo spread Btp-Bund del 29 ottobre"
+     ]
+    }
+   },
+   "topic": "biz"
+  },
+  {
+   "id": 6,
+   "sec": "ita",
+   "time": "09:00",
+   "read": 4,
+   "title": "Italy's AI data centre boom: a 1 billion euro plan for 13 sites, and electricity as the limit",
+   "summary": "Core Stack and Green Arrow Capital have announced a project of more than 1 billion euros to build 13 medium-sized AI data centres across Italy, with 90 megawatts of power by 2030. It is part of a wave of announced Italian data centre investment, but analysts warn that electricity supply may not keep up.",
+   "body": [
+    "The plan, reported on 22 October, involves Core Stack, a unit of the Lazzari Group, and the investment firm Green Arrow Capital. Instead of a few giant campuses, it proposes 13 medium-sized facilities spread over the country, with a combined 90 megawatts of power and a 2030 horizon. Construction could start as early as 2028 and the sites are to run on renewable energy, though the supply contracts are still to be defined.",
+    "The idea is to bring computing closer to businesses, hospitals, universities and public administrations, reducing delay and dependence on far-away infrastructure. The hard part, the reports note, is securing clean power at 13 different sites.",
+    "It sits within a much larger picture: Italian reports put announced data centre investments for 2026 to 2028 above 25 billion euros across 83 projects by 30 companies, and a scenario of up to about 37 billion euros by 2036. In parallel, Italy has public computing: the Leonardo supercomputer in Bologna was joined in June by LISA, a European AI infrastructure with a total investment of 28.2 million euros.",
+    "Open questions are grid connections, permits, and how many announced projects will actually be built. For an engineering student, these projects point to demand for power, cooling, cloud and data engineering skills in Italy."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ecoblog.it/wp-content/uploads/2026/10/2ca94e5140284c11be7c646552bf95dd.webp",
+     "cap": "Illustration for the AI data centre plan",
+     "credit": "Ecoblog"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ilgiornale.it/resizer/v2/BKKSH46R6NO67OGZQ6DL4DEKWQ.jpg?smart=true&auth=9f10f1f00e2b1498a3af9d41c9d8afbef048998f5a13fb574a906e25108d71bc&width=1200&height=630",
+     "cap": "The Leonardo supercomputer, joined by LISA",
+     "credit": "il Giornale"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Ecoblog",
+     "u": "https://www.ecoblog.it/2026/10/22/data-center-ai-italia-13-strutture/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Today.it",
+     "u": "https://www.today.it/dossier/economia/data-center-rischio-bolla.html",
+     "t": "National online daily"
+    },
+    {
+     "n": "Agenda Digitale",
+     "u": "https://www.agendadigitale.eu/infrastrutture/data-center-litalia-gioca-la-carta-della-sovranita-8-miliardi-per-diventare-hub-ue/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "il Giornale",
+     "u": "https://www.ilgiornale.it/news/nuove-frontiere/ricerca-supercomputer-leonardo-si-rafforza-sul-fronte-ai-2670672.html",
+     "t": "National daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Core Stack and Green Arrow plan 13 AI data centres, 90 megawatts, over 1 billion euros",
+     "n": "Company plan reported by one outlet; no regulator filing seen."
+    },
+    {
+     "s": "warn",
+     "c": "More than 25 billion euros of data centre investment announced for 2026 to 2028",
+     "n": "Press analysis of announcements; announcements are not completed investments."
+    }
+   ],
+   "ctx": "A megawatt measures electrical power; 90 megawatts is roughly the demand of a small town. Announced investments often exceed what is finally built. This story was published on 22 October and is included because it is the main current Italian AI infrastructure story; figures come from company announcements and press analyses.",
+   "loop_query": "data center servers corridor",
+   "i18n": {
+    "it": {
+     "title": "Data center per l'IA in Italia: piano da 1 miliardo per 13 siti, ma il limite è l'elettricità",
+     "summary": "Core Stack e Green Arrow Capital hanno annunciato un progetto da oltre 1 miliardo di euro per costruire 13 data center di media dimensione per l'intelligenza artificiale in tutta Italia, con 90 megawatt entro il 2030. Fa parte di un'ondata di investimenti annunciati, ma gli analisti avvertono che l'elettricità potrebbe non bastare.",
+     "body": [
+      "Il piano, riportato il 22 ottobre, coinvolge Core Stack, divisione del Lazzari Group, e la società d'investimento Green Arrow Capital. Invece di pochi campus giganteschi, propone 13 strutture di media dimensione distribuite sul territorio, con 90 megawatt complessivi e un orizzonte al 2030. I lavori potrebbero partire già nel 2028 e i siti saranno alimentati da energia rinnovabile, anche se i contratti di fornitura sono ancora da definire.",
+      "L'idea è avvicinare la capacità di calcolo a imprese, ospedali, università e pubbliche amministrazioni, riducendo latenza e dipendenza da infrastrutture lontane. La parte difficile, notano i report, è garantire energia pulita in 13 siti diversi.",
+      "Il progetto si inserisce in un quadro molto più ampio: i report italiani stimano investimenti annunciati in data center per il 2026-2028 oltre i 25 miliardi di euro, in 83 progetti promossi da 30 aziende, e uno scenario fino a circa 37 miliardi entro il 2036. In parallelo l'Italia ha un'infrastruttura pubblica: il supercomputer Leonardo di Bologna è stato affiancato a giugno da LISA, infrastruttura europea per l'IA con un investimento totale di 28,2 milioni di euro.",
+      "Restano aperte le questioni degli allacci alla rete, dei permessi e di quanti progetti annunciati saranno davvero realizzati. Per uno studente di ingegneria, questi progetti indicano domanda di competenze in energia, raffreddamento, cloud e ingegneria dei dati in Italia."
+     ],
+     "checks": [
+      {
+       "c": "Core Stack e Green Arrow pianificano 13 data center per l'IA, 90 megawatt, oltre 1 miliardo",
+       "n": "Piano aziendale riportato da una testata; nessun atto di un'autorità visto."
+      },
+      {
+       "c": "Oltre 25 miliardi di investimenti in data center annunciati per il 2026-2028",
+       "n": "Analisi giornalistica degli annunci; gli annunci non sono investimenti realizzati."
+      }
+     ],
+     "ctx": "Il megawatt misura la potenza elettrica; 90 megawatt sono circa il fabbisogno di una piccola città. Gli investimenti annunciati spesso superano ciò che viene poi costruito. La notizia è del 22 ottobre ed è inclusa perché è la principale storia italiana sulle infrastrutture per l'IA; le cifre vengono da annunci aziendali e analisi giornalistiche.",
+     "media_caps": [
+      "Immagine del piano per i data center per l'IA",
+      "Il supercomputer Leonardo, affiancato da LISA"
+     ]
+    }
+   },
+   "topic": "ai"
+  },
+  {
+   "id": 7,
+   "sec": "ita",
+   "time": "13:00",
+   "read": 3,
+   "title": "Eni Award 2026: Mattarella honours energy and environment researchers at the Quirinale",
+   "summary": "On 29 October President Sergio Mattarella attended the Eni Award ceremony at the Quirinale. The Energy Frontiers prize went to chemist Laura Gagliardi for quantum models that predict how materials behave before they are made in the lab, and two young researchers trained in Italy were also honoured.",
+   "body": [
+    "The Eni Award, one of the main Italian prizes for energy and environmental research, was presented at the Quirinale in Rome in the presence of the President of the Republic.",
+    "The Energy Frontiers award went to Laura Gagliardi of the University of Chicago, whose quantum and mathematical models can predict the behaviour of materials before they are synthesised in the laboratory. That can cut the time and cost of looking for new materials for batteries, catalysts and carbon capture.",
+    "The Young Researcher of the Year prizes, for people with a doctorate from an Italian university, went to Leonardo Magherini and Filippo Trevisi. In the Eni for Innovation section, a team of Eni researchers was recognised for a process that turns food waste into energy products with higher yield.",
+    "Applications for the 2027 edition are open until 20 November 2026. The prize is funded by an energy company, so the choice of winners comes from its scientific committee; the research itself should be read in the published papers."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=hEAUVsSfUiM",
+     "cap": "President Mattarella presents the Eni Award 2026 at the Quirinale",
+     "credit": "Quirinale / Presidenza della Repubblica",
+     "start": 20,
+     "end": 60
+    },
+    {
+     "type": "image",
+     "u": "https://www.dire.it/wp-content/uploads/2026/10/OTRS9585_mod-scaled.jpg",
+     "cap": "The Eni Award ceremony at the Quirinale",
+     "credit": "DIRE"
+    },
+    {
+     "type": "image",
+     "u": "https://s7g10.scene7.com/is/image/eni/Opengraph-homepage-enicom-1:horizontal-16-9?&wid=1200&hei=630&fit=crop,1&bfc=on",
+     "cap": "Eni press image",
+     "credit": "Eni"
+    }
+   ],
+   "sources": [
+    {
+     "n": "DIRE",
+     "u": "https://www.dire.it/29-10-2026/1282419-al-quirinale-la-cerimonia-degli-eni-award-2026-mattarella-premia-le-eccellenze-della-ricerca-e-dellenergia/",
+     "t": "News agency"
+    },
+    {
+     "n": "Eni press release",
+     "u": "https://www.eni.com/en-IT/media/press-release/2026/10/pr-eni-award-2026.html",
+     "t": "Company press release"
+    },
+    {
+     "n": "Il Giornale d'Italia",
+     "u": "https://www.ilgiornaleditalia.it/news/mondo-imprese/833670/eni-award-2026-al-quirinale-premiati-i-ricercatori-per-le-innovazioni-su-energia-e-ambiente-alla-presenza-di-mattarella.html",
+     "t": "National daily"
+    },
+    {
+     "n": "Glistatigenerali",
+     "u": "https://www.glistatigenerali.com/economia-e-lavoro/innovazione/eni-award-2026-dalla-transizione-energetica-al-riciclo-premiate-le-nuove-frontiere-della-ricerca",
+     "t": "Online magazine"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Laura Gagliardi won the Energy Frontiers prize",
+     "n": "DIRE and other outlets report the winner."
+    },
+    {
+     "s": "warn",
+     "c": "Food-waste process by Eni researchers yields more energy products",
+     "n": "Company-provided description; no independent data seen."
+    }
+   ],
+   "ctx": "Computational chemistry uses computers to simulate molecules and materials. Predicting properties before synthesis is a growing field that also overlaps with machine learning. This is an Italian science and industry story rather than a breakthrough in itself.",
+   "loop_query": "laboratory researcher energy",
+   "i18n": {
+    "it": {
+     "title": "Eni Award 2026: Mattarella premia al Quirinale la ricerca su energia e ambiente",
+     "summary": "Il 29 ottobre il presidente Sergio Mattarella ha partecipato al Quirinale alla cerimonia degli Eni Award. Il premio Frontiere dell'Energia è andato alla chimica Laura Gagliardi per modelli quantistici che prevedono il comportamento dei materiali prima della sintesi in laboratorio; premiati anche due giovani ricercatori formati in Italia.",
+     "body": [
+      "L'Eni Award, uno dei principali riconoscimenti italiani per la ricerca su energia e ambiente, è stato consegnato al Quirinale a Roma alla presenza del presidente della Repubblica.",
+      "Il premio Frontiere dell'Energia è andato a Laura Gagliardi, dell'Università di Chicago, i cui modelli quantistici e matematici sono in grado di prevedere il comportamento dei materiali prima che siano sintetizzati in laboratorio. Questo può ridurre tempi e costi della ricerca di nuovi materiali per batterie, catalizzatori e cattura della CO2.",
+      "I premi Giovane Ricercatore dell'Anno, riservati a chi ha un dottorato in un'università italiana, sono andati a Leonardo Magherini e Filippo Trevisi. Nella sezione Eni for Innovation è stato riconosciuto un gruppo di ricercatori Eni per un processo che trasforma gli scarti alimentari in prodotti energetici con una resa più alta.",
+      "Le candidature per l'edizione 2027 sono aperte fino al 20 novembre 2026. Il premio è finanziato da un'azienda energetica, quindi la scelta dei vincitori spetta al suo comitato scientifico; la ricerca va valutata nelle pubblicazioni."
+     ],
+     "checks": [
+      {
+       "c": "Laura Gagliardi ha vinto il premio Frontiere dell'Energia",
+       "n": "DIRE e altre testate riportano la vincitrice."
+      },
+      {
+       "c": "Il processo sugli scarti alimentari dei ricercatori Eni aumenta la resa energetica",
+       "n": "Descrizione fornita dall'azienda; nessun dato indipendente visto."
+      }
+     ],
+     "ctx": "La chimica computazionale usa i computer per simulare molecole e materiali. Prevedere le proprietà prima della sintesi è un campo in crescita che si intreccia con il machine learning. Questa è una storia di scienza e industria italiana più che una scoperta in sé.",
+     "media_caps": [
+      "Il presidente Mattarella consegna l'Eni Award 2026 al Quirinale",
+      "La cerimonia degli Eni Award al Quirinale",
+      "Immagine dell'ufficio stampa Eni"
+     ]
+    }
+   },
+   "topic": "inn"
+  },
+  {
+   "id": 8,
+   "sec": "reg",
+   "time": "08:00",
+   "read": 5,
+   "title": "Italy's AI Act decree is in force: ACN and AgID take charge, with a human-decision rule at work",
+   "summary": "Legislative Decree 179 of 7 October 2026, which implements the EU AI Act in Italy, took effect on 23 October. It names the National Cybersecurity Agency as market surveillance authority and AgID as notifying authority, sets fines up to 35 million euros or 7 percent of turnover, creates a joint sandbox, and bars employers from deciding hiring or dismissal on automated processing alone.",
+   "body": [
+    "The decree was published in the Gazzetta Ufficiale number 234 on 8 October and entered into force on 23 October 2026. It has 54 articles in five chapters and completes the implementation of Law 132 of 2025, Italy's national law on artificial intelligence, alongside the EU AI Act, Regulation 2024/1689.",
+    "Who does what. The National Cybersecurity Agency, ACN, is the general market surveillance authority, with inspection and sanctioning powers, and the single point of contact with EU institutions. AgID, the Agency for Digital Italy, is the notifying authority that designates and monitors conformity assessment bodies. Banca d'Italia, Consob and Ivass supervise AI in finance and insurance, and the data protection authority, the Garante, keeps its role in the cases set by the AI Act. AgID and ACN jointly run a national sandbox where providers can test systems in a controlled setting.",
+    "Penalties follow the AI Act. Prohibited practices under Article 5 can cost up to 35 million euros or 7 percent of worldwide annual turnover, whichever is higher. Breaches of operator obligations can reach 15 million euros or 3 percent, and supplying false or incomplete information 7.5 million euros or 1 percent. Small and medium companies pay the lower of the fixed or percentage amount.",
+    "At work, Article 41 of the decree says final decisions on hiring, dismissal, discipline and performance cannot rest only on automated processing, and decisions taken in breach are void, even with worker consent. Article 42 requires employers to include AI systems in occupational risk assessments and train staff on AI risks.",
+    "What to do: companies that use AI should list and classify their systems, document compliance, check that human oversight in HR processes is real, and update risk assessments. Deployers of chatbots and text generators already have transparency duties under Article 50 since 2 August 2026, and the high-risk obligations now apply from 2 December 2027, not 2026."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=A6umcO3AFy8",
+     "cap": "Related: explainer on Italy's AI Act enforcement regime now in force",
+     "credit": "Diritto al Digitale",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.byte.it/wp-content/uploads/2026/10/decreto-legislativo-179-2026-italia-ai-act-autorita-nazionali-formazione.png",
+     "cap": "Graphic on Decree 179/2026 and the national authorities",
+     "credit": "Byte.it"
+    },
+    {
+     "type": "image",
+     "u": "https://img.ai4business.it/wp-content/uploads/2026/10/image-199.png",
+     "cap": "Illustration of the Italian AI Act decree",
+     "credit": "AI4Business"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ingenio-web.it/upload/blog/0/5/a/3b9de5aae36e0773c87797b57d2a6efa7d5e2866_og.jpg",
+     "cap": "Who supervises AI in Italy under the decree",
+     "credit": "Ingenio"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Byte.it",
+     "u": "https://www.byte.it/oggi-in-italia-entra-in-vigore-lai-act-parte-la-vigilanza-di-agid-e-acn-sui-sistemi-di-ia/",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "Rödl & Partner",
+     "u": "https://www.roedl.it/it/temi/legal-alert/10-2026/ai-act-decreto-legislativo-7-ottobre-2026",
+     "t": "Law firm alert"
+    },
+    {
+     "n": "Ingenio",
+     "u": "https://www.ingenio-web.it/articoli/ai-act-e-d-lgs-179-2026-chi-controlla-l-intelligenza-artificiale-in-italia-quali-sanzioni-e-quali-opportunita-per-le-imprese/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "AI4Business",
+     "u": "https://www.ai4business.it/intelligenza-artificiale/ai-act-in-vigore-il-decreto-attuativo-italiano/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "CIIP",
+     "u": "https://ciip-consulta.it/2026/10/13/decreto-legislativo-7-ottobre-2026-n-179/",
+     "t": "Professional body"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Decree 179/2026 took effect on 23 October 2026 after publication on 8 October",
+     "n": "Reported consistently by several specialist outlets."
+    },
+    {
+     "s": "ok",
+     "c": "ACN is market surveillance authority and AgID is notifying authority",
+     "n": "Byte.it, Ingenio and the law firm alert agree."
+    },
+    {
+     "s": "warn",
+     "c": "Decisions on hiring or dismissal based only on automation are void",
+     "n": "Taken from law firm and trade summaries; the Gazzetta text should be checked for the exact wording of Articles 41 and 42."
+    }
+   ],
+   "ctx": "The AI Act is an EU regulation that applies directly, but each country must designate authorities and set penalties, which this decree does. Details such as the void-decision rule come from law firm and trade press summaries of the Gazzetta text; check the official text. This is general information, not legal advice.",
+   "loop_query": "government building documents law",
+   "i18n": {
+    "it": {
+     "title": "È in vigore il decreto italiano sull'AI Act: vigilano ACN e AgID, e al lavoro serve una decisione umana",
+     "summary": "Il decreto legislativo 179 del 7 ottobre 2026, che attua l'AI Act in Italia, è in vigore dal 23 ottobre. Indica l'Agenzia per la cybersicurezza nazionale come autorità di vigilanza del mercato e AgID come autorità di notifica, prevede multe fino a 35 milioni di euro o al 7 per cento del fatturato, crea una sandbox congiunta e vieta ai datori di lavoro di decidere assunzioni o licenziamenti solo con sistemi automatici.",
+     "body": [
+      "Il decreto è stato pubblicato nella Gazzetta Ufficiale numero 234 dell'8 ottobre ed è entrato in vigore il 23 ottobre 2026. Ha 54 articoli in cinque capi e completa l'attuazione della legge 132 del 2025, la legge italiana sull'intelligenza artificiale, accanto all'AI Act europeo, il regolamento 2024/1689.",
+      "Chi fa cosa. L'Agenzia per la cybersicurezza nazionale, ACN, è l'autorità generale di vigilanza del mercato, con poteri ispettivi e sanzionatori, e il punto di contatto unico con le istituzioni europee. AgID, l'Agenzia per l'Italia digitale, è l'autorità di notifica che designa e controlla gli organismi di valutazione della conformità. Banca d'Italia, Consob e Ivass vigilano sull'IA in finanza e assicurazioni, e il Garante per la protezione dei dati personali mantiene il suo ruolo nei casi previsti dall'AI Act. AgID e ACN gestiscono insieme una sandbox nazionale dove i fornitori possono provare i sistemi in un ambiente controllato.",
+      "Le sanzioni seguono l'AI Act. Le pratiche vietate dall'articolo 5 possono costare fino a 35 milioni di euro o al 7 per cento del fatturato mondiale annuo, se più alto. Le violazioni degli obblighi degli operatori possono arrivare a 15 milioni di euro o al 3 per cento, e le informazioni false o incomplete a 7,5 milioni o all'1 per cento. Le piccole e medie imprese pagano il minore tra importo fisso e percentuale.",
+      "Sul lavoro, l'articolo 41 del decreto stabilisce che le decisioni finali su assunzione, licenziamento, sanzioni disciplinari e valutazione della prestazione non possono basarsi solo su trattamenti automatizzati, e che le decisioni prese in violazione sono nulle, anche con il consenso del lavoratore. L'articolo 42 impone ai datori di lavoro di includere i sistemi di IA nella valutazione dei rischi professionali e di formare il personale sui rischi dell'IA.",
+      "Cosa fare: le aziende che usano l'IA dovrebbero elencare e classificare i propri sistemi, documentare la conformità, verificare che la supervisione umana nei processi di selezione del personale sia reale e aggiornare le valutazioni dei rischi. Chi usa chatbot e generatori di testo ha già obblighi di trasparenza ai sensi dell'articolo 50 dal 2 agosto 2026, mentre gli obblighi per l'alto rischio si applicano dal 2 dicembre 2027, non dal 2026."
+     ],
+     "checks": [
+      {
+       "c": "Il decreto 179/2026 è in vigore dal 23 ottobre 2026 dopo la pubblicazione dell'8 ottobre",
+       "n": "Riportato in modo coerente da più testate specializzate."
+      },
+      {
+       "c": "ACN è l'autorità di vigilanza del mercato e AgID l'autorità di notifica",
+       "n": "Byte.it, Ingenio e la nota dello studio legale concordano."
+      },
+      {
+       "c": "Le decisioni su assunzioni o licenziamenti basate solo sull'automazione sono nulle",
+       "n": "Da sintesi di studi legali e stampa di settore; verificare il testo della Gazzetta per la formulazione esatta degli articoli 41 e 42."
+      }
+     ],
+     "ctx": "L'AI Act è un regolamento europeo direttamente applicabile, ma ogni Paese deve designare le autorità e fissare le sanzioni, cosa che fa questo decreto. Dettagli come la nullità delle decisioni vengono da sintesi di studi legali e stampa di settore del testo della Gazzetta: controllare il testo ufficiale. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Related: approfondimento sul regime italiano di vigilanza sull'AI Act ora in vigore",
+      "Grafica sul decreto 179/2026 e le autorità nazionali",
+      "Illustrazione sul decreto italiano sull'AI Act",
+      "Chi controlla l'IA in Italia secondo il decreto"
+     ]
+    }
+   }
+  },
+  {
+   "id": 9,
+   "sec": "reg",
+   "time": "08:10",
+   "read": 5,
+   "title": "EU Digital Omnibus on AI is law: high-risk duties move to December 2027, new nudifier ban from December 2026",
+   "summary": "Regulation 2026/1744, the Digital Omnibus on AI, entered into force on 27 July. It postpones the AI Act's high-risk obligations for Annex III systems to 2 December 2027 and for products to 2 August 2028, adds a ban on AI that creates non-consensual intimate images, and gives older generative systems until 2 December 2026 to mark their output.",
+   "body": [
+    "The Digital Omnibus on AI is Regulation of the European Parliament and of the Council 2026/1744 of 8 July 2026. It amends the AI Act, Regulation 2024/1689, plus the civil aviation and machinery regulations. It was published in the Official Journal in late July and entered into force on 27 July 2026; sources disagree by a few days on the publication date.",
+    "Main changes. High-risk systems listed in Annex III, such as those used for biometrics, employment, credit scoring, education and critical infrastructure, now have until 2 December 2027 instead of 2 August 2026 for conformity assessment, documentation and registration. AI embedded in products covered by sector safety laws, under Annex I, has until 2 August 2028. Penalty protections for smaller companies are widened.",
+    "Two dates still bite this winter. A new prohibition under Article 5 will apply from 2 December 2026 to AI systems that generate non-consensual intimate imagery and child sexual abuse material, including so-called nudifier apps. And the watermarking duty in Article 50, paragraph 2, applies from 2 December 2026 to generative systems already on the market before 2 August 2026; newer systems have no grace period.",
+    "Timeline. 1 August 2024: AI Act enters into force. 2 February 2025: prohibited practices and AI literacy apply. 2 August 2025: obligations for general-purpose AI models apply. 7 May 2026: political agreement on the Omnibus. 16 June: Parliament vote. 29 June: Council adoption. 8 July: signature. 27 July: in force. 2 August 2026: most remaining rules, including Article 50 transparency, apply. 2 December 2026: nudifier ban and legacy watermarking. 2 December 2027: Annex III high-risk. 2 August 2028: Annex I products.",
+    "Who is affected: providers and deployers of high-risk systems get more time but should not stop preparing, since the risk classification and core duties are unchanged. Maximum penalties remain 35 million euros or 7 percent of worldwide turnover for prohibited practices. A separate Omnibus text on data and GDPR rules has not yet reached trilogue negotiations."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+     "cap": "The Berlaymont building, seat of the European Commission in Brussels",
+     "credit": "Wikimedia Commons"
+    },
+    {
+     "type": "image",
+     "u": "https://transition-pathways.europa.eu/sites/default/files/styles/custom_448x300/public/content/2026-08/franck-v-dRMQiAubdws-unsplash.jpg?itok=SZiBcHGn",
+     "cap": "Illustration from the EU transition pathways page on the Omnibus",
+     "credit": "European Commission / Unsplash"
+    }
+   ],
+   "sources": [
+    {
+     "n": "EUR-Lex, Regulation 2026/1744",
+     "u": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng",
+     "t": "Official Journal"
+    },
+    {
+     "n": "EU Transition Pathways",
+     "u": "https://transition-pathways.europa.eu/adv-man/legislation/ai-act-digital-omnibus-high-risk-deadlines-postponed-machinery-carved-out",
+     "t": "EU portal"
+    },
+    {
+     "n": "European Parliament Legislative Train",
+     "u": "https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai",
+     "t": "EU institution"
+    },
+    {
+     "n": "Usercentrics",
+     "u": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+     "t": "Compliance outlet"
+    },
+    {
+     "n": "Cloud Security Alliance",
+     "u": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260/",
+     "t": "Industry research"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Regulation 2026/1744 postpones Annex III high-risk obligations to 2 December 2027",
+     "n": "EUR-Lex listing and three secondary sources agree."
+    },
+    {
+     "s": "ok",
+     "c": "Annex I product-embedded AI moves to 2 August 2028",
+     "n": "Reported by the EU transition portal and compliance outlets."
+    },
+    {
+     "s": "warn",
+     "c": "Publication date in the Official Journal",
+     "n": "Sources give 24 July or 27 July; entry into force on 27 July is consistent."
+    }
+   ],
+   "ctx": "An omnibus is a law that amends several existing laws at once, here to simplify implementation. Annex III lists use cases the AI Act treats as high-risk. Dates above come from the regulation as summarised by compliance outlets and an EU transition portal; always check EUR-Lex. This is general information, not legal advice.",
+   "loop_query": "european union flags brussels",
+   "i18n": {
+    "it": {
+     "title": "Omnibus digitale sull'IA in vigore: alto rischio a dicembre 2027, divieto dei nudifier da dicembre 2026",
+     "summary": "Il regolamento 2026/1744, il Digital Omnibus sull'IA, è entrato in vigore il 27 luglio. Rinvia gli obblighi per i sistemi ad alto rischio dell'allegato III al 2 dicembre 2027 e per i prodotti al 2 agosto 2028, aggiunge il divieto di IA che creano immagini intime senza consenso e dà ai vecchi sistemi generativi tempo fino al 2 dicembre 2026 per marcare i contenuti.",
+     "body": [
+      "Il Digital Omnibus sull'IA è il regolamento del Parlamento europeo e del Consiglio 2026/1744 dell'8 luglio 2026. Modifica l'AI Act, il regolamento 2024/1689, oltre ai regolamenti sull'aviazione civile e sui macchinari. È stato pubblicato nella Gazzetta ufficiale dell'Unione europea a fine luglio ed è entrato in vigore il 27 luglio 2026; le fonti divergono di qualche giorno sulla data di pubblicazione.",
+      "Le novità principali. I sistemi ad alto rischio elencati nell'allegato III, per esempio in biometria, lavoro, valutazione del credito, istruzione e infrastrutture critiche, hanno ora tempo fino al 2 dicembre 2027 invece che al 2 agosto 2026 per valutazione di conformità, documentazione e registrazione. L'IA incorporata in prodotti coperti da norme di sicurezza di settore, allegato I, ha tempo fino al 2 agosto 2028. Si ampliano le tutele sulle sanzioni per le imprese più piccole.",
+      "Due scadenze restano vicine. Dal 2 dicembre 2026 si applica un nuovo divieto, nell'articolo 5, ai sistemi di IA che generano immagini intime non consensuali e materiale pedopornografico, comprese le app dette nudifier. E sempre dal 2 dicembre 2026 vale l'obbligo di marcatura dell'articolo 50, paragrafo 2, per i sistemi generativi già sul mercato prima del 2 agosto 2026; per quelli nuovi non c'è periodo di tolleranza.",
+      "Cronologia. 1 agosto 2024: l'AI Act entra in vigore. 2 febbraio 2025: si applicano i divieti e l'alfabetizzazione sull'IA. 2 agosto 2025: obblighi per i modelli di IA per finalità generali. 7 maggio 2026: accordo politico sull'Omnibus. 16 giugno: voto del Parlamento. 29 giugno: adozione del Consiglio. 8 luglio: firma. 27 luglio: entrata in vigore. 2 agosto 2026: si applicano le restanti norme, compresa la trasparenza dell'articolo 50. 2 dicembre 2026: divieto dei nudifier e marcatura per i sistemi preesistenti. 2 dicembre 2027: alto rischio dell'allegato III. 2 agosto 2028: prodotti dell'allegato I.",
+      "Chi è interessato: fornitori e utilizzatori di sistemi ad alto rischio hanno più tempo ma non dovrebbero fermare la preparazione, perché la classificazione del rischio e gli obblighi di base non cambiano. Le sanzioni massime restano 35 milioni di euro o il 7 per cento del fatturato mondiale per le pratiche vietate. Un altro testo Omnibus su dati e regole del GDPR non è ancora arrivato ai negoziati interistituzionali."
+     ],
+     "checks": [
+      {
+       "c": "Il regolamento 2026/1744 rinvia gli obblighi dell'allegato III al 2 dicembre 2027",
+       "n": "L'atto su EUR-Lex e tre fonti secondarie concordano."
+      },
+      {
+       "c": "L'IA incorporata nei prodotti dell'allegato I passa al 2 agosto 2028",
+       "n": "Riportato dal portale europeo e da siti di compliance."
+      },
+      {
+       "c": "Data di pubblicazione nella Gazzetta ufficiale Ue",
+       "n": "Le fonti indicano il 24 o il 27 luglio; l'entrata in vigore il 27 luglio è coerente."
+      }
+     ],
+     "ctx": "Un omnibus è una legge che modifica più leggi esistenti insieme, qui per semplificarne l'attuazione. L'allegato III elenca i casi d'uso che l'AI Act considera ad alto rischio. Le date qui riportate vengono dal regolamento come riassunto da siti di compliance e da un portale europeo: controllare sempre EUR-Lex. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Il Berlaymont, sede della Commissione europea a Bruxelles",
+      "Immagine dalla pagina del portale europeo sull'Omnibus"
+     ]
+    }
+   }
+  },
+  {
+   "id": 10,
+   "sec": "reg",
+   "time": "08:20",
+   "read": 4,
+   "title": "AI Act Article 50: labelling code and guidelines are final, with a December deadline for older generators",
+   "summary": "The Commission has finished its guidance on AI Act Article 50. The Code of Practice on marking and labelling AI-generated content was published on 10 June, judged adequate on 8 and 9 July, and final guidelines followed on 20 July. The duties apply since 2 August 2026, with a grace period to 2 December 2026 for generators already on the market.",
+   "body": [
+    "Article 50 of the AI Act sets transparency duties. Providers of systems that generate synthetic audio, images, video or text must mark outputs in a machine-readable way so they can be detected. Deployers that publish deepfakes, or AI text on matters of public interest, must label them. People must be told when they are talking to an AI system, unless it is obvious.",
+    "The Commission published the final Code of Practice on marking and labelling AI-generated content on 10 June 2026. It focuses on Article 50, paragraph 2, marking and detection, and paragraph 4, labelling. On 8 July the Commission and on 9 July the AI Board concluded that the code is adequate to help meet paragraphs 2, 4 and 5. The code is voluntary: signing it is one way to show compliance, not the only one.",
+    "On 20 July 2026 the Commission published the final guidelines on the transparency obligations. Together with the code they complete the guidance framework. The obligations broadly apply from 2 August 2026. Under the Digital Omnibus, generative systems placed on the market before that date have until 2 December 2026 to meet the marking duty, which is 33 days away.",
+    "Who is affected: companies that build or integrate generative models, platforms that publish synthetic media, newsrooms, marketing teams and developers. What to do: check which of your outputs count as synthetic, decide whether to sign the code, and plan for watermarks or metadata and clear labels before December. Penalties for transparency breaches can reach 15 million euros or 3 percent of worldwide turnover under the AI Act."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/1280px-Flag_of_Europe.svg.png",
+     "cap": "Flag of the European Union",
+     "credit": "Wikimedia Commons"
+    },
+    {
+     "type": "image",
+     "u": "https://usercentrics.com/wp-content/uploads/2024/09/Asset-93-100.jpg",
+     "cap": "Illustration on AI Act transparency rules",
+     "credit": "Usercentrics"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission, Code of Practice",
+     "u": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+     "t": "EU institution"
+    },
+    {
+     "n": "European Commission, signing the code",
+     "u": "https://digital-strategy.ec.europa.eu/en/faqs/signing-code-practice-transparency-ai-generated-content",
+     "t": "EU institution"
+    },
+    {
+     "n": "Paul Weiss",
+     "u": "https://www.paulweiss.com/insights/client-memos/eu-finalises-transparency-rules-for-ai-generated-content",
+     "t": "Law firm memo"
+    },
+    {
+     "n": "Faegre Drinker",
+     "u": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations",
+     "t": "Law firm note"
+    },
+    {
+     "n": "Reed Smith",
+     "u": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102nbz0/transparency-obligations-for-ai-generated-content-the-code-of-practice-adequacy/",
+     "t": "Law firm blog"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Final code of practice published on 10 June 2026 and guidelines on 20 July 2026",
+     "n": "Commission pages and two law firm notes agree on both dates."
+    },
+    {
+     "s": "ok",
+     "c": "Commission and AI Board found the code adequate on 8 and 9 July",
+     "n": "Stated by Commission-linked material and law firm notes."
+    },
+    {
+     "s": "warn",
+     "c": "Grace period to 2 December 2026 applies only to systems on the market before 2 August 2026",
+     "n": "Based on secondary summaries of the Omnibus; confirm against Regulation 2026/1744."
+    }
+   ],
+   "ctx": "A watermark here means a machine-readable signal embedded in or attached to content, such as metadata or an invisible mark, that lets software detect AI generation. The AI Board is the body of member states that advises on AI Act application. Dates come from Commission announcements and law firm notes. This is general information, not legal advice.",
+   "loop_query": "digital watermark smartphone screen",
+   "i18n": {
+    "it": {
+     "title": "AI Act, articolo 50: codice e linee guida definitivi, a dicembre la scadenza per i generatori già in uso",
+     "summary": "La Commissione ha chiuso le indicazioni sull'articolo 50 dell'AI Act. Il Codice di condotta sulla marcatura e l'etichettatura dei contenuti generati dall'IA è stato pubblicato il 10 giugno, giudicato adeguato l'8 e 9 luglio, e le linee guida finali sono arrivate il 20 luglio. Gli obblighi si applicano dal 2 agosto 2026, con tolleranza fino al 2 dicembre 2026 per i generatori già sul mercato.",
+     "body": [
+      "L'articolo 50 dell'AI Act fissa obblighi di trasparenza. I fornitori di sistemi che generano audio, immagini, video o testo sintetici devono marcare i contenuti in modo leggibile dalle macchine, così da poterli riconoscere. Chi pubblica deepfake, o testi generati dall'IA su temi di interesse pubblico, deve etichettarli. Le persone devono essere informate quando parlano con un sistema di IA, a meno che sia ovvio.",
+      "La Commissione ha pubblicato il Codice di condotta definitivo sulla marcatura e l'etichettatura dei contenuti generati dall'IA il 10 giugno 2026. Riguarda l'articolo 50, paragrafo 2, marcatura e rilevamento, e il paragrafo 4, etichettatura. L'8 luglio la Commissione e il 9 luglio il Comitato per l'IA hanno concluso che il codice è adeguato per rispettare i paragrafi 2, 4 e 5. Il codice è volontario: aderire è un modo per dimostrare la conformità, non l'unico.",
+      "Il 20 luglio 2026 la Commissione ha pubblicato le linee guida finali sugli obblighi di trasparenza. Insieme al codice completano il quadro delle indicazioni. Gli obblighi si applicano in generale dal 2 agosto 2026. Con il Digital Omnibus, i sistemi generativi immessi sul mercato prima di quella data hanno tempo fino al 2 dicembre 2026 per rispettare l'obbligo di marcatura: mancano 33 giorni.",
+      "Chi è interessato: aziende che sviluppano o integrano modelli generativi, piattaforme che pubblicano media sintetici, redazioni, team marketing e sviluppatori. Cosa fare: verificare quali contenuti prodotti sono sintetici, decidere se aderire al codice e pianificare watermark o metadati ed etichette chiare entro dicembre. Le violazioni degli obblighi di trasparenza possono costare fino a 15 milioni di euro o al 3 per cento del fatturato mondiale secondo l'AI Act."
+     ],
+     "checks": [
+      {
+       "c": "Codice definitivo pubblicato il 10 giugno 2026 e linee guida il 20 luglio 2026",
+       "n": "Pagine della Commissione e due note di studi legali concordano sulle date."
+      },
+      {
+       "c": "Commissione e Comitato per l'IA hanno giudicato adeguato il codice l'8 e il 9 luglio",
+       "n": "Indicato da materiale della Commissione e da note di studi legali."
+      },
+      {
+       "c": "La tolleranza fino al 2 dicembre 2026 vale solo per i sistemi sul mercato prima del 2 agosto 2026",
+       "n": "Basato su sintesi secondarie dell'Omnibus; confermare sul regolamento 2026/1744."
+      }
+     ],
+     "ctx": "Per watermark si intende un segnale leggibile dalle macchine, inserito o allegato al contenuto, come un metadato o un marchio invisibile, che permette al software di riconoscere la generazione da IA. Il Comitato per l'IA è l'organo degli Stati membri che consiglia sull'applicazione dell'AI Act. Le date vengono da comunicazioni della Commissione e note di studi legali. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "La bandiera dell'Unione europea",
+      "Illustrazione sulle regole di trasparenza dell'AI Act"
+     ]
+    }
+   }
+  },
+  {
+   "id": 11,
+   "sec": "reg",
+   "time": "10:00",
+   "read": 4,
+   "title": "Garante Privacy warns on AI voice and image cloning as New York restricts AI companions for minors",
+   "summary": "Italy's data protection authority has warned that using AI services that generate content from real people's voices or images without a valid legal basis is likely to breach the GDPR. It earlier fined Character.AI's operator 158,000 euros. In the United States, New York signed a law on 28 October limiting AI companion chatbots for under 18s.",
+   "body": [
+    "In its October newsletter, the Garante per la protezione dei dati personali warned all data controllers that use AI services to create content from the real voices or images of third parties. Without a valid lawful basis and clear transparency, such processing is likely to violate the General Data Protection Regulation. The newsletter recalls earlier cases: the Clothoff nudification service, the Grok image function in January 2026, and a July 2026 sanction on the broadcaster RTI for deepfakes in a satirical programme, which the Garante said must still respect dignity.",
+    "On chatbots, a trade report says the Garante fined Character Technologies, the company behind Character.AI, 158,000 euros in July 2026 and ordered measures on the risks of generative AI for minors. That figure appears in a single secondary source here. On 7 October the Garante also gave a favourable opinion, with conditions, on the Autonomous Province of Trento's scheme to regulate the use of AI in its administration.",
+    "A case outside the EU that matters for companies serving minors: on 28 October Governor Kathy Hochul signed a New York law banning 12 categories of unsafe features in AI companion chatbots for users under 18, such as pretending to be human, encouraging self-harm or lewd conversation. It takes effect on 1 January 2027, with fines up to 25,000 dollars per violation, and its definition is broad enough to reach general assistants.",
+    "What to do: organisations using voice or image cloning should check consent, purpose and labelling now, because these uses also fall under Article 50 of the AI Act and, from 2 December 2026, the new Article 5 ban on non-consensual intimate imagery. Also relevant is Italy's 2025 law creating prison terms of one to five years for unlawfully spreading AI-generated or altered content."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=OewuyqTSsM0",
+     "cap": "Related: CBS6 Albany report on New York's AI chatbot law for children",
+     "credit": "CBS6 Albany"
+    },
+    {
+     "type": "image",
+     "u": "https://www.garanteprivacy.it/image/journal/article?img_id=10305720&t=1793361438336",
+     "cap": "Garante Privacy newsletter image on AI-generated voices and images",
+     "credit": "Garante Privacy"
+    },
+    {
+     "type": "image",
+     "u": "https://www.matricedigitale.it/wp-content/uploads/2026/10/Privacy-digitale-minori-e-intelligenza-artificiale.jpg",
+     "cap": "Digital privacy, minors and AI",
+     "credit": "Matrice Digitale"
+    },
+    {
+     "type": "image",
+     "u": "https://d.techtimes.com/en/full/477343/kathy-hochul.jpg",
+     "cap": "Governor Kathy Hochul of New York",
+     "credit": "Tech Times"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Garante Privacy, newsletter 8 October 2026",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10305399",
+     "t": "Regulator"
+    },
+    {
+     "n": "Federprivacy, Trento opinion",
+     "u": "https://www.federprivacy.org/informazione/garante-privacy/parere-favorevole-del-garante-privacy-allo-schema-di-regolamento-della-provincia-di-trento-sull-utilizzo-dei-sistemi-di-intelligenza-artificiale",
+     "t": "Professional body"
+    },
+    {
+     "n": "Exaora, Garante AI fines",
+     "u": "https://www.exaora.it/blog/sanzioni-garante-privacy-intelligenza-artificiale/",
+     "t": "Specialist blog"
+    },
+    {
+     "n": "IAPP, New York chatbot law",
+     "u": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill",
+     "t": "Professional association"
+    },
+    {
+     "n": "Tech Times",
+     "u": "https://www.techtimes.com/articles/329665/20261029/hochul-signs-chatbot-safety-law-that-reaches-chatgpt-claude-not-just-companion-apps.htm",
+     "t": "Tech outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Garante warns that AI content from real voices or images without a legal basis likely breaches the GDPR",
+     "n": "Stated in the regulator's own newsletter."
+    },
+    {
+     "s": "warn",
+     "c": "Character Technologies was fined 158,000 euros in July 2026",
+     "n": "Single secondary source; the primary decision on garanteprivacy.it was not opened."
+    },
+    {
+     "s": "ok",
+     "c": "New York law takes effect 1 January 2027, fines up to 25,000 dollars per violation",
+     "n": "IAPP and Tech Times agree."
+    }
+   ],
+   "ctx": "The Garante is Italy's independent data protection authority and enforces the GDPR alongside the AI Act roles set by the new decree. Its newsletter items are guidance and past decisions, not new fines. The New York law is not EU law, but chatbot providers operating in both markets face overlapping duties. This is general information, not legal advice.",
+   "loop_query": "chatbot conversation smartphone teenager",
+   "i18n": {
+    "it": {
+     "title": "Garante Privacy: allerta sui cloni di voce e immagini con l'IA; New York limita i chatbot per i minori",
+     "summary": "Il Garante per la protezione dei dati personali avverte che usare servizi di IA che generano contenuti da voci o immagini reali senza una base giuridica valida rischia di violare il GDPR. In precedenza aveva multato per 158mila euro la società di Character.AI. Negli Stati Uniti, New York ha firmato il 28 ottobre una legge che limita i chatbot compagni di IA per gli under 18.",
+     "body": [
+      "Nella newsletter di ottobre il Garante per la protezione dei dati personali ha avvertito tutti i titolari che usano servizi di IA per creare contenuti dalle voci o dalle immagini reali di terzi. Senza una base giuridica valida e senza trasparenza, questi trattamenti rischiano di violare il Regolamento generale sulla protezione dei dati. La newsletter ricorda casi precedenti: il servizio di nudificazione Clothoff, la funzione di immagini di Grok a gennaio 2026 e una sanzione di luglio 2026 a RTI per i deepfake in un programma satirico, che secondo il Garante devono comunque rispettare la dignità.",
+      "Sui chatbot, un report di settore riferisce che il Garante ha multato per 158mila euro Character Technologies, la società dietro Character.AI, a luglio 2026, e ha prescritto misure sui rischi dell'IA generativa per i minori. Questa cifra compare qui in una sola fonte secondaria. Il 7 ottobre il Garante ha inoltre dato parere favorevole, con condizioni, allo schema con cui la Provincia autonoma di Trento regola l'uso dell'IA nella propria amministrazione.",
+      "Un caso fuori dall'Unione europea che conta per chi serve minori: il 28 ottobre la governatrice Kathy Hochul ha firmato una legge di New York che vieta 12 categorie di funzioni non sicure nei chatbot compagni di IA per utenti sotto i 18 anni, come fingersi umani, incoraggiare l'autolesionismo o conversazioni sconvenienti. Entra in vigore il 1 gennaio 2027, con multe fino a 25mila dollari per violazione, e la sua definizione è abbastanza ampia da raggiungere gli assistenti generali.",
+      "Cosa fare: chi usa clonazione di voce o immagini dovrebbe verificare subito consenso, finalità ed etichettatura, perché questi usi rientrano anche nell'articolo 50 dell'AI Act e, dal 2 dicembre 2026, nel nuovo divieto dell'articolo 5 sulle immagini intime non consensuali. Rilevante anche la legge italiana del 2025 che prevede da uno a cinque anni di carcere per la diffusione illecita di contenuti generati o alterati con l'IA."
+     ],
+     "checks": [
+      {
+       "c": "Il Garante avverte che contenuti di IA da voci o immagini reali senza base giuridica violano probabilmente il GDPR",
+       "n": "Affermato nella newsletter del Garante stesso."
+      },
+      {
+       "c": "Character Technologies è stata multata per 158mila euro a luglio 2026",
+       "n": "Una sola fonte secondaria; il provvedimento originale sul sito del Garante non è stato aperto."
+      },
+      {
+       "c": "La legge di New York entra in vigore il 1 gennaio 2027, multe fino a 25mila dollari per violazione",
+       "n": "IAPP e Tech Times concordano."
+      }
+     ],
+     "ctx": "Il Garante è l'autorità indipendente italiana per la protezione dei dati e applica il GDPR accanto ai ruoli sull'AI Act fissati dal nuovo decreto. Le voci della newsletter sono indicazioni e decisioni passate, non nuove multe. La legge di New York non è diritto europeo, ma i fornitori di chatbot attivi su entrambi i mercati hanno obblighi che si sovrappongono. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Related: servizio di CBS6 Albany sulla legge di New York sui chatbot di IA per i minori",
+      "Immagine della newsletter del Garante sulle voci e immagini generate dall'IA",
+      "Privacy digitale, minori e intelligenza artificiale",
+      "La governatrice di New York Kathy Hochul"
+     ]
+    }
+   }
+  },
+  {
+   "id": 12,
+   "sec": "ai",
+   "time": "22:00",
+   "read": 4,
+   "title": "US Justice Department examines Nvidia's 12.9 billion dollar Hugging Face deal, Reuters reports",
+   "summary": "The US Department of Justice has made inquiries about Nvidia's planned purchase of Hugging Face, the open-source AI platform, according to a Reuters exclusive. Staff are examining whether the 12.93 billion dollar deal would let the chipmaker control a key distribution point for AI. Nvidia declined to comment.",
+   "body": [
+    "Citing sources, Reuters reports that antitrust staff at the Justice Department are asking how Nvidia's acquisition of Hugging Face would affect competition. The question is whether it would let Nvidia capture what one source called a fundamental distribution point for AI, where developers share and download models, and gain leverage over rivals.",
+    "Nvidia announced the deal on 3 September for 12.93 billion dollars: 11.9 billion in cash to Hugging Face shareholders and up to 1 billion in equity retention awards for employees. It expects to close in the first half of 2027.",
+    "The inquiry builds on a longer Justice Department look at Nvidia's conduct, begun under the Biden administration and continued under Trump. Staff have also reviewed the December 2025 purchase of SchedMD, the Run:ai software deal and a licensing and talent arrangement with Groq worth about 20 billion dollars. A department spokesperson said it would be inappropriate to run a merger investigation under the guise of a conduct investigation.",
+    "Nvidia shares dipped about 1.6 percent in after-hours trading, according to Benzinga. Unknown for now: whether the department will issue a formal request for information, what remedies it might seek, and how European and British regulators will treat the deal."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://s.yimg.com/lo/mysterio/api/0b627e73fc0dbc0b3f0d097067ed442c97519ed67ec085ee16221c84efb57a1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F8c1ec76fc7dc63d72f7a76a2495ae602.jpg",
+     "cap": "Nvidia and the DOJ inquiry on Hugging Face",
+     "credit": "Yahoo Finance / Stocktwits"
+    },
+    {
+     "type": "image",
+     "u": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/28143624/library-us-doj-examines-nvidia-s-12-93-billion-hugging-face-acqu-800x450.png",
+     "cap": "Graphic on the DOJ examining the Nvidia and Hugging Face deal",
+     "credit": "Crypto Briefing"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Reuters via Investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
+     "t": "Wire service"
+    },
+    {
+     "n": "Benzinga",
+     "u": "https://www.benzinga.com/markets/tech/26/10/62684670/nvidia-faces-doj-scrutiny-over-12-9-billion-hugging-face-deal-amid-concerns-about-unfair-ai-advantage-report",
+     "t": "Financial news"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-edges-down-doj-222639728.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "AI Weekly",
+     "u": "https://aiweekly.co/alerts/nvidias-1293b-hugging-face-deal-draws-doj-antitrust-probe",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Crypto Briefing",
+     "u": "https://cryptobriefing.com/doj-examines-nvidia-hugging-face-acquisition/",
+     "t": "Specialist outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "The DOJ is inquiring about the Hugging Face deal",
+     "n": "Based on anonymous sources in a Reuters exclusive; neither Nvidia nor the DOJ confirmed details."
+    },
+    {
+     "s": "ok",
+     "c": "The deal is worth 12.93 billion dollars and is expected to close in the first half of 2027",
+     "n": "Company announcement of 3 September as repeated by several outlets."
+    }
+   ],
+   "ctx": "Hugging Face hosts hundreds of thousands of open AI models and datasets that developers across companies rely on. Antitrust reviews of acquisitions can take months and often end in conditions rather than a block. An inquiry is not a lawsuit, and the sources here are anonymous.",
+   "loop_query": "semiconductor chip factory close-up",
+   "i18n": {
+    "it": {
+     "title": "Il Dipartimento di Giustizia Usa esamina l'acquisto di Hugging Face da parte di Nvidia: 12,9 miliardi",
+     "summary": "Il Dipartimento di Giustizia americano ha chiesto informazioni sull'acquisto di Hugging Face, la piattaforma di IA open source, da parte di Nvidia, secondo un'esclusiva di Reuters. Si valuta se l'operazione da 12,93 miliardi di dollari darebbe al produttore di chip il controllo di un punto chiave di distribuzione dell'IA. Nvidia non ha commentato.",
+     "body": [
+      "Citando fonti, Reuters riferisce che gli esperti antitrust del Dipartimento di Giustizia stanno chiedendo come l'acquisizione di Hugging Face da parte di Nvidia inciderebbe sulla concorrenza. La domanda è se permetterebbe a Nvidia di conquistare quello che una fonte ha definito un punto fondamentale di distribuzione dell'IA, dove gli sviluppatori condividono e scaricano modelli, e di ottenere un vantaggio sui rivali.",
+      "Nvidia ha annunciato l'accordo il 3 settembre per 12,93 miliardi di dollari: 11,9 miliardi in contanti agli azionisti di Hugging Face e fino a 1 miliardo in premi azionari di fidelizzazione per i dipendenti. Prevede di chiudere nel primo semestre del 2027.",
+      "L'indagine si inserisce in un esame più lungo della condotta di Nvidia da parte del Dipartimento di Giustizia, iniziato con l'amministrazione Biden e proseguito con Trump. Gli esperti hanno esaminato anche l'acquisto di SchedMD del dicembre 2025, l'accordo sul software Run:ai e un accordo di licenza e ingaggio di talenti con Groq da circa 20 miliardi di dollari. Un portavoce del dipartimento ha detto che sarebbe inappropriato condurre un'indagine sulle fusioni con il pretesto di un'indagine sulla condotta.",
+      "Le azioni Nvidia hanno perso circa l'1,6 per cento nelle contrattazioni dopo la chiusura, secondo Benzinga. Per ora non è noto se il dipartimento emetterà una richiesta formale di informazioni, quali rimedi potrebbe chiedere e come le autorità europee e britanniche tratteranno l'operazione."
+     ],
+     "checks": [
+      {
+       "c": "Il Dipartimento di Giustizia sta chiedendo informazioni sull'accordo con Hugging Face",
+       "n": "Basato su fonti anonime in un'esclusiva Reuters; né Nvidia né il dipartimento hanno confermato i dettagli."
+      },
+      {
+       "c": "L'accordo vale 12,93 miliardi di dollari e dovrebbe chiudersi nel primo semestre 2027",
+       "n": "Annuncio della società del 3 settembre ripreso da più testate."
+      }
+     ],
+     "ctx": "Hugging Face ospita centinaia di migliaia di modelli e set di dati di IA aperti su cui si appoggiano sviluppatori di molte aziende. Le revisioni antitrust delle acquisizioni possono durare mesi e finiscono spesso con condizioni più che con un blocco. Un'indagine non è una causa legale, e le fonti qui sono anonime.",
+     "media_caps": [
+      "Nvidia e l'indagine del Dipartimento di Giustizia su Hugging Face",
+      "Grafica sull'esame dell'accordo Nvidia e Hugging Face da parte del Dipartimento di Giustizia"
+     ]
+    }
+   }
+  },
+  {
+   "id": 13,
+   "sec": "ai",
+   "time": "16:00",
+   "read": 4,
+   "title": "Mistral releases the weights of Large 4, a trillion-parameter open model aimed at cyber defence",
+   "summary": "French AI company Mistral has published the weights of Mistral Large 4, a model with about one trillion parameters, so businesses and governments can download and run it themselves. Mistral pitches it for cybersecurity and sovereign use. Its benchmark claims come from the company and an independent index.",
+   "body": [
+    "On 29 October Mistral released the weights of Mistral Large 4, nicknamed Le Chonk, on Hugging Face and through its API, according to TechCrunch. The model had been in public preview since 6 October. Spec summaries describe about 1 trillion parameters in total with roughly 49 to 52 billion active per token, a design called mixture of experts, and a vision encoder so it can read images as well as text.",
+    "Mistral positions it for threat detection, analysis and real-time incident response across code and IT systems, and talks about sovereign cyber defence. Enterprises, governments and public bodies can run it on their own servers. Chief executive Arthur Mensch said AI should be a tool for empowerment, not dominance, and science vice president Pierre Stock noted that a deployment cannot be cut off by a vendor because the weights are open.",
+    "On performance, TechCrunch reports it matches the Chinese model GLM-5.3 while using 47 percent fewer tokens per task, and ranks first among open models for agentic coding on the Artificial Analysis index. These are claims to treat with caution until tested independently. No pricing was given in that article, and licence terms should be read in the Hugging Face model card.",
+    "Why it matters in Europe: it is one of the largest open-weight models from a European lab, at a time when governments and companies want alternatives to closed United States systems. For developers it means a model they can fine-tune and host themselves, though a trillion-parameter model needs heavy hardware. Under the EU AI Act, providers of general-purpose models have had duties since 2 August 2025."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=FczbSauVvjw",
+     "cap": "Hugging Face session on Mistral Large 4 and open cyber defence",
+     "credit": "Hugging Face",
+     "start": 90,
+     "end": 130
+    },
+    {
+     "type": "image",
+     "u": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/mistralai/Mistral-Large-4-1T-A52B.png",
+     "cap": "Mistral Large 4 model card on Hugging Face",
+     "credit": "Hugging Face / Mistral AI"
+    },
+    {
+     "type": "image",
+     "u": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+     "cap": "Mistral AI (archive image)",
+     "credit": "Getty Images / TechCrunch"
+    }
+   ],
+   "sources": [
+    {
+     "n": "TechCrunch",
+     "u": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "Hugging Face model card",
+     "u": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+     "t": "Primary source"
+    },
+    {
+     "n": "Technology.org",
+     "u": "https://www.technology.org/2026/10/07/mistral-large-4-open-weight-model-1-trillion-parameters/",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "Online Tech Tips",
+     "u": "https://www.online-tech-tips.com/mistral-large-4-preview-open-weights-news/",
+     "t": "Tech outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Mistral released the weights of Large 4 on 29 October",
+     "n": "TechCrunch and the Hugging Face model repository agree."
+    },
+    {
+     "s": "warn",
+     "c": "It matches GLM-5.3 with 47 percent fewer tokens and tops open models for agentic coding",
+     "n": "Benchmark claims relayed by TechCrunch; not independently reproduced."
+    },
+    {
+     "s": "warn",
+     "c": "Parameter counts of about 1 trillion total and 49 to 52 billion active",
+     "n": "Figures vary slightly between secondary summaries; check the model card."
+    }
+   ],
+   "ctx": "Open weights means the trained parameters can be downloaded and run locally, which is not the same as open source in the strict sense, since training data and code may stay private. Mixture of experts models activate only a fraction of their parameters for each word, which lowers cost. Benchmarks vary by task and can be gamed.",
+   "loop_query": "server racks data center blue light",
+   "i18n": {
+    "it": {
+     "title": "Mistral rilascia i pesi di Large 4, modello aperto da mille miliardi di parametri per la difesa informatica",
+     "summary": "L'azienda francese di IA Mistral ha pubblicato i pesi di Mistral Large 4, un modello con circa mille miliardi di parametri, così che imprese e governi possano scaricarlo e farlo girare in proprio. Mistral lo propone per la cybersicurezza e per usi sovrani. I risultati nei test sono dichiarati dall'azienda e da un indice indipendente.",
+     "body": [
+      "Il 29 ottobre Mistral ha rilasciato i pesi di Mistral Large 4, soprannominato Le Chonk, su Hugging Face e tramite la sua API, secondo TechCrunch. Il modello era in anteprima pubblica dal 6 ottobre. Le schede tecniche descrivono circa 1.000 miliardi di parametri totali con circa 49-52 miliardi attivi per token, un'architettura detta mixture of experts, e un encoder visivo che gli permette di leggere anche immagini.",
+      "Mistral lo propone per il rilevamento e l'analisi delle minacce e la risposta agli incidenti in tempo reale su codice e sistemi informatici, e parla di difesa informatica sovrana. Imprese, governi ed enti pubblici possono farlo girare sui propri server. L'amministratore delegato Arthur Mensch ha detto che l'IA dovrebbe essere uno strumento di emancipazione, non di dominio, e il vicepresidente scientifico Pierre Stock ha osservato che un'installazione non può essere interrotta da un fornitore perché i pesi sono aperti.",
+      "Sulle prestazioni, TechCrunch riferisce che eguaglia il modello cinese GLM-5.3 usando il 47 per cento di token in meno per compito e che è primo tra i modelli aperti per la programmazione con agenti nell'indice di Artificial Analysis. Sono affermazioni da prendere con cautela finché non verificate in modo indipendente. L'articolo non indica prezzi e le condizioni di licenza vanno lette nella scheda del modello su Hugging Face.",
+      "Perché conta in Europa: è uno dei più grandi modelli a pesi aperti di un laboratorio europeo, in un momento in cui governi e aziende cercano alternative ai sistemi chiusi americani. Per gli sviluppatori significa un modello che si può adattare e ospitare in proprio, anche se un modello da mille miliardi di parametri richiede hardware pesante. Secondo l'AI Act, i fornitori di modelli per finalità generali hanno obblighi dal 2 agosto 2025."
+     ],
+     "checks": [
+      {
+       "c": "Mistral ha rilasciato i pesi di Large 4 il 29 ottobre",
+       "n": "TechCrunch e il repository di Hugging Face concordano."
+      },
+      {
+       "c": "Eguaglia GLM-5.3 con il 47 per cento di token in meno ed è primo tra i modelli aperti per la programmazione con agenti",
+       "n": "Risultati dei test riferiti da TechCrunch; non riprodotti in modo indipendente."
+      },
+      {
+       "c": "Circa 1.000 miliardi di parametri totali e 49-52 miliardi attivi",
+       "n": "Le cifre variano leggermente tra le sintesi secondarie; controllare la scheda del modello."
+      }
+     ],
+     "ctx": "Pesi aperti significa che i parametri addestrati si possono scaricare e usare in locale, il che non equivale a open source in senso stretto, perché dati di addestramento e codice possono restare privati. I modelli mixture of experts attivano solo una frazione dei parametri per ogni parola, il che riduce i costi. I test variano per compito e possono essere ottimizzati ad arte.",
+     "media_caps": [
+      "Sessione di Hugging Face su Mistral Large 4 e difesa informatica aperta",
+      "La scheda del modello Mistral Large 4 su Hugging Face",
+      "Mistral AI (immagine d'archivio)"
+     ]
+    }
+   }
+  },
+  {
+   "id": 14,
+   "sec": "pol",
+   "time": "07:00",
+   "read": 5,
+   "title": "Iran presses its seven-day Hormuz plan while Trump rejects it and denies peace talks",
+   "summary": "Iran's foreign minister says Tehran is still in contact with mediators over a seven-day plan to reopen the Strait of Hormuz, which President Trump has rejected. Trump denies telling Vice President Vance to open peace talks. Reports say the US has told allies to prepare for possible new strikes after the 3 November midterm elections.",
+   "body": [
+    "Foreign Minister Abbas Araghchi said Iran remains in close and ongoing contact with mediators on how to carry out its seven-day plan. Under it, Iran would reopen the Strait of Hormuz on the sixth day if the United States lifts its blockade of Iranian ports, releases frozen Iranian assets and waives sanctions on Iranian oil sales, among other conditions. Negotiations would start on the seventh day.",
+    "President Trump has rejected the offer. He also denied media reports that he told Vice President JD Vance to begin peace talks, saying a letter to Tehran was about the need for help with medical supplies. Other outlets describe the letter as sent at Trump's direction and focused on a possible framework for negotiations, so accounts differ.",
+    "Separately, US officials have told several regional allies to be ready for possible renewed military action against Iran after the midterm elections on 3 November, and for Iranian retaliation. On 8 October Trump said the US would not attack Iran before the midterms. In Yemen, the Houthis have targeted Riyadh and a coalition has intercepted missiles, according to Al Jazeera.",
+    "Oil stays high: Brent was reported at about 112 dollars on 30 October, up roughly 74 percent on a year ago, while ANSA quoted crude near 101 dollars on 29 October, so benchmarks differ. What is unknown: whether the mediators can bridge the sequencing dispute, and whether the US will resume strikes after 3 November."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=lmRUwRqRXx8",
+     "cap": "Al Jazeera: Iran says diplomacy remains possible as mediators discuss a plan",
+     "credit": "Al Jazeera English",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adbbf93-1792786323.jpg?resize=1920%2C1440",
+     "cap": "Al Jazeera live coverage of the Iran war",
+     "credit": "Reuters / Al Jazeera"
+    },
+    {
+     "type": "image",
+     "u": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/GettyImages-2295722135.jpg?w=1280",
+     "cap": "Coverage of the US-Iran standoff",
+     "credit": "Getty Images / NewsNation"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Al Jazeera live blog",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "NewsNation",
+     "u": "https://www.newsnationnow.com/world/us-iran-strait-of-hormuz-peace-plan/amp/",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "The Hill",
+     "u": "https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefire/",
+     "t": "Political news"
+    },
+    {
+     "n": "The Week",
+     "u": "https://www.theweek.in/news/middle-east/2026/10/29/us-seeks-peace-talks-with-iran-vance-letter.html",
+     "t": "News magazine"
+    },
+    {
+     "n": "CBS News live updates",
+     "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+     "t": "Broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Trump rejected Iran's seven-day proposal",
+     "n": "NewsNation, The Hill and CBS headlines agree."
+    },
+    {
+     "s": "warn",
+     "c": "Trump told Vance to open peace talks",
+     "n": "Trump denies it; The Week describes a letter sent at his direction. Accounts conflict."
+    },
+    {
+     "s": "warn",
+     "c": "US told allies to prepare for strikes after the midterms",
+     "n": "Reported by media citing US officials; not officially confirmed."
+    }
+   ],
+   "ctx": "The Strait of Hormuz is the narrow waterway through which a large share of the world's seaborne oil passes. The war has been going on since earlier this year. Accounts of private diplomacy are hard to verify, and both governments have incentives to shape the story ahead of the US elections.",
+   "loop_query": "oil tanker sea sunset",
+   "i18n": {
+    "it": {
+     "title": "L'Iran insiste sul piano in sette giorni per Hormuz, Trump lo respinge e nega i colloqui di pace",
+     "summary": "Il ministro degli Esteri iraniano dice che Teheran resta in contatto con i mediatori su un piano in sette giorni per riaprire lo Stretto di Hormuz, che il presidente Trump ha respinto. Trump nega di aver chiesto al vicepresidente Vance di avviare colloqui di pace. Secondo i media, gli Usa hanno detto agli alleati di prepararsi a possibili nuovi attacchi dopo le elezioni di metà mandato del 3 novembre.",
+     "body": [
+      "Il ministro degli Esteri Abbas Araghchi ha detto che l'Iran resta in contatto stretto e continuo con i mediatori su come attuare il suo piano in sette giorni. Secondo il piano, l'Iran riaprirebbe lo Stretto di Hormuz al sesto giorno se gli Stati Uniti revocano il blocco dei porti iraniani, sbloccano i beni iraniani congelati e sospendono le sanzioni sulle vendite di petrolio iraniano, tra le altre condizioni. I negoziati inizierebbero al settimo giorno.",
+      "Il presidente Trump ha respinto l'offerta. Ha anche smentito le notizie dei media secondo cui avrebbe chiesto al vicepresidente JD Vance di avviare colloqui di pace, dicendo che una lettera a Teheran riguardava la necessità di aiuto con forniture mediche. Altre testate descrivono la lettera come inviata su indicazione di Trump e incentrata su un possibile quadro negoziale, quindi i resoconti divergono.",
+      "Separatamente, funzionari americani hanno detto a diversi alleati nella regione di prepararsi a una possibile ripresa dell'azione militare contro l'Iran dopo le elezioni di metà mandato del 3 novembre, e a una ritorsione iraniana. L'8 ottobre Trump aveva detto che gli Usa non avrebbero attaccato l'Iran prima del voto. In Yemen gli Houthi hanno preso di mira Riad e una coalizione ha intercettato missili, secondo Al Jazeera.",
+      "Il petrolio resta alto: il Brent è stato indicato a circa 112 dollari il 30 ottobre, in rialzo di circa il 74 per cento su un anno, mentre l'ANSA indicava il greggio vicino a 101 dollari il 29 ottobre, quindi i riferimenti differiscono. Non è noto se i mediatori riusciranno a superare lo scontro sulla sequenza delle mosse, né se gli Usa riprenderanno gli attacchi dopo il 3 novembre."
+     ],
+     "checks": [
+      {
+       "c": "Trump ha respinto la proposta iraniana in sette giorni",
+       "n": "I titoli di NewsNation, The Hill e CBS concordano."
+      },
+      {
+       "c": "Trump ha chiesto a Vance di avviare colloqui di pace",
+       "n": "Trump lo nega; The Week descrive una lettera inviata su sua indicazione. I resoconti sono in contrasto."
+      },
+      {
+       "c": "Gli Usa hanno detto agli alleati di prepararsi ad attacchi dopo le elezioni di metà mandato",
+       "n": "Riportato da media che citano funzionari Usa; non confermato ufficialmente."
+      }
+     ],
+     "ctx": "Lo Stretto di Hormuz è il braccio di mare stretto da cui passa una larga quota del petrolio trasportato via mare nel mondo. La guerra va avanti da inizio anno. I resoconti della diplomazia riservata sono difficili da verificare e entrambi i governi hanno interesse a orientare la narrazione prima delle elezioni americane.",
+     "media_caps": [
+      "Al Jazeera: l'Iran dice che la diplomazia resta possibile mentre i mediatori discutono un piano",
+      "La copertura in diretta di Al Jazeera sulla guerra in Iran",
+      "Il confronto tra Usa e Iran"
+     ]
+    }
+   }
+  },
+  {
+   "id": 15,
+   "sec": "pol",
+   "time": "13:30",
+   "read": 5,
+   "title": "Russian strikes kill at least 19 in Ukraine, including 14 at the Dnipro railway station",
+   "summary": "Russian daytime strikes on 29 October killed at least 19 people and wounded at least 82, according to Zelensky and a US think tank. A jet-powered drone hit trains at Dnipro station, killing 14. European leaders condemned the attack, and Moscow says talks with the US and Ukraine are expected in Abu Dhabi after 4 November.",
+   "body": [
+    "A jet-powered Russian drone hit two trains stopped at Dnipro's main railway station on Thursday morning, killing 14 people and injuring at least 14, according to the Institute for the Study of War's Critical Threats project. Early reports said 13 dead. Other strikes hit Kremenchuk and Chernihiv; Zelensky put the day's total at 19 dead, and the analysts counted at least 82 injured.",
+    "Ukraine's air force said Russia launched 112 Shahed-type drones overnight, 40 of them jet-powered. Analysts say Moscow is trying to make daily life in Ukraine untenable before winter, using daytime strikes and new weapons such as Banderol quasi-cruise missiles.",
+    "Zelensky called the Dnipro strike horrific and asked the United States, the European Union and the G7 for stronger sanctions. European Commission President Ursula von der Leyen said she was heartbroken, and European Council President António Costa called it cruel and devastating and urged more pressure on Russia.",
+    "On diplomacy, Kremlin aide Yuri Ushakov said talks involving the US, Ukraine and Russia are expected in Abu Dhabi after 4 November, while Russian officials seek to keep European representatives out unless they accept Moscow's demands, including a rollback of NATO to its 1997 borders. Russia said the war must continue after Ukraine's large drone attack on Moscow. Ukraine reported Russian combat losses of 49,040 in October, the highest monthly figure, a claim from Kyiv that cannot be independently verified."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=hPMSMuNK3AE",
+     "cap": "Al Jazeera: Russian drone strike on Dnipro train station",
+     "credit": "Al Jazeera English",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-29t105202z-171827652-rc2ycoaqhtgb-rtrmadp-3-ukraine-crisis-attack-dnipro-train.jpg?c=16x9&q=w_800,c_fill",
+     "cap": "Aftermath of the strike at Dnipro railway station",
+     "credit": "Reuters / CNN"
+    },
+    {
+     "type": "image",
+     "u": "https://www.criticalthreats.org/wp-content/uploads/Russo-Ukrainian-War-October-29-2026.png?t=983952f829bf3f52",
+     "cap": "Map of the front line on 29 October",
+     "credit": "Critical Threats / ISW"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNN",
+     "u": "https://www.cnn.com/2026/10/29/europe/russia-ukraine-strikes-dnipro-train-station-intl",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "France 24",
+     "u": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "Critical Threats, 29 October assessment",
+     "u": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-29-2026",
+     "t": "Think tank"
+    },
+    {
+     "n": "Hürriyet Daily News",
+     "u": "https://www.hurriyetdailynews.com/zelensky-demands-intl-action-after-horrific-russian-railway-strike-228767",
+     "t": "Daily newspaper"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "A Russian jet-powered drone hit trains at Dnipro station, killing at least 13 to 14",
+     "n": "CNN, France 24 and Critical Threats agree; the toll rose from 13 to 14."
+    },
+    {
+     "s": "warn",
+     "c": "Russia lost 49,040 personnel in October",
+     "n": "Ukrainian figure; not independently verified."
+    },
+    {
+     "s": "warn",
+     "c": "Trilateral talks in Abu Dhabi after 4 November",
+     "n": "Stated by a Kremlin aide; no confirmation from Washington or Kyiv in the sources found."
+    }
+   ],
+   "ctx": "Casualty counts after strikes often change in the hours that follow. Figures on military losses come from the Ukrainian side and are not independently verified. The Critical Threats project is a US think tank that publishes daily assessments of the war.",
+   "loop_query": "railway station night emergency",
+   "i18n": {
+    "it": {
+     "title": "Raid russi in Ucraina: almeno 19 morti, di cui 14 alla stazione ferroviaria di Dnipro",
+     "summary": "I raid russi diurni del 29 ottobre hanno ucciso almeno 19 persone e ne hanno ferite almeno 82, secondo Zelensky e un centro studi americano. Un drone a reazione ha colpito dei treni alla stazione di Dnipro, causando 14 morti. I leader europei hanno condannato l'attacco, e Mosca dice che colloqui con Usa e Ucraina sono attesi ad Abu Dhabi dopo il 4 novembre.",
+     "body": [
+      "Un drone russo a reazione ha colpito giovedì mattina due treni fermi alla stazione principale di Dnipro, uccidendo 14 persone e ferendone almeno 14, secondo il progetto Critical Threats dell'Institute for the Study of War. I primi resoconti parlavano di 13 morti. Altri attacchi hanno colpito Kremenchuk e Chernihiv; Zelensky ha indicato 19 morti nella giornata, e gli analisti hanno contato almeno 82 feriti.",
+      "L'aeronautica ucraina ha detto che la Russia ha lanciato di notte 112 droni di tipo Shahed, di cui 40 a reazione. Secondo gli analisti, Mosca cerca di rendere insostenibile la vita quotidiana in Ucraina prima dell'inverno, con attacchi diurni e nuove armi come i missili quasi da crociera Banderol.",
+      "Zelensky ha definito l'attacco a Dnipro orribile e ha chiesto a Stati Uniti, Unione europea e G7 sanzioni più dure. La presidente della Commissione europea Ursula von der Leyen si è detta con il cuore spezzato, e il presidente del Consiglio europeo António Costa lo ha definito crudele e devastante, chiedendo più pressione sulla Russia.",
+      "Sul piano diplomatico, il consigliere del Cremlino Yuri Ushakov ha detto che colloqui tra Usa, Ucraina e Russia sono attesi ad Abu Dhabi dopo il 4 novembre, mentre i funzionari russi cercano di tenere fuori i rappresentanti europei a meno che accettino le richieste di Mosca, tra cui il ritiro della Nato ai confini del 1997. La Russia ha detto che la guerra deve continuare dopo il grande attacco di droni ucraini su Mosca. L'Ucraina ha riferito perdite di combattimento russe di 49.040 uomini in ottobre, il dato mensile più alto, una cifra di Kiev che non può essere verificata in modo indipendente."
+     ],
+     "checks": [
+      {
+       "c": "Un drone russo a reazione ha colpito dei treni alla stazione di Dnipro, uccidendo almeno 13-14 persone",
+       "n": "CNN, France 24 e Critical Threats concordano; il bilancio è salito da 13 a 14."
+      },
+      {
+       "c": "La Russia ha perso 49.040 uomini in ottobre",
+       "n": "Dato ucraino; non verificato in modo indipendente."
+      },
+      {
+       "c": "Colloqui trilaterali ad Abu Dhabi dopo il 4 novembre",
+       "n": "Dichiarato da un consigliere del Cremlino; nessuna conferma da Washington o Kiev nelle fonti trovate."
+      }
+     ],
+     "ctx": "Il bilancio delle vittime dopo un attacco spesso cambia nelle ore successive. I dati sulle perdite militari vengono dalla parte ucraina e non sono verificati in modo indipendente. Critical Threats è un centro studi americano che pubblica valutazioni quotidiane sulla guerra.",
+     "media_caps": [
+      "Al Jazeera: attacco di un drone russo alla stazione ferroviaria di Dnipro",
+      "Le conseguenze dell'attacco alla stazione di Dnipro",
+      "Mappa della linea del fronte al 29 ottobre"
+     ]
+    }
+   }
+  },
+  {
+   "id": 16,
+   "sec": "inn",
+   "time": "17:00",
+   "read": 4,
+   "title": "NASA stacks the Artemis III rocket as ESA astronaut Luca Parmitano prepares for a 2027 test flight",
+   "summary": "On 28 October NASA joined the core stage of the Space Launch System rocket to its two boosters at Kennedy Space Center, forming the short stack for Artemis III. The four-person crew, including Europe's Luca Parmitano, will test docking with commercial lunar landers in Earth orbit, with launch planned for summer 2027.",
+   "body": [
+    "NASA teams integrated the SLS core stage with the twin solid rocket boosters in High Bay 3 of the Vehicle Assembly Building on 28 October, completing the short stack configuration. After testing, the stack will go to Launch Pad 39B for a tanking test, loading liquid hydrogen and liquid oxygen while rehearsing the countdown.",
+    "Artemis III is no longer the first landing mission. It will carry NASA astronauts Randy Bresnik, Frank Rubio and Andre Douglas and the European Space Agency's Luca Parmitano in the Orion capsule to low Earth orbit, to test rendezvous and docking with commercial spacecraft from Blue Origin and SpaceX before future Moon landings.",
+    "Space.com reports the crew met President Trump at the White House on 28 October and that launch is planned for the summer of 2027 if all goes to plan. NASA's article did not give a launch date.",
+    "What to watch: the tanking test results, readiness of the commercial landers, and any schedule slips. For European readers, Parmitano's seat shows Europe's role in Orion, whose service module is built in Europe."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=bIdO9dXpom4",
+     "cap": "NASA joins the Artemis III core stage to its boosters",
+     "credit": "NASA footage"
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.mos.cms.futurecdn.net/54fSmWhNnaSojscHCvLYrh-2560-80.jpg",
+     "cap": "Artemis III astronauts at the White House",
+     "credit": "Space.com"
+    },
+    {
+     "type": "image",
+     "u": "https://www.sciencedaily.com/images/1920/nasa-orion-capsule-in-lunar-orbit.webp",
+     "cap": "Orion capsule in lunar orbit (illustration)",
+     "credit": "NASA / ScienceDaily"
+    }
+   ],
+   "sources": [
+    {
+     "n": "NASA",
+     "u": "https://nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy",
+     "t": "Space agency"
+    },
+    {
+     "n": "Space.com, crew at the White House",
+     "u": "https://space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Space.com, Artemis III plan",
+     "u": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
+     "t": "Specialist outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "SLS core stage was joined to the boosters on 28 October",
+     "n": "NASA's own article and secondary coverage agree."
+    },
+    {
+     "s": "warn",
+     "c": "Launch planned for summer 2027",
+     "n": "Reported by Space.com; NASA's article gave no date and schedules often slip."
+    }
+   ],
+   "ctx": "The Space Launch System is NASA's heavy rocket for Orion. A short stack is the partly assembled rocket before the upper stage and spacecraft are added. Launch dates in human spaceflight often slip; the summer 2027 target is a plan, not a commitment.",
+   "loop_query": "rocket launch pad nasa",
+   "i18n": {
+    "it": {
+     "title": "La Nasa impila il razzo di Artemis III, e l'astronauta Esa Luca Parmitano si prepara al volo di prova del 2027",
+     "summary": "Il 28 ottobre la Nasa ha unito lo stadio centrale del razzo Space Launch System ai due booster al Kennedy Space Center, formando il cosiddetto short stack per Artemis III. L'equipaggio di quattro persone, tra cui l'europeo Luca Parmitano, proverà l'aggancio con i lander lunari commerciali in orbita terrestre, con lancio previsto nell'estate 2027.",
+     "body": [
+      "I tecnici della Nasa hanno integrato lo stadio centrale dell'SLS con i due booster a propellente solido nella High Bay 3 del Vehicle Assembly Building il 28 ottobre, completando la configurazione short stack. Dopo i test, il razzo sarà portato alla rampa 39B per una prova di rifornimento, caricando idrogeno e ossigeno liquidi e simulando il conto alla rovescia.",
+      "Artemis III non è più la prima missione di allunaggio. Porterà gli astronauti Nasa Randy Bresnik, Frank Rubio e Andre Douglas e Luca Parmitano dell'Agenzia spaziale europea nella capsula Orion in orbita terrestre bassa, per provare l'incontro e l'aggancio con veicoli commerciali di Blue Origin e SpaceX prima dei futuri allunaggi.",
+      "Space.com riferisce che l'equipaggio ha incontrato il presidente Trump alla Casa Bianca il 28 ottobre e che il lancio è previsto per l'estate 2027 se tutto va secondo i piani. L'articolo della Nasa non indicava una data di lancio.",
+      "Cosa seguire: i risultati della prova di rifornimento, la prontezza dei lander commerciali ed eventuali ritardi. Per i lettori europei, il posto di Parmitano mostra il ruolo dell'Europa in Orion, il cui modulo di servizio è costruito in Europa."
+     ],
+     "checks": [
+      {
+       "c": "Lo stadio centrale dell'SLS è stato unito ai booster il 28 ottobre",
+       "n": "L'articolo della Nasa e la copertura secondaria concordano."
+      },
+      {
+       "c": "Lancio previsto per l'estate 2027",
+       "n": "Riportato da Space.com; l'articolo della Nasa non indica una data e i calendari spesso slittano."
+      }
+     ],
+     "ctx": "Lo Space Launch System è il razzo pesante della Nasa per Orion. Lo short stack è il razzo parzialmente assemblato, prima dell'aggiunta dello stadio superiore e della navicella. Le date dei voli umani spesso slittano: l'estate 2027 è un obiettivo, non un impegno.",
+     "media_caps": [
+      "La Nasa unisce lo stadio centrale di Artemis III ai booster",
+      "Gli astronauti di Artemis III alla Casa Bianca",
+      "La capsula Orion in orbita lunare (illustrazione)"
+     ]
+    }
+   }
+  },
+  {
+   "id": 17,
+   "sec": "inn",
+   "time": "09:30",
+   "read": 4,
+   "title": "Artemis I crystal detectors show radiation near the Moon was lower than feared",
+   "summary": "Tiny lithium fluoride crystals flown around the Moon on Artemis I measured cosmic radiation inside the Orion capsule. Polish physicists report the dose exceeded Earth-orbit levels but was less dramatic than expected, because the Van Allen belts do not reach lunar distance. The results help plan crewed lunar flights.",
+   "body": [
+    "On the uncrewed Artemis I mission in late 2022, Orion carried more than 10,000 tiny crystals inside two human-shaped mannequins. They included several dozen experimental fluorescent lithium fluoride detectors and nearly 600 thermoluminescent detectors, part of the Matroshka AstroRad Radiation Experiment.",
+    "The study, published in Radiation Measurements in 2026, volume 198, article 107806, by researchers at the Institute of Nuclear Physics of the Polish Academy of Sciences in Kraków, reports that the lithium fluoride readings differed by no more than 15 percent from conventional detectors.",
+    "The main finding: the Van Allen radiation belts, which contribute much of the dose in low Earth orbit, do not extend to lunar distance. Near the Moon, galactic cosmic radiation dominates. Because its high-energy particles pass through the body fairly uniformly, the doses were distributed almost evenly through the mannequins, unlike the uneven pattern seen in a space station experiment, and the overall difference was smaller than expected.",
+    "What this does not tell us: it is one uncrewed flight lasting about a month, so it does not cover solar storms during a longer mission. The data help refine shielding and crew protection for Artemis flights to the lunar surface."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=mT7akpptq5I",
+     "cap": "Related: new Moon radiation data for astronaut safety",
+     "credit": "60 Second Science"
+    },
+    {
+     "type": "image",
+     "u": "https://www.sciencedaily.com/images/1920/nasa-orion-capsule-in-lunar-orbit.webp",
+     "cap": "NASA Orion capsule in lunar orbit",
+     "credit": "NASA / ScienceDaily"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ScienceDaily",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+     "t": "Science news aggregator"
+    },
+    {
+     "n": "SciTechDaily",
+     "u": "https://scitechdaily.com/nasas-artemis-i-reveals-a-surprising-radiation-mystery-near-the-moon/",
+     "t": "Science news"
+    },
+    {
+     "n": "Bioengineer.org",
+     "u": "https://bioengineer.org/crystal-detectors-reveal-cosmic-radiation-doses-near-the-moon-on-artemis-i/",
+     "t": "Science news"
+    },
+    {
+     "n": "The Daily Galaxy",
+     "u": "https://dailygalaxy.com/2026/10/crystals-around-the-moon-space-radiation/",
+     "t": "Science news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Detector readings differed by no more than 15 percent from conventional detectors",
+     "n": "Stated in the study summary carried by ScienceDaily and others."
+    },
+    {
+     "s": "warn",
+     "c": "Radiation was less dramatic than expected",
+     "n": "Based on the authors' interpretation via press releases; the paper itself was not opened."
+    }
+   ],
+   "ctx": "Radiation dose in space comes from galactic cosmic rays, solar particles and trapped particles in planetary belts. Passive detectors such as crystals store a record of exposure that is read in the lab after the flight. The work was supported by Poland's National Science Centre.",
+   "loop_query": "space capsule moon orbit",
+   "i18n": {
+    "it": {
+     "title": "Artemis I: i cristalli rivelatori mostrano che la radiazione vicino alla Luna è più bassa del temuto",
+     "summary": "Minuscoli cristalli di fluoruro di litio portati attorno alla Luna con Artemis I hanno misurato la radiazione cosmica dentro la capsula Orion. I fisici polacchi riferiscono che la dose supera quella dell'orbita terrestre ma è meno drammatica del previsto, perché le fasce di Van Allen non arrivano alla distanza lunare. I risultati aiutano a pianificare i voli lunari con equipaggio.",
+     "body": [
+      "Nella missione senza equipaggio Artemis I, a fine 2022, Orion ha portato oltre 10.000 minuscoli cristalli dentro due manichini a forma umana. Tra questi c'erano diverse decine di rivelatori sperimentali fluorescenti di fluoruro di litio e quasi 600 rivelatori termoluminescenti, parte dell'esperimento Matroshka AstroRad Radiation Experiment.",
+      "Lo studio, pubblicato su Radiation Measurements nel 2026, volume 198, articolo 107806, dai ricercatori dell'Istituto di fisica nucleare dell'Accademia polacca delle scienze a Cracovia, riferisce che le letture del fluoruro di litio differivano al massimo del 15 per cento da quelle dei rivelatori convenzionali.",
+      "Il risultato principale: le fasce di radiazione di Van Allen, che contribuiscono molto alla dose in orbita terrestre bassa, non arrivano alla distanza lunare. Vicino alla Luna domina la radiazione cosmica galattica. Poiché le sue particelle ad alta energia attraversano il corpo in modo abbastanza uniforme, le dosi erano distribuite quasi in modo omogeneo nei manichini, a differenza dello schema irregolare visto in un esperimento sulla stazione spaziale, e la differenza complessiva è risultata minore del previsto.",
+      "Cosa non ci dice: è un solo volo senza equipaggio durato circa un mese, quindi non copre le tempeste solari durante una missione più lunga. I dati aiutano a perfezionare schermature e protezione dell'equipaggio per i voli Artemis verso la superficie lunare."
+     ],
+     "checks": [
+      {
+       "c": "Le letture dei rivelatori differivano al massimo del 15 per cento da quelle convenzionali",
+       "n": "Indicato nel riassunto dello studio di ScienceDaily e altri."
+      },
+      {
+       "c": "La radiazione è risultata meno drammatica del previsto",
+       "n": "Basato sull'interpretazione degli autori nei comunicati; l'articolo scientifico non è stato aperto."
+      }
+     ],
+     "ctx": "La dose di radiazione nello spazio viene da raggi cosmici galattici, particelle solari e particelle intrappolate nelle fasce dei pianeti. I rivelatori passivi come i cristalli conservano una traccia dell'esposizione che si legge in laboratorio dopo il volo. Il lavoro è stato sostenuto dal Centro nazionale della scienza polacco.",
+     "media_caps": [
+      "Related: nuovi dati sulla radiazione lunare per la sicurezza degli astronauti",
+      "La capsula Orion della Nasa in orbita lunare"
+     ]
+    }
+   }
+  },
+  {
+   "id": 18,
+   "sec": "biz",
+   "time": "14:45",
+   "read": 5,
+   "title": "ECB holds rates at 2.5 percent as energy prices bite, and Lagarde says she will leave in February",
+   "summary": "The European Central Bank kept its deposit rate at 2.5 percent on 29 October, warning that higher energy prices raise inflation risks and cut growth. Separately, Christine Lagarde announced she will step down on 7 February 2027, eight months early, giving EU leaders time to choose a successor before France's presidential election.",
+   "body": [
+    "The Governing Council left the deposit facility rate at 2.50 percent, the main refinancing rate at 2.65 percent and the marginal lending rate at 2.90 percent. It said energy prices keep rising, with upside risks to inflation and downside risks to growth, while underlying inflation is broadly stable and wages show no material response yet. It declined to pre-commit to a rate path and will decide meeting by meeting.",
+    "Euro area inflation hit 3.8 percent in September, up from 3.2 percent in August, according to Eurostat. Lagarde said the council discussed a rate rise but agreed unanimously to hold, and futures pricing cited by a market site put the chance of a quarter-point hike in December at about 82 percent. That market estimate is not an ECB forecast.",
+    "Lagarde said she will leave on 7 February 2027, almost nine months before her term ends in October 2027. She said she wants to engage on issues beyond the central bank's mandate. Media link the timing to the French presidential election next spring, where polls show Marine Le Pen ahead, since an exit now lets Emmanuel Macron take part in choosing the successor. European Council President António Costa said the search starts immediately.",
+    "Former Dutch central bank chief Klaas Knot and ex-Bank of Spain governor Pablo Hernández de Cos are seen as leading candidates, and other board seats, including those of Isabel Schnabel and Philip Lane, may be part of a wider package. Right-wing critics called the move disrespectful of institutional independence, while supporters praised her sense of responsibility. Markets reacted little. This is not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=UKfezJAxgm8",
+     "cap": "Euronews: Lagarde to step down as ECB president in February",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251879450.jpg?c=16x9&q=w_800,c_fill",
+     "cap": "Christine Lagarde, president of the European Central Bank",
+     "credit": "Getty Images / CNN"
+    },
+    {
+     "type": "image",
+     "u": "https://i.abcnewsfe.com/a/28b3d2e9-5288-4100-ad21-9691f9531246/wirestory_c657d818e8f487f2ce990fe57ba55d4a_16x9.jpg?w=1600",
+     "cap": "Lagarde announces her early departure",
+     "credit": "AP / ABC News"
+    },
+    {
+     "type": "image",
+     "u": "https://www.thenationalnews.com/resizer/v2/2QOMCRUXXUHJHXVKASWMWLHQFA.jpg?auth=146cf2df22696293d3e2cb585fde96843632d574ec0f95363ec6955466a12fc4&smart=true&width=1200&height=630",
+     "cap": "The ECB leadership change",
+     "credit": "The National"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ECB press release",
+     "u": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+     "t": "Central bank"
+    },
+    {
+     "n": "Eurostat flash estimate",
+     "u": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+     "t": "Official statistics"
+    },
+    {
+     "n": "RTE",
+     "u": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/",
+     "t": "Public broadcaster"
+    },
+    {
+     "n": "CNN",
+     "u": "https://www.cnn.com/2026/10/29/business/christine-lagarde-ecb-president-resigns-intl",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "ABC News / AP",
+     "u": "https://abcnews.com/International/wireStory/european-central-bank-head-resigns-allowing-eu-leaders-to-choose-successor-before-french-election-137667888",
+     "t": "Wire service"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "ECB kept rates at 2.50, 2.65 and 2.90 percent",
+     "n": "Primary document: the ECB press release."
+    },
+    {
+     "s": "ok",
+     "c": "Lagarde will leave on 7 February 2027",
+     "n": "RTE, CNN, ABC and CNBC report the date."
+    },
+    {
+     "s": "warn",
+     "c": "About 82 percent market odds of a December hike",
+     "n": "Figure from a market data site; not an official forecast and not verified with a primary source."
+    },
+    {
+     "s": "warn",
+     "c": "Lagarde left early to let Macron help pick her successor",
+     "n": "Press interpretation; Lagarde herself cited wanting to speak on issues beyond the ECB mandate."
+    }
+   ],
+   "ctx": "The deposit facility rate is the ECB's main policy rate. A hold means no change. The ECB president is chosen by EU leaders after consulting the European Parliament. The reasons for Lagarde's early exit are her own statement plus press interpretation; the political reading is not confirmed by the ECB.",
+   "loop_query": "central bank building frankfurt",
+   "i18n": {
+    "it": {
+     "title": "La Bce lascia i tassi al 2,5 per cento per il caro energia, e Lagarde annuncia l'addio a febbraio",
+     "summary": "La Banca centrale europea ha lasciato il tasso sui depositi al 2,5 per cento il 29 ottobre, avvertendo che i prezzi dell'energia più alti aumentano i rischi per l'inflazione e frenano la crescita. Separatamente, Christine Lagarde ha annunciato che lascerà il 7 febbraio 2027, otto mesi prima, dando ai leader Ue il tempo di scegliere il successore prima delle presidenziali francesi.",
+     "body": [
+      "Il Consiglio direttivo ha lasciato il tasso sui depositi al 2,50 per cento, quello sulle operazioni di rifinanziamento principali al 2,65 e quello sui prestiti marginali al 2,90. Ha detto che i prezzi dell'energia continuano a salire, con rischi al rialzo per l'inflazione e al ribasso per la crescita, mentre l'inflazione di fondo è sostanzialmente stabile e i salari non mostrano per ora una risposta rilevante. Ha rifiutato di impegnarsi su un percorso dei tassi e deciderà riunione per riunione.",
+      "L'inflazione nell'area euro è salita al 3,8 per cento a settembre, dal 3,2 di agosto, secondo Eurostat. Lagarde ha detto che il Consiglio ha discusso un rialzo ma ha deciso all'unanimità di restare fermo, e i future citati da un sito di mercato indicano una probabilità di circa l'82 per cento di un rialzo di un quarto di punto a dicembre. Quella stima di mercato non è una previsione della Bce.",
+      "Lagarde ha detto che lascerà il 7 febbraio 2027, quasi nove mesi prima della fine del mandato, a ottobre 2027. Ha spiegato che vuole occuparsi di temi oltre il mandato della banca centrale. I media collegano i tempi alle presidenziali francesi della prossima primavera, dove i sondaggi vedono in testa Marine Le Pen, perché un'uscita ora permette a Emmanuel Macron di partecipare alla scelta del successore. Il presidente del Consiglio europeo António Costa ha detto che la ricerca inizia subito.",
+      "L'ex governatore della banca centrale olandese Klaas Knot e l'ex governatore della Banca di Spagna Pablo Hernández de Cos sono considerati i candidati principali, e altri posti nel comitato esecutivo, tra cui quelli di Isabel Schnabel e Philip Lane, potrebbero rientrare in un pacchetto più ampio. I critici di destra hanno definito la mossa irrispettosa dell'indipendenza istituzionale, mentre i sostenitori hanno lodato il senso di responsabilità. I mercati hanno reagito poco. Non è un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "La Bce ha lasciato i tassi a 2,50, 2,65 e 2,90 per cento",
+       "n": "Documento primario: il comunicato della Bce."
+      },
+      {
+       "c": "Lagarde lascerà il 7 febbraio 2027",
+       "n": "RTE, CNN, ABC e CNBC riportano la data."
+      },
+      {
+       "c": "Circa l'82 per cento di probabilità di mercato di un rialzo a dicembre",
+       "n": "Cifra di un sito di dati di mercato; non è una previsione ufficiale né verificata con una fonte primaria."
+      },
+      {
+       "c": "Lagarde se ne va prima per far scegliere il successore anche a Macron",
+       "n": "Interpretazione della stampa; Lagarde ha citato il desiderio di occuparsi di temi oltre il mandato della Bce."
+      }
+     ],
+     "ctx": "Il tasso sui depositi è il principale tasso di politica monetaria della Bce. Lasciare i tassi invariati significa nessuna modifica. Il presidente della Bce è scelto dai leader Ue dopo aver sentito il Parlamento europeo. I motivi dell'uscita anticipata di Lagarde sono la sua dichiarazione più l'interpretazione della stampa; la lettura politica non è confermata dalla Bce.",
+     "media_caps": [
+      "Euronews: Lagarde lascerà la presidenza della Bce a febbraio",
+      "Christine Lagarde, presidente della Banca centrale europea",
+      "Lagarde annuncia l'uscita anticipata",
+      "Il cambio al vertice della Bce"
+     ]
+    }
+   }
+  },
+  {
+   "id": 19,
+   "sec": "biz",
+   "time": "15:00",
+   "read": 5,
+   "title": "Alphabet suffers its worst day ever as AI spending erases cash flow; Microsoft and Meta hold up",
+   "summary": "Alphabet shares fell about 13 percent on 29 October, wiping out roughly 500 billion dollars, after earnings per share missed forecasts and free cash flow turned negative again. Microsoft rose on strong cloud growth. Asian tech and chip stocks then fell on Friday on worries that AI spending may not pay off.",
+   "body": [
+    "Alphabet reported third-quarter revenue of 127.58 billion dollars, up 25 percent, with Google Cloud revenue up 103 percent to 30.7 billion. But earnings per share of 2.12 dollars fell short of forecasts, and free cash flow was negative 9.1 billion dollars. It kept its 2026 capital spending guidance at 195 to 205 billion dollars. CNBC called it the stock's worst day ever.",
+    "Microsoft beat expectations, with Azure up 48 percent and shares up about 2.6 percent, and did not raise its spending outlook; one report cites 170 billion dollars. Meta rose after lifting the low end of its 2026 spending plan to 135 to 145 billion dollars. Amazon reported after the close with earnings per share of 1.89 dollars, below forecasts, cloud growth of 39 percent and capex of 220 billion dollars; its shares fell about 6 percent in extended trading, according to a report.",
+    "The mood carried into Asia on Friday: tech shares slumped on worries that huge and rising AI spending may not deliver sufficient returns. One analysis site said Asian AI chip stocks fell nearly 10 percent and South Korea's KOSPI lost 5.7 percent, a figure we could not confirm elsewhere.",
+    "What to watch: whether investors punish heavy spending without matching cash generation, and the next quarter's capex guidance. This is a market report, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=O6PLRidFios",
+     "cap": "Bloomberg: Microsoft and Alphabet earnings put focus on AI cash flow drain",
+     "credit": "Bloomberg",
+     "start": 20,
+     "end": 60
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
+     "cap": "Alphabet shares fell after earnings",
+     "credit": "Getty Images / CNBC"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108084419-1736449342986-Side_by_Side_template.jpg?v=1736449542&w=1920&h=1080",
+     "cap": "Google and Microsoft capex forecasts",
+     "credit": "CNBC"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNBC, worst day ever",
+     "u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "CNBC, capex",
+     "u": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "24/7 Wall St.",
+     "u": "https://247wallst.com/investing/2026/10/29/alphabet-sinks-11-as-ai-spending-pushes-cash-flow-negative-again-microsoft-and-meta-edge-higher-amazon-slips/",
+     "t": "Financial news"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "FourWeekMBA",
+     "u": "https://fourweekmba.com/ai-asias-ai-chip-stocks-fell-nearly-10-as-kospi-lost-5-7/",
+     "t": "Analysis site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Alphabet fell about 13 percent, its worst day ever, on 29 October",
+     "n": "CNBC and Yahoo Finance report the move; early indications were 11 percent."
+    },
+    {
+     "s": "ok",
+     "c": "Alphabet revenue 127.58 billion dollars, free cash flow negative",
+     "n": "Two financial outlets agree on revenue and negative cash flow."
+    },
+    {
+     "s": "warn",
+     "c": "Asian AI chip stocks fell nearly 10 percent and KOSPI lost 5.7 percent",
+     "n": "Single analysis site; not confirmed by an exchange or wire report we could open."
+    }
+   ],
+   "ctx": "Capital expenditure, or capex, is money spent on buildings and equipment, here mainly data centres and chips. Free cash flow is cash left after capex. Stock moves in a single day can overshoot, and premarket and final numbers differ: one outlet had Alphabet down 11 percent early, then 13 percent at the close.",
+   "loop_query": "stock market crash trading floor",
+   "i18n": {
+    "it": {
+     "title": "Alphabet, peggior giorno di sempre in Borsa: la spesa in IA azzera la cassa; reggono Microsoft e Meta",
+     "summary": "Le azioni di Alphabet sono scese di circa il 13 per cento il 29 ottobre, bruciando circa 500 miliardi di dollari, dopo che l'utile per azione ha mancato le attese e il flusso di cassa libero è tornato negativo. Microsoft è salita grazie alla forte crescita del cloud. Venerdì i titoli tecnologici e dei chip in Asia sono poi calati per il timore che la spesa in IA non ripaghi.",
+     "body": [
+      "Alphabet ha riportato ricavi del terzo trimestre di 127,58 miliardi di dollari, in crescita del 25 per cento, con i ricavi di Google Cloud in aumento del 103 per cento a 30,7 miliardi. Ma l'utile per azione di 2,12 dollari è stato inferiore alle attese e il flusso di cassa libero è stato negativo per 9,1 miliardi di dollari. Ha mantenuto la previsione di investimenti 2026 a 195-205 miliardi di dollari. La CNBC ha definito quella di giovedì la peggior giornata di sempre per il titolo.",
+      "Microsoft ha battuto le attese, con Azure in crescita del 48 per cento e azioni in rialzo di circa il 2,6 per cento, e non ha alzato le previsioni di spesa; un resoconto cita 170 miliardi di dollari. Meta è salita dopo aver alzato il minimo del piano di spesa 2026 a 135-145 miliardi di dollari. Amazon ha riferito a mercati chiusi con un utile per azione di 1,89 dollari, sotto le attese, crescita del cloud del 39 per cento e investimenti per 220 miliardi di dollari; le azioni sono scese di circa il 6 per cento nelle contrattazioni dopo la chiusura, secondo un resoconto.",
+      "Il clima si è trasferito in Asia venerdì: i titoli tecnologici sono crollati per il timore che la spesa enorme e crescente in IA non porti ritorni sufficienti. Un sito di analisi ha scritto che i titoli asiatici dei chip per l'IA sono calati di quasi il 10 per cento e il Kospi sudcoreano ha perso il 5,7 per cento, un dato che non abbiamo potuto confermare altrove.",
+      "Cosa seguire: se gli investitori puniranno le spese elevate senza una pari generazione di cassa, e le previsioni di investimenti del prossimo trimestre. Questo è un resoconto di mercato, non un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Alphabet è scesa di circa il 13 per cento, la peggiore giornata di sempre, il 29 ottobre",
+       "n": "CNBC e Yahoo Finance riportano il calo; le prime indicazioni parlavano dell'11 per cento."
+      },
+      {
+       "c": "Ricavi di Alphabet 127,58 miliardi di dollari, flusso di cassa libero negativo",
+       "n": "Due testate finanziarie concordano su ricavi e flusso di cassa negativo."
+      },
+      {
+       "c": "I titoli asiatici dei chip per l'IA sono calati di quasi il 10 per cento e il Kospi ha perso il 5,7 per cento",
+       "n": "Un solo sito di analisi; non confermato da una Borsa o da un'agenzia che abbiamo potuto aprire."
+      }
+     ],
+     "ctx": "Le spese in conto capitale, o capex, sono i soldi spesi per edifici e attrezzature, qui soprattutto data center e chip. Il flusso di cassa libero è la liquidità che resta dopo il capex. Le variazioni di Borsa in un solo giorno possono essere eccessive, e i dati pre-apertura e di chiusura differiscono: una testata aveva Alphabet in calo dell'11 per cento in avvio, poi del 13 alla chiusura.",
+     "media_caps": [
+      "Bloomberg: i conti di Microsoft e Alphabet mettono al centro l'assorbimento di cassa dell'IA",
+      "Le azioni di Alphabet sono scese dopo i conti",
+      "Le previsioni di capex di Google e Microsoft"
+     ]
+    }
+   }
+  },
+  {
+   "id": 20,
+   "sec": "lav",
+   "time": "11:00",
+   "read": 5,
+   "title": "Microsoft offers voluntary buyouts to about 60,000 staff as non-tech firms hire laid-off engineers",
+   "summary": "Microsoft told around 60,000 employees in the US, UK, Canada and India, about a quarter of its workforce, that they can take voluntary exit packages. Microsoft says AI is not the driver, but the move comes as tech layoffs pass 135,000 this year. CNBC reports banks, healthcare firms and others are now outbidding tech for software engineers.",
+   "body": [
+    "In a memo on 26 October, Chief People Officer Amy Coleman offered buyouts to employees at level 70 and below, roughly up to vice president, in the US, UK, Canada and India. Teams including Xbox, Windows, Copilot and Finance take part; data centre, sales and marketing staff are excluded in some reports. Employees have until early December to decide and would leave in December. Severance is described as in line with Microsoft's standard package.",
+    "Microsoft employed about 223,000 people in June, so 60,000 is nearly 27 percent. An earlier voluntary retirement programme saw more than 30 percent of the roughly 8,750 eligible people accept; Microsoft expects lower take-up this time. The company told staff AI is not driving the programme, though reports describe it as restructuring for the AI age.",
+    "The wider picture: Layoffs.fyi counts 135,446 tech layoffs at 333 companies by 28 October, about 450 a day, already above all of 2025, and another tracker counts 183,278 AI-related layoffs across 52 companies. At the same time CNBC reports that banks, healthcare and other non-tech employers are outbidding tech firms for software engineers, with 55 percent of surveyed non-tech organisations recruiting after tech layoffs, while AI specialists are rarely out of work for long.",
+    "For a young engineer, the message is that big-tech headcount is shrinking in routine roles while AI skills and sectors outside tech are hiring. Practical steps: build AI and data skills, consider banks, healthcare and industry, and read job offers for the actual team and level. These figures come from trackers, not official statistics."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
+     "cap": "Bloomberg Tech: Microsoft offers buyouts to 60,000 employees",
+     "credit": "Bloomberg Tech",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.geekwire.com/wp-content/uploads/2026/10/microsoft-voluntary-exit-offer.jpg",
+     "cap": "Microsoft's voluntary exit offer",
+     "credit": "GeekWire"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+     "cap": "Microsoft offices",
+     "credit": "Getty Images / CNBC"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108167980-1751639150622-gettyimages-2210368385-mfu_1991.jpeg?v=1771553945&w=1920&h=1080",
+     "cap": "Software engineers at work",
+     "credit": "Getty Images / CNBC"
+    }
+   ],
+   "sources": [
+    {
+     "n": "TechCrunch",
+     "u": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "KUOW / NPR",
+     "u": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+     "t": "Public radio"
+    },
+    {
+     "n": "GeekWire",
+     "u": "https://www.geekwire.com/2026/microsoft-makes-new-voluntary-exit-offer-to-more-than-a-quarter-of-its-workforce-including-some-execs/",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "CNBC, buyouts",
+     "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "CNBC, non-tech hiring",
+     "u": "https://www.cnbc.com/2026/10/29/ai-jobs-software-engineers-tech-layoffs.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "Pin, tech job market report",
+     "u": "https://www.pin.com/blog/tech-job-market-report/",
+     "t": "Recruiting platform"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Microsoft is offering voluntary buyouts to about 60,000 employees",
+     "n": "TechCrunch, KUOW, GeekWire and CNBC agree."
+    },
+    {
+     "s": "warn",
+     "c": "AI is not driving the programme",
+     "n": "Microsoft's stated position per KUOW; other outlets frame it as restructuring for the AI age."
+    },
+    {
+     "s": "warn",
+     "c": "135,446 tech layoffs by 28 October and 55 percent of non-tech firms hiring",
+     "n": "Tracker and survey figures reported by secondary sources, not official statistics."
+    }
+   ],
+   "ctx": "A voluntary buyout lets employees choose to leave with a payment, unlike a layoff. Layoff trackers rely on press reports and company filings, so totals differ. Microsoft's denial that AI drives the programme and press framing of AI-driven cuts are both stated positions, not proven causes.",
+   "loop_query": "office workers laptops tech company",
+   "i18n": {
+    "it": {
+     "title": "Microsoft offre buonuscite a circa 60.000 dipendenti, mentre le aziende non tech assumono ingegneri",
+     "summary": "Microsoft ha detto a circa 60.000 dipendenti negli Usa, nel Regno Unito, in Canada e in India, circa un quarto della forza lavoro, che possono accettare pacchetti di uscita volontaria. Microsoft dice che l'IA non è la causa, ma la mossa arriva mentre i licenziamenti nella tecnologia superano quota 135.000 quest'anno. La CNBC riferisce che banche, sanità e altri stanno superando le big tech nelle offerte agli ingegneri del software.",
+     "body": [
+      "In un memo del 26 ottobre, la responsabile del personale Amy Coleman ha offerto buonuscite ai dipendenti di livello 70 e inferiore, grosso modo fino al vicepresidente, negli Usa, nel Regno Unito, in Canada e in India. Partecipano team come Xbox, Windows, Copilot e Finanza; secondo alcuni resoconti sono esclusi i dipendenti dei data center, delle vendite e del marketing. I dipendenti hanno tempo fino a inizio dicembre per decidere e uscirebbero a dicembre. Il trattamento di fine rapporto è descritto in linea con il pacchetto standard di Microsoft.",
+      "Microsoft aveva circa 223.000 dipendenti a giugno, quindi 60.000 sono quasi il 27 per cento. In un precedente programma di pensionamento volontario ha accettato più del 30 per cento dei circa 8.750 aventi diritto; Microsoft prevede un'adesione minore stavolta. L'azienda ha detto ai dipendenti che l'IA non guida il programma, anche se i resoconti lo descrivono come una ristrutturazione per l'era dell'IA.",
+      "Il quadro più ampio: Layoffs.fyi conta 135.446 licenziamenti nella tecnologia in 333 aziende al 28 ottobre, circa 450 al giorno, già più di tutto il 2025, e un altro tracker conta 183.278 licenziamenti legati all'IA in 52 aziende. Allo stesso tempo la CNBC riferisce che banche, sanità e altri datori non tech stanno superando le aziende tecnologiche nelle offerte agli ingegneri del software, con il 55 per cento delle organizzazioni non tech intervistate che assume dopo i licenziamenti nella tecnologia, mentre gli specialisti di IA restano raramente a lungo senza lavoro.",
+      "Per un giovane ingegnere il messaggio è che gli organici delle big tech si riducono nei ruoli di routine mentre competenze di IA e settori fuori dalla tecnologia assumono. Passi pratici: costruire competenze di IA e dati, considerare banche, sanità e industria, e leggere le offerte guardando team e livello reali. Questi numeri vengono da tracker, non da statistiche ufficiali."
+     ],
+     "checks": [
+      {
+       "c": "Microsoft offre buonuscite volontarie a circa 60.000 dipendenti",
+       "n": "TechCrunch, KUOW, GeekWire e CNBC concordano."
+      },
+      {
+       "c": "L'IA non è all'origine del programma",
+       "n": "Posizione dichiarata da Microsoft secondo KUOW; altre testate lo descrivono come ristrutturazione per l'era dell'IA."
+      },
+      {
+       "c": "135.446 licenziamenti tech al 28 ottobre e 55 per cento delle aziende non tech che assumono",
+       "n": "Cifre di tracker e sondaggi riportate da fonti secondarie, non statistiche ufficiali."
+      }
+     ],
+     "ctx": "Una buonuscita volontaria permette ai dipendenti di scegliere di andarsene con un pagamento, a differenza di un licenziamento. I tracker dei licenziamenti si basano su notizie di stampa e documenti societari, quindi i totali differiscono. La smentita di Microsoft sul ruolo dell'IA e la lettura della stampa di tagli guidati dall'IA sono posizioni dichiarate, non cause provate.",
+     "media_caps": [
+      "Bloomberg Tech: Microsoft offre buonuscite a 60.000 dipendenti",
+      "L'offerta di uscita volontaria di Microsoft",
+      "Gli uffici di Microsoft",
+      "Ingegneri del software al lavoro"
+     ]
+    }
+   }
+  },
+  {
+   "id": 21,
+   "sec": "lav",
+   "time": "11:00",
+   "read": 4,
+   "title": "Euro area unemployment steady at 6.5 percent in September, but youth joblessness rises to 15.4 percent",
+   "summary": "Eurostat says the euro area unemployment rate was 6.5 percent in September, unchanged from August and up from 6.3 percent a year earlier. The EU rate was 6.2 percent. Youth unemployment rose to 15.4 percent in the euro area. Spain is highest at 10.3 percent, and Italy stands at 6.3 percent.",
+   "body": [
+    "Eurostat's release of 30 October puts the seasonally adjusted euro area rate at 6.5 percent and the EU rate at 6.2 percent, both stable on August and up from 6.3 and 6.0 percent in September 2025. In total 13.773 million people in the EU, including 11.555 million in the euro area, were unemployed.",
+    "Youth unemployment among under 25s was 15.4 percent in the euro area and 15.5 percent in the EU, up from 15.1 and 15.4 percent in August.",
+    "By country, the highest rates were Spain at 10.3 percent, France at 8.5 percent and Estonia at 8.0 percent, and the lowest were Czechia at 2.8 percent, Bulgaria and Malta at 3.4 percent. Germany, the largest economy, is at 4.1 percent. Italy is at 6.3 percent, matching the figure Istat published a day earlier.",
+    "Why it matters to a young engineer: the European labour market is stable overall, but young people are bearing the slowdown more than others, and the differences between countries are large. Euro area inflation at 3.8 percent in September, driven by energy, also squeezes real wages. Watch the ECB's December meeting and national youth data."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://ec.europa.eu/eurostat/documents/2995521/18500193/fizkes_shutterstock_1044298738_RV.jpg/3222f203-f84f-76dc-9e38-829dbc2b48ee",
+     "cap": "Eurostat illustration for unemployment statistics",
+     "credit": "Eurostat / Shutterstock"
+    },
+    {
+     "type": "image",
+     "u": "https://www.bta.bg/upload/14051485/unemployment+september.png?l=750",
+     "cap": "Graphic on September unemployment rates in the EU and euro area",
+     "credit": "BTA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Eurostat",
+     "u": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-30102026-bp",
+     "t": "Official statistics"
+    },
+    {
+     "n": "BTA",
+     "u": "https://www.bta.bg/en/news/economy/1236303-eu-and-euro-area-unemployment-rates-unchanged-in-september-bulgaria-s-down-to-3",
+     "t": "News agency"
+    },
+    {
+     "n": "Cyprus Mail",
+     "u": "https://cyprus-mail.com/2026/10/30/cyprus-unemployment-holds-at-4-per-cent-well-below-eu-average",
+     "t": "Daily newspaper"
+    },
+    {
+     "n": "Kurzy.cz",
+     "u": "https://zpravy.kurzy.cz/880000-euro-area-unemployment-at-6-5/",
+     "t": "News portal"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Euro area unemployment was 6.5 percent and EU 6.2 percent in September",
+     "n": "Eurostat release repeated by BTA and Cyprus Mail."
+    },
+    {
+     "s": "ok",
+     "c": "Youth unemployment 15.4 percent in the euro area",
+     "n": "Primary Eurostat release; rises from 15.1 percent in August."
+    }
+   ],
+   "ctx": "Unemployment here follows the International Labour Organization definition: people without work who are actively looking and available. Youth unemployment is the share of active under-25s without a job, not of all young people. Eurostat figures are seasonally adjusted and are often revised.",
+   "loop_query": "european city street workers morning",
+   "i18n": {
+    "it": {
+     "title": "Disoccupazione nell'area euro stabile al 6,5 per cento a settembre, ma quella giovanile sale al 15,4",
+     "summary": "Secondo Eurostat il tasso di disoccupazione nell'area euro è stato del 6,5 per cento a settembre, invariato rispetto ad agosto e in aumento dal 6,3 di un anno prima. Quello dell'Ue è del 6,2 per cento. La disoccupazione giovanile sale al 15,4 per cento nell'area euro. La Spagna è la più alta con il 10,3 per cento, e l'Italia è al 6,3.",
+     "body": [
+      "Il comunicato Eurostat del 30 ottobre indica il tasso destagionalizzato dell'area euro al 6,5 per cento e quello dell'Ue al 6,2, entrambi stabili rispetto ad agosto e in aumento dal 6,3 e dal 6,0 di settembre 2025. In totale 13 milioni 773mila persone nell'Ue, di cui 11 milioni 555mila nell'area euro, erano disoccupate.",
+      "La disoccupazione giovanile sotto i 25 anni è stata del 15,4 per cento nell'area euro e del 15,5 nell'Ue, in aumento dal 15,1 e dal 15,4 di agosto.",
+      "Per Paese, i tassi più alti sono in Spagna al 10,3 per cento, in Francia all'8,5 e in Estonia all'8,0, e i più bassi in Cechia al 2,8, in Bulgaria e a Malta al 3,4. La Germania, la maggiore economia, è al 4,1. L'Italia è al 6,3, in linea con il dato pubblicato dall'Istat il giorno prima.",
+      "Perché conta per un giovane ingegnere: il mercato del lavoro europeo è stabile nel complesso, ma i giovani sopportano il rallentamento più degli altri e le differenze tra Paesi sono grandi. L'inflazione nell'area euro al 3,8 per cento a settembre, trainata dall'energia, riduce anche i salari reali. Da seguire la riunione della Bce di dicembre e i dati nazionali sui giovani."
+     ],
+     "checks": [
+      {
+       "c": "La disoccupazione nell'area euro è stata del 6,5 per cento e nell'Ue del 6,2 a settembre",
+       "n": "Comunicato Eurostat ripreso da BTA e Cyprus Mail."
+      },
+      {
+       "c": "Disoccupazione giovanile al 15,4 per cento nell'area euro",
+       "n": "Comunicato primario Eurostat; sale dal 15,1 per cento di agosto."
+      }
+     ],
+     "ctx": "La disoccupazione qui segue la definizione dell'Organizzazione internazionale del lavoro: persone senza lavoro che cercano attivamente e sono disponibili. La disoccupazione giovanile è la quota dei giovani under 25 attivi senza lavoro, non di tutti i giovani. I dati Eurostat sono destagionalizzati e spesso rivisti.",
+     "media_caps": [
+      "Immagine Eurostat per le statistiche sulla disoccupazione",
+      "Grafico sui tassi di disoccupazione di settembre nell'Ue e nell'area euro"
+     ]
+    }
+   }
+  },
+  {
+   "id": 22,
+   "sec": "lav",
+   "time": "12:30",
+   "read": 4,
+   "title": "US computer science enrolment falls 12.4 percent this autumn, the sharpest drop in years",
+   "summary": "Preliminary data from the National Student Clearinghouse show computer and information science enrolment fell 12.4 percent at four-year US colleges and 10.4 percent in graduate programmes this autumn. Undergraduate numbers are down 18.4 percent in two years. Entry-level coding jobs are weak, but the data do not prove AI is the cause.",
+   "body": [
+    "The National Student Clearinghouse Research Center, in preliminary fall 2026 figures released on 29 October, reports that enrolment in computer and information science fell 12.4 percent at four-year colleges, 12.3 percent at two-year colleges and 10.4 percent in graduate programmes compared with a year earlier.",
+    "Over two years, undergraduate programmes have lost 18.4 percent of their students and graduate programmes 27.1 percent. Research director Matthew Holsapple called the declines remarkable for a field that until recently was one of the fastest growing.",
+    "Press coverage links this to AI removing many entry-level coding roles. Reports also point to the US Bureau of Labor Statistics naming computer and mathematics occupations as the most exposed to AI. But the figures describe student choices, not causes: weak entry-level hiring after the post-pandemic boom, visa barriers and other factors may also play a part, and the preliminary data exclude international students. Final results are due in January.",
+    "For a software engineering student in Italy, this is a US dataset, so it is not a forecast for Europe. What it suggests is that employers and students both see risk in generic junior coding roles, while demand moves toward AI, data and systems skills, and toward non-tech employers. Practical steps: build projects, learn to work with AI tools, and document skills that are hard to automate."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=IgTLuUi7BCI",
+     "cap": "Mint: computer science enrolment falls in the US as entry-level coding jobs shrink",
+     "credit": "Mint",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4187767.jpg",
+     "cap": "Computer science students (illustration)",
+     "credit": "The Star"
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1600,h=836,q=90/sites/www.builtin.com/files/2026-03/college-grad-degrees-ai.jpg",
+     "cap": "Graduates and AI (illustration)",
+     "credit": "Built In"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Star",
+     "u": "https://www.thestar.com.my/tech/tech-news/2026/10/30/computer-science-degree-programmes-lose-students-as-ai-replaces-jobs",
+     "t": "Daily newspaper"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/sectors/technology/articles/computer-science-once-golden-ticket-140500823.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "The Next Web",
+     "u": "https://thenextweb.com/news/computer-science-enrollment-falls-ai-first-time",
+     "t": "Tech outlet"
+    },
+    {
+     "n": "Built In",
+     "u": "https://builtin.com/articles/computer-science-degree-decline-ai",
+     "t": "Tech outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Computer and information science enrolment fell 12.4 percent at four-year colleges",
+     "n": "The Star and other outlets cite the Clearinghouse preliminary release."
+    },
+    {
+     "s": "warn",
+     "c": "AI is the cause of the decline",
+     "n": "Not established: the data show student choices; weak entry-level hiring, visas and other factors may contribute."
+    }
+   ],
+   "ctx": "The National Student Clearinghouse is a US non-profit that tracks enrolment across colleges. Preliminary numbers can change in the final release. A drop in students today also shrinks the future supply of graduates, which can change hiring conditions later. This is a statistical trend, not advice on choosing a degree.",
+   "loop_query": "university students computer lab",
+   "i18n": {
+    "it": {
+     "title": "Usa, le iscrizioni a informatica calano del 12,4 per cento in autunno, il calo più netto da anni",
+     "summary": "I dati preliminari del National Student Clearinghouse mostrano che le iscrizioni a informatica e scienze dell'informazione sono scese del 12,4 per cento nei college quadriennali americani e del 10,4 per cento nei corsi post-laurea questo autunno. I numeri dei corsi di laurea sono calati del 18,4 per cento in due anni. I lavori da programmatore junior sono scarsi, ma i dati non provano che la causa sia l'IA.",
+     "body": [
+      "Il National Student Clearinghouse Research Center, nei dati preliminari dell'autunno 2026 diffusi il 29 ottobre, riferisce che le iscrizioni a informatica e scienze dell'informazione sono scese del 12,4 per cento nei college quadriennali, del 12,3 in quelli biennali e del 10,4 nei corsi post-laurea rispetto a un anno prima.",
+      "In due anni i corsi di laurea hanno perso il 18,4 per cento degli studenti e quelli post-laurea il 27,1. Il direttore della ricerca Matthew Holsapple ha definito i cali notevoli per un settore che fino a poco tempo fa era tra quelli in più rapida crescita.",
+      "La stampa collega il calo al fatto che l'IA elimina molti ruoli di programmazione per principianti. I report citano anche il Bureau of Labor Statistics americano, che indica le professioni informatiche e matematiche come le più esposte all'IA. Ma i dati descrivono le scelte degli studenti, non le cause: la scarsa assunzione di junior dopo il boom post-pandemia, le barriere sui visti e altri fattori possono contare, e i dati preliminari escludono gli studenti internazionali. I risultati finali arrivano a gennaio.",
+      "Per uno studente di ingegneria del software in Italia, questo è un dato americano, quindi non una previsione per l'Europa. Suggerisce però che aziende e studenti vedono rischi nei ruoli di programmazione junior generici, mentre la domanda si sposta verso competenze di IA, dati e sistemi e verso datori di lavoro non tech. Passi pratici: costruire progetti, imparare a lavorare con gli strumenti di IA e documentare competenze difficili da automatizzare."
+     ],
+     "checks": [
+      {
+       "c": "Le iscrizioni a informatica e scienze dell'informazione sono scese del 12,4 per cento nei college quadriennali",
+       "n": "The Star e altre testate citano il comunicato preliminare del Clearinghouse."
+      },
+      {
+       "c": "L'IA è la causa del calo",
+       "n": "Non dimostrato: i dati mostrano scelte degli studenti; scarsa assunzione di junior, visti e altri fattori possono contribuire."
+      }
+     ],
+     "ctx": "Il National Student Clearinghouse è un'organizzazione americana senza scopo di lucro che monitora le iscrizioni nei college. I dati preliminari possono cambiare nella versione finale. Un calo di studenti oggi riduce anche il numero futuro di laureati, il che può cambiare le condizioni di assunzione più avanti. È un andamento statistico, non un consiglio sulla scelta del corso di laurea.",
+     "media_caps": [
+      "Mint: calano le iscrizioni a informatica negli Usa mentre i posti da programmatore junior si riducono",
+      "Studenti di informatica (immagine illustrativa)",
+      "Laureati e IA (immagine illustrativa)"
+     ]
+    }
+   }
+  }
+ ],
+ "i18n": {
+  "it": {
+   "date_label": "venerdì 30 ottobre 2026"
+  }
+ }
+}
