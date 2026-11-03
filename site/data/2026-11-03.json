@@ -1,0 +1,2072 @@
+{
+ "date": "2026-11-03",
+ "date_label": "Tuesday, 3 November 2026",
+ "items": [
+  {
+   "id": 1,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "11:30",
+   "read": 3,
+   "title": "State funeral held in Rome for four Italian soldiers killed in Bosnia helicopter crash",
+   "summary": "Italy held a state funeral on Tuesday for the four service members who died when a Chinook helicopter crashed in Bosnia on 29 October. President Mattarella and Prime Minister Meloni attended, and Defence Minister Crosetto announced a monument in Bosnia.",
+   "body": [
+    "The ceremony took place at 9:30 in the Basilica of Santa Maria degli Angeli e dei Martiri in Rome. The four victims are sergeants Simone Ruggia and Claudio Marchesi, Lieutenant Franco Adriano Zecchillo and Sergeant Laura Procacci of the Military Corps of the Italian Red Cross. The presidents of the Senate and the Chamber of Deputies were also present.",
+    "The aircraft, a CH-47 Chinook, crashed on 29 October in the Brčko area during the European Union mission Althea. It carried 15 people. Four died and eleven were injured.",
+    "Defence Minister Guido Crosetto said the four had become a symbol of the wish, the pride and the joy of serving the country. He added that Bosnian leaders from the Muslim, Orthodox and Catholic communities had agreed to build a monument in their memory. The celebrant, Monsignor Saba, called the soldiers sowers of peace.",
+    "Two investigations are open. Military prosecutors are looking at the loss of life, while ordinary prosecutors are examining possible negligence in an air disaster, involuntary manslaughter and injuries. Experts are still analysing the wreckage and the flight data recorder, so the cause of the crash has not been established."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=IK8BbkhnT3Y",
+     "cap": "Funeral in Rome for the four soldiers killed in Bosnia, with Mattarella, Meloni and Crosetto",
+     "credit": "La Repubblica",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://tg24.sky.it/assets/images/8e0eceb08419b4f035651c63c377964f408167ed/skytg24/it/cronaca/2026/11/03/incidente-elicottero-bosnia-funerali-stato-militari-morti/funerali_militari_ansa.jpeg?im=Resize,width=1218",
+     "cap": "The state funeral of the four soldiers in Rome",
+     "credit": "ANSA / Sky TG24"
+    },
+    {
+     "type": "image",
+     "u": "https://www.quotidiano.net/image-service/view/acePublic/alias/contentid/NDkwNDNhNzItZTZlZC00/0/mattarella-ai-funerali-dei-quattro-militari-morti-in-bosnia.jpg?f=16:9&w=1200&h=675",
+     "cap": "President Mattarella at the funeral",
+     "credit": "Quotidiano Nazionale"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/cronaca/2026/11/03/incidente-elicottero-bosnia-funerali-stato-militari-morti",
+     "t": "Italian broadcaster"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "u": "https://en.ilsole24ore.com/art/helicopter-crash-in-bosnia-bodies-of-italian-military-personnel-arrive-in-italia-AJRBU21B",
+     "t": "Business daily"
+    },
+    {
+     "n": "Quotidiano Nazionale",
+     "u": "https://www.quotidiano.net/esteri/funerali-militari-morti-bosnia-txusph8t",
+     "t": "Newspaper group"
+    },
+    {
+     "n": "LaPresse",
+     "u": "https://www.lapresse.it/cronaca/2026/11/03/elicottero-caduto-in-bosnia-i-funerali-a-roma-dei-4-militari-italiani-morti-la-diretta/",
+     "t": "News agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Four Italian service members died in the 29 October helicopter crash in Bosnia",
+     "n": "Sky TG24, Il Sole 24 Ore and LaPresse all report four dead and name the same victims."
+    },
+    {
+     "s": "ok",
+     "c": "President Mattarella and Prime Minister Meloni attended the state funeral on 3 November",
+     "n": "Reported by Sky TG24, Quotidiano Nazionale and Leggo."
+    },
+    {
+     "s": "warn",
+     "c": "Cause of the crash",
+     "n": "Not established. Prosecutors have opened two inquiries and the flight recorder is still being analysed."
+    }
+   ],
+   "ctx": "EUFOR Althea is the European Union's military mission in Bosnia and Herzegovina, set up in 2004 to support the peace agreement. Italy is one of the contributing countries. A state funeral is the highest honour Italy gives to service members who die on duty.",
+   "loop_query": "military honor guard parade",
+   "i18n": {
+    "it": {
+     "title": "Funerali di Stato a Roma per i quattro militari italiani morti nell'incidente dell'elicottero in Bosnia",
+     "summary": "Martedì l'Italia ha celebrato i funerali di Stato dei quattro militari morti il 29 ottobre nello schianto di un elicottero Chinook in Bosnia. Hanno partecipato il presidente Mattarella e la premier Meloni, e il ministro della Difesa Crosetto ha annunciato un monumento in Bosnia.",
+     "body": [
+      "La cerimonia si è svolta alle 9:30 nella basilica di Santa Maria degli Angeli e dei Martiri a Roma. Le quattro vittime sono i sergenti Simone Ruggia e Claudio Marchesi, il tenente Franco Adriano Zecchillo e la sergente Laura Procacci del Corpo militare della Croce Rossa italiana. Erano presenti anche i presidenti del Senato e della Camera.",
+      "L'aereo, un CH-47 Chinook, è precipitato il 29 ottobre nella zona di Brčko durante la missione europea Althea. A bordo c'erano 15 persone. Quattro sono morte e undici sono rimaste ferite.",
+      "Il ministro della Difesa Guido Crosetto ha detto che i quattro sono diventati un simbolo della voglia, dell'orgoglio e della gioia di servire il Paese. Ha aggiunto che i leader bosniaci delle comunità musulmana, ortodossa e cattolica hanno concordato di costruire un monumento in loro ricordo. Il celebrante, monsignor Saba, ha definito i militari seminatori di pace.",
+      "Sono aperte due indagini. La procura militare esamina la perdita di vite umane, mentre la magistratura ordinaria valuta un possibile disastro colposo, l'omicidio colposo e le lesioni. I tecnici stanno ancora analizzando i resti del velivolo e la scatola nera, quindi la causa dello schianto non è stata accertata."
+     ],
+     "checks": [
+      {
+       "c": "Quattro militari italiani sono morti nell'incidente dell'elicottero in Bosnia del 29 ottobre",
+       "n": "Sky TG24, Il Sole 24 Ore e LaPresse riportano quattro morti e indicano gli stessi nomi."
+      },
+      {
+       "c": "Il presidente Mattarella e la premier Meloni hanno partecipato ai funerali di Stato del 3 novembre",
+       "n": "Lo riportano Sky TG24, Quotidiano Nazionale e Leggo."
+      },
+      {
+       "c": "La causa dello schianto",
+       "n": "Non è stata accertata. Le procure hanno aperto due inchieste e la scatola nera è ancora in analisi."
+      }
+     ],
+     "ctx": "EUFOR Althea è la missione militare dell'Unione europea in Bosnia ed Erzegovina, avviata nel 2004 per sostenere l'accordo di pace. L'Italia è uno dei Paesi che vi contribuiscono. Il funerale di Stato è il massimo onore che l'Italia riserva ai militari caduti in servizio.",
+     "media_caps": [
+      "Funerali a Roma dei quattro militari morti in Bosnia, con Mattarella, Meloni e Crosetto",
+      "I funerali di Stato dei quattro militari a Roma",
+      "Il presidente Mattarella ai funerali"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "10:00",
+   "read": 4,
+   "title": "Italian inflation jumps to 5.4 percent in October, the highest since August 2023, as energy prices surge",
+   "summary": "Istat's preliminary estimate puts annual consumer price inflation at 5.4 percent in October, up from 4.2 percent in September. Energy prices, up 31.4 percent on a year ago, drove the rise, while core inflation is 2.0 percent.",
+   "body": [
+    "According to Istat, the national consumer price index, excluding tobacco, rose 0.9 percent on the month and 5.4 percent on the year, against 4.2 percent in September. This returns inflation to the level of August 2023. The harmonised index used for European comparisons rose 1.2 percent on the month and 5.6 percent on the year.",
+    "Istat attributes the acceleration mainly to energy, still affected by the international situation. Annual energy inflation went from 22.6 percent to 31.4 percent. Regulated energy prices, which follow wholesale markets with a delay, rose 59.5 percent, while non-regulated energy rose 29.4 percent.",
+    "Prices outside energy also moved up. The so-called shopping basket of frequently bought goods accelerated from 1.5 to 2.5 percent, and core inflation, which strips out energy and fresh food, rose from 1.6 to 2.0 percent. Istat estimates the carry-over effect for 2026 at 3.4 percent for the general index and 1.9 percent for the core index.",
+    "Other large euro area economies moved differently, according to preliminary national figures: Germany eased to 2.8 percent helped by a temporary fuel tax cut, France rose to 3.4 percent and Spain stayed at 4.9 percent. The euro area as a whole was at 3.8 percent in September, and Eurostat publishes its October flash estimate on 4 November. What is unknown is how long energy prices stay high, which depends largely on the talks over the Strait of Hormuz."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=1u8EnsNc9vk",
+     "cap": "Related: Rai News on energy costs, soaring inflation and stalling growth",
+     "credit": "Rai News",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://www.agrapress.it/wp-content/uploads/2025/07/sede-istat-foto-di-Imagoeconomica_336649.jpg",
+     "cap": "Istat headquarters in Rome",
+     "credit": "Imagoeconomica / Agrapress"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Istat",
+     "u": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
+     "t": "National statistics office, primary source"
+    },
+    {
+     "n": "Agrapress",
+     "u": "https://www.agrapress.it/2026/10/inflazione-istat-a-ottobre-2026-si-stima-09-su-settembre-e-54-in-un-anno/",
+     "t": "News agency"
+    },
+    {
+     "n": "Confcommercio",
+     "u": "https://www.confcommercio.it/-/inflazione-ottobre-2026",
+     "t": "Business association comment"
+    },
+    {
+     "n": "The Private Banker",
+     "u": "https://leprivatebanker.com/2026/10/31/euro-zone-inflation-splits-as-italy-jumps-to-5-4-and-germany-eases-to-2-8-on-fuel-tax-cut/",
+     "t": "Financial news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Italian annual inflation was 5.4 percent in October, up from 4.2 percent",
+     "n": "Istat's own release and Agrapress report the same figure."
+    },
+    {
+     "s": "ok",
+     "c": "Energy prices rose 31.4 percent on the year, regulated energy 59.5 percent",
+     "n": "Istat release and independent summaries agree."
+    },
+    {
+     "s": "warn",
+     "c": "German, French and Spanish October inflation figures",
+     "n": "Taken from a single financial news summary of national preliminary data; check Eurostat on 4 November."
+    }
+   ],
+   "ctx": "Istat publishes two indexes. The national index measures what Italian households face, while the harmonised index is built to be comparable across the euro area. Regulated energy refers to contracts whose price is set following market benchmarks. The European Central Bank targets 2 percent inflation over the medium term.",
+   "loop_query": "gas station fuel pump",
+   "i18n": {
+    "it": {
+     "title": "L'inflazione italiana sale al 5,4 per cento a ottobre, il livello più alto da agosto 2023, spinta dall'energia",
+     "summary": "La stima preliminare dell'Istat indica per ottobre un'inflazione annua al 5,4 per cento, contro il 4,2 di settembre. A spingerla sono i prezzi dell'energia, saliti del 31,4 per cento su base annua, mentre l'inflazione di fondo è al 2,0 per cento.",
+     "body": [
+      "Secondo l'Istat, l'indice nazionale dei prezzi al consumo, al netto dei tabacchi, è salito dello 0,9 per cento su settembre e del 5,4 per cento su base annua, contro il 4,2 di settembre. L'inflazione torna così al livello di agosto 2023. L'indice armonizzato, usato per i confronti europei, è salito dell'1,2 per cento sul mese e del 5,6 per cento sull'anno.",
+      "L'Istat attribuisce l'accelerazione soprattutto all'energia, ancora influenzata dalla situazione internazionale. L'inflazione annua dell'energia è passata dal 22,6 al 31,4 per cento. I prezzi dell'energia regolamentata, che seguono i mercati all'ingrosso con un certo ritardo, sono saliti del 59,5 per cento, mentre quelli dell'energia non regolamentata del 29,4 per cento.",
+      "Anche i prezzi diversi dall'energia sono saliti. Il cosiddetto carrello della spesa, cioè i beni acquistati più di frequente, è passato dall'1,5 al 2,5 per cento, e l'inflazione di fondo, che esclude energia e alimentari freschi, dall'1,6 al 2,0 per cento. L'Istat stima l'inflazione acquisita per il 2026 al 3,4 per cento per l'indice generale e all'1,9 per cento per quello di fondo.",
+      "Le altre grandi economie dell'area euro si sono mosse in modo diverso, secondo i dati nazionali preliminari: la Germania è scesa al 2,8 per cento grazie a un taglio temporaneo delle tasse sui carburanti, la Francia è salita al 3,4 per cento e la Spagna è rimasta al 4,9 per cento. L'intera area euro era al 3,8 per cento a settembre, e Eurostat pubblica la stima rapida di ottobre il 4 novembre. Non si sa per quanto tempo l'energia resterà cara, cosa che dipende in larga parte dai negoziati sullo Stretto di Hormuz."
+     ],
+     "checks": [
+      {
+       "c": "L'inflazione italiana è stata del 5,4 per cento a ottobre, dal 4,2 per cento",
+       "n": "Lo stesso dato è riportato dal comunicato dell'Istat e da Agrapress."
+      },
+      {
+       "c": "I prezzi dell'energia sono saliti del 31,4 per cento su base annua, quelli dell'energia regolamentata del 59,5 per cento",
+       "n": "Il comunicato dell'Istat e le sintesi indipendenti concordano."
+      },
+      {
+       "c": "I dati di ottobre su inflazione in Germania, Francia e Spagna",
+       "n": "Provengono da un'unica sintesi di notizie finanziarie sui dati nazionali preliminari; da verificare con Eurostat il 4 novembre."
+      }
+     ],
+     "ctx": "L'Istat pubblica due indici. L'indice nazionale misura ciò che affrontano le famiglie italiane, mentre quello armonizzato è costruito per essere confrontabile tra i Paesi dell'area euro. L'energia regolamentata indica i contratti il cui prezzo segue parametri di mercato. La Banca centrale europea punta a un'inflazione del 2 per cento nel medio periodo.",
+     "media_caps": [
+      "Correlato: Rai News su costi dell'energia, inflazione in rialzo e crescita ferma",
+      "La sede dell'Istat a Roma"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "11:00",
+   "read": 4,
+   "title": "Budget law for 2027 starts in the Chamber: hearings from 5 November, amendments due 17 November",
+   "summary": "The Chamber of Deputies' budget committee began examining the 2027 budget law on Tuesday. Hearings run from 5 to 12 November, and Parliament must approve the law by 31 December to avoid a provisional budget.",
+   "body": [
+    "The government approved the budget bill on 28 October and sent it to Parliament about eight days late, according to ANSA, which compresses the calendar. The budget committee of the Chamber took up the text on 3 November.",
+    "Hearings are planned between 5 and 12 November. They include Istat, the Bank of Italy, social partners and business associations, and end with Economy Minister Giancarlo Giorgetti. The deadline for parliamentary amendments is 17 November. Later in November the government presents a single amendment that includes the approved changes, and the Chamber votes.",
+    "The European Commission is due to publish its assessment of Italy's draft budgetary plan on 24 November. The Senate then examines the text, in the week of 15 to 17 December, with extra sittings possible later that month. The final deadline is 31 December: if the law is not approved by then, Italy enters what is called provisional budget management.",
+    "The size of the package is described as about 26 billion euros in the press, higher than the 23.5 billion euros shown in the draft budgetary plan. Reports differ on the funds available for parliamentary changes: ANSA speaks of about 300 million euros, while another outlet writes of 120 million euros a year. Previous briefings covered the measures on school posts and business energy costs."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=nA7P1ZbhXcQ",
+     "cap": "Related: Rai News on the government's budget measures",
+     "credit": "Rai News",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/85d60cead95ffb0ccb575f64db23598c.jpg",
+     "cap": "The Chamber of Deputies, where the budget law starts its passage",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://agimeg.b-cdn.net/wp-content/uploads/2024/12/Camera-dei-deputati.jpg",
+     "cap": "Chamber of Deputies in Rome",
+     "credit": "Agimeg"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/29/il-calendario-della-manovra-tutte-le-tappe-fino-allapprovazione_864872fd-3064-49fd-95f6-15772591a30b.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Agimeg",
+     "u": "https://www.agimeg.it/manovra-2027-al-via-iter-parlamentare-per-evitare-esercizio-provvisorio-esame-parte-dalla-camera/",
+     "t": "Specialist agency"
+    },
+    {
+     "n": "Il Giorno",
+     "u": "https://www.juorno.it/manovra-2027-alla-camera-tempi-stretti-e-120-milioni-lanno-per-le-modifiche/",
+     "t": "Newspaper"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Chamber budget committee starts on 3 November, with hearings from 5 to 12 November",
+     "n": "ANSA and Agimeg give the same calendar."
+    },
+    {
+     "s": "warn",
+     "c": "Size of the package",
+     "n": "Press describes about 26 billion euros, while the draft budgetary plan shows 23.5 billion euros."
+    },
+    {
+     "s": "warn",
+     "c": "Funds available for parliamentary amendments",
+     "n": "ANSA says about 300 million euros, another outlet says 120 million euros a year; the sources do not agree."
+    }
+   ],
+   "ctx": "Italy's budget law must be approved by 31 December. Usually one chamber changes it and the second approves it almost unchanged. The European Commission reviews the draft budgetary plans of euro area countries before the final vote. A provisional budget lets the state spend month by month in the new year, but blocks new measures.",
+   "loop_query": "parliament chamber interior",
+   "i18n": {
+    "it": {
+     "title": "La manovra 2027 parte alla Camera: audizioni dal 5 novembre, emendamenti entro il 17 novembre",
+     "summary": "Martedì la commissione Bilancio della Camera ha iniziato l'esame della legge di bilancio 2027. Le audizioni vanno dal 5 al 12 novembre e il Parlamento deve approvare la legge entro il 31 dicembre per evitare l'esercizio provvisorio.",
+     "body": [
+      "Il governo ha approvato il disegno di legge di bilancio il 28 ottobre e lo ha trasmesso al Parlamento con circa otto giorni di ritardo, secondo l'ANSA, il che comprime il calendario. La commissione Bilancio della Camera ha preso in esame il testo il 3 novembre.",
+      "Le audizioni sono previste tra il 5 e il 12 novembre. Comprendono l'Istat, la Banca d'Italia, le parti sociali e le categorie economiche, e si chiudono con il ministro dell'Economia Giancarlo Giorgetti. Il termine per gli emendamenti parlamentari è il 17 novembre. Più avanti a novembre il governo presenta un unico emendamento che raccoglie le modifiche approvate, e la Camera vota.",
+      "La Commissione europea dovrebbe pubblicare il 24 novembre la sua valutazione del documento programmatico di bilancio dell'Italia. Poi il Senato esamina il testo, nella settimana dal 15 al 17 dicembre, con possibili sedute aggiuntive nel corso del mese. La scadenza finale è il 31 dicembre: se la legge non è approvata entro quella data, l'Italia entra in esercizio provvisorio.",
+      "La dimensione del pacchetto è indicata dalla stampa in circa 26 miliardi di euro, più dei 23,5 miliardi indicati nel documento programmatico di bilancio. Le cronache divergono sui fondi per le modifiche parlamentari: l'ANSA parla di circa 300 milioni di euro, un altro giornale di 120 milioni di euro l'anno. I precedenti numeri hanno trattato le misure sui posti nella scuola e sui costi energetici delle imprese."
+     ],
+     "checks": [
+      {
+       "c": "La commissione Bilancio della Camera parte il 3 novembre, con audizioni dal 5 al 12 novembre",
+       "n": "ANSA e Agimeg riportano lo stesso calendario."
+      },
+      {
+       "c": "Dimensione del pacchetto",
+       "n": "La stampa parla di circa 26 miliardi di euro, mentre il documento programmatico di bilancio ne indica 23,5."
+      },
+      {
+       "c": "Fondi disponibili per gli emendamenti parlamentari",
+       "n": "L'ANSA indica circa 300 milioni di euro, un altro giornale 120 milioni di euro l'anno; le fonti non concordano."
+      }
+     ],
+     "ctx": "La legge di bilancio italiana deve essere approvata entro il 31 dicembre. Di solito una Camera la modifica e la seconda la approva quasi senza cambiamenti. La Commissione europea esamina i documenti programmatici dei Paesi dell'area euro prima del voto finale. L'esercizio provvisorio consente allo Stato di spendere mese per mese nel nuovo anno, ma blocca le nuove misure.",
+     "media_caps": [
+      "Correlato: Rai News sulle misure della manovra del governo",
+      "La Camera dei deputati, da cui parte l'esame della manovra",
+      "La Camera dei deputati a Roma"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4,
+   "sec": "ita",
+   "topic": "lav",
+   "time": "10:30",
+   "read": 4,
+   "title": "Local-government workers get a 5.36 percent raise: new contract for about 400,000 public employees",
+   "summary": "The 2025-2027 national contract for local public bodies was signed at ARAN, the public-sector bargaining agency. It raises pay by 5.36 percent of the payroll, 152 euros gross a month for municipal staff, with arrears paid in December.",
+   "body": [
+    "The contract covers about 400,000 employees of regions, provinces, municipalities, metropolitan cities and chambers of commerce. QuiFinanza reports it was signed on 28 October at ARAN. The economic part is an increase equal to 5.36 percent of the payroll, which means 152 euros gross per month for municipal employees and 140 euros for staff of other territorial bodies and chambers of commerce.",
+    "Back pay is due in the December pay slips, together with the thirteenth month. The report stresses that this is much faster than earlier renewals, which sometimes took years.",
+    "Beyond pay, the text introduces rules on artificial intelligence that keep decisions in human hands, and more room for remote work. A separate negotiation for managers of regional and local bodies opened on 3 November at ARAN, with 107.68 million euros allocated for the 2025-2027 period.",
+    "For a young engineer, public-sector jobs offer stable contracts and flexible work rules, but pay rises of this size stay below the 5.4 percent inflation seen in October. The reports do not say which unions signed or whether any refused."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=OxB398xEFbA",
+     "cap": "Announcement that the new national contract for local functions has been signed",
+     "credit": "Antonio Naddeo (ARAN) video channel"
+    },
+    {
+     "type": "image",
+     "u": "https://quifinanza.it/wp-content/uploads/sites/5/2026/10/adeguamento-ccnl-enti-locali-2026.jpg",
+     "cap": "Contract renewal for local public bodies 2025-2027",
+     "credit": "QuiFinanza"
+    }
+   ],
+   "sources": [
+    {
+     "n": "QuiFinanza",
+     "u": "https://quifinanza.it/lavoro/nuovo-ccnl-funzionari-enti-locali-aumento-stipendio/1021731/",
+     "t": "Personal finance outlet"
+    },
+    {
+     "n": "HR Capital",
+     "u": "https://www.hrcapital.it/novita-e-rinnovi-ccnl/novembre-2026-novita-e-rinnovi-ccnl/",
+     "t": "HR specialist outlet"
+    },
+    {
+     "n": "TuttoLavoro24",
+     "u": "https://tuttolavoro24.it/2026/10/25/statali-aumenti-di-372-euro-al-mese-rinnovo-al-via-il-3-novembre-per-i-dirigenti/",
+     "t": "Labour news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Raise of 5.36 percent of the payroll, 152 euros gross per month for municipal staff",
+     "n": "Reported by QuiFinanza and echoed in search summaries; the ARAN text itself was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "Signature date and union signatories",
+     "n": "QuiFinanza gives 28 October, but other summaries describe the signing as happening on 3 November; the unions that signed are not named."
+    },
+    {
+     "s": "ok",
+     "c": "A separate negotiation for managers opened on 3 November at ARAN",
+     "n": "Announced in advance by TuttoLavoro24 and reported in the day's summaries."
+    }
+   ],
+   "ctx": "ARAN is the agency that negotiates national contracts for public employees on behalf of the government. Raises in public contracts are paid from funds set by the budget laws, which is why they are often agreed after long delays. Arrears are the back pay owed for months worked under the old contract.",
+   "loop_query": "city hall municipal building",
+   "i18n": {
+    "it": {
+     "title": "Dipendenti degli enti locali, aumento del 5,36 per cento: nuovo contratto per circa 400.000 lavoratori pubblici",
+     "summary": "All'Aran, l'agenzia che tratta i contratti pubblici, è stato firmato il contratto nazionale 2025-2027 delle funzioni locali. Prevede un aumento del 5,36 per cento del monte salari, 152 euro lordi al mese per i dipendenti comunali, con gli arretrati a dicembre.",
+     "body": [
+      "Il contratto riguarda circa 400.000 dipendenti di regioni, province, comuni, città metropolitane e camere di commercio. Secondo QuiFinanza è stato firmato il 28 ottobre all'Aran. La parte economica prevede un aumento pari al 5,36 per cento del monte salari, cioè 152 euro lordi al mese per i dipendenti comunali e 140 euro per il personale degli altri enti territoriali e delle camere di commercio.",
+      "Gli arretrati arriveranno nelle buste paga di dicembre, insieme alla tredicesima. L'articolo sottolinea che è molto più veloce dei rinnovi precedenti, che a volte hanno richiesto anni.",
+      "Oltre alla parte economica, il testo introduce regole sull'intelligenza artificiale che lasciano le decisioni in mano umana, e più spazio per il lavoro da remoto. Il 3 novembre è iniziata all'Aran una trattativa separata per i dirigenti di regioni ed enti locali, con 107,68 milioni di euro stanziati per il periodo 2025-2027.",
+      "Per un giovane ingegnere, i posti pubblici offrono contratti stabili e regole di lavoro flessibili, ma aumenti di questa entità restano sotto l'inflazione del 5,4 per cento registrata a ottobre. Le cronache non dicono quali sindacati abbiano firmato né se qualcuno si sia rifiutato."
+     ],
+     "checks": [
+      {
+       "c": "Aumento del 5,36 per cento del monte salari, 152 euro lordi al mese per i dipendenti comunali",
+       "n": "Lo riporta QuiFinanza e lo ripetono le sintesi di ricerca; il testo dell'Aran non è stato consultato."
+      },
+      {
+       "c": "Data della firma e sindacati firmatari",
+       "n": "QuiFinanza indica il 28 ottobre, ma altre sintesi descrivono la firma come avvenuta il 3 novembre; i sindacati firmatari non sono indicati."
+      },
+      {
+       "c": "Il 3 novembre è iniziata all'Aran una trattativa separata per i dirigenti",
+       "n": "Annunciata in anticipo da TuttoLavoro24 e ripresa dalle sintesi del giorno."
+      }
+     ],
+     "ctx": "L'Aran è l'agenzia che negozia per conto del governo i contratti nazionali dei dipendenti pubblici. Gli aumenti dei contratti pubblici sono pagati con fondi stabiliti dalle leggi di bilancio, ed è per questo che spesso arrivano dopo lunghi ritardi. Gli arretrati sono il compenso dovuto per i mesi lavorati con il vecchio contratto.",
+     "media_caps": [
+      "L'annuncio della firma del nuovo contratto nazionale delle funzioni locali",
+      "Rinnovo del contratto delle funzioni locali 2025-2027"
+     ]
+    }
+   }
+  },
+  {
+   "id": 5,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "18:00",
+   "read": 3,
+   "title": "Italian car market grows 4.8 percent in October, but Stellantis registrations fall 5.5 percent",
+   "summary": "Italy registered 131,921 new cars in October, up 4.8 percent. Stellantis, including Leapmotor, registered 31,865 cars, down 5.5 percent, and its market share fell to 24.2 percent from 26.8 percent.",
+   "body": [
+    "Data published on 2 November show 131,921 registrations in October, 4.8 percent more than a year earlier. In the first ten months of the year registrations reached 1,400,991, against 1,293,406 in the same period of 2025, which is about 8.3 percent more. UNRAE, the association of foreign carmakers in Italy, raised its 2026 forecast to 1.64 million cars, 7.5 percent more than last year.",
+    "Stellantis, including its Chinese partner brand Leapmotor, registered 31,865 cars in October, down 5.5 percent. Its share fell to 24.2 percent from 26.8 percent a year earlier. Over January to October the group is still up 12.1 percent, with 411,825 cars.",
+    "Outlets disagree on the cause. Milano Finanza points to production stops of the Fiat Panda, while Benzinga Italia headlines a shortage of chips. Autoblog notes that Chinese brands are gaining ground.",
+    "On powertrains, hybrids took 49 percent of the market, with mild hybrids at 29.4 percent and full hybrids at 19.6 percent. Electric cars reached 8,122 registrations, up 28.1 percent, for a share of 6.1 percent."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=ZsNVO6uw6xA",
+     "cap": "Related: Investing.com Italia on Stellantis shares after its results",
+     "credit": "Investing.com Italia",
+     "start": 30,
+     "end": 65
+    },
+    {
+     "type": "image",
+     "u": "https://www.soldionline.it/content/uploads/2026/11/auto-in-italia-48-a-ottobre-perche-stellantis-perde-quota-al-242.jpg",
+     "cap": "New cars on sale in Italy",
+     "credit": "SoldiOnline"
+    }
+   ],
+   "sources": [
+    {
+     "n": "AGI",
+     "u": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/",
+     "t": "News agency"
+    },
+    {
+     "n": "Milano Finanza",
+     "u": "https://www.milanofinanza.it/news/auto-mercato-italiano-4-8-a-ottobre-ma-stellantis-perde-il-5-5-pesano-gli-stop-produttivi-della-fiat-202611021805018012",
+     "t": "Financial daily"
+    },
+    {
+     "n": "SoldiOnline",
+     "u": "https://www.soldionline.it/notizie/economia-politica/auto-in-italia-48-a-ottobre-perche-stellantis-perde-quota-al-242",
+     "t": "Financial news"
+    },
+    {
+     "n": "Benzinga Italia",
+     "u": "https://it.benzinga.com/news/italy/stocks/mercato-auto-ottobre-2026-stellantis-chip/",
+     "t": "Financial news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Italian new car registrations rose 4.8 percent to 131,921 in October",
+     "n": "AGI, Motorbox and Milano Finanza report the same data."
+    },
+    {
+     "s": "ok",
+     "c": "Stellantis registrations fell 5.5 percent, share 24.2 percent",
+     "n": "Reported by Milano Finanza, SoldiOnline and Geagency."
+    },
+    {
+     "s": "warn",
+     "c": "Cause of the Stellantis drop",
+     "n": "Milano Finanza cites production stops of the Fiat Panda, Benzinga Italia cites a chip shortage; sources do not agree."
+    }
+   ],
+   "ctx": "Registrations are the standard monthly measure of the car market and come from the ministry of transport. A mild hybrid has a small electric motor that assists a petrol engine but cannot drive the car alone. Leapmotor is a Chinese electric car maker in which Stellantis holds a stake.",
+   "loop_query": "car dealership showroom",
+   "i18n": {
+    "it": {
+     "title": "Il mercato auto italiano cresce del 4,8 per cento a ottobre, ma Stellantis perde il 5,5 per cento",
+     "summary": "A ottobre in Italia sono state immatricolate 131.921 auto nuove, il 4,8 per cento in più. Stellantis, compresa Leapmotor, ne ha immatricolate 31.865, il 5,5 per cento in meno, e la sua quota scende al 24,2 per cento dal 26,8.",
+     "body": [
+      "I dati diffusi il 2 novembre indicano 131.921 immatricolazioni a ottobre, il 4,8 per cento più di un anno prima. Nei primi dieci mesi dell'anno le immatricolazioni sono state 1.400.991, contro 1.293.406 nello stesso periodo del 2025, cioè circa l'8,3 per cento in più. L'Unrae, l'associazione delle case automobilistiche estere in Italia, ha alzato la previsione per il 2026 a 1,64 milioni di auto, il 7,5 per cento in più dello scorso anno.",
+      "Stellantis, compreso il marchio cinese partner Leapmotor, ha immatricolato a ottobre 31.865 auto, il 5,5 per cento in meno. La quota è scesa al 24,2 per cento dal 26,8 di un anno fa. Da gennaio a ottobre il gruppo cresce ancora del 12,1 per cento, con 411.825 auto.",
+      "Le testate non concordano sulla causa. Milano Finanza indica gli stop produttivi della Fiat Panda, mentre Benzinga Italia titola sulla carenza di chip. Autoblog osserva che i marchi cinesi guadagnano terreno.",
+      "Sul fronte delle motorizzazioni, le ibride hanno preso il 49 per cento del mercato, con le mild hybrid al 29,4 per cento e le full hybrid al 19,6 per cento. Le auto elettriche hanno raggiunto 8.122 immatricolazioni, il 28,1 per cento in più, con una quota del 6,1 per cento."
+     ],
+     "checks": [
+      {
+       "c": "Le immatricolazioni di auto nuove in Italia sono salite del 4,8 per cento a 131.921 a ottobre",
+       "n": "Lo stesso dato è riportato da AGI, Motorbox e Milano Finanza."
+      },
+      {
+       "c": "Le immatricolazioni di Stellantis sono calate del 5,5 per cento, quota al 24,2 per cento",
+       "n": "Lo riportano Milano Finanza, SoldiOnline e Geagency."
+      },
+      {
+       "c": "La causa del calo di Stellantis",
+       "n": "Milano Finanza cita gli stop produttivi della Fiat Panda, Benzinga Italia la carenza di chip; le fonti non concordano."
+      }
+     ],
+     "ctx": "Le immatricolazioni sono la misura mensile standard del mercato dell'auto e provengono dal ministero dei Trasporti. Una mild hybrid ha un piccolo motore elettrico che assiste il motore a benzina ma non può muovere l'auto da solo. Leapmotor è una casa cinese di auto elettriche di cui Stellantis detiene una quota.",
+     "media_caps": [
+      "Correlato: Investing.com Italia sulle azioni Stellantis dopo i conti",
+      "Auto nuove in vendita in Italia"
+     ]
+    }
+   }
+  },
+  {
+   "id": 6,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "12:00",
+   "read": 4,
+   "title": "Meloni says she wants another term, the Quirinale is not in her plans, and the RAI reform is going well",
+   "summary": "In an interview for a book by journalist Bruno Vespa, Prime Minister Giorgia Meloni said she is focused on asking voters for another mandate and that the presidency of the Republic is not in her plans. Minister Tommaso Foti said on Tuesday that she wants to govern for five more years.",
+   "body": [
+    "According to ANSA, Meloni told Bruno Vespa that the reform of the state broadcaster RAI seems well advanced and that it will remove an argument from what she called a ridiculous left. She argues that the current RAI law was written by the left, which used it for years, and that opposition parties now say it gives too much power to politics. The reform is in Parliament.",
+    "On the presidency of the Republic, Meloni said the Quirinale is not in her plans and added that cultural racism should stop. She said she is concentrating on asking for another mandate, with the next general election due by 2027.",
+    "On Tuesday, Minister for European Affairs Tommaso Foti told the party newspaper Secolo d'Italia that Meloni wants to govern for another five years, and advised Democratic Party leader Elly Schlein to talk less about Meloni and more about what she wants to do for Italy. The opposition's detailed reply was not included in the sources used here.",
+    "On the street, the base union USB moved its protest camp to the Colosseum in Rome for a national assembly on 1 November, saying it wants to oust the government of war, cost of living and repression. It also announced a national demonstration for 12 December. Both sides' statements are reported as stated and not independently assessed."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=tvpAZ-4n4Y4",
+     "cap": "Meloni: focused on asking for another mandate, the Quirinale is not in my plans",
+     "credit": "Il Mattino"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/56a8129da6e5a736d93044c0af3b1b71.jpg",
+     "cap": "Giorgia Meloni",
+     "credit": "ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-un-altro-mandato.-il-quirinale-non-e-nei-miei-piani_facdc2e3-865b-4f6a-9977-dec528bb34e0.html",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_02936430-084e-4517-b633-93be73c7371b.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Secolo d'Italia",
+     "u": "https://secoloditalia.it/2026/11/foti-stronca-la-sinistra-meloni-vuole-governare-altri-cinque-anni-e-schlein-pensi-per-se",
+     "t": "Right-leaning daily, reports minister's words"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/cacciamo-il-governo-meloni-le-tende-si-spostano-sotto-il-colosseo_3d831e06-2d14-4e88-a2d2-b80215bae534.html",
+     "t": "News agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Meloni said the Quirinale is not in her plans and she seeks another mandate",
+     "n": "Reported by ANSA from an interview for Vespa's book; the full text is not yet published."
+    },
+    {
+     "s": "warn",
+     "c": "RAI reform is 'going well'",
+     "n": "This is the prime minister's own assessment; independent confirmation of the parliamentary status was not found."
+    },
+    {
+     "s": "ok",
+     "c": "USB held a national assembly at the Colosseum and called a national demonstration for 12 December",
+     "n": "Reported by ANSA in two separate articles."
+    }
+   ],
+   "ctx": "The president of the Republic is elected by Parliament and delegates together, and the current mandate ends in 2029. Italy's next general election is due by 2027. The RAI is the public broadcaster, and its governance rules are a long-running subject of political dispute.",
+   "loop_query": "parliament building facade",
+   "i18n": {
+    "it": {
+     "title": "Meloni: voglio un altro mandato, il Quirinale non è nei miei piani, la riforma Rai è a buon punto",
+     "summary": "In un'intervista per il libro del giornalista Bruno Vespa, la premier Giorgia Meloni ha detto di essere concentrata a chiedere agli elettori un altro mandato e che la presidenza della Repubblica non è nei suoi piani. Martedì il ministro Tommaso Foti ha detto che vuole governare per altri cinque anni.",
+     "body": [
+      "Secondo l'ANSA, Meloni ha detto a Bruno Vespa che la riforma della Rai le sembra a buon punto e che toglierà un argomento a quella che ha definito una sinistra ridicola. Sostiene che l'attuale legge sulla Rai l'ha scritta la sinistra, che l'ha usata per anni, e che ora i partiti di opposizione dicono che dà troppo potere alla politica. La riforma è in Parlamento.",
+      "Sulla presidenza della Repubblica Meloni ha detto che il Quirinale non è nei suoi piani, aggiungendo che il razzismo culturale deve finire. Ha spiegato di essere concentrata a chiedere un altro mandato, con le prossime elezioni politiche previste entro il 2027.",
+      "Martedì il ministro per gli Affari europei Tommaso Foti ha detto al quotidiano di partito Secolo d'Italia che Meloni vuole governare per altri cinque anni, e ha consigliato alla segretaria del Partito democratico Elly Schlein di parlare meno di Meloni e più di ciò che vuole fare lei per l'Italia. La replica dettagliata dell'opposizione non è presente nelle fonti usate qui.",
+      "In piazza, il sindacato di base Usb ha spostato il suo presidio al Colosseo, a Roma, per un'assemblea nazionale il 1 novembre, dicendo di voler cacciare il governo della guerra, del caro vita e della repressione. Ha anche annunciato una manifestazione nazionale per il 12 dicembre. Le dichiarazioni di entrambe le parti sono riportate come dette e non sono valutate in modo indipendente."
+     ],
+     "checks": [
+      {
+       "c": "Meloni ha detto che il Quirinale non è nei suoi piani e che cerca un altro mandato",
+       "n": "Lo riporta l'ANSA da un'intervista per il libro di Vespa; il testo integrale non è ancora pubblicato."
+      },
+      {
+       "c": "La riforma Rai è a buon punto",
+       "n": "È la valutazione della stessa premier; non è stata trovata una conferma indipendente sullo stato dell'iter parlamentare."
+      },
+      {
+       "c": "L'Usb ha tenuto un'assemblea nazionale al Colosseo e ha indetto una manifestazione nazionale per il 12 dicembre",
+       "n": "Lo riporta l'ANSA in due articoli distinti."
+      }
+     ],
+     "ctx": "Il presidente della Repubblica è eletto dal Parlamento insieme ai delegati regionali, e l'attuale mandato termina nel 2029. Le prossime elezioni politiche italiane sono previste entro il 2027. La Rai è il servizio pubblico radiotelevisivo, e le sue regole di governance sono da tempo oggetto di scontro politico.",
+     "media_caps": [
+      "Meloni: concentrata a chiedere un altro mandato, il Quirinale non è nei miei piani",
+      "Giorgia Meloni"
+     ]
+    }
+   }
+  },
+  {
+   "id": 7,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "Italy's AI Act decree is in force: ACN supervises, AgID notifies, and a national sandbox is created",
+   "summary": "Legislative Decree 179 of 7 October 2026, in force since 23 October, adapts Italian law to the EU AI Act. It names the Agency for Digital Italy and the National Cybersecurity Agency as national AI authorities and sets rules for AI at work, in public administration and in education.",
+   "body": [
+    "Legislative Decree 7 October 2026 number 179 was published in the Gazzetta Ufficiale number 234 on 8 October and took effect on 23 October 2026. It implements Regulation (EU) 2024/1689, the AI Act, in national law, and sits alongside Law 132 of 2025, Italy's framework law on artificial intelligence.",
+    "On institutions, secondary sources report that the Agency for Digital Italy, AgID, acts as the notifying authority, meaning the body that oversees the conformity assessment bodies. The National Cybersecurity Agency, ACN, acts as the market surveillance authority and as the single point of contact with the European institutions. The decree also covers the supervision and sanctions system.",
+    "It creates the Italian regulatory sandbox for AI, a space for testing systems under the direct supervision of the national authorities. It also sets rules for the use of AI in the workplace, in public administration and in training and education. The Garante for personal data protection gave an opinion on the draft on 14 July 2026, on the powers of the authorities and on AI in education.",
+    "Who is affected: providers and deployers of AI systems in Italy, public bodies that use AI, and employers that use it to manage staff. What to do: map the AI systems you use, identify your role under the AI Act and check the decree's workplace and public administration rules. Open points: the exact sanction amounts and the sector authorities' competences were not verified here, so read the text on Normattiva. This is not legal advice."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ingenio-web.it/upload/blog/f/9/f/276206abde8af9450fa28e0c331d1628554e5cb8_og.jpg",
+     "cap": "Legislative Decree 179/2026 on artificial intelligence",
+     "credit": "Ingenio"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Normattiva",
+     "u": "https://www.normattiva.it/eli/id/2026/10/08/26G00200/ORIGINAL",
+     "t": "Official legislation database, primary source"
+    },
+    {
+     "n": "Garante Privacy opinion of 14 July 2026",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10275626",
+     "t": "Regulator, primary source"
+    },
+    {
+     "n": "Ingenio",
+     "u": "https://www.ingenio-web.it/articoli/intelligenza-artificiale-pubblicato-il-decreto-179-2026-tutte-le-novita-su-controlli-formazione-lavoro-e-professioni/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Simplybiz",
+     "u": "https://www.simplybiz.eu/decreto-legislativo-179-2026-ai-act-autorita-vigilanza/",
+     "t": "Specialist outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Decree 179/2026 was published in Gazzetta Ufficiale number 234 of 8 October and applies from 23 October",
+     "n": "The official Normattiva record and several specialist outlets give the same dates."
+    },
+    {
+     "s": "warn",
+     "c": "AgID is notifying authority and ACN is market surveillance authority and single contact point",
+     "n": "Reported consistently by secondary sources; the decree text was not read in full for this briefing."
+    },
+    {
+     "s": "warn",
+     "c": "Sanction amounts and sector rules",
+     "n": "Not verified; check the official text."
+    }
+   ],
+   "ctx": "The AI Act is the EU's regulation on artificial intelligence, Regulation (EU) 2024/1689. Each member state must designate authorities to enforce it. A regulatory sandbox lets companies test innovative systems with regulators watching, with some flexibility. Law 132 of 2025 sets national principles on AI, and this decree supplies the enforcement machinery. This briefing is information, not legal advice.",
+   "loop_query": "government office building",
+   "i18n": {
+    "it": {
+     "title": "Il decreto italiano sull'AI Act è in vigore: l'ACN vigila, l'AgID notifica e nasce una sandbox nazionale",
+     "summary": "Il decreto legislativo 179 del 7 ottobre 2026, in vigore dal 23 ottobre, adegua il diritto italiano all'AI Act europeo. Indica l'Agenzia per l'Italia digitale e l'Agenzia per la cybersicurezza nazionale come autorità nazionali per l'IA e fissa regole per l'IA sul lavoro, nella pubblica amministrazione e nella formazione.",
+     "body": [
+      "Il decreto legislativo 7 ottobre 2026 numero 179 è stato pubblicato nella Gazzetta Ufficiale numero 234 dell'8 ottobre ed è entrato in vigore il 23 ottobre 2026. Attua nel diritto nazionale il regolamento europeo 2024/1689, cioè l'AI Act, e si affianca alla legge 132 del 2025, la legge quadro italiana sull'intelligenza artificiale.",
+      "Sul piano istituzionale, le fonti secondarie riferiscono che l'Agenzia per l'Italia digitale, AgID, è l'autorità di notifica, cioè l'organo che sovrintende agli organismi di valutazione della conformità. L'Agenzia per la cybersicurezza nazionale, ACN, è l'autorità di vigilanza del mercato e il punto di contatto unico con le istituzioni europee. Il decreto disciplina anche il sistema di vigilanza e sanzioni.",
+      "Istituisce lo spazio di sperimentazione italiano per l'IA, un ambiente per provare i sistemi sotto la supervisione diretta delle autorità nazionali. Fissa inoltre regole per l'uso dell'IA nel lavoro, nella pubblica amministrazione e nella formazione. Il Garante per la protezione dei dati personali ha espresso un parere sullo schema il 14 luglio 2026, sui poteri delle autorità e sull'IA nella formazione.",
+      "Chi è coinvolto: fornitori e utilizzatori di sistemi di IA in Italia, enti pubblici che usano l'IA e datori di lavoro che la impiegano per gestire il personale. Cosa fare: mappare i sistemi di IA in uso, individuare il proprio ruolo secondo l'AI Act e verificare le regole del decreto su lavoro e pubblica amministrazione. Punti aperti: gli importi esatti delle sanzioni e le competenze delle autorità di settore non sono stati verificati qui, quindi conviene leggere il testo su Normattiva. Non è una consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Il decreto 179/2026 è stato pubblicato nella Gazzetta Ufficiale numero 234 dell'8 ottobre e si applica dal 23 ottobre",
+       "n": "Il record ufficiale di Normattiva e diversi siti specializzati indicano le stesse date."
+      },
+      {
+       "c": "L'AgID è autorità di notifica e l'ACN autorità di vigilanza del mercato e punto di contatto unico",
+       "n": "Lo riportano in modo coerente fonti secondarie; il testo del decreto non è stato letto integralmente per questo numero."
+      },
+      {
+       "c": "Importi delle sanzioni e regole di settore",
+       "n": "Non verificati; consultare il testo ufficiale."
+      }
+     ],
+     "ctx": "L'AI Act è il regolamento dell'Unione europea sull'intelligenza artificiale, il regolamento (UE) 2024/1689. Ogni Stato membro deve designare le autorità che lo fanno rispettare. Una sandbox normativa permette alle imprese di provare sistemi innovativi sotto gli occhi dei regolatori, con qualche flessibilità. La legge 132 del 2025 fissa i principi nazionali sull'IA e questo decreto fornisce gli strumenti di applicazione. Questo numero è informazione, non consulenza legale.",
+     "media_caps": [
+      "Decreto legislativo 179/2026 sull'intelligenza artificiale"
+     ]
+    }
+   }
+  },
+  {
+   "id": 8,
+   "sec": "reg",
+   "time": "08:30",
+   "read": 5,
+   "title": "AI Act calendar after the Digital Omnibus: AI content marking and the nudifier ban apply on 2 December",
+   "summary": "After the Digital Omnibus on AI, machine-readable marking of AI-generated content and a new ban on AI that creates non-consensual intimate images apply from 2 December 2026. High-risk rules move to 2 December 2027 for Annex III systems and 2 August 2028 for AI in regulated products.",
+   "body": [
+    "The Digital Omnibus on AI changes the EU AI Act, Regulation (EU) 2024/1689. The Commission proposed it on 19 November 2025 and Parliament and Council reached a provisional deal on 7 May 2026. One law firm summary gives the number as Regulation (EU) 2026/1744, in force since 27 July 2026; treat the number as to be confirmed in the Official Journal.",
+    "Timeline. 1 August 2024: the AI Act enters into force. 2 February 2025: prohibited practices and AI literacy duties apply. 2 August 2025: obligations for general-purpose AI models apply. 2 August 2026: the Commission's AI Office starts enforcing the general-purpose AI rules and the Article 50 transparency duties apply. 2 December 2026: the grace period for machine-readable marking ends, and the new prohibition applies. 2 December 2027: high-risk systems listed in Annex III. 2 August 2028: AI embedded in products covered by EU safety law, under Annex I.",
+    "The new prohibition bans AI systems whose main purpose is to create child sexual abuse material or non-consensual intimate images of identifiable people, including deepfake nudifier tools. The summaries also report extra relief for small mid-cap companies, stronger AI Office powers and more regulatory sandboxes.",
+    "On marking, the Commission published the final Code of Practice on Transparency of AI-generated Content on 10 June 2026. It is voluntary, but signing it helps providers show compliance. It asks providers to use machine-readable techniques such as watermarking, persistent metadata and provenance protocols, and deployers to add visible labels. Who must act: providers of image, video, audio and text generators, and companies that publish deepfakes. By when: 2 December 2026 for systems already on the market. This is not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=F4l8jxN2Zwc",
+     "cap": "Related: the first AI Act standard, explained",
+     "credit": "AI Policy Hub Switzerland"
+    },
+    {
+     "type": "image",
+     "u": "https://commission.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-07/AI-transparency-obligations%202.jpg?h=c3635fa2&itok=34Ka5Vab",
+     "cap": "AI transparency obligations under the AI Act",
+     "credit": "European Commission"
+    },
+    {
+     "type": "image",
+     "u": "https://static.dastra.eu/content/4a56d2ec-1ceb-4fc1-af76-6863e015f2d2/visuel-article-5-original.jpg",
+     "cap": "Explainer on the AI Act omnibus deal",
+     "credit": "Dastra"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission",
+     "u": "https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en",
+     "t": "EU institution, primary source"
+    },
+    {
+     "n": "European Commission, AI-generated content Code of Practice",
+     "u": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+     "t": "EU institution, primary source"
+    },
+    {
+     "n": "White & Case",
+     "u": "https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules",
+     "t": "Law firm analysis"
+    },
+    {
+     "n": "Dastra",
+     "u": "https://www.dastra.eu/en/blog/simpler-safer-stricter-where-it-counts-inside-the-eu-ai-omnibus-deal/60025",
+     "t": "Compliance software vendor analysis"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Annex III high-risk obligations moved to 2 December 2027 and Annex I to 2 August 2028",
+     "n": "White & Case, Dastra and other summaries agree."
+    },
+    {
+     "s": "ok",
+     "c": "The Code of Practice on AI-generated content was finalised on 10 June 2026 and is voluntary",
+     "n": "The Commission's digital strategy page and Italian legal outlets agree."
+    },
+    {
+     "s": "warn",
+     "c": "Regulation number 2026/1744 and entry into force on 27 July 2026",
+     "n": "Appears in a single compliance summary; confirm in EUR-Lex."
+    },
+    {
+     "s": "warn",
+     "c": "Marking grace period applies to systems already on the market",
+     "n": "Summaries differ slightly on who benefits from the transition; read the final text."
+    }
+   ],
+   "ctx": "Article 50 of the AI Act requires people to be told when they interact with AI and requires AI-generated content to be marked. Annex III lists areas such as employment, education and credit scoring where AI is high risk. An omnibus is a legal package that amends several laws at once, here to simplify rules. A deepfake is realistic fake media made with AI. This briefing is information, not legal advice.",
+   "loop_query": "european parliament building",
+   "i18n": {
+    "it": {
+     "title": "Calendario AI Act dopo l'Omnibus digitale: marcatura dei contenuti AI e divieto dei nudifier dal 2 dicembre",
+     "summary": "Dopo l'Omnibus digitale sull'IA, la marcatura leggibile da macchina dei contenuti generati dall'IA e un nuovo divieto sui sistemi che creano immagini intime non consensuali si applicano dal 2 dicembre 2026. Le regole sull'alto rischio slittano al 2 dicembre 2027 per i sistemi dell'allegato III e al 2 agosto 2028 per l'IA nei prodotti regolamentati.",
+     "body": [
+      "L'Omnibus digitale sull'IA modifica l'AI Act dell'Unione europea, il regolamento (UE) 2024/1689. La Commissione lo ha proposto il 19 novembre 2025 e Parlamento e Consiglio hanno raggiunto un accordo provvisorio il 7 maggio 2026. La sintesi di uno studio legale indica il numero come regolamento (UE) 2026/1744, in vigore dal 27 luglio 2026; il numero va confermato nella Gazzetta ufficiale dell'Unione europea.",
+      "Cronologia. 1 agosto 2024: l'AI Act entra in vigore. 2 febbraio 2025: si applicano le pratiche vietate e gli obblighi di alfabetizzazione sull'IA. 2 agosto 2025: si applicano gli obblighi per i modelli di IA per finalità generali. 2 agosto 2026: l'Ufficio per l'IA della Commissione inizia a far rispettare le regole sull'IA per finalità generali e si applicano gli obblighi di trasparenza dell'articolo 50. 2 dicembre 2026: finisce il periodo transitorio per la marcatura leggibile da macchina e si applica il nuovo divieto. 2 dicembre 2027: sistemi ad alto rischio dell'allegato III. 2 agosto 2028: IA integrata nei prodotti coperti dalla normativa di sicurezza dell'Unione, allegato I.",
+      "Il nuovo divieto riguarda i sistemi di IA il cui scopo principale è creare materiale pedopornografico o immagini intime non consensuali di persone identificabili, compresi gli strumenti deepfake di tipo nudifier. Le sintesi riferiscono anche maggiori agevolazioni per le piccole imprese a media capitalizzazione, poteri rafforzati dell'Ufficio per l'IA e più spazi di sperimentazione normativa.",
+      "Sulla marcatura, il 10 giugno 2026 la Commissione ha pubblicato la versione finale del Codice di condotta sulla trasparenza dei contenuti generati dall'IA. È volontario, ma aderire aiuta i fornitori a dimostrare la conformità. Chiede ai fornitori tecniche leggibili da macchina come filigrane, metadati persistenti e protocolli di provenienza, e agli utilizzatori etichette visibili. Chi deve agire: i fornitori di generatori di immagini, video, audio e testo e le aziende che pubblicano deepfake. Entro quando: il 2 dicembre 2026 per i sistemi già sul mercato. Non è una consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Gli obblighi dell'allegato III slittano al 2 dicembre 2027 e quelli dell'allegato I al 2 agosto 2028",
+       "n": "White & Case, Dastra e altre sintesi concordano."
+      },
+      {
+       "c": "Il Codice di condotta sui contenuti generati dall'IA è stato finalizzato il 10 giugno 2026 ed è volontario",
+       "n": "La pagina della Commissione sulla strategia digitale e i siti legali italiani concordano."
+      },
+      {
+       "c": "Numero 2026/1744 e entrata in vigore il 27 luglio 2026",
+       "n": "Compare in una sola sintesi di conformità; da confermare su EUR-Lex."
+      },
+      {
+       "c": "Il periodo transitorio sulla marcatura vale per i sistemi già sul mercato",
+       "n": "Le sintesi differiscono leggermente su chi ne beneficia; leggere il testo finale."
+      }
+     ],
+     "ctx": "L'articolo 50 dell'AI Act impone di informare le persone quando interagiscono con l'IA e di marcare i contenuti generati dall'IA. L'allegato III elenca ambiti come lavoro, istruzione e valutazione del credito in cui l'IA è ad alto rischio. Un omnibus è un pacchetto legislativo che modifica più leggi insieme, qui per semplificare le regole. Un deepfake è un contenuto falso e realistico creato con l'IA. Questo numero è informazione, non consulenza legale.",
+     "media_caps": [
+      "Correlato: il primo standard dell'AI Act, spiegato",
+      "Obblighi di trasparenza sull'IA previsti dall'AI Act",
+      "Spiegazione dell'accordo omnibus sull'AI Act"
+     ]
+    }
+   }
+  },
+  {
+   "id": 9,
+   "sec": "reg",
+   "time": "08:45",
+   "read": 4,
+   "title": "Italy's privacy authority tightens on AI: opinion on public administration, Character.AI fine, inspections to year end",
+   "summary": "The Garante for personal data protection issued an opinion on AI in public administration, made public on 29 October, fined Character.AI 158,000 euros over minors' safeguards, and planned at least 35 inspections through December including AI in municipalities and local health bodies.",
+   "body": [
+    "Opinion number 760 of 7 October 2026, made public on 29 October, is reported to concern AI in public administration. The Garante gave a favourable opinion on a regulation of the Autonomous Province of Trento on AI systems that support administrative activities, and stressed that technical and organisational measures must guarantee the effective exercise of rights to correction and deletion, whatever system or AI model is used. The opinion number comes from a search summary and was not verified in the document.",
+    "In a separate case, the Garante fined Character Technologies, the company behind Character.AI, 158,000 euros. The decision of 3 July 2026 was announced on 9 July. It found weak safeguards for minors and age verification, late data protection impact assessments, inadequate privacy notices and a late appointment of an EU representative. The company has 120 days to make age checks work, stop blocked minors from registering again, set minors' profiles to private by default and report back.",
+    "The inspection plan for August to December 2026 foresees at least 35 checks, including processing linked to AI systems used by municipalities and local health authorities, as well as geomarketing, neuromarketing and dynamic pricing.",
+    "Who is affected: public bodies adopting AI tools, and providers of chatbots accessible to minors. What to do: document how people can obtain correction and deletion of data in AI systems and how ages are verified. Open question: how the Garante's role fits with the new AI authorities under Decree 179 of 2026. This is not legal advice."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2024/10/14182051/garante-privacy-g7-privacy-roma-1.jpg",
+     "cap": "The Garante for personal data protection",
+     "credit": "Agenda Digitale"
+    },
+    {
+     "type": "image",
+     "u": "https://dnewpydm90vfx.cloudfront.net/wp-content/uploads/2026/11/Intelligenza-artificiale-nella-PA.jpg",
+     "cap": "Artificial intelligence in public administration",
+     "credit": "Cybersecurity360"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Garante Privacy, Character.AI decision",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269594",
+     "t": "Regulator, primary source"
+    },
+    {
+     "n": "Cybersecurity360",
+     "u": "https://www.cybersecurity360.it/legal/privacy-dati-personali/intelligenza-artificiale-nella-pa-si-ma-con-cautela-il-parere-del-garante-privacy/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Agenda Digitale",
+     "u": "https://www.agendadigitale.eu/sicurezza/privacy/piano-ispezioni-garante-privacy-2026-le-aree-nel-mirino-e-le-novita/",
+     "t": "Specialist outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Garante fined Character Technologies 158,000 euros and ordered measures within 120 days",
+     "n": "The Garante's own page and a search summary agree."
+    },
+    {
+     "s": "warn",
+     "c": "Opinion number 760 of 7 October, made public on 29 October",
+     "n": "The Trento regulation opinion is confirmed by Cybersecurity360; the number and dates come from a search summary."
+    },
+    {
+     "s": "ok",
+     "c": "Inspection plan for August to December 2026 includes AI systems in municipalities and local health bodies",
+     "n": "Reported by Agenda Digitale and other outlets."
+    }
+   ],
+   "ctx": "The Garante is Italy's data protection authority and enforces the GDPR, the EU data protection law, which applies to AI whenever personal data is used. A data protection impact assessment is a required risk analysis before risky processing. An EU representative is a local contact that non-EU companies must name. This is not legal advice.",
+   "loop_query": "government office building",
+   "i18n": {
+    "it": {
+     "title": "Il Garante privacy stringe sull'IA: parere sulla pubblica amministrazione, sanzione a Character.AI, ispezioni fino a fine anno",
+     "summary": "Il Garante per la protezione dei dati personali ha emesso un parere sull'IA nella pubblica amministrazione, reso noto il 29 ottobre, ha multato Character.AI per 158.000 euro per la tutela dei minori e ha programmato almeno 35 ispezioni fino a dicembre, anche sull'IA in comuni e aziende sanitarie.",
+     "body": [
+      "Il parere numero 760 del 7 ottobre 2026, reso noto il 29 ottobre, riguarderebbe l'IA nella pubblica amministrazione. Il Garante ha espresso parere favorevole su un regolamento della Provincia autonoma di Trento sui sistemi di IA a supporto delle attività amministrative, sottolineando che le misure tecniche e organizzative devono garantire l'effettivo esercizio dei diritti di rettifica e cancellazione, a prescindere dal sistema o dal modello di IA usato. Il numero del parere proviene da una sintesi di ricerca e non è stato verificato nel documento.",
+      "In un caso separato il Garante ha multato Character Technologies, la società di Character.AI, per 158.000 euro. Il provvedimento del 3 luglio 2026 è stato annunciato il 9 luglio. Ha rilevato tutele deboli per i minori e per la verifica dell'età, valutazioni d'impatto sulla protezione dei dati tardive, informative inadeguate e una nomina tardiva del rappresentante nell'Unione europea. La società ha 120 giorni per far funzionare i controlli dell'età, impedire ai minori bloccati di registrarsi di nuovo, impostare i profili dei minori come privati per impostazione predefinita e riferire al Garante.",
+      "Il piano ispettivo da agosto a dicembre 2026 prevede almeno 35 controlli, tra cui i trattamenti legati a sistemi di IA usati da comuni e aziende sanitarie locali, oltre a geomarketing, neuromarketing e prezzi dinamici.",
+      "Chi è coinvolto: gli enti pubblici che adottano strumenti di IA e i fornitori di chatbot accessibili ai minori. Cosa fare: documentare come le persone possono ottenere rettifica e cancellazione dei dati nei sistemi di IA e come viene verificata l'età. Domanda aperta: come il ruolo del Garante si integra con le nuove autorità per l'IA del decreto 179 del 2026. Non è una consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Il Garante ha multato Character Technologies per 158.000 euro e ordinato misure entro 120 giorni",
+       "n": "La pagina del Garante e una sintesi di ricerca concordano."
+      },
+      {
+       "c": "Parere numero 760 del 7 ottobre, reso noto il 29 ottobre",
+       "n": "Il parere sul regolamento di Trento è confermato da Cybersecurity360; numero e date provengono da una sintesi di ricerca."
+      },
+      {
+       "c": "Il piano ispettivo da agosto a dicembre 2026 include sistemi di IA in comuni e aziende sanitarie locali",
+       "n": "Lo riportano Agenda Digitale e altri siti."
+      }
+     ],
+     "ctx": "Il Garante è l'autorità italiana per la protezione dei dati e applica il GDPR, la legge europea sulla protezione dei dati, che vale per l'IA ogni volta che si usano dati personali. La valutazione d'impatto sulla protezione dei dati è un'analisi dei rischi obbligatoria prima di trattamenti rischiosi. Il rappresentante nell'Unione è un referente locale che le società extra-UE devono nominare. Non è una consulenza legale.",
+     "media_caps": [
+      "Il Garante per la protezione dei dati personali",
+      "Intelligenza artificiale nella pubblica amministrazione"
+     ]
+    }
+   }
+  },
+  {
+   "id": 10,
+   "sec": "ai",
+   "time": "08:00",
+   "read": 4,
+   "title": "UK cyber agency says AI-powered ransomware on critical infrastructure is 'highly likely' by 2028",
+   "summary": "The UK's National Cyber Security Centre said in its State of the Cyber Nation report that financially motivated hackers are highly likely to use AI-powered malware against power stations, airports and hospitals by 2028. The government announced 130 million pounds in new cyber defence funding.",
+   "body": [
+    "The warning comes from Richard Horne, chief executive of the National Cyber Security Centre, part of the British intelligence agency GCHQ, in a report published on 3 November. It says AI-powered malware is highly likely to feature in ransomware attacks on UK critical infrastructure by 2028, and that within two years hostile actors will use AI to raise the scale and efficiency of their operations.",
+    "Horne said the risk is not that AI has invented new ways to attack, but that weaknesses tolerated for too long can now be found and exploited at a scale that was once unimaginable. He said that for decades the country has got away with doing technology on the cheap.",
+    "The government is putting 60 million pounds into the first phase of a national Cyber Shield, to build agentic cyber defence tools with industry, and 70 million pounds into a new National Exposure and Real-Time Vulnerability Centre at the agency. A new AI Cyber Security Centre of Excellence will open in Manchester.",
+    "The agency advises organisations to invest in technology infrastructure, avoid unnecessary internet connectivity, treat the Cyber Essentials baseline as a foundation rather than an endpoint, and scale resilience to their size. The forecast is a judgment, not a measurement, and the report does not say which groups would carry out such attacks. For engineers, security and vulnerability management are growing fields."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=J7T_ZE9UUkM",
+     "cap": "Related: AI and cyber crime, ransomware, the NHS and national security",
+     "credit": "LBC News / RUSI",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://www.ncsc.gov.uk/sites/default/files/styles/uncropped_lg/public/2026-11/Nova-AR.jpg?itok=f_tfsBpR",
+     "cap": "The National Cyber Security Centre's State of the Cyber Nation report",
+     "credit": "NCSC"
+    },
+    {
+     "type": "image",
+     "u": "https://assets.infosecurity-magazine.com/webpage/og/93d21558-2aa2-43bd-b192-6fc4f0328191.jpg",
+     "cap": "AI ransomware threat to UK critical infrastructure",
+     "credit": "Infosecurity Magazine"
+    }
+   ],
+   "sources": [
+    {
+     "n": "National Cyber Security Centre",
+     "u": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+     "t": "UK government agency, primary source"
+    },
+    {
+     "n": "Infosecurity Magazine",
+     "u": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
+     "t": "Trade publication"
+    },
+    {
+     "n": "MLex",
+     "u": "https://www.mlex.com/mlex/technology/articles/2545537",
+     "t": "Regulatory news service"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "NCSC judges AI-powered ransomware against UK critical infrastructure 'highly likely' by 2028",
+     "n": "The agency's own release, Infosecurity Magazine and MLex agree."
+    },
+    {
+     "s": "ok",
+     "c": "Funding of 60 million pounds for Cyber Shield and 70 million pounds for a vulnerability centre",
+     "n": "The agency's release and trade press report the same figures."
+    },
+    {
+     "s": "warn",
+     "c": "The 2028 forecast",
+     "n": "It is the agency's assessment of likelihood, not a measured fact."
+    }
+   ],
+   "ctx": "Ransomware is malicious software that locks a victim's data until a ransom is paid. 'Highly likely' is a probability term used by UK intelligence for about 80 to 95 percent. Critical infrastructure covers services such as energy, transport and health. Agentic cyber defence refers to AI agents that find and fix weaknesses with limited human input.",
+   "loop_query": "data center servers",
+   "i18n": {
+    "it": {
+     "title": "L'agenzia cyber britannica: ransomware con IA contro le infrastrutture critiche 'molto probabile' entro il 2028",
+     "summary": "Il National Cyber Security Centre britannico ha detto nel rapporto State of the Cyber Nation che entro il 2028 è molto probabile che hacker a scopo di lucro usino malware con IA contro centrali elettriche, aeroporti e ospedali. Il governo ha annunciato 130 milioni di sterline di nuovi fondi per la difesa informatica.",
+     "body": [
+      "L'allarme viene da Richard Horne, amministratore delegato del National Cyber Security Centre, parte dell'agenzia di intelligence britannica GCHQ, in un rapporto pubblicato il 3 novembre. Il documento dice che il malware con IA è molto probabile negli attacchi ransomware alle infrastrutture critiche britanniche entro il 2028, e che entro due anni gli attori ostili useranno l'IA per aumentare la scala e l'efficienza delle operazioni.",
+      "Horne ha detto che il rischio non è che l'IA abbia inventato nuovi modi di attaccare, ma che vulnerabilità tollerate troppo a lungo possono ora essere scoperte e sfruttate su una scala un tempo inimmaginabile. Ha aggiunto che per decenni il Paese l'ha fatta franca facendo tecnologia a basso costo.",
+      "Il governo stanzia 60 milioni di sterline per la prima fase di uno Cyber Shield nazionale, per costruire con l'industria strumenti di difesa informatica agentici, e 70 milioni di sterline per un nuovo centro per l'esposizione e le vulnerabilità in tempo reale presso l'agenzia. A Manchester nascerà un nuovo centro di eccellenza sulla cybersicurezza dell'IA.",
+      "L'agenzia consiglia alle organizzazioni di investire nell'infrastruttura tecnologica, evitare connessioni a internet non necessarie, considerare la certificazione di base Cyber Essentials un punto di partenza e non di arrivo, e dimensionare la resilienza sulle proprie dimensioni. La previsione è un giudizio, non una misura, e il rapporto non dice quali gruppi compirebbero tali attacchi. Per gli ingegneri, sicurezza e gestione delle vulnerabilità sono ambiti in crescita."
+     ],
+     "checks": [
+      {
+       "c": "L'NCSC ritiene molto probabile un ransomware con IA contro le infrastrutture critiche britanniche entro il 2028",
+       "n": "Il comunicato dell'agenzia, Infosecurity Magazine e MLex concordano."
+      },
+      {
+       "c": "Fondi di 60 milioni di sterline per Cyber Shield e di 70 milioni di sterline per un centro sulle vulnerabilità",
+       "n": "Il comunicato dell'agenzia e la stampa di settore riportano le stesse cifre."
+      },
+      {
+       "c": "La previsione al 2028",
+       "n": "È la valutazione di probabilità dell'agenzia, non un fatto misurato."
+      }
+     ],
+     "ctx": "Il ransomware è un software malevolo che blocca i dati di una vittima finché non viene pagato un riscatto. 'Molto probabile' è un termine di probabilità usato dall'intelligence britannica per indicare circa l'80-95 per cento. Le infrastrutture critiche comprendono servizi come energia, trasporti e sanità. La difesa informatica agentica indica agenti di IA che trovano e correggono le vulnerabilità con poco intervento umano.",
+     "media_caps": [
+      "Correlato: IA e criminalità informatica, ransomware, sistema sanitario britannico e sicurezza nazionale",
+      "Il rapporto State of the Cyber Nation del National Cyber Security Centre",
+      "La minaccia del ransomware con IA per le infrastrutture critiche britanniche"
+     ]
+    }
+   }
+  },
+  {
+   "id": 11,
+   "sec": "ai",
+   "time": "07:30",
+   "read": 4,
+   "title": "Investors push Anthropic's IPO valuation down to about 1.5 trillion dollars after tech selloff, WSJ reports",
+   "summary": "The Wall Street Journal reports that large investors told Anthropic its planned stock market listing should be valued at 1.5 to 1.6 trillion dollars, below the nearly 2 trillion dollars discussed earlier, after a sharp tech selloff. The listing is reportedly planned for later in November.",
+   "body": [
+    "According to a report by the Wall Street Journal relayed by financial news sites, institutional investors told Anthropic and its advisers that a fair valuation for its initial public offering is between 1.5 and 1.6 trillion dollars. Earlier talks had been closer to 2 trillion dollars. The report cites people familiar with the matter and has not been confirmed by the company.",
+    "Trackers report that Anthropic filed a public registration statement, called an S-1, with the US Securities and Exchange Commission on 26 October, with a Nasdaq listing under the symbol ANT, and that it is targeting the week of 16 November. They cite revenue of 16.3 billion dollars in the first half of 2026 and say founders would keep 50.1 percent of voting control. These figures come from tracker sites and should be checked against the filing.",
+    "The context is a rough period for technology shares: one market summary says the Nasdaq-100 entered correction territory, meaning a fall of 10 percent from its high, while AMD, a major AI chipmaker, reports earnings after the US close on Tuesday. Prediction markets also see a high chance that Democrats win both chambers of Congress in the midterms, which investors link to possible tech regulation.",
+    "What is unknown: the final price, the amount to be raised and the date. A lower valuation would not change the company's operations, but it would set a reference for other AI listings and for private funding rounds. This is not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=hV8SHWIwbmc",
+     "cap": "Reuters explainer: what is at stake in the Anthropic IPO",
+     "credit": "Reuters",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://investinglive.com/cms/media/Processed/Categories/featured/anthropic-ipo-valuation-1-5-trillion-featured-1793657377.jpg?width=960&format=webp",
+     "cap": "Anthropic IPO valuation reported at 1.5 trillion dollars",
+     "credit": "investingLive"
+    }
+   ],
+   "sources": [
+    {
+     "n": "investingLive, relaying the Wall Street Journal",
+     "u": "https://investinglive.com/stocks/wsj-anthropic-ipo-investors-push-for-lower-1-5-trillion-valuation-after-tech-selloff/",
+     "t": "Financial news site"
+    },
+    {
+     "n": "Dataconomy",
+     "u": "https://dataconomy.com/2026/11/03/investors-cut-anthropic-ipo-valuation-target-to-15-trillion/",
+     "t": "Technology news site"
+    },
+    {
+     "n": "Leverage Shares IPO tracker",
+     "u": "https://leverageshares.com/us/anthropic-ipo-tracker/",
+     "t": "Investment product provider tracker"
+    },
+    {
+     "n": "Built In",
+     "u": "https://builtin.com/articles/anthropic-ipo-filing-s1",
+     "t": "Technology news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Investors want a valuation of 1.5 to 1.6 trillion dollars instead of almost 2 trillion",
+     "n": "Relayed from a Wall Street Journal report citing unnamed people; not confirmed by Anthropic."
+    },
+    {
+     "s": "warn",
+     "c": "S-1 filed on 26 October, Nasdaq symbol ANT, listing in the week of 16 November, revenue of 16.3 billion dollars in the first half",
+     "n": "Appears on tracker and explainer sites; verify in the SEC filing."
+    },
+    {
+     "s": "ok",
+     "c": "A sharp tech selloff preceded the report",
+     "n": "Market summaries from several outlets describe tech weakness at the start of November."
+    }
+   ],
+   "ctx": "An initial public offering, or IPO, is the first sale of a company's shares to the public. An S-1 is the registration document a company files with the US securities regulator. A valuation is the price investors put on the whole company. A market correction is a fall of at least 10 percent from a recent peak. This is not investment advice.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "Gli investitori spingono la valutazione dell'IPO di Anthropic a circa 1.500 miliardi di dollari dopo il crollo tech, riferisce il WSJ",
+     "summary": "Il Wall Street Journal riporta che grandi investitori hanno detto ad Anthropic che la quotazione in Borsa dovrebbe valere da 1.500 a 1.600 miliardi di dollari, meno dei quasi 2.000 miliardi di cui si parlava prima, dopo un forte calo dei titoli tecnologici. La quotazione sarebbe prevista a novembre.",
+     "body": [
+      "Secondo un articolo del Wall Street Journal ripreso da siti di notizie finanziarie, gli investitori istituzionali hanno detto ad Anthropic e ai suoi consulenti che una valutazione equa per l'offerta pubblica iniziale è tra 1.500 e 1.600 miliardi di dollari. Nei colloqui precedenti ci si avvicinava ai 2.000 miliardi di dollari. L'articolo cita persone informate sui fatti e non è stato confermato dalla società.",
+      "I siti di monitoraggio riportano che Anthropic ha depositato il 26 ottobre presso la Commissione per i titoli e gli scambi degli Stati Uniti un documento di registrazione pubblico, detto S-1, con quotazione al Nasdaq con il simbolo ANT, e che punta alla settimana del 16 novembre. Indicano ricavi per 16,3 miliardi di dollari nel primo semestre del 2026 e dicono che i fondatori manterrebbero il 50,1 per cento dei diritti di voto. Queste cifre provengono da siti di monitoraggio e vanno verificate nel documento depositato.",
+      "Il contesto è un periodo difficile per i titoli tecnologici: una sintesi di mercato dice che il Nasdaq-100 è entrato in fase di correzione, cioè un calo del 10 per cento dal massimo, mentre AMD, un importante produttore di chip per l'IA, presenta i conti dopo la chiusura di Wall Street martedì. I mercati di previsione vedono inoltre un'alta probabilità che i Democratici vincano entrambe le Camere alle elezioni di metà mandato, cosa che gli investitori collegano a una possibile regolamentazione del settore tecnologico.",
+      "Cosa non si sa: il prezzo finale, l'importo da raccogliere e la data. Una valutazione più bassa non cambierebbe l'attività dell'azienda, ma fisserebbe un riferimento per altre quotazioni nell'IA e per i round di finanziamento privati. Non è un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Gli investitori vogliono una valutazione di 1.500-1.600 miliardi di dollari invece di quasi 2.000",
+       "n": "Ripreso da un articolo del Wall Street Journal che cita persone non nominate; non confermato da Anthropic."
+      },
+      {
+       "c": "S-1 depositato il 26 ottobre, simbolo ANT al Nasdaq, quotazione nella settimana del 16 novembre, ricavi di 16,3 miliardi di dollari nel primo semestre",
+       "n": "Compare su siti di monitoraggio e di approfondimento; da verificare nel documento della SEC."
+      },
+      {
+       "c": "Un forte calo dei titoli tecnologici ha preceduto la notizia",
+       "n": "Le sintesi di mercato di diverse testate descrivono debolezza del settore tecnologico a inizio novembre."
+      }
+     ],
+     "ctx": "Un'offerta pubblica iniziale, o IPO, è la prima vendita al pubblico delle azioni di una società. L'S-1 è il documento di registrazione che una società deposita presso l'autorità statunitense dei mercati. La valutazione è il prezzo che gli investitori attribuiscono all'intera società. Una correzione di mercato è un calo di almeno il 10 per cento da un massimo recente. Non è un consiglio di investimento.",
+     "media_caps": [
+      "Spiegazione di Reuters: cosa c'è in gioco nell'IPO di Anthropic",
+      "La valutazione dell'IPO di Anthropic indicata in 1.500 miliardi di dollari"
+     ]
+    }
+   }
+  },
+  {
+   "id": 12,
+   "sec": "pol",
+   "time": "12:00",
+   "read": 4,
+   "title": "US midterms: voters decide control of Congress, with more than 57 million early ballots already cast",
+   "summary": "Americans vote on Tuesday for all 435 House seats, 35 of 100 Senate seats and 36 governors. Democrats campaign on living costs and ending the war with Iran, and Republicans currently hold both chambers.",
+   "body": [
+    "Polls opened first in Vermont, followed by New Jersey, Virginia, Connecticut and Kentucky, with other states following through the day. Republicans hold 53 of the 100 Senate seats, with Democrats and allied independents holding 47, and have a narrow majority of four seats in the House.",
+    "More than 57 million Americans voted early, with heavy turnout in Georgia, Michigan, North Carolina, Ohio and Texas. Democrats have campaigned on the cost of living and on ending what they call President Donald Trump's war on Iran, and hope for historic gains in both chambers. Republicans rely on their loyal base and on scepticism of progressive policies. Trump's approval ratings are near record lows, while the party in the White House traditionally loses seats in midterm elections.",
+    "Forecasts differ. The betting platform Polymarket gave Democrats about a 77 percent chance of winning both chambers, according to a market summary, while a financial news report said Democrats are expected to win the House but the Senate remains uncertain. A prediction market is not a poll and can be wrong.",
+    "Why it matters beyond the US: Congress controls spending, can block or support presidential policy on trade, Ukraine and the Middle East, and can write rules for technology and AI. Results are expected overnight, and close races may take days to be called."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=2OemcKLLkGA",
+     "cap": "2026 midterms: angry voters, high prices and control of Congress",
+     "credit": "ABC News",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae928e5c719-1793665253.jpg?resize=1920%2C1440",
+     "cap": "Voters at a polling place on Election Day",
+     "credit": "AFP / Al Jazeera"
+    },
+    {
+     "type": "image",
+     "u": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2302883726.jpg?c=16x9&q=w_800,c_fill",
+     "cap": "America votes in the 2026 midterms",
+     "credit": "Getty Images / CNN"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026",
+     "t": "International broadcaster"
+    },
+    {
+     "n": "CNN",
+     "u": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress",
+     "t": "US broadcaster live coverage"
+    },
+    {
+     "n": "Time",
+     "u": "https://time.com/live/2026/11/03/midterm-elections-2026-key-races-live-results-latest-news-updates/",
+     "t": "US magazine live coverage"
+    },
+    {
+     "n": "Business Recorder",
+     "u": "https://www.brecorder.com/news/40447118/wall-st-rises-as-oil-falls-heading-into-us-midterm-polls",
+     "t": "Newswire reprint"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "All 435 House seats and 35 Senate seats are on the ballot, with 36 governor races",
+     "n": "Al Jazeera and CNN coverage agree."
+    },
+    {
+     "s": "ok",
+     "c": "More than 57 million early ballots were cast",
+     "n": "Reported by Al Jazeera; early-vote counts are tracked publicly."
+    },
+    {
+     "s": "warn",
+     "c": "Democrats have a 77 percent chance of winning both chambers",
+     "n": "Comes from a betting market, quoted in one market summary; another report is less certain about the Senate."
+    }
+   ],
+   "ctx": "Midterm elections are held halfway through a president's four-year term. The House has 435 members elected every two years, and about a third of the Senate is elected every two years. Control of either chamber decides which party sets the legislative agenda and chairs committees. Early voting means ballots cast before Election Day, either by mail or in person.",
+   "loop_query": "voting booth election day",
+   "i18n": {
+    "it": {
+     "title": "Elezioni di metà mandato negli Stati Uniti: si vota per il controllo del Congresso, già oltre 57 milioni di voti anticipati",
+     "summary": "Martedì gli americani votano per tutti i 435 seggi della Camera, 35 dei 100 seggi del Senato e 36 governatori. I Democratici fanno campagna sul costo della vita e sulla fine della guerra con l'Iran, mentre i Repubblicani controllano oggi entrambe le Camere.",
+     "body": [
+      "I seggi hanno aperto per primi in Vermont, poi in New Jersey, Virginia, Connecticut e Kentucky, e gli altri Stati hanno seguito nel corso della giornata. I Repubblicani hanno 53 dei 100 seggi del Senato, contro i 47 dei Democratici e degli indipendenti alleati, e hanno una maggioranza ristretta di quattro seggi alla Camera.",
+      "Più di 57 milioni di americani hanno già votato in anticipo, con un'alta affluenza in Georgia, Michigan, Carolina del Nord, Ohio e Texas. I Democratici hanno fatto campagna sul costo della vita e sulla fine di quella che chiamano la guerra del presidente Donald Trump contro l'Iran, e sperano in guadagni storici in entrambe le Camere. I Repubblicani contano sulla loro base fedele e sullo scetticismo verso le politiche progressiste. L'approvazione di Trump è vicina ai minimi storici, mentre di norma il partito alla Casa Bianca perde seggi alle elezioni di metà mandato.",
+      "Le previsioni divergono. La piattaforma di scommesse Polymarket dava ai Democratici circa il 77 per cento di probabilità di vincere entrambe le Camere, secondo una sintesi di mercato, mentre un'altra cronaca finanziaria dice che i Democratici dovrebbero conquistare la Camera ma che il Senato resta incerto. Un mercato di previsione non è un sondaggio e può sbagliare.",
+      "Perché conta fuori dagli Stati Uniti: il Congresso controlla la spesa, può bloccare o sostenere la politica del presidente su commercio, Ucraina e Medio Oriente, e può scrivere regole su tecnologia e IA. I risultati sono attesi nella notte, e le sfide più serrate possono richiedere giorni per essere assegnate."
+     ],
+     "checks": [
+      {
+       "c": "Sono in palio tutti i 435 seggi della Camera e 35 seggi del Senato, con 36 elezioni per governatore",
+       "n": "Le cronache di Al Jazeera e CNN concordano."
+      },
+      {
+       "c": "Sono stati espressi oltre 57 milioni di voti anticipati",
+       "n": "Riportato da Al Jazeera; i conteggi del voto anticipato sono monitorati pubblicamente."
+      },
+      {
+       "c": "I Democratici hanno il 77 per cento di probabilità di vincere entrambe le Camere",
+       "n": "Proviene da un mercato di scommesse citato in una sola sintesi; un altro resoconto è meno sicuro sul Senato."
+      }
+     ],
+     "ctx": "Le elezioni di metà mandato si tengono a metà del mandato quadriennale del presidente. La Camera ha 435 membri eletti ogni due anni, e circa un terzo del Senato viene rinnovato ogni due anni. Il controllo di una Camera decide quale partito fissa l'agenda legislativa e presiede le commissioni. Il voto anticipato è quello espresso prima del giorno delle elezioni, per posta o di persona.",
+     "media_caps": [
+      "Elezioni di metà mandato 2026: elettori arrabbiati, prezzi alti e controllo del Congresso",
+      "Elettori in un seggio nel giorno delle elezioni",
+      "Gli Stati Uniti al voto per le elezioni di metà mandato 2026"
+     ]
+    }
+   }
+  },
+  {
+   "id": 13,
+   "sec": "pol",
+   "time": "13:00",
+   "read": 4,
+   "title": "US-Iran talks end three days without breakthrough as three tankers hit mines in the Strait of Hormuz",
+   "summary": "Indirect talks between Washington and Tehran, mediated by Qatar and Pakistan, ended without a breakthrough, with Iran saying the ball is in the US court. Iran's Revolutionary Guards said three tankers exploded after hitting mines in the Strait of Hormuz.",
+   "body": [
+    "After three consecutive days of closed-door talks, mediated mainly by Qatar and Pakistan, there was no apparent breakthrough. Qatar's foreign ministry spokesman Majed al-Ansari said efforts to bridge the gap continue and that both countries are studying proposals. Tehran said everything depends on Washington's political rationality and that the ball is in the US court.",
+    "The reported framework would see Iran stop its attacks in the Strait of Hormuz in return for the United States lifting its blockade of Iran's ports. On Monday, Iran's president Masoud Pezeshkian said the supreme leader had given the government certain authorities in the negotiations. President Trump said Iran wants to make a deal and that it could happen, while Vice President JD Vance saw progress, according to Al Jazeera's headline.",
+    "On the ground, the Revolutionary Guards said three tankers exploded and caught fire after hitting naval mines while crossing without permission, and one burned north of Khasab in Oman. They also said they shot down two US Lucas drones over the Bandar Khamir coast. US media also reported limited US 'defensive' strikes on an Iranian island on the eve of the elections. The Strait of Hormuz is effectively closed to commercial shipping in the war's eighth month.",
+    "What is unclear: the Guards' claims have not been independently confirmed, and the US account of the strikes differs in emphasis. The next signals to watch are a possible two-day plan for reopening the strait, which Iran described on Monday, and what happens after the US midterm vote."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=TjJ4pOemwsE",
+     "cap": "Explosions near the Strait of Hormuz as US-Iran talks continue",
+     "credit": "Al Jazeera English",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260504__A9RN2PU__v3__HighRes__IranUsIsraelWarTransportHormuz-1793267430.jpg?resize=1920%2C1440",
+     "cap": "Tanker traffic near the Strait of Hormuz",
+     "credit": "AFP / Al Jazeera"
+    },
+    {
+     "type": "image",
+     "u": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/5b50364e-0415-4ef6-b5ef-c4459c66b44f/thumbnail/1200x630/77e1482bc12ef3b23dfaad04aba513a2/gettyimages-2302492549.jpg",
+     "cap": "Coverage of the US-Iran negotiations",
+     "credit": "Getty Images / CBS News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court",
+     "t": "International broadcaster live blog"
+    },
+    {
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+     "t": "US broadcaster live coverage"
+    },
+    {
+     "n": "Fox News",
+     "u": "https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2",
+     "t": "US broadcaster live coverage"
+    },
+    {
+     "n": "Al Arabiya",
+     "u": "https://english.alarabiya.net/News/middle-east/2026/11/02/iran-says-considering-twoday-plan-to-reopen-hormuz",
+     "t": "Saudi-owned broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Qatar and Pakistan are mediating indirect US-Iran talks that ended without breakthrough",
+     "n": "Al Jazeera, CBS News and Al Arabiya report the same state of play."
+    },
+    {
+     "s": "warn",
+     "c": "Three tankers exploded after hitting mines",
+     "n": "The claim comes from Iran's Revolutionary Guards, a party to the conflict; independent confirmation was not found."
+    },
+    {
+     "s": "warn",
+     "c": "US 'defensive' strikes on an Iranian island on the eve of the elections",
+     "n": "Reported in US live coverage and oil-market reports; official US details were not reviewed."
+    }
+   ],
+   "ctx": "The Strait of Hormuz is a narrow waterway between Iran and Oman through which a large share of the world's oil and liquefied gas passes. The Revolutionary Guards are Iran's ideological armed force, separate from the regular army. A blockade of ports means ships cannot enter or leave them. The conflict began about eight months ago, and talks have run through intermediaries.",
+   "loop_query": "oil tanker at sea",
+   "i18n": {
+    "it": {
+     "title": "Colloqui Usa-Iran senza svolta dopo tre giorni, mentre tre petroliere colpiscono mine nello Stretto di Hormuz",
+     "summary": "I colloqui indiretti tra Washington e Teheran, mediati da Qatar e Pakistan, si sono conclusi senza una svolta, con l'Iran che dice che la palla è nel campo degli Stati Uniti. I Guardiani della Rivoluzione iraniani dicono che tre petroliere sono esplose dopo aver urtato mine nello Stretto di Hormuz.",
+     "body": [
+      "Dopo tre giorni consecutivi di colloqui a porte chiuse, mediati soprattutto da Qatar e Pakistan, non c'è stata una svolta evidente. Il portavoce del ministero degli Esteri del Qatar, Majed al-Ansari, ha detto che gli sforzi per colmare le distanze continuano e che entrambi i Paesi stanno studiando proposte. Teheran ha detto che tutto dipende dalla razionalità politica di Washington e che la palla è nel campo statunitense.",
+      "Lo schema riportato prevede che l'Iran fermi gli attacchi nello Stretto di Hormuz in cambio della revoca del blocco statunitense dei porti iraniani. Lunedì il presidente iraniano Masoud Pezeshkian ha detto che la guida suprema ha dato al governo certe competenze nei negoziati. Il presidente Trump ha detto che l'Iran vuole fare un accordo e che potrebbe accadere, mentre il vicepresidente JD Vance vede progressi, secondo il titolo di Al Jazeera.",
+      "Sul campo, i Guardiani della Rivoluzione dicono che tre petroliere sono esplose e hanno preso fuoco dopo aver urtato mine navali mentre transitavano senza permesso, e che una ha bruciato a nord di Khasab, in Oman. Dicono inoltre di aver abbattuto due droni statunitensi Lucas sulla costa di Bandar Khamir. I media statunitensi hanno anche riferito di limitati attacchi 'difensivi' degli Stati Uniti contro un'isola iraniana alla vigilia delle elezioni. Lo Stretto di Hormuz è di fatto chiuso al traffico commerciale nell'ottavo mese di guerra.",
+      "Cosa non è chiaro: le affermazioni dei Guardiani non sono state confermate in modo indipendente, e la versione statunitense degli attacchi differisce per enfasi. I prossimi segnali da seguire sono un possibile piano di due giorni per riaprire lo stretto, descritto lunedì dall'Iran, e ciò che accadrà dopo il voto statunitense di metà mandato."
+     ],
+     "checks": [
+      {
+       "c": "Qatar e Pakistan mediano colloqui indiretti Usa-Iran che sono finiti senza svolta",
+       "n": "Al Jazeera, CBS News e Al Arabiya descrivono lo stesso quadro."
+      },
+      {
+       "c": "Tre petroliere sono esplose dopo aver urtato delle mine",
+       "n": "L'affermazione viene dai Guardiani della Rivoluzione, parte in causa nel conflitto; non è stata trovata una conferma indipendente."
+      },
+      {
+       "c": "Attacchi statunitensi 'difensivi' contro un'isola iraniana alla vigilia delle elezioni",
+       "n": "Riportati dalla copertura live statunitense e dai resoconti del mercato petrolifero; i dettagli ufficiali statunitensi non sono stati esaminati."
+      }
+     ],
+     "ctx": "Lo Stretto di Hormuz è un passaggio stretto tra Iran e Oman da cui transita una larga quota del petrolio e del gas liquefatto mondiali. I Guardiani della Rivoluzione sono la forza armata ideologica dell'Iran, distinta dall'esercito regolare. Un blocco dei porti impedisce alle navi di entrare e uscire. Il conflitto è iniziato circa otto mesi fa e i colloqui passano per intermediari.",
+     "media_caps": [
+      "Esplosioni vicino allo Stretto di Hormuz mentre proseguono i colloqui Usa-Iran",
+      "Traffico di petroliere vicino allo Stretto di Hormuz",
+      "La copertura dei negoziati tra Stati Uniti e Iran"
+     ]
+    }
+   }
+  },
+  {
+   "id": 14,
+   "sec": "pol",
+   "time": "11:00",
+   "read": 4,
+   "title": "EU enlargement: Commission to issue roadmaps for four frontrunners, as Georgia called a candidate 'only on paper'",
+   "summary": "At the Euronews Enlargement Summit in Brussels, leaders discussed a faster path for Montenegro, Albania, Moldova and Ukraine, for which the European Commission plans roadmaps. Commissioner Marta Kos described Georgia as a candidate country only on paper.",
+   "body": [
+    "The second Euronews Enlargement Summit took place on 3 November in Brussels with European Council President António Costa and leaders from Ukraine, Albania, Moldova, Georgia, North Macedonia, Armenia and Croatia. Armenia's prime minister also met the president of the European Parliament.",
+    "According to Euronews, four candidates are advancing fastest: Montenegro, Albania, Moldova and Ukraine. The Commission plans to issue roadmaps for these countries. Montenegro is described as closest to the finish line, though bilateral disputes with Croatia over war-era grievances create obstacles.",
+    "Ukraine's prime minister Serhii Koretskyi took part, and Ukraine is expected to open all negotiating clusters before the end of the year. Agriculture remains contentious, because Kyiv resists permanent curbs on farm exports to the EU. Moldova has advanced so quickly that the Commission had to reassign internal resources to keep pace with Chisinau. In Albania, protests have broken out over preparatory works for a luxury resort in a protected area, which Euronews links to Jared Kushner.",
+    "North Macedonia, Georgia, Bosnia and Herzegovina and Kosovo are described as stalled, and as losing access to regional funding in favour of the frontrunners. Georgia's accession has effectively halted amid democratic backsliding. What is not yet clear is the dates: roadmaps are not membership dates, and each step requires unanimity among the 27 member states."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=-aDzZxOxzIg",
+     "cap": "EU enlargement at a turning point as leaders gather for the Euronews summit",
+     "credit": "Euronews",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://images.euronews.com/articles/stories/09/97/65/05/1200x675_cmsv2_d88eab7e-59f4-5746-8ff8-17bdb441b011-9976505.jpg",
+     "cap": "Leaders gather in Brussels for the Euronews Enlargement Summit",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://armenpress.am/storage/images/articles/2026/11/03/vU9KXiXebcM0y67BJQ4tP4zthUILo5JzFNssJPmv.webp",
+     "cap": "Armenian Prime Minister arrives in Brussels",
+     "credit": "Armenpress"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Euronews",
+     "u": "https://www.euronews.com/2026/11/03/eu-enlargement-at-a-turning-point-as-leaders-gather-for-euronews-summit",
+     "t": "European broadcaster"
+    },
+    {
+     "n": "Armenpress",
+     "u": "https://armenpress.am/en/article/1264593",
+     "t": "Armenian state news agency"
+    },
+    {
+     "n": "inAlbania",
+     "u": "https://www.inalbania.info/albanian-prime-minister-attends-euronews-enlargement-summit-in-brussels/",
+     "t": "Albanian news site"
+    },
+    {
+     "n": "Georgia Today",
+     "u": "https://georgiatoday.ge/georgian-pm-irakli-kobakhidze-to-attend-euronews-eu-enlargement-summit-in-brussels",
+     "t": "Georgian news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Euronews Enlargement Summit took place on 3 November in Brussels with several candidate-country leaders",
+     "n": "Euronews, Armenpress, inAlbania and Georgia Today all report attendance."
+    },
+    {
+     "s": "warn",
+     "c": "Ukraine will open all negotiating clusters before the end of the year",
+     "n": "It is an expectation reported by Euronews, not a decision by member states."
+    },
+    {
+     "s": "warn",
+     "c": "Link between Albanian resort protests and Jared Kushner",
+     "n": "Reported by Euronews alone in the sources reviewed."
+    }
+   ],
+   "ctx": "Enlargement is the process by which countries join the EU. Candidate countries negotiate 'clusters' of policy chapters, and every member state must agree to open and close them. The Commission's roadmaps lay out the reforms still needed but do not fix an accession date. Montenegro, Albania, Moldova and Ukraine are among the candidates.",
+   "loop_query": "european commission building brussels",
+   "i18n": {
+    "it": {
+     "title": "Allargamento Ue: la Commissione prepara le tabelle di marcia per quattro Paesi in testa, la Georgia è candidata 'solo sulla carta'",
+     "summary": "All'Enlargement Summit di Euronews a Bruxelles si è discusso di un percorso più rapido per Montenegro, Albania, Moldova e Ucraina, per i quali la Commissione europea prepara tabelle di marcia. La commissaria Marta Kos ha descritto la Georgia come un Paese candidato solo sulla carta.",
+     "body": [
+      "Il secondo Enlargement Summit di Euronews si è svolto il 3 novembre a Bruxelles con il presidente del Consiglio europeo António Costa e leader di Ucraina, Albania, Moldova, Georgia, Macedonia del Nord, Armenia e Croazia. Il primo ministro armeno ha incontrato anche la presidente del Parlamento europeo.",
+      "Secondo Euronews, quattro candidati avanzano più in fretta: Montenegro, Albania, Moldova e Ucraina. La Commissione prevede di presentare tabelle di marcia per questi Paesi. Il Montenegro è descritto come il più vicino al traguardo, anche se le dispute bilaterali con la Croazia su rancori dell'epoca delle guerre jugoslave creano ostacoli.",
+      "Ha partecipato il primo ministro ucraino Serhii Koretskyi, e si prevede che l'Ucraina apra tutti i gruppi negoziali entro la fine dell'anno. L'agricoltura resta un tema delicato, perché Kiev si oppone a limiti permanenti alle esportazioni agricole verso l'Ue. La Moldova è avanzata così in fretta che la Commissione ha dovuto riassegnare risorse interne per tenere il passo con Chisinau. In Albania sono scoppiate proteste per i lavori preparatori di un resort di lusso in un'area protetta, che Euronews collega a Jared Kushner.",
+      "Macedonia del Nord, Georgia, Bosnia ed Erzegovina e Kosovo sono descritti come fermi, e come soggetti a perdere l'accesso ai fondi regionali a favore dei Paesi in testa. L'adesione della Georgia si è di fatto bloccata tra derive democratiche. Ciò che non è ancora chiaro sono le date: le tabelle di marcia non sono date di adesione, e ogni passo richiede l'unanimità dei 27 Stati membri."
+     ],
+     "checks": [
+      {
+       "c": "L'Enlargement Summit di Euronews si è svolto il 3 novembre a Bruxelles con diversi leader di Paesi candidati",
+       "n": "Euronews, Armenpress, inAlbania e Georgia Today riportano la presenza dei leader."
+      },
+      {
+       "c": "L'Ucraina aprirà tutti i gruppi negoziali entro la fine dell'anno",
+       "n": "È un'aspettativa riportata da Euronews, non una decisione degli Stati membri."
+      },
+      {
+       "c": "Collegamento tra le proteste albanesi sul resort e Jared Kushner",
+       "n": "Riportato solo da Euronews tra le fonti esaminate."
+      }
+     ],
+     "ctx": "L'allargamento è il processo con cui i Paesi entrano nell'Ue. I Paesi candidati negoziano 'gruppi' di capitoli di politiche, e ogni Stato membro deve concordare per aprirli e chiuderli. Le tabelle di marcia della Commissione indicano le riforme ancora necessarie ma non fissano una data di adesione. Montenegro, Albania, Moldova e Ucraina sono tra i candidati.",
+     "media_caps": [
+      "L'allargamento Ue a un punto di svolta mentre i leader si riuniscono al vertice di Euronews",
+      "I leader riuniti a Bruxelles per l'Enlargement Summit di Euronews",
+      "Il primo ministro armeno arriva a Bruxelles"
+     ]
+    }
+   }
+  },
+  {
+   "id": 15,
+   "sec": "inn",
+   "time": "15:00",
+   "read": 4,
+   "title": "Researchers find a shared weakness in many cancers: blocking one enzyme, TNKS2, could spare healthy cells",
+   "summary": "A team at Weill Cornell Medicine reports that many cancers driven by the WNT signaling pathway lack one of two helper enzymes, which makes them dependent on the other, TNKS2. An experimental compound that blocks TNKS2 worked in early laboratory models, with no human trials yet.",
+   "body": [
+    "The study, published on 2 November in Nature Chemical Biology and led by Lukas Dow, targets the WNT pathway, a cell communication system that is overactive in almost all colorectal cancers, more than half of breast cancers and a substantial share of liver, lung, prostate, skin, bone and gynaecological cancers.",
+    "Two similar enzymes, TNKS1 and TNKS2, support this pathway. Many cancer cells have lost TNKS1, so they depend on TNKS2. Healthy cells have both, which means a drug that blocks only TNKS2 should hurt tumour cells while sparing normal ones. The team designed a compound, TDI-012804, that inhibits TNKS2 about 30 times more strongly than TNKS1.",
+    "The results so far come from cells and early laboratory models. Earlier attempts to block both enzymes caused side effects, which is why this selective approach is considered promising. The researchers say there is still much work to do, and the drug candidates could move toward clinical trials only after further safety and efficacy tests.",
+    "For readers, the main message is caution: laboratory success often fails in humans, and several years separate a study like this from a treatment. What is not yet known is how the compound behaves in living animals and which cancers would respond best."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1102_cancer.jpg?itok=PW6Un3x3",
+     "cap": "Research on a shared cancer vulnerability at Weill Cornell Medicine",
+     "credit": "Cornell University"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/bc5208f22522aa182dbec8c8b0b89fd1.jpg",
+     "cap": "ANSA report on the common cancer weakness",
+     "credit": "ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Cornell University",
+     "u": "https://news.cornell.edu/stories/2026/11/new-strategy-may-target-common-cancer-driver-minimal-side-effects",
+     "t": "University press release"
+    },
+    {
+     "n": "Weill Cornell Medicine",
+     "u": "https://news.weill.cornell.edu/news/2026/11/new-strategy-may-target-common-cancer-driver-with-minimal-side-effects",
+     "t": "University press release"
+    },
+    {
+     "n": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261102/New-strategy-exploits-a-hidden-genetic-vulnerability-in-multiple-cancers.aspx",
+     "t": "Medical news site"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/11/03/trovato-un-punto-debole-comune-a-molti-tumori_aedd8f20-da85-430d-bceb-59a1361bd95e.html",
+     "t": "News agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The study appeared in Nature Chemical Biology on 2 November from a team led by Lukas Dow at Weill Cornell Medicine",
+     "n": "University releases, News-Medical and ANSA agree."
+    },
+    {
+     "s": "warn",
+     "c": "The TNKS2 approach could lead to a low-side-effect treatment",
+     "n": "So far shown only in cells and early laboratory models; the university press release and the authors both stress the early stage."
+    },
+    {
+     "s": "ok",
+     "c": "No human clinical trial has started",
+     "n": "Fingerlakes1 and ANSA say the drug remains at laboratory stage."
+    }
+   ],
+   "ctx": "WNT is a signalling pathway that tells cells to grow, and its overactivity is a common driver of cancer. An enzyme is a protein that speeds up a chemical reaction in the cell. A selective inhibitor is a drug designed to block one target and leave similar ones alone. Preclinical means tested only in the laboratory and in animals, before any human trial.",
+   "loop_query": "laboratory scientist microscope",
+   "i18n": {
+    "it": {
+     "title": "Trovato un punto debole comune a molti tumori: bloccare un solo enzima, TNKS2, potrebbe risparmiare le cellule sane",
+     "summary": "Un gruppo della Weill Cornell Medicine riferisce che molti tumori guidati dalla via di segnalazione WNT hanno perso uno dei due enzimi di supporto e dipendono quindi dall'altro, TNKS2. Un composto sperimentale che blocca TNKS2 ha funzionato in modelli di laboratorio iniziali, e non ci sono ancora studi sull'uomo.",
+     "body": [
+      "Lo studio, pubblicato il 2 novembre su Nature Chemical Biology e guidato da Lukas Dow, riguarda la via WNT, un sistema di comunicazione cellulare iperattivo in quasi tutti i tumori del colon-retto, in più della metà dei tumori della mammella e in una quota rilevante di tumori di fegato, polmone, prostata, pelle, ossa e dell'apparato ginecologico.",
+      "Due enzimi simili, TNKS1 e TNKS2, sostengono questa via. Molte cellule tumorali hanno perso TNKS1 e quindi dipendono da TNKS2. Le cellule sane li hanno entrambi, quindi un farmaco che blocchi solo TNKS2 dovrebbe danneggiare le cellule tumorali risparmiando quelle normali. Il gruppo ha progettato un composto, TDI-012804, che inibisce TNKS2 circa 30 volte più di TNKS1.",
+      "I risultati finora provengono da cellule e da modelli di laboratorio iniziali. I tentativi precedenti di bloccare entrambi gli enzimi provocavano effetti collaterali, ed è per questo che l'approccio selettivo è considerato promettente. I ricercatori dicono che resta molto lavoro da fare, e i candidati farmaco potrebbero passare agli studi clinici solo dopo ulteriori test di sicurezza ed efficacia.",
+      "Per i lettori, il messaggio principale è la prudenza: i successi di laboratorio spesso non si confermano sull'uomo, e passano diversi anni tra uno studio come questo e una terapia. Non si sa ancora come si comporti il composto negli animali vivi e quali tumori risponderebbero meglio."
+     ],
+     "checks": [
+      {
+       "c": "Lo studio è uscito su Nature Chemical Biology il 2 novembre da un gruppo guidato da Lukas Dow alla Weill Cornell Medicine",
+       "n": "I comunicati dell'università, News-Medical e l'ANSA concordano."
+      },
+      {
+       "c": "L'approccio TNKS2 potrebbe portare a una terapia con pochi effetti collaterali",
+       "n": "Finora dimostrato solo in cellule e modelli di laboratorio iniziali; sia il comunicato dell'università sia gli autori insistono sullo stadio iniziale."
+      },
+      {
+       "c": "Non è iniziato alcuno studio clinico sull'uomo",
+       "n": "Fingerlakes1 e l'ANSA dicono che il farmaco è ancora in fase di laboratorio."
+      }
+     ],
+     "ctx": "WNT è una via di segnalazione che dice alle cellule di crescere, e la sua iperattività è una causa comune di tumore. Un enzima è una proteina che accelera una reazione chimica nella cellula. Un inibitore selettivo è un farmaco progettato per bloccare un bersaglio lasciando stare quelli simili. Preclinico significa testato solo in laboratorio e sugli animali, prima di qualsiasi studio sull'uomo.",
+     "media_caps": [
+      "Ricerca su una vulnerabilità comune ai tumori alla Weill Cornell Medicine",
+      "Servizio ANSA sul punto debole comune a molti tumori"
+     ]
+    }
+   }
+  },
+  {
+   "id": 16,
+   "sec": "inn",
+   "time": "10:00",
+   "read": 4,
+   "title": "A compact CRISPR system turns up genes without cutting DNA and eases seizures and muscle disease in mice",
+   "summary": "Chinese researchers built a small CRISPR gene-activation tool, smCRISPRa, that fits in a single viral vector. In mice it reduced seizures and prevented early deaths in a model of Dravet syndrome and improved muscle strength in a model of Duchenne muscular dystrophy.",
+   "body": [
+    "The study was published in Nature Biotechnology on 28 October 2026 and led by Hainan Zhang at the Shanghai Institute of Materia Medica, with the Institute of Neuroscience and other Chinese institutions. The tool is based on Cas12m, a small CRISPR protein whose cutting ability has been disabled and replaced by a gene-activating function, so it raises a gene's activity without cutting DNA.",
+    "It is small enough to fit with its guide RNAs in one adeno-associated virus, a common delivery vehicle, and activated six genes at once in living animals. In a Dravet syndrome mouse model, delivery into the brain raised the Scn1a gene's messenger RNA about fourfold, restored the Nav1.1 protein and reduced seizures. All 31 treated mice survived the roughly 100-day observation period, against about 60 percent of controls, or 18 of 30.",
+    "In a Duchenne mouse model, treated animals gripped more strongly, stayed longer on a rotating rod and resisted fatigue better, with benefits lasting six months.",
+    "The authors caution that clinical use would require thorough off-target checks and that both main experiments used very young mice, so safety and effect across ages remain open. For now this is a laboratory result, not a therapy."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://crisprmedicinenews.com/typo3temp/assets/images/csm_CRISPRMED27_Banner_2026-05-09_986650b151_3b5d512da1.jpg",
+     "cap": "CRISPR Medicine News coverage of the Cas12m gene activation study",
+     "credit": "CRISPR Medicine News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Nature Biotechnology",
+     "u": "https://www.nature.com/articles/s41587-026-03352-5",
+     "t": "Peer-reviewed journal, primary source"
+    },
+    {
+     "n": "Phys.org",
+     "u": "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html",
+     "t": "Science news site"
+    },
+    {
+     "n": "CRISPR Medicine News",
+     "u": "https://crisprmedicinenews.com/news/compact-cas12m-activates-six-genes-from-one-aav/",
+     "t": "Specialist news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "smCRISPRa reduced seizures and improved survival in Dravet mice and improved muscle function in Duchenne mice",
+     "n": "The paper in Nature Biotechnology, Phys.org and CRISPR Medicine News agree."
+    },
+    {
+     "s": "warn",
+     "c": "The approach could treat these diseases in people",
+     "n": "Only mice have been tested, mostly very young ones; the authors call for off-target and age studies."
+    },
+    {
+     "s": "ok",
+     "c": "Survival was 31 of 31 treated mice versus about 60 percent of controls",
+     "n": "Quoted from the Phys.org summary of the paper."
+    }
+   ],
+   "ctx": "CRISPR is best known as a gene-editing tool that cuts DNA. CRISPR activation instead turns up a gene that is present but under-used, which can help diseases caused by too little of a protein. Dravet syndrome is a severe childhood epilepsy, and Duchenne muscular dystrophy is a muscle-wasting disease. An off-target effect is an unintended change at another place in the genome.",
+   "loop_query": "laboratory scientist pipette",
+   "i18n": {
+    "it": {
+     "title": "Un sistema CRISPR compatto accende i geni senza tagliare il DNA e riduce crisi epilettiche e malattia muscolare nei topi",
+     "summary": "Ricercatori cinesi hanno costruito un piccolo strumento CRISPR di attivazione genica, smCRISPRa, che sta in un solo vettore virale. Nei topi ha ridotto le crisi e prevenuto le morti precoci in un modello della sindrome di Dravet e migliorato la forza muscolare in un modello di distrofia muscolare di Duchenne.",
+     "body": [
+      "Lo studio è stato pubblicato su Nature Biotechnology il 28 ottobre 2026 ed è guidato da Hainan Zhang dello Shanghai Institute of Materia Medica, con l'Institute of Neuroscience e altre istituzioni cinesi. Lo strumento si basa su Cas12m, una piccola proteina CRISPR a cui è stata disattivata la capacità di taglio e aggiunta una funzione di attivazione genica, così da aumentare l'attività di un gene senza tagliare il DNA.",
+      "È abbastanza piccolo da stare con le sue guide a RNA in un solo virus adeno-associato, un veicolo di somministrazione comune, e ha attivato sei geni insieme in animali vivi. In un modello murino della sindrome di Dravet, la somministrazione nel cervello ha aumentato di circa quattro volte l'RNA messaggero del gene Scn1a, ha ripristinato la proteina Nav1.1 e ha ridotto le crisi. Tutti i 31 topi trattati sono sopravvissuti ai circa 100 giorni di osservazione, contro circa il 60 per cento dei controlli, cioè 18 su 30.",
+      "In un modello murino di Duchenne, gli animali trattati hanno stretto con più forza, sono rimasti più a lungo su un'asta rotante e hanno resistito meglio alla fatica, con benefici durati sei mesi.",
+      "Gli autori avvertono che l'uso clinico richiederebbe controlli approfonditi sugli effetti fuori bersaglio e che i due esperimenti principali hanno usato topi molto giovani, quindi sicurezza ed effetto alle diverse età restano aperti. Per ora è un risultato di laboratorio, non una terapia."
+     ],
+     "checks": [
+      {
+       "c": "smCRISPRa ha ridotto le crisi e migliorato la sopravvivenza nei topi con Dravet e migliorato la funzione muscolare nei topi con Duchenne",
+       "n": "L'articolo su Nature Biotechnology, Phys.org e CRISPR Medicine News concordano."
+      },
+      {
+       "c": "L'approccio potrebbe curare queste malattie nelle persone",
+       "n": "Sono stati testati solo topi, per lo più molto giovani; gli autori chiedono studi sugli effetti fuori bersaglio e sull'età."
+      },
+      {
+       "c": "Sopravvivenza di 31 topi trattati su 31 contro circa il 60 per cento dei controlli",
+       "n": "Citato dalla sintesi di Phys.org dell'articolo."
+      }
+     ],
+     "ctx": "CRISPR è noto soprattutto come strumento di modifica genetica che taglia il DNA. L'attivazione CRISPR invece alza un gene presente ma poco usato, e può aiutare malattie causate da troppo poca proteina. La sindrome di Dravet è una grave epilessia infantile e la distrofia muscolare di Duchenne è una malattia che indebolisce i muscoli. Un effetto fuori bersaglio è una modifica non voluta in un altro punto del genoma.",
+     "media_caps": [
+      "Servizio di CRISPR Medicine News sullo studio di attivazione genica con Cas12m"
+     ]
+    }
+   }
+  },
+  {
+   "id": 17,
+   "sec": "biz",
+   "time": "09:00",
+   "read": 4,
+   "title": "Euro area inflation faces a test on Wednesday after the ECB's hawkish hold and Lagarde's resignation",
+   "summary": "The European Central Bank held its deposit rate at 2.5 percent on 29 October but kept a December rise on the table. Eurostat's October flash estimate comes on 4 November, with economists expecting 3.9 percent after 3.8 in September.",
+   "body": [
+    "The ECB kept the deposit rate at 2.50 percent on 29 October, with the main refinancing rate at 2.65 percent and the marginal lending rate at 2.90 percent. President Christine Lagarde told reporters that policymakers debated a rate rise before voting unanimously to wait. Analysts called it a hawkish hold. Futures on the day priced about an 82 percent chance of a quarter-point rise to 2.75 percent in December. The same day Lagarde announced she will step down on 7 February, nine months before her term ends in October 2027, and European Council President António Costa said the search for a successor starts immediately.",
+    "The backdrop is energy. Euro area inflation was 3.8 percent in September, up from 3.2 percent in August and the highest since September 2023, with energy prices up 18.8 percent and core inflation at 2.5 percent.",
+    "National October data point in different directions: Italy at 5.4 percent, Spain at 4.9 percent, France at 3.4 percent and Germany at 2.8 percent, where a temporary fuel tax cut lowered inflation by about 0.3 points. The consensus for the euro area flash estimate, due at 11:00 Central European Time on 4 November, is 3.9 percent, according to Trading Economics.",
+    "What to watch: whether core inflation keeps rising, and whether oil, now around 100 to 106 dollars a barrel after a sharp swing, calms or surges again. Higher rates would make loans costlier for households and companies; this is context, not advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=_X_4b-3fEmc",
+     "cap": "Related: Reuters profile of Christine Lagarde, who announced her resignation",
+     "credit": "Reuters",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.eunews.it/wp-content/uploads/2022/08/inflazione-1.jpg",
+     "cap": "Inflation in the euro area",
+     "credit": "Eunews"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Eurostat",
+     "u": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+     "t": "Statistics office, primary source"
+    },
+    {
+     "n": "Eunews",
+     "u": "https://www.eunews.it/en/2026/10/02/high-energy-prices-push-eurozone-inflation-to-3-8-per-cent-in-september/",
+     "t": "EU affairs outlet"
+    },
+    {
+     "n": "Babypips",
+     "u": "https://www.babypips.com/analysis/headline-hold-now-hike-later-ecb-decision-october-2026-10-30",
+     "t": "Market analysis site"
+    },
+    {
+     "n": "FXStreet",
+     "u": "https://www.fxstreet.com/analysis/ecb-review-a-no-hike-decision-202610291544",
+     "t": "Market analysis site"
+    },
+    {
+     "n": "RTE",
+     "u": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/",
+     "t": "Irish public broadcaster"
+    },
+    {
+     "n": "Fortune",
+     "u": "https://fortune.com/2026/10/29/christine-lagarde-resigns-early-france-macron-eu-ecb/",
+     "t": "US business magazine"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Lagarde announced on 29 October she will step down on 7 February",
+     "n": "RTE, Fortune and The National report the same announcement."
+    },
+    {
+     "s": "ok",
+     "c": "The ECB held the deposit rate at 2.50 percent on 29 October",
+     "n": "Babypips, FXStreet and other market reviews agree."
+    },
+    {
+     "s": "ok",
+     "c": "Euro area inflation was 3.8 percent in September, with energy at 18.8 percent",
+     "n": "Eurostat's release and Eunews agree."
+    },
+    {
+     "s": "warn",
+     "c": "An 82 percent chance of a December rate rise and a 3.9 percent consensus for October",
+     "n": "Market-pricing and consensus numbers come from single analysis sources and move daily."
+    }
+   ],
+   "ctx": "The deposit rate is the interest rate banks receive for parking money at the ECB, and it is the ECB's main policy rate. A flash estimate is the first, early release of inflation data. Core inflation excludes energy, food, alcohol and tobacco. A hawkish hold means rates were left unchanged while signalling that increases may follow. This is not investment advice.",
+   "loop_query": "european central bank building",
+   "i18n": {
+    "it": {
+     "title": "Inflazione nell'area euro alla prova mercoledì, dopo la pausa 'hawkish' della Bce e le dimissioni di Lagarde",
+     "summary": "La Banca centrale europea ha lasciato il tasso sui depositi al 2,5 per cento il 29 ottobre ma ha tenuto aperta la porta a un rialzo a dicembre. La stima rapida di Eurostat per ottobre arriva il 4 novembre, con gli economisti che si attendono il 3,9 per cento dopo il 3,8 di settembre.",
+     "body": [
+      "La Bce ha mantenuto il tasso sui depositi al 2,50 per cento il 29 ottobre, con il tasso sulle operazioni di rifinanziamento principali al 2,65 per cento e quello sui prestiti marginali al 2,90 per cento. La presidente Christine Lagarde ha detto ai giornalisti che i membri del consiglio hanno discusso un rialzo prima di votare all'unanimità per aspettare. Gli analisti l'hanno definita una pausa hawkish. I future quel giorno scontavano circa l'82 per cento di probabilità di un rialzo di un quarto di punto al 2,75 per cento a dicembre. Lo stesso giorno Lagarde ha annunciato che lascerà l'incarico il 7 febbraio, nove mesi prima della scadenza del mandato a ottobre 2027, e il presidente del Consiglio europeo António Costa ha detto che la ricerca di un successore parte subito.",
+      "Lo sfondo è l'energia. L'inflazione nell'area euro era al 3,8 per cento a settembre, dal 3,2 di agosto e il livello più alto da settembre 2023, con i prezzi dell'energia in aumento del 18,8 per cento e l'inflazione di fondo al 2,5 per cento.",
+      "I dati nazionali di ottobre vanno in direzioni diverse: Italia al 5,4 per cento, Spagna al 4,9 per cento, Francia al 3,4 per cento e Germania al 2,8 per cento, dove un taglio temporaneo delle tasse sui carburanti ha ridotto l'inflazione di circa 0,3 punti. Il consenso per la stima rapida dell'area euro, attesa alle 11:00 ora dell'Europa centrale del 4 novembre, è del 3,9 per cento, secondo Trading Economics.",
+      "Cosa osservare: se l'inflazione di fondo continua a salire, e se il petrolio, oggi intorno a 100-106 dollari al barile dopo una brusca oscillazione, si calma o torna a salire. Tassi più alti renderebbero più costosi i prestiti per famiglie e imprese; questo è contesto, non consiglio."
+     ],
+     "checks": [
+      {
+       "c": "Il 29 ottobre Lagarde ha annunciato che lascerà l'incarico il 7 febbraio",
+       "n": "RTE, Fortune e The National riportano lo stesso annuncio."
+      },
+      {
+       "c": "La Bce ha lasciato il tasso sui depositi al 2,50 per cento il 29 ottobre",
+       "n": "Babypips, FXStreet e altre analisi di mercato concordano."
+      },
+      {
+       "c": "L'inflazione nell'area euro era al 3,8 per cento a settembre, con l'energia al 18,8 per cento",
+       "n": "Il comunicato di Eurostat e Eunews concordano."
+      },
+      {
+       "c": "L'82 per cento di probabilità di un rialzo a dicembre e il consenso del 3,9 per cento per ottobre",
+       "n": "I dati di prezzo di mercato e di consenso provengono da singole fonti di analisi e cambiano ogni giorno."
+      }
+     ],
+     "ctx": "Il tasso sui depositi è il tasso che le banche ricevono per depositare denaro presso la Bce ed è il principale tasso di politica monetaria. La stima rapida è la prima pubblicazione anticipata dei dati sull'inflazione. L'inflazione di fondo esclude energia, alimentari, alcol e tabacco. Una pausa hawkish significa tassi invariati con il segnale che potrebbero seguire rialzi. Non è un consiglio di investimento.",
+     "media_caps": [
+      "Correlato: il profilo di Christine Lagarde, che ha annunciato le dimissioni, di Reuters",
+      "L'inflazione nell'area euro"
+     ]
+    }
+   }
+  },
+  {
+   "id": 18,
+   "sec": "biz",
+   "time": "09:30",
+   "read": 4,
+   "title": "Brent rebounds to about 106 dollars after a 7.6 percent plunge, as US strikes and stalled talks revive supply fears",
+   "summary": "Brent crude rose about 1 to 2 percent on Tuesday to near 106 dollars a barrel after a 7.6 percent fall on Monday on hopes of a US-Iran deal. Traders put a geopolitical risk premium back into prices as talks stalled and tankers were reported hit in Hormuz.",
+   "body": [
+    "Brent settled at 104.77 dollars on Monday after a 7.6 percent drop, according to a market report, after Iran's leadership approved further talks with Washington. On Tuesday morning it traded near 106.6 dollars, up about 1.8 percent, while US West Texas Intermediate rose to about 98 dollars. Prices were volatile through the day, and quoted levels differ across data providers.",
+    "The rebound followed reports of US strikes on Iran's Qeshm Island, stalled talks and claims of mines hitting tankers in the Strait of Hormuz. Market participants said it brought back a risk premium. Analysts quoted in the reports see little prospect of oil returning below 100 dollars without a credible peace deal.",
+    "On Monday, Wall Street rose on the oil decline according to one newswire, with the S&P 500 up 0.58 percent, while another market summary reported small falls and a Nasdaq-100 decline of 1.1 percent. The sources disagree on Monday's close, so index levels are not given here. European shares were mixed, and the Stoxx 600 was reported down 0.6 percent on Tuesday morning.",
+    "The next catalysts are the US midterm results and AMD's earnings after the US close. Higher oil feeds directly into the inflation figures discussed above. This is a description of market moves, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=lXBr8RLG7-Y",
+     "cap": "CNBC market open on 2 November: Iran deal hopes hit oil",
+     "credit": "CNBC Television",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://financefeeds.com/wp-content/uploads/2026/08/offshore-oil-rig-brent-crude-price.jpg",
+     "cap": "Offshore oil rig",
+     "credit": "FinanceFeeds"
+    }
+   ],
+   "sources": [
+    {
+     "n": "FinanceFeeds",
+     "u": "https://financefeeds.com/brent-crude-oil-price-106-tuesday-after-7-6-percent-plunge-qeshm-strike-report-midterms-bull-113-bear-100/",
+     "t": "Market news site"
+    },
+    {
+     "n": "Trading Economics",
+     "u": "https://tradingeconomics.com/commodity/brent-crude-oil/news/535933",
+     "t": "Market data provider"
+    },
+    {
+     "n": "Goodreturns",
+     "u": "https://www.goodreturns.in/lw/wealth/markets/crude-oil-price-today-brent-wti-rebound-7-percent-fall-us-iran-strike-1544819.html",
+     "t": "Financial news site"
+    },
+    {
+     "n": "Business Recorder",
+     "u": "https://www.brecorder.com/news/40447118/wall-st-rises-as-oil-falls-heading-into-us-midterm-polls",
+     "t": "Newswire reprint"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Brent fell about 7.6 percent on Monday on hopes of US-Iran talks and rebounded on Tuesday",
+     "n": "FinanceFeeds, Goodreturns and Trading Economics describe the same sequence."
+    },
+    {
+     "s": "warn",
+     "c": "Monday's Wall Street close",
+     "n": "One newswire reports gains of about 0.6 percent for the S&P 500, another report describes falls; the sources contradict each other."
+    },
+    {
+     "s": "warn",
+     "c": "Exact Brent level on Tuesday",
+     "n": "Quotes ranged from about 104 to 107 dollars between providers and times of day."
+    }
+   ],
+   "ctx": "Brent is the benchmark price for oil traded internationally, and West Texas Intermediate is the US benchmark. A risk premium is the extra price that markets add when supply could be disrupted. About a fifth of the world's oil normally passes through the Strait of Hormuz. This is not investment advice.",
+   "loop_query": "oil refinery at night",
+   "i18n": {
+    "it": {
+     "title": "Il Brent risale intorno ai 106 dollari dopo il crollo del 7,6 per cento, mentre attacchi Usa e trattative ferme rilanciano i timori sulle forniture",
+     "summary": "Martedì il greggio Brent è salito di circa l'1-2 per cento, vicino a 106 dollari al barile, dopo il calo del 7,6 per cento di lunedì sulle speranze di un accordo Usa-Iran. Gli operatori hanno rimesso nei prezzi un premio di rischio geopolitico, con i colloqui fermi e petroliere date per colpite a Hormuz.",
+     "body": [
+      "Il Brent ha chiuso lunedì a 104,77 dollari dopo un calo del 7,6 per cento, secondo un resoconto di mercato, dopo che la leadership iraniana ha approvato nuovi colloqui con Washington. Martedì mattina trattava vicino a 106,6 dollari, in rialzo di circa l'1,8 per cento, mentre il West Texas Intermediate statunitense saliva a circa 98 dollari. I prezzi sono stati volatili nel corso della giornata e i livelli indicati differiscono tra i fornitori di dati.",
+      "Il rimbalzo ha seguito notizie di attacchi statunitensi sull'isola iraniana di Qeshm, di colloqui fermi e di mine che avrebbero colpito petroliere nello Stretto di Hormuz. Gli operatori dicono che ha riportato un premio di rischio. Gli analisti citati nei resoconti vedono poche prospettive di un ritorno del petrolio sotto i 100 dollari senza un accordo di pace credibile.",
+      "Lunedì Wall Street è salita grazie al calo del petrolio secondo un'agenzia di stampa, con lo S&P 500 in rialzo dello 0,58 per cento, mentre un'altra sintesi di mercato ha riportato piccoli cali e una flessione del Nasdaq-100 dell'1,1 per cento. Le fonti non concordano sulla chiusura di lunedì, quindi qui non si indicano livelli degli indici. Le Borse europee erano contrastate, e lo Stoxx 600 risultava in calo dello 0,6 per cento martedì mattina.",
+      "I prossimi appuntamenti sono i risultati delle elezioni di metà mandato e i conti di AMD dopo la chiusura di Wall Street. Un petrolio più caro alimenta direttamente i dati di inflazione di cui sopra. Questa è una descrizione dei movimenti di mercato, non un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Il Brent è calato di circa il 7,6 per cento lunedì sulle speranze di colloqui Usa-Iran ed è rimbalzato martedì",
+       "n": "FinanceFeeds, Goodreturns e Trading Economics descrivono la stessa sequenza."
+      },
+      {
+       "c": "La chiusura di Wall Street di lunedì",
+       "n": "Un'agenzia riporta rialzi di circa lo 0,6 per cento per lo S&P 500, un altro resoconto descrive cali; le fonti si contraddicono."
+      },
+      {
+       "c": "Il livello esatto del Brent martedì",
+       "n": "Le quotazioni variavano da circa 104 a 107 dollari tra fornitori e orari della giornata."
+      }
+     ],
+     "ctx": "Il Brent è il prezzo di riferimento del petrolio scambiato a livello internazionale, e il West Texas Intermediate è quello statunitense. Un premio di rischio è il prezzo extra che i mercati aggiungono quando le forniture potrebbero essere interrotte. Normalmente circa un quinto del petrolio mondiale passa dallo Stretto di Hormuz. Non è un consiglio di investimento.",
+     "media_caps": [
+      "L'apertura dei mercati secondo CNBC del 2 novembre: le speranze di accordo con l'Iran colpiscono il petrolio",
+      "Piattaforma petrolifera offshore"
+     ]
+    }
+   }
+  },
+  {
+   "id": 19,
+   "sec": "lav",
+   "time": "05:30",
+   "read": 4,
+   "title": "Standard Chartered CEO says the bank automated away 25,000 jobs and replaced them with other roles as AI fears grow",
+   "summary": "Speaking at the Hong Kong Monetary Authority's Global Financial Leaders' Investment Summit, Bill Winters said Standard Chartered has about 100,000 staff, the same as 11 years ago, after automating 25,000 jobs and replacing them with other roles.",
+   "body": [
+    "Winters addressed fears that AI could replace hundreds of thousands of jobs. He said the bank's workforce is roughly the same size as when he joined 11 years ago, and that it 'automated away 25,000 jobs or so along the way' and replaced those roles with other roles. Bloomberg headlined the comments as AI stoking a 'fear factor'.",
+    "His reassurance sits alongside the bank's own restructuring plan, reported separately, to cut more than 7,000 jobs by 2030, about 15 percent of back-office and support roles such as risk, compliance and human resources, with AI and automation filling gaps. Winters earlier apologised after calling such cut roles 'lower-value human capital', a remark that drew regulatory questions.",
+    "What it means for a young engineer: banks present AI as a reason to change the job mix rather than shrink headcount, but the roles that disappear are often routine, entry-level ones, while demand grows for people who build, test and govern AI systems. A company's claim that displaced staff are 'replaced with other roles' is a statement from the CEO and is not independently audited here.",
+    "What is unknown: how many of the new roles go to the people displaced, and how fast the pace of automation changes with AI agents. The details of how many roles go to new graduates were not disclosed."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/standard-chartered-ceo-bill-winters.jpg?ve=1&tl=1",
+     "cap": "Standard Chartered CEO Bill Winters",
+     "credit": "Fox Business"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Bloomberg",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/ai-evolution-stokes-fear-factor-stanchart-ceo-winters-says",
+     "t": "Financial news service"
+    },
+    {
+     "n": "Reuters via Yahoo Finance",
+     "u": "https://ca.finance.yahoo.com/news/stanchart-ceo-seeks-reassure-staff-091544741.html",
+     "t": "Wire service reprint"
+    },
+    {
+     "n": "Fox Business",
+     "u": "https://www.foxbusiness.com/technology/standard-chartered-ceo-walks-back-comments-about-replacing-lower-value-human-capital-ai",
+     "t": "US business outlet"
+    },
+    {
+     "n": "Global Banking & Finance",
+     "u": "https://www.globalbankingandfinance.com/stanchart-ceo-apologises-upset-caused-ai-comments/",
+     "t": "Trade publication"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Standard Chartered has about 100,000 staff and automated away about 25,000 jobs, replaced by other roles",
+     "n": "A statement by the CEO reported by Bloomberg; not independently verified."
+    },
+    {
+     "s": "warn",
+     "c": "The bank plans to cut more than 7,000 jobs by 2030",
+     "n": "Appears in secondary summaries of an earlier announcement; check the bank's own statement."
+    },
+    {
+     "s": "ok",
+     "c": "Winters earlier apologised for calling cut roles 'lower-value human capital'",
+     "n": "Fox Business and Global Banking & Finance both report the walk-back."
+    }
+   ],
+   "ctx": "Back office means support functions that do not deal with customers, such as compliance and operations. Headcount is the total number of employees. The Hong Kong Monetary Authority is the city's de facto central bank. AI agents are software that carry out multi-step tasks with little human input.",
+   "loop_query": "bank office employees working",
+   "i18n": {
+    "it": {
+     "title": "Il CEO di Standard Chartered: la banca ha automatizzato 25.000 posti e li ha sostituiti con altri ruoli, mentre crescono i timori sull'IA",
+     "summary": "Intervenendo al Global Financial Leaders' Investment Summit dell'Autorità monetaria di Hong Kong, Bill Winters ha detto che Standard Chartered ha circa 100.000 dipendenti, come 11 anni fa, dopo aver automatizzato 25.000 posti e averli sostituiti con altri ruoli.",
+     "body": [
+      "Winters ha risposto ai timori che l'IA possa sostituire centinaia di migliaia di posti. Ha detto che la forza lavoro della banca ha più o meno le stesse dimensioni di quando è arrivato 11 anni fa, e che 'lungo la strada ha automatizzato circa 25.000 posti' sostituendoli con altri ruoli. Bloomberg ha titolato che i commenti riguardano un 'fattore paura' alimentato dall'IA.",
+      "La rassicurazione si affianca al piano di ristrutturazione della banca, riferito a parte, di tagliare più di 7.000 posti entro il 2030, circa il 15 per cento dei ruoli di back office e di supporto come rischio, conformità e risorse umane, con IA e automazione a colmare i vuoti. Winters si era scusato in precedenza dopo aver definito tali ruoli 'capitale umano di valore inferiore', una frase che aveva suscitato domande dai regolatori.",
+      "Cosa significa per un giovane ingegnere: le banche presentano l'IA come un motivo per cambiare il mix dei lavori più che per ridurre gli organici, ma i ruoli che scompaiono sono spesso quelli ripetitivi e di ingresso, mentre cresce la domanda di chi costruisce, testa e governa i sistemi di IA. L'affermazione che il personale spostato venga 'sostituito con altri ruoli' è una dichiarazione del CEO e non è verificata in modo indipendente qui.",
+      "Cosa non si sa: quanti dei nuovi ruoli vadano alle persone spostate e quanto cambi il ritmo dell'automazione con gli agenti di IA. I dettagli su quanti ruoli vadano ai neolaureati non sono stati resi noti."
+     ],
+     "checks": [
+      {
+       "c": "Standard Chartered ha circa 100.000 dipendenti e ha automatizzato circa 25.000 posti, sostituiti con altri ruoli",
+       "n": "È una dichiarazione del CEO riportata da Bloomberg; non verificata in modo indipendente."
+      },
+      {
+       "c": "La banca prevede di tagliare più di 7.000 posti entro il 2030",
+       "n": "Compare in sintesi secondarie di un annuncio precedente; da verificare nella comunicazione della banca."
+      },
+      {
+       "c": "Winters si era scusato per aver definito i ruoli tagliati 'capitale umano di valore inferiore'",
+       "n": "Fox Business e Global Banking & Finance riportano entrambe il passo indietro."
+      }
+     ],
+     "ctx": "Il back office indica le funzioni di supporto che non hanno contatto con i clienti, come conformità e operazioni. Per organico si intende il numero totale di dipendenti. L'Autorità monetaria di Hong Kong è di fatto la banca centrale della città. Gli agenti di IA sono software che svolgono compiti in più passaggi con poco intervento umano.",
+     "media_caps": [
+      "Il CEO di Standard Chartered Bill Winters"
+     ]
+    }
+   }
+  },
+  {
+   "id": 20,
+   "sec": "lav",
+   "time": "09:15",
+   "read": 4,
+   "title": "Earnings season brings AI-linked job cuts: Barclays 5,000, American Express 5 percent, and Disney eyes thousands",
+   "summary": "Barclays and American Express tied job cuts to AI and automation this earnings season, while Bloomberg reports Disney is eyeing thousands of layoffs with managers asked to target 20 percent annual cost savings. Investors are split on whether AI is the real reason.",
+   "body": [
+    "A summary of earnings-season announcements says Barclays is cutting about 5,000 jobs, or 5 percent of its workforce, citing technology-enabled reductions and efficiency driven by AI, subject to consultation. American Express took a 336 million dollar restructuring charge to cut about 5 percent of staff, between 3,500 and 3,840 jobs, with its finance chief saying the aim is to reduce management layers so the company can automate and take advantage of AI.",
+    "Other companies gave different reasons: PayPal about 2,000 cuts for cost savings, eBay about 1,100, or 9 percent, for strategic priorities, and Dropbox about 200. The summary notes that firms naming AI accounted for most of roughly 14,100 total cuts but reduced staff by about 5 percent each, while those not citing AI cut 8 to 9 percent of staff. On Monday and Tuesday, Bloomberg reported that Disney is planning thousands of job cuts and asking some managers to target 20 percent annual cost savings; Reuters said it could not immediately verify that.",
+    "Bloomberg's headline on the topic is that investors are split on job cuts tied to AI and costs. A Reuters factbox, quoted in search summaries, counts about 102,800 AI-linked layoffs announced since October 2025, a figure that depends on how companies describe their own cuts.",
+    "What it means for a young engineer: cuts are concentrated in middle-management and support roles, and AI is increasingly the stated reason. Entry-level hiring in some firms continues, but the safest skills are those that combine engineering with AI tooling. What is unknown: how much of 'AI' is a real cause and how much a label for ordinary cost-cutting."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=0SsUspmYw8A",
+     "cap": "Disney reportedly plans thousands of layoffs",
+     "credit": "NEWS9 Live",
+     "start": 8,
+     "end": 48
+    },
+    {
+     "type": "image",
+     "u": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/11/auth_w656_wide-1.png?fit=1600%2C960&ssl=1",
+     "cap": "Job cuts tied to AI during earnings season",
+     "credit": "FourWeekMBA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "FourWeekMBA",
+     "u": "https://fourweekmba.com/ai-barclays-amex-tie-job-cuts-to-ai-ebay-paypal-cite-costs/",
+     "t": "Business analysis site"
+    },
+    {
+     "n": "Bloomberg",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/investors-split-on-earnings-season-job-cuts-tied-to-ai-and-costs",
+     "t": "Financial news service"
+    },
+    {
+     "n": "Bloomberg via GV Wire",
+     "u": "https://gvwire.com/2026/11/02/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports/",
+     "t": "Newswire reprint"
+    },
+    {
+     "n": "Reuters factbox via Yahoo Finance",
+     "u": "https://finance.yahoo.com/news/factbox-companies-cutting-jobs-investments-163752693.html",
+     "t": "Wire service reprint"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Barclays is cutting about 5,000 jobs and American Express about 5 percent of staff, citing AI",
+     "n": "Figures come from one analysis summary of company statements; check the companies' filings."
+    },
+    {
+     "s": "warn",
+     "c": "Disney plans thousands of layoffs and a 20 percent cost target for some managers",
+     "n": "Bloomberg reporting; Reuters said it could not immediately verify, and Disney has not confirmed."
+    },
+    {
+     "s": "warn",
+     "c": "About 102,800 AI-linked layoffs since October 2025",
+     "n": "A Reuters factbox figure seen only through a search summary; counts depend on companies' wording."
+    }
+   ],
+   "ctx": "Earnings season is the weeks when listed companies publish quarterly results. A restructuring charge is a one-off accounting cost of reorganising, often layoffs. 'AI-washing' is the suspicion that firms blame AI for cuts made for cost reasons. Managers' 'spans of control' are the number of people each manager supervises.",
+   "loop_query": "corporate office employees",
+   "i18n": {
+    "it": {
+     "title": "La stagione dei conti porta tagli legati all'IA: Barclays 5.000, American Express il 5 per cento, Disney valuta migliaia di licenziamenti",
+     "summary": "Barclays e American Express hanno collegato tagli di personale all'IA e all'automazione in questa stagione dei conti, mentre Bloomberg riporta che Disney valuta migliaia di licenziamenti e ha chiesto ad alcuni dirigenti di puntare a risparmi annui del 20 per cento. Gli investitori sono divisi sul fatto che l'IA sia la vera ragione.",
+     "body": [
+      "Una sintesi degli annunci della stagione dei conti dice che Barclays taglia circa 5.000 posti, il 5 per cento del personale, citando riduzioni abilitate dalla tecnologia ed efficienze guidate dall'IA, previa consultazione. American Express ha registrato un onere di ristrutturazione di 336 milioni di dollari per tagliare circa il 5 per cento del personale, tra 3.500 e 3.840 posti, con il direttore finanziario che dice che l'obiettivo è ridurre i livelli di gestione per poter automatizzare e sfruttare l'IA.",
+      "Altre società hanno dato ragioni diverse: PayPal circa 2.000 tagli per risparmiare, eBay circa 1.100, il 9 per cento, per priorità strategiche, e Dropbox circa 200. La sintesi nota che le società che nominano l'IA hanno pesato sulla maggior parte dei circa 14.100 tagli totali ma hanno ridotto il personale di circa il 5 per cento ciascuna, mentre quelle che non la citano hanno tagliato dall'8 al 9 per cento. Lunedì e martedì Bloomberg ha riportato che Disney sta pianificando migliaia di tagli e chiede ad alcuni dirigenti di puntare a risparmi annui del 20 per cento; Reuters ha detto di non poterlo verificare subito.",
+      "Il titolo di Bloomberg sul tema è che gli investitori sono divisi sui tagli legati a IA e costi. Un riepilogo di Reuters, citato dalle sintesi di ricerca, conta circa 102.800 licenziamenti legati all'IA annunciati da ottobre 2025, una cifra che dipende da come le società descrivono i propri tagli.",
+      "Cosa significa per un giovane ingegnere: i tagli si concentrano su ruoli intermedi e di supporto, e l'IA è sempre più spesso la ragione dichiarata. In alcune aziende le assunzioni di ingresso continuano, ma le competenze più sicure sono quelle che uniscono ingegneria e strumenti di IA. Cosa non si sa: quanto 'IA' sia una causa reale e quanto un'etichetta per normali tagli di costi."
+     ],
+     "checks": [
+      {
+       "c": "Barclays taglia circa 5.000 posti e American Express circa il 5 per cento del personale, citando l'IA",
+       "n": "Le cifre provengono da una sola sintesi di dichiarazioni aziendali; da verificare nei documenti delle società."
+      },
+      {
+       "c": "Disney pianifica migliaia di licenziamenti e un obiettivo di risparmio del 20 per cento per alcuni dirigenti",
+       "n": "Notizia di Bloomberg; Reuters ha detto di non poterla verificare subito e Disney non l'ha confermata."
+      },
+      {
+       "c": "Circa 102.800 licenziamenti legati all'IA da ottobre 2025",
+       "n": "Cifra di un riepilogo Reuters vista solo tramite una sintesi di ricerca; i conteggi dipendono dalle parole usate dalle società."
+      }
+     ],
+     "ctx": "La stagione dei conti è il periodo in cui le società quotate pubblicano i risultati trimestrali. Un onere di ristrutturazione è un costo contabile una tantum di riorganizzazione, spesso per licenziamenti. 'AI-washing' è il sospetto che le aziende diano la colpa all'IA per tagli decisi per motivi di costo. I livelli di gestione indicano quante persone supervisiona ciascun dirigente.",
+     "media_caps": [
+      "Disney starebbe pianificando migliaia di licenziamenti",
+      "Tagli al lavoro legati all'IA durante la stagione dei conti"
+     ]
+    }
+   }
+  }
+ ],
+ "i18n": {
+  "it": {
+   "date_label": "martedì 3 novembre 2026"
+  }
+ }
+}
