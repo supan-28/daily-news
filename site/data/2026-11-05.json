@@ -1,0 +1,2212 @@
+{
+ "date": "2026-11-05",
+ "date_label": "Thursday, 5 November 2026",
+ "i18n": {
+  "it": {
+   "date_label": "giovedì 5 novembre 2026"
+  }
+ },
+ "items": [
+  {
+   "id": 1,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "13:03",
+   "read": 4,
+   "title": "Meloni asks Costa to decide who speaks for Europe on Ukraine, citing overlapping negotiation formats",
+   "summary": "In a letter to European Council President Antonio Costa on 5 November, Prime Minister Giorgia Meloni called it urgent that Europe speak with one voice on Ukraine. She wants the informal summit in Dublin to discuss it and the December European Council to decide who represents the Union at the table, and with what mandate. She says she is not asking for a seat for Italy.",
+   "body": [
+    "Meloni's letter was reported by the news agency ANSA at 13:03 on 5 November. She calls it a need that can no longer be put off for Europe to speak with a single voice on Ukraine. Her warning, in her words: giving the image of a Europe in disarray only serves the interests of those who want this war to continue.",
+    "According to the agency LaPresse, which saw the text, the letter lists the formats she considers scattered: informal meetings of security advisers in Miami, contacts in Oslo and Helsinki, the Coalition of the Willing meeting planned in Berlin on 19 November, technical meetings in Brussels, and a separate European presence planned for the Abu Dhabi talks. She asks that the Dublin informal summit, due on 13 November, address the issue, that the December European Council take a formal decision, and that the United Kingdom, Norway and other partners be consulted.",
+    "She also says she is not asking for a place for Italy in any particular format, and that Italy would not accept commitments without a mandate from the European Union. The immediate background is the diplomacy of the past days: a technical meeting hosted by the European Commission in Brussels on 4 November, and talks between the United States, Ukraine and Russia planned in Abu Dhabi on 10 November.",
+    "What is not yet known: whom Meloni has in mind as the Union's negotiator, and how Costa and other capitals will answer. The sources opened do not report any reply. The proposal would need agreement among all 27 governments, which is why she points to the December meeting as the place for a formal decision."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/4e53d40f66cc54996fa74323fd85c2d9.jpg",
+     "cap": "Image from the ANSA report on the letter",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://static.kyivpost.com/storage/2026/10/24/bc69230a0276f89bd130477927875c9d.jpg?w=1200&q=90&f=jpg",
+     "cap": "Image from The Kyiv Post on Ukraine diplomacy",
+     "credit": "The Kyiv Post"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_c24c2471-a69f-43c3-b738-e50606b0f187.html",
+     "t": "News agency"
+    },
+    {
+     "n": "LaPresse",
+     "u": "https://www.lapresse.it/politica/2026/11/05/ucraina-meloni-al-presidente-costa-italia-non-disposta-ad-accettare-impegni-senza-mandato-ue/",
+     "t": "News agency"
+    },
+    {
+     "n": "askanews",
+     "u": "https://askanews.it/2026/11/05/meloni-lue-parli-con-una-voce-sola-sulla-questione-ucraina-inaccettabile-andare-in-ordine-sparso/",
+     "t": "News agency"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "u": "https://kyivindependent.com/ukraines-allies-to-coordinate-peace-efforts-ahead-of-planned-talks-with-russia-us/",
+     "t": "Ukrainian independent outlet, background on the Brussels meeting"
+    },
+    {
+     "n": "ANSA, Dublin summit on AI",
+     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/03/al-vertice-ue-a-dublino-focus-su-ia-ospiti-mensch-di-mistral-ai-e-il-nobel-hinton_0eb4e753-4510-4409-a0bd-83eaca1d6578.html",
+     "t": "News agency, date of the Dublin summit"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Meloni wrote to Costa on 5 November asking that Europe speak with one voice on Ukraine",
+     "n": "Reported with the same core content by ANSA, LaPresse and askanews, three separate agencies."
+    },
+    {
+     "s": "warn",
+     "c": "The list of overlapping formats and the requests for Dublin and December come from LaPresse's reading of the text",
+     "n": "The letter itself has not been published in the sources opened; ANSA gives only the central quote."
+    },
+    {
+     "s": "ok",
+     "c": "US, Russian and Ukrainian delegations are due to meet in Abu Dhabi on 10 November",
+     "n": "Reported by The Kyiv Independent and The Kyiv Post, quoting Zelensky."
+    }
+   ],
+   "ctx": "The European Council is the body of the 27 heads of state and government, chaired by Costa. Dublin is an informal summit, so it cannot adopt binding decisions; formal conclusions come at the December meeting. The Coalition of the Willing is a group of countries, led by France and the United Kingdom, that discuss security guarantees for Ukraine. This story reports one government's stated position; other governments have not yet answered in the sources opened.",
+   "loop_query": "government palace flags",
+   "i18n": {
+    "it": {
+     "title": "Meloni chiede a Costa di stabilire chi parla per l'Europa sull'Ucraina, citando i troppi formati negoziali",
+     "summary": "In una lettera al presidente del Consiglio europeo Antonio Costa, il 5 novembre la premier Giorgia Meloni ha definito urgente che l'Europa parli con una voce sola sull'Ucraina. Vuole che il vertice informale di Dublino ne discuta e che il Consiglio europeo di dicembre decida chi rappresenta l'Unione al tavolo e con quale mandato. Precisa di non chiedere un posto per l'Italia.",
+     "body": [
+      "La lettera di Meloni è stata riportata dall'agenzia ANSA alle 13:03 del 5 novembre. La premier definisce una necessità ormai improcrastinabile che l'Europa parli con una sola voce sull'Ucraina. Il suo avvertimento, con le sue parole: dare l'immagine di un'Europa in ordine sparso serve solo agli interessi di chi vuole che questa guerra continui.",
+      "Secondo l'agenzia LaPresse, che ha visto il testo, la lettera elenca i formati che considera frammentati: incontri informali tra consiglieri per la sicurezza a Miami, contatti a Oslo e a Helsinki, la riunione della Coalizione dei volenterosi prevista a Berlino il 19 novembre, gli incontri tecnici a Bruxelles e una presenza europea separata prevista ai colloqui di Abu Dhabi. Chiede che il vertice informale di Dublino, previsto il 13 novembre, affronti il tema, che il Consiglio europeo di dicembre prenda una decisione formale e che siano consultati il Regno Unito, la Norvegia e gli altri partner.",
+      "Aggiunge di non chiedere un posto per l'Italia in nessun formato particolare e che l'Italia non accetterebbe impegni senza un mandato dell'Unione europea. Lo sfondo immediato è la diplomazia dei giorni scorsi: un incontro tecnico ospitato dalla Commissione europea a Bruxelles il 4 novembre e i colloqui tra Stati Uniti, Ucraina e Russia previsti ad Abu Dhabi il 10 novembre.",
+      "Quello che non si sa ancora: chi Meloni abbia in mente come negoziatore dell'Unione e come risponderanno Costa e le altre capitali. Le fonti consultate non riportano alcuna risposta. La proposta richiederebbe l'accordo di tutti i 27 governi, ed è per questo che indica la riunione di dicembre come sede della decisione formale."
+     ],
+     "checks": [
+      {
+       "c": "Meloni ha scritto a Costa il 5 novembre chiedendo che l'Europa parli con una voce sola sull'Ucraina",
+       "n": "Riportato con lo stesso contenuto di fondo da ANSA, LaPresse e askanews, tre agenzie distinte."
+      },
+      {
+       "c": "L'elenco dei formati sovrapposti e le richieste per Dublino e dicembre derivano dalla lettura del testo fatta da LaPresse",
+       "n": "La lettera non è pubblicata nelle fonti consultate; ANSA riporta solo la citazione centrale."
+      },
+      {
+       "c": "Delegazioni di Stati Uniti, Russia e Ucraina dovrebbero incontrarsi ad Abu Dhabi il 10 novembre",
+       "n": "Riportato da The Kyiv Independent e The Kyiv Post, che citano Zelensky."
+      }
+     ],
+     "ctx": "Il Consiglio europeo è l'organo dei capi di Stato e di governo dei 27, presieduto da Costa. Dublino è un vertice informale, quindi non può adottare decisioni vincolanti; le conclusioni formali arrivano alla riunione di dicembre. La Coalizione dei volenterosi è un gruppo di paesi, guidato da Francia e Regno Unito, che discute le garanzie di sicurezza per l'Ucraina. Questa notizia riporta la posizione dichiarata di un governo; negli articoli consultati gli altri governi non hanno ancora risposto.",
+     "media_caps": [
+      "Immagine dal servizio ANSA sulla lettera",
+      "Immagine di The Kyiv Post sulla diplomazia per l'Ucraina"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "17:00",
+   "read": 3,
+   "title": "After the US midterms Meloni stays cautious, while Tajani says the government was 'never Trumpian'",
+   "summary": "Asked on 4 November about the Democratic win in the United States, Meloni said they would talk about America another time. Deputy Prime Minister Antonio Tajani said the government was never Trumpian and that Meloni is not MAGA, and the opposition answered with photos and past quotes. The government says relations with Washington do not change.",
+   "body": [
+    "Meloni was speaking at the Armed Forces Day ceremony on 4 November, according to ANSA. Asked about the midterm results, she answered that they would discuss America another time, because the day was for the Armed Forces. The agency AGI headlines that, for her, the relationship with the United States does not change after the vote.",
+    "Tajani, who is also foreign minister, told the daily Il Messaggero that the government has never been Trumpian and that Meloni is not a MAGA supporter. He added that she has said no to Trump many times and that Italy stays a loyal and strategic ally of the United States. Forza Italia, his party, repeated that America remains a strategic partner whatever the result.",
+    "The opposition reacted sharply. Angelo Bonelli of the Greens and Left Alliance recalled a photo of Tajani holding a MAGA hat at a Board of Peace meeting. Piero De Luca of the Democratic Party called Tajani an able illusionist, and Riccardo Ricciardi of the Five Star Movement joked that the government would next deny having proposed Trump for the Nobel Peace Prize. Democratic leader Elly Schlein presented Trump's defeat as momentum for beating the right in Italy in 2027.",
+    "Matteo Salvini, leader of the League, took up the explanation given by US Vice President JD Vance: Republicans lost because the wars in Iran and Ukraine raised the cost of living. ANSA also reports that officials at Palazzo Chigi worry the Democratic gains could energise Italy's centre-left before the next general election. That last point is attributed to unnamed sources."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=ehg49ii7OTA",
+     "cap": "Tajani: 'We were never Trumpian, Meloni is not MAGA'",
+     "credit": "Il Mattino"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/71b5e01294013d07f12011a41bdb23a0.jpg",
+     "cap": "Image from the ANSA report on Meloni's reaction to the midterms",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/6/19/61ac6822e2150d371778942e4e3d88e7.jpg",
+     "cap": "Image from the ANSA report on Tajani and the opposition",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/11/04/tajani-1.jpg",
+     "cap": "Antonio Tajani, from Il Fatto Quotidiano",
+     "credit": "Il Fatto Quotidiano"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA, Meloni's caution",
+     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/la-cautela-di-meloni-lavoriamo-con-gli-usa-come-prima-_20a69c80-b4cd-4db9-a5e2-2c536dc1415e.html",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA, Tajani and the opposition",
+     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/tajani-noi-mai-trumpiani.-lopposizione-insorge-ora-vi-vergognate_b3df9a36-42bc-4297-9b3f-3effd6a2b21e.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/04/midterm-tajani-trump-maga-notizie/8560449/",
+     "t": "Daily newspaper"
+    },
+    {
+     "n": "AGI",
+     "u": "https://agi.it/politica/news/2026-11-04/meloni-midterm-usa-39885117",
+     "t": "News agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Tajani said the government was never Trumpian and that Meloni is not MAGA",
+     "n": "Reported by ANSA and Il Fatto Quotidiano, which quote his interview."
+    },
+    {
+     "s": "ok",
+     "c": "Meloni declined to comment, saying they would talk about America another time",
+     "n": "Reported by ANSA and by the Italian press review, with the same wording."
+    },
+    {
+     "s": "warn",
+     "c": "Palazzo Chigi officials worry the result could energise the centre-left",
+     "n": "Single source, ANSA, citing unnamed officials; not confirmed by the government."
+    }
+   ],
+   "ctx": "The 2026 US midterms gave Democrats both the House and the Senate. Italian parties use the result in their own contest: the centre-right government wants to keep the relationship with Washington steady, while the opposition links Trump's setback to the 2027 Italian vote. This summary reports each side's stated position and takes none.",
+   "loop_query": "parliament building interior",
+   "i18n": {
+    "it": {
+     "title": "Dopo le midterm Usa Meloni resta prudente, mentre Tajani dice che il governo non è mai stato trumpiano",
+     "summary": "Interrogata il 4 novembre sulla vittoria dei Democratici negli Stati Uniti, Meloni ha risposto che di America si parlerà un'altra volta. Il vicepremier Antonio Tajani ha detto che il governo non è mai stato trumpiano e che Meloni non è Maga, e l'opposizione ha replicato con foto e vecchie dichiarazioni. Il governo ribadisce che i rapporti con Washington non cambiano.",
+     "body": [
+      "Meloni parlava alla cerimonia per la Giornata delle Forze armate del 4 novembre, secondo l'ANSA. Alla domanda sui risultati delle elezioni di metà mandato ha risposto che dell'America si parlerà un'altra volta, perché la giornata era dedicata alle Forze armate. L'agenzia AGI titola che per lei il rapporto con gli Stati Uniti non cambia dopo il voto.",
+      "Tajani, che è anche ministro degli Esteri, ha detto al quotidiano Il Messaggero che il governo non è mai stato trumpiano e che Meloni non è una sostenitrice del movimento Maga. Ha aggiunto che la premier ha detto di no a Trump molte volte e che l'Italia resta un alleato leale e strategico degli Stati Uniti. Forza Italia, il suo partito, ha ripetuto che l'America resta un partner strategico qualunque sia il risultato.",
+      "L'opposizione ha reagito duramente. Angelo Bonelli di Alleanza Verdi e Sinistra ha ricordato una foto di Tajani con in mano un cappellino Maga a una riunione del Board of Peace. Piero De Luca del Partito democratico ha definito Tajani un abile illusionista, e Riccardo Ricciardi del Movimento 5 Stelle ha ironizzato che il governo negherà presto di aver proposto Trump per il Nobel per la pace. La segretaria democratica Elly Schlein ha presentato la sconfitta di Trump come una spinta per battere la destra in Italia nel 2027.",
+      "Matteo Salvini, leader della Lega, ha ripreso la spiegazione data dal vicepresidente americano JD Vance: i Repubblicani hanno perso perché le guerre in Iran e in Ucraina hanno fatto salire il costo della vita. L'ANSA riferisce inoltre che a Palazzo Chigi c'è la preoccupazione che i guadagni dei Democratici possano rinvigorire il centrosinistra italiano prima delle prossime politiche. Quest'ultimo punto è attribuito a fonti anonime."
+     ],
+     "checks": [
+      {
+       "c": "Tajani ha detto che il governo non è mai stato trumpiano e che Meloni non è Maga",
+       "n": "Riportato da ANSA e Il Fatto Quotidiano, che citano la sua intervista."
+      },
+      {
+       "c": "Meloni ha evitato di commentare dicendo che di America si parlerà un'altra volta",
+       "n": "Riportato da ANSA e dalla stampa italiana con la stessa formulazione."
+      },
+      {
+       "c": "A Palazzo Chigi c'è preoccupazione che il risultato rafforzi il centrosinistra",
+       "n": "Fonte unica, l'ANSA, che cita funzionari anonimi; non confermato dal governo."
+      }
+     ],
+     "ctx": "Le midterm americane del 2026 hanno dato ai Democratici sia la Camera sia il Senato. I partiti italiani usano il risultato nella propria contesa: il governo di centrodestra vuole mantenere stabile il rapporto con Washington, mentre l'opposizione collega la battuta d'arresto di Trump al voto italiano del 2027. Questa sintesi riporta le posizioni dichiarate di ciascuna parte senza prenderne nessuna.",
+     "media_caps": [
+      "Tajani: «Mai stati trumpiani, Meloni non è una Maga»",
+      "Immagine dal servizio ANSA sulla reazione di Meloni alle midterm",
+      "Immagine dal servizio ANSA su Tajani e l'opposizione",
+      "Antonio Tajani, da Il Fatto Quotidiano"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3,
+   "sec": "ita",
+   "topic": "ai",
+   "time": "10:00",
+   "read": 3,
+   "title": "Italy maps its AI industry: ministry consultation open until 20 November, as Urso studies vouchers for small firms",
+   "summary": "The Ministry of Enterprise and Made in Italy and the AI4I institute are running a public consultation, open until 20 November, to map Italy's artificial intelligence industry and its obstacles. Minister Adolfo Urso opens an AI and robotics summit in Turin on 6 November and is studying vouchers to help small businesses adopt AI in the budget law.",
+   "body": [
+    "The consultation was launched on 20 October by the Ministry of Enterprise and Made in Italy together with AI4I, the Italian institute of artificial intelligence for industry. It asks companies active in Italy to describe what they do, what skills they have, their growth plans and the obstacles they meet. Any company in the chain can answer: computing infrastructure, data management, model and component development, industrial applications, integration, training and technology transfer.",
+    "The stated aim is to guide public policy, set priorities for intervention and support the competitiveness of Italian industry. The results are not binding and the sources do not say when they will be published or what money will follow.",
+    "A second signal is the summit Human AI, organised by Il Sole 24 Ore, Radio24 and Zest at the OGR in Turin on Friday 6 November, which Urso will open. Separately, an Italian outlet reports that the minister is studying incentives and vouchers for small and medium firms to buy and use AI tools, as a measure for the budget law. Details are not yet public.",
+    "For a student, the map matters because it will show where Italian AI work actually is, in which cities and sectors. The same outlet puts AI adoption at 53.1 percent among large Italian companies and 15.7 percent among small and medium ones, a gap that explains why a voucher is being considered."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://images.teleborsa.it/t/stabile/196137.t.W600.H340.M4.jpg",
+     "cap": "Image from Teleborsa's report on the AI consultation",
+     "credit": "Teleborsa"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Borsa Italiana (Radiocor)",
+     "u": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/ai-mimit-e-ai4i-lanciano-la-mappatura-nazionale-della-filiera-italiana-nRC_21102026_1903_675945477.html",
+     "t": "Agency wire on the ministry announcement"
+    },
+    {
+     "n": "Teleborsa",
+     "u": "https://www.teleborsa.it/News/2026/10/21/intelligenza-artificiale-al-via-la-consultazione-del-mimit-per-mappare-la-filiera-italiana-303.html",
+     "t": "Financial news agency"
+    },
+    {
+     "n": "Startup Magazine",
+     "u": "https://www.startupmagazine.it/index.php/2026/11/04/open-innovation-summit-2026-human-ai-dallintelligenza-artificiale-allumanoide/",
+     "t": "Specialist outlet, summit programme"
+    },
+    {
+     "n": "Scenari Economici",
+     "u": "https://scenarieconomici.it/urso-lancia-la-sfida-dellintelligenza-artificiale-voucher-per-portarla-nelle-piccole-imprese-italiane/",
+     "t": "Online outlet, voucher idea"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The consultation runs until 20 November and covers the whole AI value chain",
+     "n": "Reported by Borsa Italiana's Radiocor wire and Teleborsa from the ministry announcement."
+    },
+    {
+     "s": "warn",
+     "c": "Urso is studying vouchers for small firms to adopt AI in the budget law",
+     "n": "One outlet; no ministry document or amount found."
+    },
+    {
+     "s": "warn",
+     "c": "AI adoption is 53.1 percent in large firms and 15.7 percent in small and medium ones",
+     "n": "Quoted by one outlet without a clear original survey."
+    }
+   ],
+   "ctx": "AI4I is a public-backed institute for applying AI to industry. The budget law is the annual law that sets Italy's spending, now under discussion in Parliament. The adoption percentages come from a secondary article and could not be traced to the original survey, so treat them as indicative.",
+   "loop_query": "city skyline business district",
+   "i18n": {
+    "it": {
+     "title": "L'Italia mappa la sua industria dell'IA: consultazione del ministero aperta fino al 20 novembre, mentre Urso studia voucher per le piccole imprese",
+     "summary": "Il ministero delle Imprese e del Made in Italy e l'istituto AI4I conducono una consultazione pubblica, aperta fino al 20 novembre, per mappare la filiera italiana dell'intelligenza artificiale e i suoi ostacoli. Il ministro Adolfo Urso inaugura il 6 novembre a Torino un summit su IA e robotica e studia voucher per aiutare le piccole imprese ad adottare l'IA nella legge di bilancio.",
+     "body": [
+      "La consultazione è stata lanciata il 20 ottobre dal ministero delle Imprese e del Made in Italy insieme ad AI4I, l'istituto italiano di intelligenza artificiale per l'industria. Chiede alle aziende che operano in Italia di descrivere che cosa fanno, quali competenze hanno, i piani di crescita e gli ostacoli che incontrano. Può rispondere qualunque impresa della filiera: infrastrutture di calcolo, gestione dei dati, sviluppo di modelli e componenti, applicazioni industriali, integrazione, formazione e trasferimento tecnologico.",
+      "L'obiettivo dichiarato è orientare le politiche pubbliche, stabilire le priorità di intervento e sostenere la competitività del sistema industriale italiano. I risultati non sono vincolanti e le fonti non dicono quando saranno pubblicati né quali risorse seguiranno.",
+      "Un secondo segnale è il summit Human AI, organizzato da Il Sole 24 Ore, Radio24 e Zest alle OGR di Torino venerdì 6 novembre, che Urso inaugurerà. Separatamente, una testata italiana riferisce che il ministro studia incentivi e voucher per le piccole e medie imprese che acquistano e usano strumenti di IA, come misura per la legge di bilancio. I dettagli non sono ancora pubblici.",
+      "Per uno studente la mappa conta perché mostrerà dove si fa davvero lavoro sull'IA in Italia, in quali città e settori. La stessa testata colloca l'adozione dell'IA al 53,1 per cento tra le grandi imprese italiane e al 15,7 per cento tra le piccole e medie, un divario che spiega perché si valuti un voucher."
+     ],
+     "checks": [
+      {
+       "c": "La consultazione resta aperta fino al 20 novembre e copre l'intera filiera dell'IA",
+       "n": "Riportato dal notiziario Radiocor di Borsa Italiana e da Teleborsa a partire dall'annuncio del ministero."
+      },
+      {
+       "c": "Urso studia voucher per le piccole imprese che adottano l'IA nella legge di bilancio",
+       "n": "Una sola testata; nessun documento del ministero né importo trovati."
+      },
+      {
+       "c": "L'adozione dell'IA è al 53,1 per cento nelle grandi imprese e al 15,7 per cento nelle piccole e medie",
+       "n": "Citato da una sola testata senza indicare con chiarezza l'indagine originale."
+      }
+     ],
+     "ctx": "AI4I è un istituto a sostegno pubblico per applicare l'IA all'industria. La legge di bilancio è la legge annuale che fissa la spesa dell'Italia e che ora è in discussione in Parlamento. Le percentuali di adozione vengono da un articolo secondario e non è stato possibile risalire all'indagine originale, quindi vanno considerate indicative.",
+     "media_caps": [
+      "Immagine dal servizio di Teleborsa sulla consultazione sull'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "12:30",
+   "read": 3,
+   "title": "Milan stocks edge up 0.37 percent on quarterly results, Leonardo and Eni fall, BTP spread at 103 points",
+   "summary": "The Milan stock exchange rose 0.37 percent on 5 November, following Europe higher after the US vote, with banks and company results driving moves. Amplifon gained 3.9 percent, while Leonardo fell 2.4 percent despite improved results and Eni fell 2.2 percent with crude oil. The gap between Italian and German ten-year bonds was 103 basis points.",
+   "body": [
+    "The ANSA report on trading shows the main Milan index up 0.37 percent, in line with other European markets that benefited from the outcome of the United States elections and a wave of quarterly reports. The day before, Milan had jumped about 2 percent, led by banks.",
+    "Amplifon led with a 3.9 percent gain after results from GN Hearing, part of the Danish group GN, which reported 5 percent organic revenue growth. Banks did well on nine-month results: Fineco rose 2.5 percent and Intesa Sanpaolo 1.3 percent. Tenaris gained 2.6 percent, Campari 1.9 percent and Nexi 1.4 percent.",
+    "Among the laggards was the defence group Leonardo, down 2.4 percent even though it improved its results and raised its 2026 guidance for new orders. Eni lost 2.2 percent as crude oil prices fell, and STMicroelectronics lost 1.8 percent.",
+    "In the bond market the gap between the ten-year Italian BTP and the German Bund, known as the spread, was 103 basis points, that is 1.03 percentage points, with the Italian ten-year yield at 4.29 percent. Prices move through the day, so these are figures from the time of the reports, not closing values."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=2UVcF8qgzZQ",
+     "cap": "Related: Piazza Affari rebound with oil near 94 dollars, from the previous day",
+     "credit": "ilSussidiario TV",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/cea9ceb2db95ca97190eb9fb9bdb7493.jpg",
+     "cap": "Archive image used by ANSA for its Milan market reports",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://images.teleborsa.it/t/stabile/174257.t.W600.H340.M4.jpg",
+     "cap": "Image from Teleborsa's report on European markets",
+     "credit": "Teleborsa"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-in-rialzo-con-le-trimestrali-in-luce-amplifon_747de6a4-eb35-4fe1-b4f6-04dec86a38ea.html",
+     "t": "News agency"
+    },
+    {
+     "n": "SoldiOnline",
+     "u": "https://www.soldionline.it/notizie/azioni-italia/ftse-mib-037-con-le-trimestrali-perche-amplifon-corre-e-leonardo-scende",
+     "t": "Financial news site"
+    },
+    {
+     "n": "Teleborsa",
+     "u": "https://www.teleborsa.it/News/2026/11/05/punta-al-rialzo-la-performance-dei-mercati-europei-a-milano-raffica-di-trimestrali-63.html",
+     "t": "Financial news agency"
+    },
+    {
+     "n": "ANSA, 4 November session",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/04/borsa-milano-corre-2-con-banche-e-btp-svettano-intesa-e-unicredit_c445882b-3fd8-4ad8-8328-5c3aef41c616.html",
+     "t": "News agency, previous day"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Milan main index rose 0.37 percent during trading on 5 November",
+     "n": "ANSA and SoldiOnline carry the same figure; both are intraday reports."
+    },
+    {
+     "s": "warn",
+     "c": "BTP-Bund spread at 103 basis points and ten-year yield at 4.29 percent",
+     "n": "Figures from ANSA at the time of its report; these values change during the day and the closing values were not checked."
+    },
+    {
+     "s": "ok",
+     "c": "Leonardo fell 2.4 percent despite improved results",
+     "n": "Both ANSA and SoldiOnline report the fall and the better results."
+    }
+   ],
+   "ctx": "Basis points are hundredths of a percentage point. The spread is the extra yield investors ask to hold Italian rather than German debt, and is used as a gauge of perceived risk. This is a description of market moves, not investment advice.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "Piazza Affari in rialzo dello 0,37 per cento sulle trimestrali, in calo Leonardo ed Eni, spread BTP a 103 punti",
+     "summary": "La Borsa di Milano è salita dello 0,37 per cento il 5 novembre, seguendo l'Europa in rialzo dopo il voto americano, con banche e risultati aziendali a muovere i titoli. Amplifon ha guadagnato il 3,9 per cento, mentre Leonardo è scesa del 2,4 per cento nonostante risultati migliori ed Eni del 2,2 per cento insieme al petrolio. Il differenziale tra i titoli di Stato decennali italiani e tedeschi era di 103 punti base.",
+     "body": [
+      "Il servizio dell'ANSA sulle contrattazioni mostra il principale indice di Milano in rialzo dello 0,37 per cento, in linea con gli altri mercati europei che hanno beneficiato dell'esito delle elezioni americane e di una raffica di trimestrali. Il giorno prima Milano era balzata di circa il 2 per cento, guidata dalle banche.",
+      "Amplifon ha guidato con un rialzo del 3,9 per cento dopo i risultati di GN Hearing, parte del gruppo danese GN, che ha riportato una crescita organica dei ricavi del 5 per cento. Bene le banche sui conti dei nove mesi: Fineco più 2,5 per cento e Intesa Sanpaolo più 1,3 per cento. Tenaris ha guadagnato il 2,6 per cento, Campari l'1,9 per cento e Nexi l'1,4 per cento.",
+      "Tra i titoli in calo c'era il gruppo della difesa Leonardo, in discesa del 2,4 per cento anche se ha migliorato i risultati e alzato le previsioni 2026 sugli ordini. Eni ha perso il 2,2 per cento mentre i prezzi del greggio scendevano, e STMicroelectronics l'1,8 per cento.",
+      "Sul mercato obbligazionario il differenziale tra il BTP decennale e il Bund tedesco, detto spread, era di 103 punti base, cioè 1,03 punti percentuali, con il rendimento del decennale italiano al 4,29 per cento. I prezzi si muovono durante la giornata, quindi si tratta di valori al momento dei servizi, non di chiusure."
+     ],
+     "checks": [
+      {
+       "c": "L'indice principale di Milano è salito dello 0,37 per cento durante gli scambi del 5 novembre",
+       "n": "ANSA e SoldiOnline riportano la stessa cifra; entrambi sono servizi in corso di seduta."
+      },
+      {
+       "c": "Spread BTP-Bund a 103 punti base e rendimento decennale al 4,29 per cento",
+       "n": "Dati dell'ANSA al momento del servizio; i valori cambiano durante la giornata e le chiusure non sono state verificate."
+      },
+      {
+       "c": "Leonardo è scesa del 2,4 per cento nonostante risultati migliori",
+       "n": "ANSA e SoldiOnline riportano sia il calo sia i risultati migliori."
+      }
+     ],
+     "ctx": "I punti base sono centesimi di punto percentuale. Lo spread è il rendimento in più che gli investitori chiedono per detenere debito italiano invece di quello tedesco, ed è usato come misura del rischio percepito. Questa è una descrizione dei movimenti di mercato, non un consiglio di investimento.",
+     "media_caps": [
+      "Correlato: Piazza Affari in rimbalzo con il petrolio a 94 dollari, dal giorno prima",
+      "Immagine d'archivio usata dall'ANSA per i servizi sulla Borsa di Milano",
+      "Immagine dal servizio di Teleborsa sui mercati europei"
+     ]
+    }
+   }
+  },
+  {
+   "id": 5,
+   "sec": "ita",
+   "topic": "lav",
+   "time": "16:02",
+   "read": 4,
+   "title": "Electrolux deal at the ministry cuts planned job losses from 1,719 to 902, all voluntary, with over 100 million euros of investment",
+   "summary": "After about 30 hours of talks at the Ministry of Enterprise and Made in Italy, the government, Electrolux and the unions signed an agreement on 4 November. Planned exits fall from 1,719 to 902, all voluntary with incentives of up to 95,000 euros, and the company commits more than 100 million euros to Italian plants. Meloni called it an important step in protecting Italian industry.",
+   "body": [
+    "The agreement was reached overnight at the ministry in Rome and signed by the metalworkers' unions Fim, Fiom and Uilm, according to Il Sole 24 Ore. The company, the Swedish appliance maker Electrolux, had put forward 1,719 redundancies in its Italian plan. The deal reduces that to a maximum of 902 exits, all voluntary and incentivised, with payments that can reach 95,000 euros.",
+    "In exchange, Electrolux commits to investing more than 100 million euros in Italy and to keeping its plants open, with output of about 3.2 million appliances a year at the end of the plan. Minister Adolfo Urso said the goal was reached: an agreement that protects workers and safeguards all Electrolux plants in Italy. Meloni said the government will keep watching to make sure all commitments are honoured.",
+    "The exact numbers differ slightly between outlets. Most report 902 voluntary exits, while the newspaper La Verità speaks of 918 redundancies in its headline. The sources opened do not explain the gap, and the text of the agreement has not been published.",
+    "For a young engineer the story is about the Italian manufacturing base. The plan keeps production and adds investment, which supports technical jobs in plants and design, but the exits are concentrated in factory roles and the plan is still a promise to be checked over time. The government has said it will monitor each commitment."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=odsyvem7OaI",
+     "cap": "Electrolux agreement reached; Urso: no layoffs, but investments",
+     "credit": "Il Gazzettino"
+    },
+    {
+     "type": "image",
+     "u": "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118574149?r=18",
+     "cap": "Image from the Tgcom24 report on the Electrolux agreement",
+     "credit": "Tgcom24"
+    },
+    {
+     "type": "image",
+     "u": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/03/Immagini/Ritagli/Imagoeconomica_2746564-U72832634368ijy-1440x752@IlSole24Ore-Web.jpg?r=1",
+     "cap": "Image from Il Sole 24 Ore on the Electrolux talks",
+     "credit": "Il Sole 24 Ore"
+    },
+    {
+     "type": "image",
+     "u": "https://www.laverita.info/wp-content/uploads/2026/11/LAVERITAO_20261104144111841_adaca19c283fbd8056925831a88d7a5f-1200x675.jpg",
+     "cap": "Image from La Verità on the Electrolux agreement",
+     "credit": "La Verità"
+    }
+   ],
+   "sources": [
+    {
+     "n": "AGI",
+     "u": "https://www.agi.it/economia/news/2026-11-04/electrolux-intesa-investimenti-uscite-39876477/",
+     "t": "News agency"
+    },
+    {
+     "n": "Tgcom24",
+     "u": "https://www.tgcom24.mediaset.it/economia/electrolux-raggiunta-intesa-mimit_118574136-202602k.shtml",
+     "t": "TV news site"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "u": "https://en.ilsole24ore.com/art/electrolux-mimit-negotiations-continue-indefinitely-but-an-agreement-is-still-a-long-way-off-AJTotA2B",
+     "t": "Business daily"
+    },
+    {
+     "n": "ANSA, Meloni statement",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/meloni-intesa-electrolux-passo-importante-per-la-tutela-dellindustria-italiana_4798db3a-6009-4d0f-8db5-af3ca59b26c6.html",
+     "t": "News agency"
+    },
+    {
+     "n": "La Verità",
+     "u": "https://www.laverita.info/made-in-italy/electrolux-accordo-esuberi-918-investimenti-100-milioni",
+     "t": "Daily newspaper, differing count"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Electrolux will invest over 100 million euros in Italy under the agreement",
+     "n": "Reported by AGI, Tgcom24, ANSA and La Verità."
+    },
+    {
+     "s": "ok",
+     "c": "Planned exits fall from 1,719 to a maximum of 902, all voluntary, with incentives up to 95,000 euros",
+     "n": "Il Sole 24 Ore, AGI and Tgcom24 agree on the numbers."
+    },
+    {
+     "s": "warn",
+     "c": "The exact number of redundancies is 902",
+     "n": "La Verità's headline speaks of 918; the sources opened do not explain the difference and the agreement text is not public."
+    }
+   ],
+   "ctx": "Italian industrial disputes go to a table at the Ministry of Enterprise and Made in Italy, where company, unions and government negotiate. Voluntary incentivised exits mean workers choose to leave in return for a payment, instead of being dismissed. The unions' position on the deal beyond signing it is not detailed in the sources opened.",
+   "loop_query": "factory assembly line",
+   "i18n": {
+    "it": {
+     "title": "Accordo Electrolux al ministero: gli esuberi scendono da 1.719 a 902, tutti volontari, con oltre 100 milioni di euro di investimenti",
+     "summary": "Dopo circa 30 ore di trattativa al ministero delle Imprese e del Made in Italy, governo, Electrolux e sindacati hanno firmato un accordo il 4 novembre. Le uscite previste scendono da 1.719 a 902, tutte volontarie con incentivi fino a 95.000 euro, e l'azienda si impegna a investire oltre 100 milioni di euro negli stabilimenti italiani. Meloni l'ha definito un passo importante per la tutela dell'industria italiana.",
+     "body": [
+      "L'intesa è stata raggiunta nella notte al ministero a Roma e firmata dai sindacati dei metalmeccanici Fim, Fiom e Uilm, secondo Il Sole 24 Ore. L'azienda, la multinazionale svedese degli elettrodomestici Electrolux, aveva presentato 1.719 esuberi nel suo piano per l'Italia. L'accordo li riduce a un massimo di 902 uscite, tutte volontarie e incentivate, con importi che possono arrivare a 95.000 euro.",
+      "In cambio Electrolux si impegna a investire più di 100 milioni di euro in Italia e a mantenere aperti gli stabilimenti, con una produzione di circa 3,2 milioni di elettrodomestici l'anno al termine del piano. Il ministro Adolfo Urso ha detto che l'obiettivo è stato raggiunto: un accordo che tutela i lavoratori e salvaguarda tutti gli stabilimenti Electrolux in Italia. Meloni ha dichiarato che il governo continuerà a vigilare perché tutti gli impegni assunti vengano rispettati.",
+      "I numeri esatti differiscono leggermente tra le testate. La maggior parte riporta 902 uscite volontarie, mentre il quotidiano La Verità parla di 918 esuberi nel titolo. Le fonti consultate non spiegano la differenza e il testo dell'accordo non è stato pubblicato.",
+      "Per un giovane ingegnere la vicenda riguarda la base manifatturiera italiana. Il piano mantiene la produzione e aggiunge investimenti, il che sostiene i posti tecnici negli stabilimenti e nella progettazione, ma le uscite si concentrano su ruoli di fabbrica e il piano resta una promessa da verificare nel tempo. Il governo ha detto che monitorerà ogni impegno."
+     ],
+     "checks": [
+      {
+       "c": "Con l'accordo Electrolux investirà oltre 100 milioni di euro in Italia",
+       "n": "Riportato da AGI, Tgcom24, ANSA e La Verità."
+      },
+      {
+       "c": "Le uscite previste scendono da 1.719 a un massimo di 902, tutte volontarie, con incentivi fino a 95.000 euro",
+       "n": "Il Sole 24 Ore, AGI e Tgcom24 concordano sui numeri."
+      },
+      {
+       "c": "Il numero esatto degli esuberi è 902",
+       "n": "Il titolo di La Verità parla di 918; le fonti consultate non spiegano la differenza e il testo dell'accordo non è pubblico."
+      }
+     ],
+     "ctx": "Le vertenze industriali italiane vanno a un tavolo del ministero delle Imprese e del Made in Italy, dove azienda, sindacati e governo trattano. Le uscite volontarie incentivate significano che i lavoratori scelgono di andarsene in cambio di un pagamento, invece di essere licenziati. La posizione dei sindacati sull'accordo, oltre alla firma, non è dettagliata nelle fonti consultate.",
+     "media_caps": [
+      "Electrolux, accordo raggiunto; Urso: nessun licenziamento, ma investimenti",
+      "Immagine dal servizio di Tgcom24 sull'accordo Electrolux",
+      "Immagine de Il Sole 24 Ore sulla trattativa Electrolux",
+      "Immagine de La Verità sull'accordo Electrolux"
+     ]
+    }
+   }
+  },
+  {
+   "id": 6,
+   "sec": "ita",
+   "topic": "inn",
+   "time": "11:00",
+   "read": 4,
+   "title": "CERN's LHCb finds first evidence of a beauty-particle decay predicted once in 10 billion, co-led by an Italian physicist",
+   "summary": "The LHCb experiment at CERN has found evidence, at 3.2 standard deviations, of an extremely rare decay of a B zero particle into two muons, searched for over more than 40 years. The result agrees with the Standard Model. The analysis was co-led by Marco Santimaria of INFN's Frascati laboratories, and Italian groups are working on the upgrade that will raise data collection tenfold.",
+   "body": [
+    "The collaboration announced the result on 3 November. The decay is that of a particle with a beauty quark and a down antiquark, called B zero, into a pair of muons, heavy cousins of the electron. The Standard Model predicts it in about one in 10 billion decays of beauty particles, roughly 30 times rarer than the similar decay of the strange-flavoured B particle.",
+    "Using data taken in 2024 and 2025, the team reached 3.0 standard deviations. Combined with earlier data from 2011 to 2018, the significance rises to 3.2 standard deviations. In particle physics, 3 standard deviations counts as evidence and 5 as discovery. The measured rate is consistent with the Standard Model, so there is no sign of new physics here.",
+    "Marco Santimaria of the INFN Frascati National Laboratories, who co-led the analysis, said physicists have chased this decay for more than 40 years and that very high precision is needed to pick the muons out of the background. Pasquale Di Nezza, who coordinates the Italian LHCb community, said Italian groups are working on the experiment's upgrade, which will increase the data collection rate by a factor of 10 in the next decade.",
+    "What comes next: reaching 5 standard deviations will need more data, from the planned high-luminosity phase of the Large Hadron Collider starting around 2030 and from the LHCb upgrades. A paper has been submitted to a journal, according to a secondary report, and has not yet been peer reviewed in the sources opened."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=JiNJ57Gdif8",
+     "cap": "Cambridge University physicists on the rare decay result",
+     "credit": "Cambridge University",
+     "start": 5,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.infn.it/wp-content/uploads/2026/11/LHCb_event-display-2D-side_2026-scaled.png",
+     "cap": "Event display of a collision recorded by the LHCb detector",
+     "credit": "INFN / LHCb"
+    }
+   ],
+   "sources": [
+    {
+     "n": "INFN",
+     "u": "https://www.infn.it/en/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/",
+     "t": "Italian national institute for nuclear physics, primary"
+    },
+    {
+     "n": "CERN",
+     "u": "https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/",
+     "t": "Primary source, laboratory press release"
+    },
+    {
+     "n": "UKRI",
+     "u": "https://www.ukri.org/news/scientists-find-evidence-of-rarest-particle-decay-after-42-years/",
+     "t": "UK research funder"
+    },
+    {
+     "n": "Sbircia la Notizia",
+     "u": "https://www.sbircialanotizia.it/articoli/2026/11/03/lhcb-muoni-k7m2q/",
+     "t": "Italian science news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The combined significance is 3.2 standard deviations and the result matches the Standard Model",
+     "n": "CERN and INFN press releases agree; UKRI reports the same."
+    },
+    {
+     "s": "warn",
+     "c": "Evidence is not discovery",
+     "n": "3.2 standard deviations is below the 5 needed to claim a discovery; the collaboration itself aims for 5 with more data."
+    },
+    {
+     "s": "warn",
+     "c": "The paper has been submitted to a journal",
+     "n": "Only a secondary Italian site says so; the CERN and INFN pages do not name a journal."
+    }
+   ],
+   "ctx": "A muon is an unstable particle about 200 times heavier than the electron. Very rare decays are sensitive to possible heavy unknown particles, because those could change how often the decay happens. INFN is Italy's national institute for nuclear physics. Evidence at 3.2 standard deviations can still be a statistical fluctuation, which is why physicists wait for 5 before calling it a discovery.",
+   "loop_query": "laboratory particle detector",
+   "i18n": {
+    "it": {
+     "title": "LHCb del CERN trova la prima evidenza di un decadimento di particella bellezza previsto una volta su 10 miliardi, co-guidata da un fisico italiano",
+     "summary": "L'esperimento LHCb del CERN ha trovato evidenza, a 3,2 deviazioni standard, di un decadimento estremamente raro di una particella B zero in due muoni, cercato da più di 40 anni. Il risultato è in accordo con il Modello Standard. L'analisi è stata co-guidata da Marco Santimaria dei Laboratori di Frascati dell'INFN, e gruppi italiani lavorano all'aggiornamento che aumenterà di dieci volte la raccolta dati.",
+     "body": [
+      "La collaborazione ha annunciato il risultato il 3 novembre. Il decadimento è quello di una particella con un quark bellezza e un antiquark down, chiamata B zero, in una coppia di muoni, cugini pesanti dell'elettrone. Il Modello Standard lo prevede in circa un decadimento su 10 miliardi di particelle bellezza, circa 30 volte più raro del decadimento simile della particella B con quark strange.",
+      "Con i dati raccolti nel 2024 e nel 2025 il gruppo ha raggiunto 3,0 deviazioni standard. Combinato con i dati precedenti dal 2011 al 2018, il livello sale a 3,2 deviazioni standard. In fisica delle particelle, 3 deviazioni standard contano come evidenza e 5 come scoperta. La frequenza misurata è compatibile con il Modello Standard, quindi qui non c'è alcun segnale di nuova fisica.",
+      "Marco Santimaria, dei Laboratori Nazionali di Frascati dell'INFN, che ha co-guidato l'analisi, ha detto che i fisici inseguono questo decadimento da più di 40 anni e che serve una precisione molto alta per distinguere i muoni dal fondo. Pasquale Di Nezza, che coordina la comunità italiana di LHCb, ha detto che i gruppi italiani lavorano all'aggiornamento dell'esperimento, che aumenterà di un fattore 10 la velocità di raccolta dati nel prossimo decennio.",
+      "Che cosa succede ora: raggiungere 5 deviazioni standard richiederà più dati, dalla fase ad alta luminosità prevista del Large Hadron Collider a partire dal 2030 circa e dagli aggiornamenti di LHCb. Un articolo è stato inviato a una rivista, secondo un resoconto secondario, e nelle fonti consultate non ha ancora superato la revisione tra pari."
+     ],
+     "checks": [
+      {
+       "c": "La significatività combinata è di 3,2 deviazioni standard e il risultato è in accordo con il Modello Standard",
+       "n": "I comunicati di CERN e INFN concordano; UKRI riporta lo stesso."
+      },
+      {
+       "c": "L'evidenza non è una scoperta",
+       "n": "3,2 deviazioni standard sono sotto le 5 necessarie per parlare di scoperta; la stessa collaborazione punta a 5 con più dati."
+      },
+      {
+       "c": "L'articolo è stato inviato a una rivista",
+       "n": "Lo dice solo un sito italiano secondario; le pagine di CERN e INFN non indicano una rivista."
+      }
+     ],
+     "ctx": "Il muone è una particella instabile circa 200 volte più pesante dell'elettrone. I decadimenti molto rari sono sensibili a possibili particelle pesanti ancora ignote, perché queste potrebbero cambiare la frequenza del decadimento. L'INFN è l'Istituto nazionale di fisica nucleare. Un'evidenza a 3,2 deviazioni standard può ancora essere una fluttuazione statistica, per questo i fisici aspettano 5 prima di parlare di scoperta.",
+     "media_caps": [
+      "I fisici dell'Università di Cambridge sul risultato del decadimento raro",
+      "Visualizzazione di una collisione registrata dal rivelatore LHCb"
+     ]
+    }
+   }
+  },
+  {
+   "id": 7,
+   "sec": "reg",
+   "time": "08:30",
+   "read": 5,
+   "title": "Italy's AI Act decree is in force: ACN and AgID named as authorities, fines up to 35 million euros, and limits on automated decisions at work",
+   "summary": "Legislative Decree 179 of 7 October 2026, which applies the EU AI Act in Italy, entered into force on 23 October. It names the National Cybersecurity Agency as the main market surveillance authority and the Agency for Digital Italy as notifying authority, sets fines of up to 35 million euros or 7 percent of turnover, and bars employers from basing final decisions on automation alone.",
+   "body": [
+    "The decree was published in Gazzetta Ufficiale number 234 on 8 October 2026 and applies from 23 October. It has 54 articles in five chapters and implements Regulation 2024/1689, the AI Act, where national choices are needed. It does not replace the Regulation. It adds to Law 132 of 2025, the Italian framework law on AI.",
+    "Who supervises: the National Cybersecurity Agency, ACN, is the general market surveillance authority and the single contact point with the European institutions. It can inspect and request information, including unannounced checks for real-world testing. The Agency for Digital Italy, AgID, is the notifying authority that designates and monitors conformity assessment bodies. Sector supervisors cover their areas: the Bank of Italy for credit, the securities regulator CONSOB for investment services, the insurance supervisor IVASS for insurance, and the Data Protection Authority within its remit. A regulatory sandbox, run jointly by AgID and ACN, gives priority to small firms and startups; its rules will come in later joint decrees.",
+    "Fines mirror the AI Act. According to the specialist outlet Ingenio, the maximum is 35 million euros or 7 percent of worldwide annual turnover for prohibited practices, 15 million euros or 3 percent for other obligations, and 7.5 million euros or 1 percent for supplying false or incomplete information. These are ceilings; the authority must weigh proportionality and gravity.",
+    "For work and study: Article 41 says final decisions on hiring, changes to contracts, dismissal, performance evaluation and discipline cannot rest only on automated processing, and workers may ask for an understandable explanation. Article 47 asks professional orders, including engineers, to build AI literacy into training and to update their rules by 23 April 2027. Article 49 asks for AI criteria in professional fee parameters by 23 October 2027. Many details still wait for secondary rules."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=kZz_6AtrLnA",
+     "cap": "Marco Camisani Calzolari on reporting harmful AI to the competent authority from 23 October",
+     "credit": "Marco Camisani Calzolari",
+     "start": 5,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.ingenio-web.it/upload/blog/0/5/a/3b9de5aae36e0773c87797b57d2a6efa7d5e2866_og.jpg",
+     "cap": "Illustration from Ingenio's explainer on Decree 179/2026",
+     "credit": "Ingenio"
+    },
+    {
+     "type": "image",
+     "u": "https://www.lavoripubblici.it/img-news/2026/ia-decreto-legislativo.png",
+     "cap": "Illustration from Lavori Pubblici on the AI decree",
+     "credit": "Lavori Pubblici"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Ingenio, controls and sanctions",
+     "u": "https://www.ingenio-web.it/articoli/ai-act-e-d-lgs-179-2026-chi-controlla-l-intelligenza-artificiale-in-italia-quali-sanzioni-e-quali-opportunita-per-le-imprese/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Lavori Pubblici, training and work",
+     "u": "https://www.lavoripubblici.it/news/dlgs-179-2026-intelligenza-artificiale-professionisti-38903",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "CIIP Consulta",
+     "u": "https://ciip-consulta.it/2026/10/13/decreto-legislativo-7-ottobre-2026-n-179/",
+     "t": "Professional body, text reference"
+    },
+    {
+     "n": "Garante Privacy, opinion on the draft decree",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10275626",
+     "t": "Primary source, regulator opinion of 14 July 2026"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Decree 179/2026 was published in Gazzetta Ufficiale 234 on 8 October and applies from 23 October 2026",
+     "n": "Ingenio, CIIP Consulta and Lavori Pubblici agree; the Garante's opinion of 14 July concerns the same draft decree."
+    },
+    {
+     "s": "warn",
+     "c": "Fines reach 35 million euros or 7 percent, 15 million euros or 3 percent, and 7.5 million euros or 1 percent",
+     "n": "Reported by Ingenio; the amounts match the tiers of the AI Act's penalty article, but the decree text was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "Article 41 bars final employment decisions based only on automated processing and voids those that break the rule",
+     "n": "Lavori Pubblici is the only source opened for the wording and the nullity; check the text in Gazzetta Ufficiale."
+    }
+   ],
+   "ctx": "This is information, not legal advice. The AI Act is a Regulation, so it applies directly in every member state; national decrees decide who enforces it and add local rules. The fines in the decree are maximums set by the AI Act's penalty article. Article numbers above refer to Decree 179/2026, not to the AI Act, unless said otherwise. The decree text itself was not opened; details come from specialist outlets, so check the Gazzetta Ufficiale before relying on a number.",
+   "loop_query": "legal documents desk",
+   "i18n": {
+    "it": {
+     "title": "In vigore il decreto italiano sull'AI Act: ACN e AgID come autorità, sanzioni fino a 35 milioni di euro e limiti alle decisioni automatizzate sul lavoro",
+     "summary": "Il decreto legislativo 179 del 7 ottobre 2026, che applica in Italia l'AI Act europeo, è entrato in vigore il 23 ottobre. Indica l'Agenzia per la cybersicurezza nazionale come principale autorità di vigilanza del mercato e l'Agenzia per l'Italia digitale come autorità di notifica, fissa sanzioni fino a 35 milioni di euro o al 7 per cento del fatturato e vieta ai datori di lavoro di fondare decisioni finali solo sull'automazione.",
+     "body": [
+      "Il decreto è stato pubblicato nella Gazzetta Ufficiale numero 234 dell'8 ottobre 2026 e si applica dal 23 ottobre. Ha 54 articoli in cinque capi e attua il regolamento 2024/1689, l'AI Act, dove servono scelte nazionali. Non sostituisce il regolamento. Si aggiunge alla legge 132 del 2025, la legge quadro italiana sull'IA.",
+      "Chi vigila: l'Agenzia per la cybersicurezza nazionale, ACN, è l'autorità generale di vigilanza del mercato e il punto di contatto unico con le istituzioni europee. Può ispezionare e chiedere informazioni, anche con controlli a sorpresa per le prove in condizioni reali. L'Agenzia per l'Italia digitale, AgID, è l'autorità di notifica che designa e monitora gli organismi di valutazione della conformità. Le autorità di settore presidiano i propri ambiti: la Banca d'Italia per il credito, la CONSOB per i servizi di investimento, l'IVASS per le assicurazioni e il Garante per la protezione dei dati personali nell'ambito di sua competenza. Uno spazio di sperimentazione normativa, gestito insieme da AgID e ACN, dà priorità alle piccole imprese e alle startup; le regole arriveranno con successivi decreti congiunti.",
+      "Le sanzioni ricalcano l'AI Act. Secondo la testata specializzata Ingenio, il massimo è di 35 milioni di euro o il 7 per cento del fatturato mondiale annuo per le pratiche vietate, di 15 milioni di euro o il 3 per cento per gli altri obblighi e di 7,5 milioni di euro o l'1 per cento per la fornitura di informazioni false o incomplete. Sono tetti massimi; l'autorità deve valutare proporzionalità e gravità.",
+      "Per lavoro e studio: l'articolo 41 dice che le decisioni finali su assunzioni, modifiche del contratto, licenziamento, valutazione della prestazione e disciplina non possono basarsi solo su un trattamento automatizzato, e che i lavoratori possono chiedere una spiegazione comprensibile. L'articolo 47 chiede agli ordini professionali, compresi quelli degli ingegneri, di inserire l'alfabetizzazione sull'IA nella formazione e di aggiornare le regole entro il 23 aprile 2027. L'articolo 49 chiede criteri legati all'IA nei parametri dei compensi professionali entro il 23 ottobre 2027. Molti dettagli attendono ancora norme secondarie."
+     ],
+     "checks": [
+      {
+       "c": "Il decreto 179/2026 è stato pubblicato nella Gazzetta Ufficiale 234 dell'8 ottobre e si applica dal 23 ottobre 2026",
+       "n": "Ingenio, CIIP Consulta e Lavori Pubblici concordano; il parere del Garante del 14 luglio riguarda lo stesso schema di decreto."
+      },
+      {
+       "c": "Le sanzioni arrivano a 35 milioni di euro o 7 per cento, 15 milioni di euro o 3 per cento e 7,5 milioni di euro o 1 per cento",
+       "n": "Riportato da Ingenio; gli importi corrispondono ai livelli dell'articolo sulle sanzioni dell'AI Act, ma il testo del decreto non è stato aperto."
+      },
+      {
+       "c": "L'articolo 41 vieta decisioni finali sul lavoro basate solo su trattamento automatizzato e rende nulle quelle che violano la regola",
+       "n": "Lavori Pubblici è l'unica fonte aperta per la formulazione e la nullità; conviene controllare il testo in Gazzetta Ufficiale."
+      }
+     ],
+     "ctx": "Questa è informazione, non consulenza legale. L'AI Act è un regolamento, quindi si applica direttamente in ogni Stato membro; i decreti nazionali stabiliscono chi lo fa rispettare e aggiungono regole locali. Le sanzioni del decreto sono massimi fissati dall'articolo sulle sanzioni dell'AI Act. I numeri di articolo indicati sopra si riferiscono al decreto 179/2026, non all'AI Act, salvo diversa indicazione. Il testo del decreto non è stato aperto; i dettagli vengono da testate specializzate, quindi conviene verificare la Gazzetta Ufficiale prima di fare affidamento su un numero.",
+     "media_caps": [
+      "Marco Camisani Calzolari sulla possibilità di segnalare un'IA dannosa all'autorità competente dal 23 ottobre",
+      "Immagine dalla guida di Ingenio sul decreto 179/2026",
+      "Immagine di Lavori Pubblici sul decreto sull'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 8,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "AI Act calendar after the Digital Omnibus: 2 December 2026 is the next hard date, with high-risk rules delayed to December 2027",
+   "summary": "Since the Digital Omnibus on AI took effect in July, the AI Act's high-risk rules for stand-alone systems apply from 2 December 2027 and for products from 2 August 2028. The next date to watch is 2 December 2026, when content labelling duties reach generative systems already on the market and a ban on nudifier apps starts.",
+   "body": [
+    "The Digital Omnibus on AI amends the AI Act, Regulation 2024/1689. The Commission proposed it on 19 November 2025, EU institutions reached a political agreement on 7 May 2026, and specialist sources say it has applied since 27 July 2026 as Regulation 2026/1744. It is a delay of dates, not a removal of duties.",
+    "Dates that did not move: the ban on prohibited practices, in force since 2 February 2025; the duties for general-purpose AI models, since 2 August 2025; and the transparency duties of Article 50, enforceable since 2 August 2026. The Commission can also enforce the rules on general-purpose models itself since 2 August 2026.",
+    "Dates that moved. Stand-alone high-risk systems listed in Annex III, such as recruitment, education and credit scoring, now apply from 2 December 2027 instead of 2 August 2026. High-risk AI built into regulated products under Annex I moves to 2 August 2028. National regulatory sandboxes move to 2 August 2027. Providers of generative systems already on the market have until 2 December 2026 to mark their output under Article 50, paragraph 2, and a new ban on non-consensual intimate imagery, including nudifier apps, applies from the same day.",
+    "Timeline: 2 February 2025, bans; 2 August 2025, general-purpose models; 2 August 2026, transparency and Commission enforcement; 2 December 2026, marking for existing generative systems and the nudifier ban; 2 August 2027, sandboxes; 2 December 2027, Annex III high-risk; 2 August 2028, Annex I products. Also on the calendar: EU leaders hold an informal summit on AI in Dublin on 13 November. Who is affected now: anyone who builds or publishes generative AI content, and employers or schools planning to buy high-risk tools."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=-AwTVHYnwsY",
+     "cap": "Related: explainer on the AI Act deadline shift",
+     "credit": "AI Policy Hub Switzerland",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://static.dastra.eu/content/4a56d2ec-1ceb-4fc1-af76-6863e015f2d2/visuel-article-5-original.jpg",
+     "cap": "Illustration from Dastra's analysis of the AI Omnibus",
+     "credit": "Dastra"
+    }
+   ],
+   "sources": [
+    {
+     "n": "regulation-ai.eu, Digital Omnibus",
+     "u": "https://www.regulation-ai.eu/en/omnibus/",
+     "t": "Specialist reference site"
+    },
+    {
+     "n": "Dastra",
+     "u": "https://www.dastra.eu/en/blog/simpler-safer-stricter-where-it-counts-inside-the-eu-ai-omnibus-deal/60025",
+     "t": "Data protection software firm, analysis"
+    },
+    {
+     "n": "Usercentrics",
+     "u": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+     "t": "Compliance software firm, analysis"
+    },
+    {
+     "n": "Technology.org",
+     "u": "https://www.technology.org/2026/10/13/eu-ai-act-deadlines-after-the-digital-omnibus-what-applies-from-december-2026-to-august-2028/",
+     "t": "Technology news site"
+    },
+    {
+     "n": "European Commission, AI Act page",
+     "u": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+     "t": "Official policy page, general reference"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "High-risk Annex III rules now apply from 2 December 2027 and Annex I products from 2 August 2028",
+     "n": "regulation-ai.eu, Dastra, Technology.org and Usercentrics all give the same dates."
+    },
+    {
+     "s": "ok",
+     "c": "Existing generative systems have until 2 December 2026 to mark their output under Article 50(2)",
+     "n": "Reported by Usercentrics and Technology.org; regulation-ai.eu lists the same shift for content marking."
+    },
+    {
+     "s": "warn",
+     "c": "The Omnibus is Regulation 2026/1744 and has applied since 27 July 2026",
+     "n": "Appears in specialist summaries only; the Official Journal text was not opened."
+    }
+   ],
+   "ctx": "This is information, not legal advice. Annex III lists the high-risk use cases, for example hiring, exam scoring and credit decisions; Annex I covers AI inside products already regulated, like medical devices or machinery. The regulation number 2026/1744 and the entry-into-force date come from specialist sources; the Official Journal text was not opened, so confirm on EUR-Lex before citing.",
+   "loop_query": "european parliament chamber",
+   "i18n": {
+    "it": {
+     "title": "Il calendario dell'AI Act dopo il Digital Omnibus: il 2 dicembre 2026 è la prossima data chiave, con le regole sull'alto rischio rinviate a dicembre 2027",
+     "summary": "Da quando in luglio è entrato in vigore il Digital Omnibus sull'IA, le regole sull'alto rischio per i sistemi autonomi si applicano dal 2 dicembre 2027 e per i prodotti dal 2 agosto 2028. La prossima data da seguire è il 2 dicembre 2026, quando gli obblighi di etichettatura dei contenuti raggiungono i sistemi generativi già sul mercato e parte il divieto delle app di nudificazione.",
+     "body": [
+      "Il Digital Omnibus sull'IA modifica l'AI Act, il regolamento 2024/1689. La Commissione lo ha proposto il 19 novembre 2025, le istituzioni europee hanno raggiunto un accordo politico il 7 maggio 2026 e secondo fonti specializzate si applica dal 27 luglio 2026 come regolamento 2026/1744. È un rinvio di date, non l'eliminazione degli obblighi.",
+      "Le date che non si sono mosse: il divieto delle pratiche proibite, in vigore dal 2 febbraio 2025; gli obblighi per i modelli di IA per finalità generali, dal 2 agosto 2025; e gli obblighi di trasparenza dell'articolo 50, applicabili dal 2 agosto 2026. Dal 2 agosto 2026 la Commissione può inoltre far rispettare direttamente le regole sui modelli per finalità generali.",
+      "Le date che si sono spostate. I sistemi ad alto rischio autonomi elencati nell'allegato III, come selezione del personale, istruzione e valutazione del merito di credito, si applicano ora dal 2 dicembre 2027 invece che dal 2 agosto 2026. L'IA ad alto rischio integrata in prodotti regolamentati, allegato I, slitta al 2 agosto 2028. Gli spazi di sperimentazione normativa nazionali slittano al 2 agosto 2027. I fornitori di sistemi generativi già sul mercato hanno tempo fino al 2 dicembre 2026 per marcare i loro contenuti ai sensi dell'articolo 50, paragrafo 2, e da quello stesso giorno si applica un nuovo divieto sulle immagini intime non consensuali, comprese le app di nudificazione.",
+      "Cronologia: 2 febbraio 2025, divieti; 2 agosto 2025, modelli per finalità generali; 2 agosto 2026, trasparenza e controllo diretto della Commissione; 2 dicembre 2026, marcatura per i sistemi generativi esistenti e divieto delle app di nudificazione; 2 agosto 2027, spazi di sperimentazione; 2 dicembre 2027, alto rischio dell'allegato III; 2 agosto 2028, prodotti dell'allegato I. In calendario anche il vertice informale dei leader europei sull'IA a Dublino il 13 novembre. Chi è coinvolto ora: chi sviluppa o pubblica contenuti generati dall'IA, e datori di lavoro o scuole che pensano di acquistare strumenti ad alto rischio."
+     ],
+     "checks": [
+      {
+       "c": "Le regole sull'alto rischio dell'allegato III si applicano ora dal 2 dicembre 2027 e i prodotti dell'allegato I dal 2 agosto 2028",
+       "n": "regulation-ai.eu, Dastra, Technology.org e Usercentrics riportano le stesse date."
+      },
+      {
+       "c": "I sistemi generativi esistenti hanno tempo fino al 2 dicembre 2026 per marcare i contenuti ai sensi dell'articolo 50, paragrafo 2",
+       "n": "Riportato da Usercentrics e Technology.org; regulation-ai.eu elenca lo stesso rinvio per la marcatura dei contenuti."
+      },
+      {
+       "c": "L'Omnibus è il regolamento 2026/1744 ed è in vigore dal 27 luglio 2026",
+       "n": "Compare solo in sintesi specializzate; il testo della Gazzetta ufficiale dell'Unione europea non è stato aperto."
+      }
+     ],
+     "ctx": "Questa è informazione, non consulenza legale. L'allegato III elenca i casi d'uso ad alto rischio, per esempio assunzioni, valutazione degli esami e decisioni di credito; l'allegato I riguarda l'IA dentro prodotti già regolamentati, come dispositivi medici o macchinari. Il numero 2026/1744 del regolamento e la data di entrata in vigore vengono da fonti specializzate; il testo della Gazzetta ufficiale dell'Unione europea non è stato aperto, quindi conviene confermare su EUR-Lex prima di citarlo.",
+     "media_caps": [
+      "Correlato: spiegazione sullo slittamento delle scadenze dell'AI Act",
+      "Immagine dall'analisi di Dastra sull'Omnibus sull'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 9,
+   "sec": "reg",
+   "time": "10:00",
+   "read": 4,
+   "title": "Italy's privacy regulator: deleting personal data is not enough if an AI model has already learned it, and 35 checks target AI use by councils and health boards",
+   "summary": "In an opinion dated 7 October and made public on 29 October, the Garante for personal data told the Province of Trento that AI rules for public offices must ensure people's rights to correct and erase data, even when the data have already been used to train a model. The regulator's inspection plan for the second half of 2026 now also covers AI in municipalities and local health authorities.",
+   "body": [
+    "The opinion is decision number 760 of 7 October 2026. It concerns a draft regulation of the autonomous Province of Trento on the use of artificial intelligence in public administration. The Garante gave a favourable opinion with conditions, mainly on how special and judicial data are handled and on the effective exercise of data subjects' rights.",
+    "The central point is technical. Under articles 16 and 17 of the GDPR, people can ask to have data corrected or erased. But once personal data have helped train a model, the model's parameters have changed, and fixing or deleting the source document may not change what the model has learned. The Garante therefore asks for technical and organisational measures that guarantee the effective exercise of rectification and erasure, whatever the AI system or model used.",
+    "Who is affected: public bodies and their suppliers that use AI on personal data, and by extension any company building models from personal data. The opinion binds the Trento rules, but it shows how the Garante will read the GDPR for AI. In the second half of 2026 its inspection plan lists at least 35 checks between August and December, and AI, first watched in schools, now reaches municipalities and local health authorities.",
+    "Two other markers: in July 2026 the Garante fined Character Technologies, the operator of Character.AI, 158,000 euros for weak privacy notices, late risk assessment, a late EU representative and poor protection and age verification for minors, and gave it 120 days to show compliance. Counted from the July announcement, that window closes around now; the starting date was not confirmed, and no follow-up has been published in the sources opened."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.byte.it/wp-content/uploads/2026/10/Ufficio-pubblico-tra-archivi-e-digitalizzazione.png",
+     "cap": "Illustration from Byte.it on the Garante's opinion for Trento",
+     "credit": "Byte.it"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Byte.it",
+     "u": "https://www.byte.it/cancellare-un-dato-non-basta-se-lia-lo-ha-gia-appreso-il-garante-detta-le-condizioni-agli-uffici-pubblici/",
+     "t": "Italian technology outlet"
+    },
+    {
+     "n": "Agnoli, Volantia",
+     "u": "https://agnoli.it/volantia/regulatory/2834/ia-nella-pubblica-amministrazione-il-garante-condiziona-il-parere-sul-regolamento-della-provincia-di-trento",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "Garante Privacy, Character.AI fine",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269594",
+     "t": "Primary source, regulator press release"
+    },
+    {
+     "n": "Federprivacy, inspection plan",
+     "u": "https://www.federprivacy.org/informazione/primo-piano/nuovo-piano-ispettivo-del-garante-privacy-priorita-di-fine-2026-e-trasparenza-della-vigilanza",
+     "t": "Privacy professionals association"
+    },
+    {
+     "n": "Matrice Digitale",
+     "u": "https://www.matricedigitale.it/2026/10/30/garante-privacy-fse-14-anni-notai-ai-trento-sms/",
+     "t": "Italian technology outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Decision 760 of 7 October 2026 gives a conditional yes to Trento's AI rules and asks for effective rectification and erasure rights",
+     "n": "Byte.it, the Agnoli briefing and Matrice Digitale describe the same opinion."
+    },
+    {
+     "s": "ok",
+     "c": "The Garante fined Character Technologies 158,000 euros",
+     "n": "Stated in the Garante's own press release."
+    },
+    {
+     "s": "warn",
+     "c": "The 120-day compliance window ends around now",
+     "n": "The window is from the press release; the start date and any follow-up were not confirmed."
+    }
+   ],
+   "ctx": "This is information, not legal advice. The GDPR already applies to AI that processes personal data, alongside the AI Act. The Garante is Italy's data protection authority; it is separate from ACN and AgID, which enforce the AI Act. An opinion on a regulation is not a fine, but it signals what regulators expect from public bodies.",
+   "loop_query": "city hall government office",
+   "i18n": {
+    "it": {
+     "title": "Il Garante privacy: cancellare un dato non basta se il modello di IA lo ha già appreso, e 35 controlli riguardano l'uso dell'IA nei Comuni e nelle Asl",
+     "summary": "In un parere del 7 ottobre reso pubblico il 29 ottobre, il Garante per la protezione dei dati personali ha detto alla Provincia di Trento che le regole sull'IA negli uffici pubblici devono garantire i diritti di rettifica e cancellazione, anche quando i dati sono già serviti ad addestrare un modello. Il piano ispettivo del Garante per il secondo semestre del 2026 comprende ora anche l'IA nei Comuni e nelle aziende sanitarie locali.",
+     "body": [
+      "Il parere è il provvedimento numero 760 del 7 ottobre 2026. Riguarda uno schema di regolamento della Provincia autonoma di Trento sull'uso dell'intelligenza artificiale nella pubblica amministrazione. Il Garante ha espresso un parere favorevole con condizioni, soprattutto sul trattamento dei dati particolari e giudiziari e sull'effettivo esercizio dei diritti degli interessati.",
+      "Il punto centrale è tecnico. Ai sensi degli articoli 16 e 17 del GDPR, le persone possono chiedere la rettifica o la cancellazione dei dati. Ma quando i dati personali hanno contribuito ad addestrare un modello, i parametri del modello sono cambiati, e correggere o cancellare il documento di partenza può non cambiare ciò che il modello ha appreso. Il Garante chiede quindi misure tecniche e organizzative che garantiscano l'effettivo esercizio dei diritti di rettifica e cancellazione, indipendentemente dal sistema o dal modello di IA utilizzato.",
+      "Chi è coinvolto: gli enti pubblici e i loro fornitori che usano l'IA su dati personali, e per estensione ogni azienda che costruisce modelli a partire da dati personali. Il parere vincola le regole di Trento, ma mostra come il Garante leggerà il GDPR per l'IA. Nel secondo semestre del 2026 il suo piano ispettivo prevede almeno 35 controlli tra agosto e dicembre, e l'IA, prima osservata nelle scuole, arriva ora a Comuni e aziende sanitarie locali.",
+      "Altri due riferimenti: a luglio 2026 il Garante ha multato Character Technologies, la società di Character.AI, per 158.000 euro per informative carenti, valutazione dei rischi tardiva, rappresentante nell'Unione nominato in ritardo e scarsa tutela e verifica dell'età dei minori, concedendole 120 giorni per dimostrare la conformità. Contando dall'annuncio di luglio, quel termine scade più o meno ora; la data di partenza non è stata confermata e nelle fonti consultate non risulta alcun seguito."
+     ],
+     "checks": [
+      {
+       "c": "Il provvedimento 760 del 7 ottobre 2026 dà un sì condizionato alle regole di Trento sull'IA e chiede diritti di rettifica e cancellazione effettivi",
+       "n": "Byte.it, la nota di Agnoli e Matrice Digitale descrivono lo stesso parere."
+      },
+      {
+       "c": "Il Garante ha multato Character Technologies per 158.000 euro",
+       "n": "Indicato nel comunicato stampa del Garante stesso."
+      },
+      {
+       "c": "Il termine di 120 giorni per la conformità scade più o meno ora",
+       "n": "Il termine viene dal comunicato; la data di inizio e un eventuale seguito non sono stati confermati."
+      }
+     ],
+     "ctx": "Questa è informazione, non consulenza legale. Il GDPR si applica già all'IA che tratta dati personali, accanto all'AI Act. Il Garante è l'autorità italiana per la protezione dei dati; è distinto da ACN e AgID, che fanno rispettare l'AI Act. Un parere su un regolamento non è una sanzione, ma indica che cosa i regolatori si aspettano dagli enti pubblici.",
+     "media_caps": [
+      "Immagine di Byte.it sul parere del Garante per Trento"
+     ]
+    }
+   }
+  },
+  {
+   "id": 10,
+   "sec": "reg",
+   "time": "10:30",
+   "read": 4,
+   "title": "Commission guidelines on which AI systems count as high-risk are still a draft, almost six months after publication",
+   "summary": "The European Commission published draft guidelines on classifying high-risk AI systems on 19 May 2026, with a consultation that closed on 23 June. The Commission's page still labels them a draft. They explain Article 6 of the AI Act with examples, but they are not binding, and the law itself stays the reference.",
+   "body": [
+    "The AI Act asks the Commission, in Article 6, paragraph 5, to issue guidelines with practical examples of systems that are and are not high-risk. The draft published on 19 May 2026 follows the structure of Article 6: general principles, AI embedded in regulated products, and the use cases listed in Annex III.",
+    "Annex III is where most people will meet the rules: recruitment and workplace management, education and exams, access to credit and essential services, law enforcement, migration and justice. The draft helps providers, deployers and national authorities decide whether a given tool is in scope, including cases that look high-risk but may not be.",
+    "Status: the Commission page, last updated on 23 July 2026, still lists the document as draft, and the sources opened give no date for the final version. The draft is interpretive material, not law. The binding criteria stay in Article 6 and Annex III, and only the Court of Justice can give the final reading.",
+    "What to do and by when: companies that build or buy tools for hiring, grading or credit should map them against Annex III now, because the high-risk duties apply from 2 December 2027. Law firms that analysed the draft, including Hunton, Jones Day and Freshfields, expect the final text to adjust some examples, but none gives a date. Watch the Commission's AI Office page for the adopted version."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.jonesday.com/-/media/images/publications/2026/06/draft-eu-guidelines-clarify-when-ai-systems-are-highrisk-under-the-ai-act/euguidelinesclarifywhenai.jpg?rev=2f34482d785b401882ebffd591124737&hash=D64F988F2DCAF689AF6F73698425E62A",
+     "cap": "Illustration from Jones Day's note on the draft guidelines",
+     "credit": "Jones Day"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission, draft guidelines",
+     "u": "https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems",
+     "t": "Primary source, Commission page"
+    },
+    {
+     "n": "Hunton",
+     "u": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/european-commission-releases-draft-guidelines-on-high-risk-ai-under-the-eu-ai-act",
+     "t": "Law firm analysis"
+    },
+    {
+     "n": "Jones Day",
+     "u": "https://www.jonesday.com/en/insights/2026/06/draft-eu-guidelines-clarify-when-ai-systems-are-highrisk-under-the-ai-act",
+     "t": "Law firm analysis"
+    },
+    {
+     "n": "Freshfields",
+     "u": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/eu-ai-act-unpacked-32-draft-commission-guidelines-on-high-risk-ai-implicati-102n1bn",
+     "t": "Law firm analysis"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Commission published draft high-risk classification guidelines on 19 May 2026 under Article 6(5)",
+     "n": "Stated on the Commission's own page and in law-firm notes from Hunton and Jones Day."
+    },
+    {
+     "s": "ok",
+     "c": "The consultation ran until 23 June 2026",
+     "n": "Reported by Hunton and Jones Day; the Commission page does not give the deadline in the text opened."
+    },
+    {
+     "s": "warn",
+     "c": "The guidelines are still a draft",
+     "n": "The Commission page, last updated 23 July, labels them draft; no adoption announcement was found, but one may exist."
+    }
+   ],
+   "ctx": "This is information, not legal advice. Guidelines tell you how the Commission reads the law and how regulators are likely to act; they cannot change the law. A system can be high-risk because it is a safety part of a regulated product, or because it falls in an Annex III use case, but there are exceptions when it does not pose a significant risk.",
+   "loop_query": "european parliament chamber",
+   "i18n": {
+    "it": {
+     "title": "Le linee guida della Commissione su quali sistemi di IA sono ad alto rischio sono ancora una bozza, a quasi sei mesi dalla pubblicazione",
+     "summary": "La Commissione europea ha pubblicato il 19 maggio 2026 la bozza delle linee guida sulla classificazione dei sistemi di IA ad alto rischio, con una consultazione chiusa il 23 giugno. La pagina della Commissione le indica ancora come bozza. Spiegano l'articolo 6 dell'AI Act con esempi, ma non sono vincolanti, e il riferimento resta la legge.",
+     "body": [
+      "L'AI Act chiede alla Commissione, all'articolo 6, paragrafo 5, di emanare linee guida con esempi pratici di sistemi che sono e che non sono ad alto rischio. La bozza pubblicata il 19 maggio 2026 segue la struttura dell'articolo 6: principi generali, IA integrata in prodotti regolamentati e casi d'uso elencati nell'allegato III.",
+      "L'allegato III è dove la maggior parte delle persone incontrerà le regole: selezione del personale e gestione dei lavoratori, istruzione ed esami, accesso al credito e ai servizi essenziali, attività di contrasto, migrazione e giustizia. La bozza aiuta fornitori, utilizzatori e autorità nazionali a stabilire se un certo strumento rientra nell'ambito, compresi i casi che sembrano ad alto rischio ma potrebbero non esserlo.",
+      "Stato: la pagina della Commissione, aggiornata il 23 luglio 2026, elenca ancora il documento come bozza, e le fonti consultate non danno una data per la versione finale. La bozza è materiale interpretativo, non legge. I criteri vincolanti restano nell'articolo 6 e nell'allegato III, e solo la Corte di giustizia può dare la lettura definitiva.",
+      "Che cosa fare e entro quando: le aziende che sviluppano o acquistano strumenti per assunzioni, valutazioni o credito dovrebbero confrontarli con l'allegato III fin da ora, perché gli obblighi per l'alto rischio si applicano dal 2 dicembre 2027. Gli studi legali che hanno analizzato la bozza, tra cui Hunton, Jones Day e Freshfields, si aspettano che il testo finale aggiusti alcuni esempi, ma nessuno indica una data. Conviene seguire la pagina dell'AI Office della Commissione per la versione adottata."
+     ],
+     "checks": [
+      {
+       "c": "La Commissione ha pubblicato il 19 maggio 2026 la bozza delle linee guida sulla classificazione dell'alto rischio ai sensi dell'articolo 6, paragrafo 5",
+       "n": "Indicato sulla pagina della Commissione e nelle note degli studi legali Hunton e Jones Day."
+      },
+      {
+       "c": "La consultazione è durata fino al 23 giugno 2026",
+       "n": "Riportato da Hunton e Jones Day; la pagina della Commissione non indica la scadenza nel testo aperto."
+      },
+      {
+       "c": "Le linee guida sono ancora una bozza",
+       "n": "La pagina della Commissione, aggiornata il 23 luglio, le indica come bozza; non risulta un annuncio di adozione, ma potrebbe esistere."
+      }
+     ],
+     "ctx": "Questa è informazione, non consulenza legale. Le linee guida dicono come la Commissione legge la norma e come è probabile che agiscano i regolatori; non possono cambiare la legge. Un sistema può essere ad alto rischio perché è un componente di sicurezza di un prodotto regolamentato o perché rientra in un caso d'uso dell'allegato III, ma ci sono eccezioni quando non comporta un rischio significativo.",
+     "media_caps": [
+      "Immagine dalla nota di Jones Day sulla bozza delle linee guida"
+     ]
+    }
+   }
+  },
+  {
+   "id": 11,
+   "sec": "ai",
+   "time": "21:00",
+   "read": 3,
+   "title": "Pentagon technology chief says the US will publish the laws that apply to AI labs within two weeks, and puts China six months to a year behind",
+   "summary": "Emil Michael, the Pentagon's chief technology officer, said on 4 November that the government's Super Intelligence Task Force will set out which laws and regulations apply to American AI labs in the next week or two. He also estimated China is six months to a year behind the United States in AI.",
+   "body": [
+    "Michael spoke at a Wall Street Journal technology conference in Napa, California, according to Reuters. He is vice chair of the Super Intelligence Task Force, an interagency group created by President Donald Trump to shape AI policy, and handles the government's relationship with the labs and how they report incidents.",
+    "He said the goal is a framework that gives the American people confidence that these companies will do the right thing. He warned that without industry cooperation the alternative is 535 legislators writing rules that could kill the industry, a reference to the members of Congress. He gave no detail on which rules would be listed or how they would be applied.",
+    "On China, Michael said the country is six months to a year behind the United States, citing American advantages in data centres and advanced chips. That is one official's estimate, not a measured benchmark.",
+    "What to watch: whether the document appears within the promised two weeks, whether it creates new duties or only lists existing ones, and how it relates to the export controls Michael mentioned in a separate interview. It contrasts with the European approach, where the AI Act is a single binding regulation."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.srnnews.com/media/2026/11/1793837115559787Rk3w8SDBV.jpg?x76650",
+     "cap": "Illustration published with the Reuters report",
+     "credit": "SRN News / Reuters"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Reuters via Investing.com",
+     "u": "https://www.investing.com/news/world-news/pentagon-chief-tech-officer-says-government-will-detail-laws-that-apply-to-ai-labs-this-month-5001816",
+     "t": "Wire service, syndicated"
+    },
+    {
+     "n": "SRN News, Reuters copy",
+     "u": "https://srnnews.com/pentagon-chief-tech-officer-says-government-will-detail-laws-that-apply-to-ai-labs-this-month/",
+     "t": "Syndicated Reuters text"
+    },
+    {
+     "n": "The Hill",
+     "u": "https://thehill.com/policy/technology/6132153-white-house-super-intelligence-force-ai/",
+     "t": "US political news, background on the task force"
+    },
+    {
+     "n": "Cryptopolitan",
+     "u": "https://www.cryptopolitan.com/pentagon-cto-says-us-will-name-laws-for-ai-labs-within-two-weeks/",
+     "t": "Crypto news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Michael said the task force will publish the applicable laws and regulations in the next week or two",
+     "n": "Reuters via Investing.com, the SRN copy and Cryptopolitan carry the same quote."
+    },
+    {
+     "s": "warn",
+     "c": "China is six months to a year behind the United States in AI",
+     "n": "An estimate by one US official, with no benchmark published."
+    },
+    {
+     "s": "warn",
+     "c": "The document will create a framework for AI labs",
+     "n": "Promise only; nothing has been published and its legal weight is unknown."
+    }
+   ],
+   "ctx": "Super Intelligence Task Force is the name used in the reports for the US interagency body. The 535 figure counts 435 House members and 100 senators. Michael's title in the reports is chief technology officer of the Pentagon and under secretary of war, the department's current name in the coverage.",
+   "loop_query": "government building flags",
+   "i18n": {
+    "it": {
+     "title": "Il responsabile tecnologico del Pentagono: gli Usa pubblicheranno entro due settimane le leggi che si applicano ai laboratori di IA, e la Cina è indietro di sei mesi o un anno",
+     "summary": "Emil Michael, direttore tecnologico del Pentagono, ha detto il 4 novembre che la Super Intelligence Task Force del governo illustrerà nel giro di una o due settimane quali leggi e regolamenti si applicano ai laboratori di IA americani. Ha anche stimato che la Cina sia indietro di sei mesi o un anno rispetto agli Stati Uniti nell'IA.",
+     "body": [
+      "Michael ha parlato a una conferenza tecnologica del Wall Street Journal a Napa, in California, secondo Reuters. È vicepresidente della Super Intelligence Task Force, un gruppo interagenzia creato dal presidente Donald Trump per orientare la politica sull'IA, e segue il rapporto del governo con i laboratori e il modo in cui segnalano gli incidenti.",
+      "Ha detto che l'obiettivo è un quadro che dia al popolo americano la fiducia che queste aziende faranno la cosa giusta. Ha avvertito che, senza la cooperazione dell'industria, l'alternativa sono 535 legislatori che scrivono regole capaci di uccidere il settore, con riferimento ai membri del Congresso. Non ha fornito dettagli su quali regole saranno elencate né su come saranno applicate.",
+      "Sulla Cina, Michael ha detto che il paese è indietro di sei mesi o un anno rispetto agli Stati Uniti, citando i vantaggi americani nei data center e nei chip avanzati. È la stima di un singolo funzionario, non un confronto misurato.",
+      "Che cosa osservare: se il documento arriverà entro le due settimane promesse, se creerà nuovi obblighi o solo elencherà quelli esistenti, e come si collegherà ai controlli sulle esportazioni citati da Michael in un'altra intervista. È un approccio diverso da quello europeo, dove l'AI Act è un unico regolamento vincolante."
+     ],
+     "checks": [
+      {
+       "c": "Michael ha detto che la task force pubblicherà le leggi e i regolamenti applicabili nel giro di una o due settimane",
+       "n": "Reuters via Investing.com, la copia di SRN e Cryptopolitan riportano la stessa citazione."
+      },
+      {
+       "c": "La Cina è indietro di sei mesi o un anno rispetto agli Stati Uniti nell'IA",
+       "n": "Stima di un singolo funzionario americano, senza benchmark pubblicato."
+      },
+      {
+       "c": "Il documento creerà un quadro per i laboratori di IA",
+       "n": "Solo una promessa; nulla è stato pubblicato e il suo peso giuridico non è noto."
+      }
+     ],
+     "ctx": "Super Intelligence Task Force è il nome usato nelle cronache per l'organismo interagenzia degli Stati Uniti. Il numero 535 somma 435 deputati e 100 senatori. Il titolo di Michael nelle cronache è direttore tecnologico del Pentagono e sottosegretario alla guerra, il nome attuale del dipartimento secondo la copertura.",
+     "media_caps": [
+      "Immagine pubblicata con il servizio Reuters"
+     ]
+    }
+   }
+  },
+  {
+   "id": 12,
+   "sec": "ai",
+   "time": "09:00",
+   "read": 3,
+   "title": "Microsoft declines to expand its Texas data centre deal with Nscale, an option that could have been worth tens of billions of dollars",
+   "summary": "Microsoft has turned down an option to more than double its Texas computing contract with the British AI cloud company Nscale, the Financial Times reported on 5 November. It follows Microsoft's earlier exit from a 3 billion dollar deal at an Nscale site in Essex, as Nscale prepares a stock market listing valued at about 35 billion dollars.",
+   "body": [
+    "The option was part of an October 2025 agreement under which Nscale would supply Microsoft with about 200,000 Nvidia GB300 chips across sites in the United States and Europe. Microsoft also held an option on a second phase of 700 megawatts at the Ward County site in Texas, from late 2027. By declining it, Microsoft passes on capacity that could have been worth tens of billions of dollars.",
+    "Nscale now has to find another customer for that capacity or lose the revenue. Earlier in 2026 Microsoft also withdrew from a 3 billion dollar lease at Nscale's Essex site in the United Kingdom. The company says its total backlog, the value of contracted future work, stays at 103 billion dollars.",
+    "The financial picture is stretched. According to the reporting, Nscale lost about 1 billion dollars on revenue of 141 million dollars in the first half of 2026, and is preparing an initial public offering at a valuation of about 35 billion dollars. Investors will weigh whether the Microsoft decision signals caution on debt-funded AI infrastructure or is specific to one site.",
+    "What is not known: Microsoft's reason, which neither company has explained in the reports opened, and whether Nscale has a replacement customer. For young engineers the story is a reminder that AI infrastructure hiring depends on a few very large buyers."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://media.thenextweb.com/2026/11/microsoft-office-dubai-internet-city-2.jpg",
+     "cap": "Microsoft office building, illustration from The Next Web",
+     "credit": "The Next Web"
+    },
+    {
+     "type": "image",
+     "u": "https://www.globalbankingandfinance.com/i/cloud-952e0fc7-2e47-4027-81e0-8b80a5614e4b/width=1200,height=630,quality=80,format=auto,fit=cover/",
+     "cap": "Illustration from Global Banking & Finance",
+     "credit": "Global Banking & Finance"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Investing.com, citing the Financial Times",
+     "u": "https://uk.investing.com/news/stock-market-news/microsoft-declines-nscale-texas-expansion-ahead-of-35-bln-ipo--report-4959320",
+     "t": "Financial news site"
+    },
+    {
+     "n": "The Next Web",
+     "u": "https://thenextweb.com/news/microsoft-rejects-nscale-texas-option",
+     "t": "Technology news site"
+    },
+    {
+     "n": "Global Banking & Finance",
+     "u": "https://www.globalbankingandfinance.com/microsoft-rejects-multibillion-dollar-ai-deal-uks-nscale-ft/",
+     "t": "Financial news site, FT report"
+    },
+    {
+     "n": "TipRanks",
+     "u": "https://www.tipranks.com/news/microsoft-drops-nscale-ai-deal-is-its-ai-spending-strategy-changing",
+     "t": "Financial news site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Microsoft declined an option to more than double its Texas contract with Nscale",
+     "n": "Four outlets repeat the Financial Times report, though all rely on that single original."
+    },
+    {
+     "s": "warn",
+     "c": "The expansion could have been worth tens of billions of dollars and Nscale's backlog stays at 103 billion",
+     "n": "Figures reported by the FT and Nscale's own backlog claim; not independently audited."
+    },
+    {
+     "s": "warn",
+     "c": "Nscale lost 1 billion dollars on 141 million dollars of revenue in the first half of 2026",
+     "n": "Reported in one outlet's summary of the FT story; the company accounts were not opened."
+    }
+   ],
+   "ctx": "Neocloud is the name for companies that rent out AI computing power, usually built with borrowed money and often tied to one big customer. A megawatt measures the power a data centre can draw; 700 megawatts is the scale of a very large site. An option is a right to buy more later, not an obligation. The numbers come from the Financial Times via other outlets.",
+   "loop_query": "data center servers",
+   "i18n": {
+    "it": {
+     "title": "Microsoft rinuncia ad ampliare l'accordo sul data center in Texas con Nscale, un'opzione che poteva valere decine di miliardi di dollari",
+     "summary": "Microsoft ha rifiutato un'opzione per più che raddoppiare il suo contratto di calcolo in Texas con la società britannica di cloud per l'IA Nscale, ha riferito il 5 novembre il Financial Times. Segue l'uscita di Microsoft da un accordo da 3 miliardi di dollari in un sito Nscale nell'Essex, mentre Nscale prepara una quotazione in Borsa valutata circa 35 miliardi di dollari.",
+     "body": [
+      "L'opzione faceva parte di un accordo dell'ottobre 2025 con cui Nscale avrebbe fornito a Microsoft circa 200.000 chip Nvidia GB300 in siti negli Stati Uniti e in Europa. Microsoft aveva anche un'opzione su una seconda fase da 700 megawatt nel sito della contea di Ward, in Texas, a partire da fine 2027. Rinunciandovi, Microsoft lascia una capacità che poteva valere decine di miliardi di dollari.",
+      "Nscale deve ora trovare un altro cliente per quella capacità o perdere i ricavi. All'inizio del 2026 Microsoft si era ritirata anche da un affitto da 3 miliardi di dollari nel sito Nscale dell'Essex, nel Regno Unito. La società dice che il suo portafoglio ordini totale, il valore del lavoro futuro già contrattualizzato, resta di 103 miliardi di dollari.",
+      "Il quadro finanziario è teso. Secondo le notizie, Nscale ha perso circa 1 miliardo di dollari su ricavi di 141 milioni di dollari nel primo semestre del 2026 e prepara un'offerta pubblica iniziale con una valutazione di circa 35 miliardi di dollari. Gli investitori valuteranno se la decisione di Microsoft segnali cautela sulle infrastrutture per l'IA finanziate con debito o se riguardi solo un sito.",
+      "Quello che non si sa: il motivo di Microsoft, che nessuna delle due aziende ha spiegato negli articoli consultati, e se Nscale abbia un cliente sostitutivo. Per i giovani ingegneri la vicenda ricorda che le assunzioni nelle infrastrutture per l'IA dipendono da pochissimi grandi acquirenti."
+     ],
+     "checks": [
+      {
+       "c": "Microsoft ha rifiutato un'opzione per più che raddoppiare il contratto texano con Nscale",
+       "n": "Quattro testate riprendono il report del Financial Times, ma dipendono tutte da quell'unico originale."
+      },
+      {
+       "c": "L'espansione poteva valere decine di miliardi di dollari e il portafoglio ordini di Nscale resta di 103 miliardi",
+       "n": "Cifre riportate dal Financial Times e dichiarazione di Nscale sul portafoglio ordini; non verificate in modo indipendente."
+      },
+      {
+       "c": "Nscale ha perso 1 miliardo di dollari su 141 milioni di dollari di ricavi nel primo semestre 2026",
+       "n": "Riportato nel riassunto di una testata sull'articolo del FT; i conti della società non sono stati aperti."
+      }
+     ],
+     "ctx": "Neocloud è il nome delle aziende che affittano potenza di calcolo per l'IA, di solito costruita con denaro preso in prestito e spesso legata a un solo grande cliente. Il megawatt misura la potenza che un data center può assorbire; 700 megawatt sono la scala di un sito molto grande. Un'opzione è il diritto di acquistare di più in seguito, non un obbligo. I numeri vengono dal Financial Times tramite altre testate.",
+     "media_caps": [
+      "Edificio Microsoft, immagine di The Next Web",
+      "Immagine di Global Banking & Finance"
+     ]
+    }
+   }
+  },
+  {
+   "id": 13,
+   "sec": "ai",
+   "time": "08:00",
+   "read": 3,
+   "title": "Tencent launches Hy4 and says it kept offensive hacking material out of the model's training",
+   "summary": "China's Tencent released its Hy4 AI model on 4 November, saying it limited the model's cybersecurity training to defensive uses and found it did not meaningfully help with harmful biological work. The model adds image understanding and better handling of long tasks.",
+   "body": [
+    "Tencent's Hunyuan team launched Hy4 on Wednesday. According to Reuters, the new model adds visual understanding for the first time, along with improvements in following instructions, handling long contexts and carrying out long multi-step tasks for agents.",
+    "On safety, Tencent said it restricted the model's cybersecurity training to defensive purposes, such as finding and fixing software flaws, and left out material on building hacking tools, breaking into systems or testing systems for weaknesses. It also said its tests found the model did not meaningfully make harmful biological experiments easier.",
+    "The launch comes amid worry about AI-powered hacking. Tencent also disclosed last month that AI agents it used to test other companies' models showed unintended web browsing behaviour. A trade site reports that open weights for Hy4 are coming, and Bloomberg quotes Tencent as saying the model ranks among China's best; neither claim could be checked independently.",
+    "What it means: Chinese labs are copying the safety framing of US labs, which matters as Washington and Brussels draft rules for frontier models. What is unknown is how Hy4 compares on independent benchmarks and whether the cyber-safety claim holds under outside testing."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=sazh6fAGeXE",
+     "cap": "Tencent trains its new Hy4 model to limit cyberattacks",
+     "credit": "Al Arabiya Business",
+     "start": 5,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.businessday.co.za/resizer/v2/YLCCYLVJEJDKTP7CRFAZOTMGEE.JPG?smart=true&auth=e0a4a1bb292f02f9f0896b3f5d7e5cae027031f6f1b5e11bb47db1f906454435&width=1200&height=630",
+     "cap": "Tencent logo, from the Reuters report carried by BusinessDay",
+     "credit": "BusinessDay / Reuters"
+    },
+    {
+     "type": "image",
+     "u": "https://www.pymnts.com/wp-content/uploads/2026/10/Tencent.jpeg",
+     "cap": "Tencent, illustration from PYMNTS",
+     "credit": "PYMNTS"
+    }
+   ],
+   "sources": [
+    {
+     "n": "BusinessDay, Reuters report",
+     "u": "https://www.businessday.co.za/world/international-companies/2026-11-04-tencent-releases-new-ai-model-pledges-safeguards-against-cyberattack-use/",
+     "t": "Newspaper carrying Reuters"
+    },
+    {
+     "n": "PYMNTS",
+     "u": "https://www.pymnts.com/news/artificial-intelligence/2026/tencent-targets-financial-analysis-with-hy4-ai-model/",
+     "t": "Payments and technology news"
+    },
+    {
+     "n": "Yahoo Finance, Bloomberg",
+     "u": "https://uk.finance.yahoo.com/news/tencent-declares-latest-ai-model-061905500.html",
+     "t": "Syndicated Bloomberg text"
+    },
+    {
+     "n": "Pasquale Pillitteri",
+     "u": "https://pasqualepillitteri.it/en/news/30142/tencent-launches-hy4-filters-offensive-cyber-data",
+     "t": "Independent tech blog"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Tencent launched Hy4 on 4 November with defensive-only cybersecurity training",
+     "n": "Reuters via BusinessDay, Bloomberg via Yahoo Finance and PYMNTS describe the launch and the safeguards."
+    },
+    {
+     "s": "warn",
+     "c": "Hy4 does not meaningfully help with harmful biological experiments and ranks among China's best models",
+     "n": "Both claims come from Tencent's own tests and statements; no outside evaluation was found."
+    },
+    {
+     "s": "warn",
+     "c": "Open weights for Hy4 are coming",
+     "n": "Reported by one tech blog only; Reuters and Bloomberg texts opened do not say it."
+    }
+   ],
+   "ctx": "Training data filtering means removing certain material before a model learns from it; it lowers but does not remove risk, because models can still generalise. Open weights means the trained model's numbers are published so anyone can run and modify it. Claims about safety and ranking in this story are the company's own.",
+   "loop_query": "software developer coding screen",
+   "i18n": {
+    "it": {
+     "title": "Tencent lancia Hy4 e dice di aver escluso dall'addestramento il materiale offensivo di hacking",
+     "summary": "La cinese Tencent ha rilasciato il 4 novembre il suo modello di IA Hy4, dicendo di aver limitato l'addestramento in cybersicurezza a usi difensivi e di aver riscontrato che non aiuta in modo significativo lavori biologici dannosi. Il modello aggiunge la comprensione delle immagini e una migliore gestione dei compiti lunghi.",
+     "body": [
+      "Il team Hunyuan di Tencent ha lanciato Hy4 mercoledì. Secondo Reuters, il nuovo modello aggiunge per la prima volta la comprensione visiva, insieme a miglioramenti nel seguire le istruzioni, nel gestire contesti lunghi e nell'eseguire compiti lunghi in più passaggi per gli agenti.",
+      "Sulla sicurezza, Tencent ha detto di aver limitato l'addestramento in cybersicurezza a scopi difensivi, come trovare e correggere falle nel software, escludendo materiale su come costruire strumenti di hacking, entrare nei sistemi o testarne le debolezze. Ha detto anche che i suoi test hanno rilevato che il modello non rende in modo significativo più facili esperimenti biologici dannosi.",
+      "Il lancio arriva mentre cresce la preoccupazione per gli attacchi informatici assistiti dall'IA. Tencent ha rivelato anche il mese scorso che gli agenti di IA usati per testare modelli di altre aziende hanno mostrato comportamenti di navigazione web non voluti. Un sito di settore riferisce che i pesi aperti di Hy4 arriveranno, e Bloomberg cita Tencent secondo cui il modello è tra i migliori della Cina; nessuna delle due affermazioni ha potuto essere verificata in modo indipendente.",
+      "Che cosa significa: i laboratori cinesi riprendono l'impostazione sulla sicurezza dei laboratori americani, il che conta mentre Washington e Bruxelles scrivono regole per i modelli di frontiera. Non si sa come Hy4 si confronti nei benchmark indipendenti né se l'affermazione sulla sicurezza informatica regga a test esterni."
+     ],
+     "checks": [
+      {
+       "c": "Tencent ha lanciato Hy4 il 4 novembre con addestramento in cybersicurezza solo difensivo",
+       "n": "Reuters tramite BusinessDay, Bloomberg tramite Yahoo Finance e PYMNTS descrivono il lancio e le misure di sicurezza."
+      },
+      {
+       "c": "Hy4 non aiuta in modo significativo esperimenti biologici dannosi ed è tra i migliori modelli cinesi",
+       "n": "Entrambe le affermazioni vengono dai test e dalle dichiarazioni di Tencent; non è stata trovata alcuna valutazione esterna."
+      },
+      {
+       "c": "I pesi aperti di Hy4 arriveranno",
+       "n": "Riportato da un solo blog tecnologico; i testi di Reuters e Bloomberg consultati non lo dicono."
+      }
+     ],
+     "ctx": "Filtrare i dati di addestramento significa togliere certo materiale prima che il modello lo impari; riduce il rischio ma non lo elimina, perché i modelli possono comunque generalizzare. Pesi aperti significa che i numeri del modello addestrato vengono pubblicati così che chiunque possa eseguirlo e modificarlo. Le affermazioni su sicurezza e posizione in classifica in questa notizia sono dichiarazioni dell'azienda.",
+     "media_caps": [
+      "Tencent addestra il nuovo modello Hy4 per limitare gli attacchi informatici",
+      "Logo Tencent, dal servizio Reuters pubblicato da BusinessDay",
+      "Tencent, immagine di PYMNTS"
+     ]
+    }
+   }
+  },
+  {
+   "id": 14,
+   "sec": "pol",
+   "time": "08:00",
+   "read": 4,
+   "title": "Trump weighs Iran strikes, a deal or a blockade after the midterms, with Qatar mediating and Brent oil near two-month low",
+   "summary": "After Republican losses in the midterms, President Trump is weighing renewed strikes, a deal or continued naval pressure on Iran, according to Gulf News. Vice President JD Vance is pushing for diplomacy, Qatar is mediating a draft agreement, and Brent crude fell to about 93.6 dollars, its lowest in around two months.",
+   "body": [
+    "The reported options are renewed military strikes, a negotiated deal, or keeping up economic pressure through a naval blockade. Vance has been the most vocal supporter of diplomacy. He said the Iran conflict was the reason Republicans lost, and Trump replied that this was largely true because it drove gasoline prices up a little in the short term.",
+    "Advisers are divided, according to Gulf News. CIA Director John Ratcliffe and Treasury Secretary Scott Bessent are described as favouring a sustained blockade. Qatar is working to win backing for a draft deal that could possibly restart direct talks within days. CBS News reports that Trump expects talks with Iran to resume this week, after rejecting an earlier Iranian proposal.",
+    "Markets are betting on diplomacy. Brent crude fell to 93.63 dollars a barrel, about 20 percent below a recent peak near 118 dollars, after trading around 102 dollars the day before. Smaller outlets say Iran offered to reopen the Strait of Hormuz within two days, as part of terms including lifting recent sanctions; the sources are weak and this is unconfirmed.",
+    "What is unknown: what Trump will decide, whether Iran accepts any deal, and whether Hormuz traffic resumes. Both sides are described as negotiating from very different positions. For the reader, the oil price feeds directly into inflation in Europe, and so into interest rates."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=dgK723C_SQQ",
+     "cap": "Trump blames Iran war for Republican losses in the midterms",
+     "credit": "NBC News",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/03/e5cf936b-9986-44c6-b65d-5558997cef4c/thumbnail/1200x630/e3d41fefb88b418e14e7b74a783e6282/gettyimages-2302854032.jpg",
+     "cap": "Image from CBS News coverage of the Iran talks",
+     "credit": "CBS News / Getty Images"
+    },
+    {
+     "type": "image",
+     "u": "https://media.assettype.com/gulfnews%2F2026-10-24%2F3cbgbvcd%2FANI_20261024114754.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "cap": "Image from Gulf News on the Iran decision",
+     "credit": "Gulf News / ANI"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Gulf News",
+     "u": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+     "t": "Regional newspaper"
+    },
+    {
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+     "t": "US broadcaster, live updates"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+     "t": "Business broadcaster, markets"
+    },
+    {
+     "n": "Whatfinger Business",
+     "u": "https://money.whatfinger.com/2026/11/05/hormuz-diplomacy-gains-ground-as-trump-plays-down-new-iran-strikes/",
+     "t": "Aggregator, weak source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Brent crude fell to about 93.6 dollars, a two-month low",
+     "n": "Gulf News gives 93.63 dollars; CNBC reports crude falling sharply on 4 and 5 November."
+    },
+    {
+     "s": "warn",
+     "c": "Trump is choosing between strikes, a deal and a blockade, and Vance blames the war for the electoral defeat",
+     "n": "Based on Gulf News reporting of internal debate and on-record remarks; advisers' positions come from unnamed sources."
+    },
+    {
+     "s": "warn",
+     "c": "Iran offered to reopen the Strait of Hormuz within two days",
+     "n": "Only small outlets and an aggregator report it; CBS reports Trump rejected an earlier proposal. Treat as unconfirmed."
+    }
+   ],
+   "ctx": "The Strait of Hormuz is a narrow passage between Iran and Oman through which a large share of the world's seaborne oil passes; the 2026 war has disrupted it. A blockade means stopping ships from reaching ports. Reports of White House internal debates rely on unnamed sources and may be incomplete. This summary reports each side's position and takes none.",
+   "loop_query": "oil tanker at sea",
+   "i18n": {
+    "it": {
+     "title": "Trump valuta dopo le midterm attacchi all'Iran, un accordo o il blocco navale, con il Qatar mediatore e il petrolio Brent vicino al minimo di due mesi",
+     "summary": "Dopo le sconfitte repubblicane alle elezioni di metà mandato, il presidente Trump sta valutando nuovi attacchi, un accordo o la continuazione della pressione navale sull'Iran, secondo Gulf News. Il vicepresidente JD Vance spinge per la diplomazia, il Qatar media su una bozza di accordo e il greggio Brent è sceso a circa 93,6 dollari, il livello più basso da circa due mesi.",
+     "body": [
+      "Le opzioni riferite sono nuovi attacchi militari, un accordo negoziato o il mantenimento della pressione economica con il blocco navale. Vance è stato il più deciso sostenitore della diplomazia. Ha detto che il conflitto con l'Iran è stato la ragione per cui i Repubblicani hanno perso, e Trump ha risposto che era in gran parte vero perché ha fatto salire un po' i prezzi della benzina nel breve periodo.",
+      "I consiglieri sono divisi, secondo Gulf News. Il direttore della Cia John Ratcliffe e il segretario al Tesoro Scott Bessent sono descritti come favorevoli a un blocco prolungato. Il Qatar lavora per ottenere sostegno a una bozza di accordo che potrebbe far ripartire i colloqui diretti nel giro di pochi giorni. La CBS News riferisce che Trump si aspetta che i colloqui con l'Iran riprendano questa settimana, dopo aver respinto una precedente proposta iraniana.",
+      "I mercati scommettono sulla diplomazia. Il greggio Brent è sceso a 93,63 dollari al barile, circa il 20 per cento sotto un recente picco vicino a 118 dollari, dopo essere stato intorno a 102 dollari il giorno prima. Testate minori dicono che l'Iran avrebbe offerto di riaprire lo Stretto di Hormuz entro due giorni, come parte di condizioni che includono la revoca delle sanzioni recenti; le fonti sono deboli e la notizia non è confermata.",
+      "Quello che non si sa: che cosa deciderà Trump, se l'Iran accetterà un accordo e se il traffico a Hormuz riprenderà. Le due parti sono descritte come su posizioni molto distanti. Per il lettore il prezzo del petrolio incide direttamente sull'inflazione in Europa, e quindi sui tassi di interesse."
+     ],
+     "checks": [
+      {
+       "c": "Il greggio Brent è sceso a circa 93,6 dollari, minimo da due mesi",
+       "n": "Gulf News indica 93,63 dollari; la CNBC riferisce un forte calo del greggio il 4 e 5 novembre."
+      },
+      {
+       "c": "Trump sceglie tra attacchi, accordo e blocco, e Vance attribuisce la sconfitta elettorale alla guerra",
+       "n": "Basato sul resoconto di Gulf News sul dibattito interno e su dichiarazioni ufficiali; le posizioni dei consiglieri vengono da fonti anonime."
+      },
+      {
+       "c": "L'Iran avrebbe offerto di riaprire lo Stretto di Hormuz entro due giorni",
+       "n": "Lo riportano solo testate minori e un aggregatore; la CBS riferisce che Trump ha respinto una proposta precedente. Da considerare non confermato."
+      }
+     ],
+     "ctx": "Lo Stretto di Hormuz è un passaggio stretto tra Iran e Oman da cui transita una larga quota del petrolio mondiale via mare; la guerra del 2026 lo ha disturbato. Un blocco navale significa impedire alle navi di raggiungere i porti. Le notizie sui dibattiti interni della Casa Bianca si basano su fonti anonime e possono essere incomplete. Questa sintesi riporta la posizione di ciascuna parte senza prenderne nessuna.",
+     "media_caps": [
+      "Trump attribuisce ai Repubblicani la sconfitta alle midterm a causa della guerra con l'Iran",
+      "Immagine dalla copertura CBS News dei colloqui con l'Iran",
+      "Immagine di Gulf News sulla decisione sull'Iran"
+     ]
+    }
+   }
+  },
+  {
+   "id": 15,
+   "sec": "pol",
+   "time": "10:00",
+   "read": 4,
+   "title": "Ukraine, US and European officials meet in Brussels ahead of talks with Russia in Abu Dhabi on 10 November",
+   "summary": "The European Commission hosted a technical meeting on Ukraine in Brussels on 4 November with the US, Ukraine, France, Germany, the United Kingdom, NATO and the World Bank. It prepared two-day talks among the US, Ukraine and Russia in Abu Dhabi starting on 10 November, which Zelensky says must include Europe in some form.",
+   "body": [
+    "According to The Kyiv Independent, the Brussels meeting built on earlier talks in Miami and discussed a proposed prosperity plan for Ukraine and security guarantees. A Commission spokesperson, Paula Pinho, described it that way. Zelensky said the meeting was at the level of technical teams.",
+    "The Abu Dhabi round is meant to be two days of talks among Ukraine, Russia and the United States, starting on 10 November. It had been planned for October and was postponed after the Kremlin declined to take part, citing Ukrainian air strikes on election day in September.",
+    "Zelensky says there can be no stable and lasting peace without Europe involved in the negotiations in one form or another. The key issues for Abu Dhabi are security guarantees for Ukraine and the Prosperity Package, a reconstruction plan.",
+    "Positions remain far apart. Moscow rejects an unconditional ceasefire, which Ukraine supports, and demands Ukrainian territorial concessions in Donbas. What is unknown: who, if anyone, will represent Europe in Abu Dhabi, and what the prosperity plan would cost and who would pay."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=oaEgd2c1b8Y",
+     "cap": "New Ukraine-Russia talks set in Abu Dhabi",
+     "credit": "AnewZ",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://assets.kyivindependent.com/content/images/2026/07/GettyImages-2281700121_20260724-081801.jpg",
+     "cap": "Image from The Kyiv Independent report",
+     "credit": "The Kyiv Independent / Getty Images"
+    },
+    {
+     "type": "image",
+     "u": "https://static.kyivpost.com/storage/2026/10/24/bc69230a0276f89bd130477927875c9d.jpg?w=1200&q=90&f=jpg",
+     "cap": "Image from The Kyiv Post report on Zelensky and talks",
+     "credit": "The Kyiv Post"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Kyiv Independent",
+     "u": "https://kyivindependent.com/ukraines-allies-to-coordinate-peace-efforts-ahead-of-planned-talks-with-russia-us/",
+     "t": "Ukrainian independent outlet"
+    },
+    {
+     "n": "The Kyiv Post",
+     "u": "https://www.kyivpost.com/post/88365",
+     "t": "Ukrainian English-language outlet"
+    },
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/mondo/2026/11/05/guerra-ucraina-russia-ultime-notizie-diretta",
+     "t": "Italian TV news, live blog"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "US, Ukrainian and Russian delegations are due in Abu Dhabi from 10 November",
+     "n": "The Kyiv Independent and The Kyiv Post both report it, quoting Zelensky."
+    },
+    {
+     "s": "warn",
+     "c": "The Kremlin postponed the October talks because of Ukrainian air strikes on election day",
+     "n": "Reported through Ukrainian outlets relaying Moscow's stated reason; Moscow's own statement was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "Moscow rejects an unconditional ceasefire and demands concessions in Donbas",
+     "n": "The Kyiv Independent states it as Moscow's position; a Russian primary source was not opened."
+    }
+   ],
+   "ctx": "The Prosperity Package is a proposed economic recovery plan for Ukraine that sits next to security guarantees in the talks. Donbas is the eastern region, partly occupied by Russia, at the centre of the territorial dispute. A technical meeting prepares positions of experts and does not make final political decisions. The Kremlin's reasons for postponing come from reports citing Moscow.",
+   "loop_query": "city street evening traffic",
+   "i18n": {
+    "it": {
+     "title": "Ucraina, Stati Uniti e funzionari europei si riuniscono a Bruxelles in vista dei colloqui con la Russia ad Abu Dhabi il 10 novembre",
+     "summary": "La Commissione europea ha ospitato il 4 novembre a Bruxelles una riunione tecnica sull'Ucraina con Stati Uniti, Ucraina, Francia, Germania, Regno Unito, Nato e Banca mondiale. Ha preparato colloqui di due giorni tra Stati Uniti, Ucraina e Russia ad Abu Dhabi a partire dal 10 novembre, ai quali Zelensky dice che deve partecipare l'Europa in qualche forma.",
+     "body": [
+      "Secondo The Kyiv Independent, la riunione di Bruxelles si è basata sui colloqui precedenti a Miami e ha discusso un piano di prosperità proposto per l'Ucraina e le garanzie di sicurezza. Lo ha descritto così una portavoce della Commissione, Paula Pinho. Zelensky ha detto che l'incontro era a livello di squadre tecniche.",
+      "Il turno di Abu Dhabi dovrebbe essere di due giorni di colloqui tra Ucraina, Russia e Stati Uniti, a partire dal 10 novembre. Era previsto per ottobre ed era stato rinviato dopo che il Cremlino aveva rifiutato di partecipare, citando attacchi aerei ucraini nel giorno delle elezioni di settembre.",
+      "Zelensky dice che non ci può essere una pace stabile e duratura senza l'Europa coinvolta nei negoziati in una forma o nell'altra. Le questioni chiave per Abu Dhabi sono le garanzie di sicurezza per l'Ucraina e il Prosperity Package, un piano di ricostruzione.",
+      "Le posizioni restano lontane. Mosca respinge un cessate il fuoco incondizionato, che l'Ucraina sostiene, e chiede concessioni territoriali ucraine nel Donbas. Quello che non si sa: chi, se qualcuno, rappresenterà l'Europa ad Abu Dhabi, e quanto costerebbe il piano di prosperità e chi lo pagherebbe."
+     ],
+     "checks": [
+      {
+       "c": "Le delegazioni di Stati Uniti, Ucraina e Russia sono attese ad Abu Dhabi dal 10 novembre",
+       "n": "The Kyiv Independent e The Kyiv Post lo riportano, citando Zelensky."
+      },
+      {
+       "c": "Il Cremlino ha rinviato i colloqui di ottobre a causa di attacchi aerei ucraini nel giorno delle elezioni",
+       "n": "Riportato da testate ucraine che riferiscono la motivazione dichiarata da Mosca; la dichiarazione di Mosca non è stata consultata."
+      },
+      {
+       "c": "Mosca respinge un cessate il fuoco incondizionato e chiede concessioni nel Donbas",
+       "n": "The Kyiv Independent lo indica come posizione di Mosca; non è stata consultata una fonte russa primaria."
+      }
+     ],
+     "ctx": "Il Prosperity Package è un piano di ripresa economica proposto per l'Ucraina che nei colloqui accompagna le garanzie di sicurezza. Il Donbas è la regione orientale, in parte occupata dalla Russia, al centro della disputa territoriale. Una riunione tecnica prepara le posizioni degli esperti e non prende decisioni politiche finali. Le ragioni del rinvio da parte del Cremlino vengono da resoconti che citano Mosca.",
+     "media_caps": [
+      "Nuovi colloqui tra Ucraina e Russia ad Abu Dhabi",
+      "Immagine dal servizio di The Kyiv Independent",
+      "Immagine dal servizio di The Kyiv Post su Zelensky e i colloqui"
+     ]
+    }
+   }
+  },
+  {
+   "id": 16,
+   "sec": "inn",
+   "time": "13:39",
+   "read": 3,
+   "title": "NASA's Swift space telescope falls back to Earth after a failed rescue, ending a 22-year hunt for gamma-ray bursts",
+   "summary": "NASA's Neil Gehrels Swift Observatory re-entered the atmosphere on 4 November at about 12:39 universal time, over southeast Asia, after a private rescue mission failed to lift it to a higher orbit. Swift launched in 2004 for a two-year mission and spotted about 1,750 gamma-ray bursts.",
+   "body": [
+    "Swift re-entered at about 12:39 universal time, the time confirmed by the tracking service Space-Track, as reported by Sky & Telescope. The craft, about 22 years old, broke up over the region of North Sumatra in Indonesia. Most of it burned up, though some parts may have reached the ground.",
+    "It fell because its orbit decayed. The peak of the solar cycle in 2025 increased drag in the thin upper atmosphere. A rescue spacecraft, the LINK vehicle of Katalyst Space, launched on 3 July to grab Swift and boost it, but NASA said on 19 August that the attempt had failed. LINK itself re-entered on 25 September after an early power fault.",
+    "Swift launched in 2004 as a two-year mission and ran for more than two decades. It found about 1,750 gamma-ray bursts, the brightest explosions in the universe, and observed over 1,400 supernovae. It helped show that long bursts come from collapsing massive stars and short bursts from merging neutron stars.",
+    "The loss leaves a gap. Experts quoted by Sky & Telescope say Fermi will do what it can but has no instruments that give accurate burst positions. Hubble covers ultraviolet light, but no current mission combines Swift's multi-wavelength tools with its fast response. NASA's Ultraviolet Explorer is not due until the 2030s."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=WNpIEBht6zk",
+     "cap": "NASA telescope predicted to crash down after failed rescue mission",
+     "credit": "Associated Press",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://dq0hsqwjhea1.cloudfront.net/Swift_in_space_15_ac-ezgif.com-jpg-to-webp-converter.webp",
+     "cap": "Swift in orbit, artist's illustration",
+     "credit": "Sky & Telescope / NASA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.engadget.com/img/gallery/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/l-intro-1793709578.jpg",
+     "cap": "Image from Engadget's report on the expected re-entry",
+     "credit": "Engadget"
+    },
+    {
+     "type": "image",
+     "u": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/c0542dfe-94b6-47c9-9a14-095fdafec8c2/thumbnails/e2af0cf0-a1e1-44d1-a6ce-e35a95c1850a.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
+     "cap": "Image from Sky at Night Magazine on Swift's fall",
+     "credit": "Sky at Night Magazine"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Sky & Telescope",
+     "u": "https://skyandtelescope.org/astronomy-news/swift-observatory-ends-reenters-the-earths-atmosphere/",
+     "t": "Astronomy magazine"
+    },
+    {
+     "n": "Engadget",
+     "u": "https://www.engadget.com/2305059/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/",
+     "t": "Technology news"
+    },
+    {
+     "n": "Sky at Night Magazine",
+     "u": "https://www.skyatnightmagazine.com/news/neil-gehrels-swift-observatory-re-enter-earths-atmosphere",
+     "t": "Astronomy magazine"
+    },
+    {
+     "n": "Tech Times",
+     "u": "https://www.techtimes.com/articles/329975/20261104/nasas-swift-space-telescope-falling-back-earth-what-happened-where-could-debris-land.htm",
+     "t": "Technology news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Swift re-entered on 4 November at about 12:39 universal time",
+     "n": "Sky & Telescope cites Space-Track; Sky at Night and Tech Times report the same day."
+    },
+    {
+     "s": "ok",
+     "c": "Katalyst's rescue attempt failed",
+     "n": "NASA's 19 August announcement is reported by Engadget, Sky & Telescope and Sky at Night."
+    },
+    {
+     "s": "warn",
+     "c": "The spacecraft broke up over North Sumatra",
+     "n": "One report gives the region; tracking agencies give a rough location and debris location is not confirmed."
+    }
+   ],
+   "ctx": "A gamma-ray burst is a flash of very high-energy light, seen from distant galaxies, lasting from milliseconds to minutes. Time-domain astronomy studies things that change quickly, so it needs satellites that can swing around within minutes. The failed rescue was a commercial mission, an early test of servicing satellites in orbit.",
+   "loop_query": "night sky stars telescope",
+   "i18n": {
+    "it": {
+     "title": "Il telescopio spaziale Swift della NASA ricade sulla Terra dopo un salvataggio fallito, chiudendo 22 anni di caccia ai lampi gamma",
+     "summary": "Il Neil Gehrels Swift Observatory della NASA è rientrato nell'atmosfera il 4 novembre alle 12:39 circa, ora universale, sul sud-est asiatico, dopo che una missione privata di salvataggio non è riuscita a portarlo su un'orbita più alta. Swift fu lanciato nel 2004 per una missione di due anni e ha individuato circa 1.750 lampi gamma.",
+     "body": [
+      "Swift è rientrato alle 12:39 circa, ora universale, orario confermato dal servizio di tracciamento Space-Track, come riportato da Sky & Telescope. Il velivolo, di circa 22 anni, si è disintegrato sulla regione di Sumatra settentrionale, in Indonesia. La maggior parte è bruciata, anche se alcune parti potrebbero aver raggiunto il suolo.",
+      "È caduto perché la sua orbita si è abbassata. Il picco del ciclo solare nel 2025 ha aumentato la resistenza nell'alta atmosfera rarefatta. Una navicella di soccorso, il veicolo LINK di Katalyst Space, è stata lanciata il 3 luglio per agganciare Swift e spingerlo più in alto, ma la NASA ha annunciato il 19 agosto che il tentativo era fallito. LINK stesso è rientrato il 25 settembre dopo un guasto precoce all'alimentazione.",
+      "Swift fu lanciato nel 2004 come missione di due anni ed è rimasto operativo per oltre due decenni. Ha trovato circa 1.750 lampi gamma, le esplosioni più luminose dell'universo, e ha osservato oltre 1.400 supernove. Ha contribuito a mostrare che i lampi lunghi nascono dal collasso di stelle massicce e quelli brevi dalla fusione di stelle di neutroni.",
+      "La perdita lascia un vuoto. Gli esperti citati da Sky & Telescope dicono che Fermi farà quel che può ma non ha strumenti che diano posizioni precise dei lampi. Hubble copre la luce ultravioletta, ma nessuna missione attuale unisce gli strumenti multibanda di Swift alla sua rapidità di risposta. L'Ultraviolet Explorer della NASA non è previsto prima degli anni Trenta."
+     ],
+     "checks": [
+      {
+       "c": "Swift è rientrato il 4 novembre alle 12:39 circa, ora universale",
+       "n": "Sky & Telescope cita Space-Track; Sky at Night e Tech Times riportano lo stesso giorno."
+      },
+      {
+       "c": "Il tentativo di salvataggio di Katalyst è fallito",
+       "n": "L'annuncio della NASA del 19 agosto è riportato da Engadget, Sky & Telescope e Sky at Night."
+      },
+      {
+       "c": "La sonda si è disintegrata sulla Sumatra settentrionale",
+       "n": "Un solo resoconto indica la regione; le agenzie di tracciamento danno una posizione approssimativa e il luogo dei detriti non è confermato."
+      }
+     ],
+     "ctx": "Un lampo gamma è un'emissione di luce ad altissima energia, vista da galassie lontane, che dura da millisecondi a minuti. L'astronomia del dominio temporale studia fenomeni che cambiano in fretta, quindi richiede satelliti capaci di puntare in pochi minuti. Il salvataggio fallito era una missione commerciale, una prova iniziale di assistenza ai satelliti in orbita.",
+     "media_caps": [
+      "Il telescopio NASA destinato a cadere dopo il salvataggio fallito",
+      "Swift in orbita, illustrazione artistica",
+      "Immagine dal servizio di Engadget sul rientro previsto",
+      "Immagine di Sky at Night Magazine sulla caduta di Swift"
+     ]
+    }
+   }
+  },
+  {
+   "id": 17,
+   "sec": "inn",
+   "time": "09:00",
+   "read": 3,
+   "title": "Hyundai unveils a 5-megawatt hydrogen electrolyser module and a robot that refuels hydrogen cars on its own",
+   "summary": "At the World Hydrogen Expo on 4 November, Hyundai Motor Group showed a 5-megawatt water electrolysis module that it says makes 700 tons of hydrogen a year, and a robot that charges hydrogen fuel-cell cars automatically. The figures are the company's own.",
+   "body": [
+    "Hyundai showed a PEM electrolysis module, which splits water into hydrogen and oxygen using a polymer membrane. The module combines 12 stacks into a 5-megawatt unit and, according to the company, can produce 700 tons of hydrogen a year. Several units can be run in parallel to reach several hundred megawatts.",
+    "The group also demonstrated ACR-H, an automatic charging robot that refuels hydrogen fuel-cell vehicles without a person. It displayed the Nexo fuel-cell car, commercial and rail vehicles, and a hydrogen-powered electric cleaning truck. A model it calls W2H makes hydrogen from biogas produced from organic waste.",
+    "Hyundai links this to a wider plan called the Saemangeum AI Valley, which would combine renewable energy, hydrogen production, AI data centres, robotics and city infrastructure. It operates a one-megawatt demonstration plant in Gwangju and is preparing projects in Boryeong, Buan and Jeju.",
+    "What is unknown: the cost per kilogram of hydrogen, the module's efficiency in real use, and when any of this will be sold. A rough check suggests the 700 ton figure is plausible for 5 megawatts running most of the year, but it is a company claim, and hydrogen made with electricity is only low-carbon if that electricity is."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=u9FJ4DWRsnE",
+     "cap": "Hyundai Motor Group's hydrogen push at the 2026 World Hydrogen Expo",
+     "credit": "JTBC News",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://wimg.sedaily.com/news/cms/2026/11/04/news-p.v1.20261104.757f2ecdaa2d4da49abb79525394db0c_P1.jpg",
+     "cap": "Hyundai's hydrogen display at the World Hydrogen Expo",
+     "credit": "Seoul Economic Daily"
+    },
+    {
+     "type": "image",
+     "u": "https://en.koreadaily.com/wp-content/uploads/2026/11/6f0188dd-c9ec-49b5-8104-cbb8eec5197b.jpg",
+     "cap": "Hyundai's autonomous hydrogen charging robot",
+     "credit": "Korea Daily"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Seoul Economic Daily",
+     "u": "https://en.sedaily.com/finance/2026/11/04/hyundai-motor-group-unveils-hydrogen-ecosystem-vision",
+     "t": "South Korean business daily"
+    },
+    {
+     "n": "Korea Daily",
+     "u": "https://en.koreadaily.com/hyundai-hydrogen-city-autonomous-charging/",
+     "t": "South Korean newspaper"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Hyundai showed a 5-megawatt PEM electrolyser module and the ACR-H charging robot at the World Hydrogen Expo",
+     "n": "Both Seoul Economic Daily and Korea Daily describe the displays."
+    },
+    {
+     "s": "warn",
+     "c": "The module makes 700 tons of hydrogen a year",
+     "n": "Company-provided figure; no independent test or price was given."
+    }
+   ],
+   "ctx": "Electrolysis uses electricity to split water. A megawatt is a million watts. PEM stands for proton exchange membrane, a common electrolyser design that reacts quickly to changing power, which suits solar and wind. Hydrogen vehicles have struggled to compete with batteries, so announcements like this are as much strategy as proof.",
+   "loop_query": "wind turbines energy plant",
+   "i18n": {
+    "it": {
+     "title": "Hyundai presenta un modulo di elettrolisi per idrogeno da 5 megawatt e un robot che rifornisce da solo le auto a idrogeno",
+     "summary": "Al World Hydrogen Expo del 4 novembre, Hyundai Motor Group ha mostrato un modulo di elettrolisi dell'acqua da 5 megawatt che secondo l'azienda produce 700 tonnellate di idrogeno l'anno, e un robot che ricarica automaticamente le auto a celle a combustibile a idrogeno. Le cifre sono quelle dell'azienda.",
+     "body": [
+      "Hyundai ha mostrato un modulo di elettrolisi PEM, che scinde l'acqua in idrogeno e ossigeno usando una membrana polimerica. Il modulo combina 12 pile in un'unità da 5 megawatt e, secondo l'azienda, può produrre 700 tonnellate di idrogeno l'anno. Più unità possono funzionare in parallelo fino a diverse centinaia di megawatt.",
+      "Il gruppo ha anche mostrato ACR-H, un robot di ricarica automatico che rifornisce i veicoli a celle a combustibile a idrogeno senza intervento di una persona. Ha esposto l'auto a celle a combustibile Nexo, veicoli commerciali e ferroviari e un camion elettrico per la pulizia alimentato a idrogeno. Un modello che chiama W2H produce idrogeno dal biogas ottenuto da rifiuti organici.",
+      "Hyundai lo collega a un piano più ampio chiamato Saemangeum AI Valley, che unirebbe energia rinnovabile, produzione di idrogeno, data center per l'IA, robotica e infrastrutture urbane. Gestisce un impianto dimostrativo da un megawatt a Gwangju e prepara progetti a Boryeong, Buan e Jeju.",
+      "Quello che non si sa: il costo per chilogrammo dell'idrogeno, l'efficienza del modulo in uso reale e quando sarà venduto. Un calcolo approssimativo suggerisce che la cifra di 700 tonnellate sia plausibile per 5 megawatt in funzione per gran parte dell'anno, ma è una dichiarazione dell'azienda, e l'idrogeno prodotto con l'elettricità è a basse emissioni solo se lo è l'elettricità."
+     ],
+     "checks": [
+      {
+       "c": "Hyundai ha mostrato un modulo di elettrolisi PEM da 5 megawatt e il robot di ricarica ACR-H al World Hydrogen Expo",
+       "n": "Sia Seoul Economic Daily sia Korea Daily descrivono le esposizioni."
+      },
+      {
+       "c": "Il modulo produce 700 tonnellate di idrogeno l'anno",
+       "n": "Cifra fornita dall'azienda; non sono stati dati test indipendenti né prezzi."
+      }
+     ],
+     "ctx": "L'elettrolisi usa l'elettricità per scindere l'acqua. Un megawatt è un milione di watt. PEM sta per membrana a scambio protonico, un progetto di elettrolizzatore diffuso che reagisce rapidamente alle variazioni di potenza, adatto a solare ed eolico. I veicoli a idrogeno fanno fatica a competere con le batterie, quindi annunci come questo sono tanto strategia quanto prova.",
+     "media_caps": [
+      "L'impegno di Hyundai Motor Group sull'idrogeno al World Hydrogen Expo 2026",
+      "Lo stand di Hyundai sull'idrogeno al World Hydrogen Expo",
+      "Il robot di ricarica autonomo a idrogeno di Hyundai"
+     ]
+    }
+   }
+  },
+  {
+   "id": 18,
+   "sec": "biz",
+   "time": "12:00",
+   "read": 4,
+   "title": "Bank of England raises rates to 4 percent, its first hike since August 2023, and warns inflation could reach about 5 percent by mid-2027",
+   "summary": "The Bank of England voted eight to one on 5 November to raise its main rate by a quarter of a percentage point to 4 percent, the first increase since August 2023. It expects UK inflation near 5 percent by mid-2027, driven by energy prices linked to the Iran war.",
+   "body": [
+    "The Monetary Policy Committee raised the rate from 3.75 to 4 percent. One member voted for a bigger half-point increase. Markets had priced the move at over 99 percent, and now see about a one in four chance of another hike in December.",
+    "Governor Andrew Bailey said that without real progress towards settling the conflict in the Middle East, risks to energy prices, and so to inflation, are to the upside. As a net energy importer, the United Kingdom is particularly exposed to energy shocks.",
+    "Markets reacted mildly. The ten-year gilt yield rose about 2 basis points to 5.15 percent, the two-year yield rose about 4 basis points to 4.78 percent, and sterling was flat against the dollar and the euro. A JPMorgan strategist called the hike hugely symbolic, because early in 2026 markets expected cuts.",
+    "The link to the euro area: inflation there reached 4.0 percent in October, and the European Central Bank's Dimitar Radev warned that its October pause did not necessarily mark the end of the hiking cycle, according to a market newsletter. The central banks of Sweden and Britain have now moved. This is a description of events, not advice on loans or investments."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=xy1D5fpbYI4",
+     "cap": "Sky News analysis of what the interest rate rise means for mortgages",
+     "credit": "Sky News",
+     "start": 20,
+     "end": 60
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
+     "cap": "Bank of England, archive image from CNBC",
+     "credit": "CNBC / Reuters"
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.mos.cms.futurecdn.net/Nqw4W2fPtjxvgGJh4VBjQ5-1920-80.jpg",
+     "cap": "Illustration from MoneyWeek's live blog on the decision",
+     "credit": "MoneyWeek"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+     "t": "Business broadcaster"
+    },
+    {
+     "n": "MoneyWeek live",
+     "u": "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england",
+     "t": "Personal finance magazine, live blog"
+    },
+    {
+     "n": "CaixaBank Research",
+     "u": "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/04-november-2026",
+     "t": "Bank research note, ECB comments"
+    },
+    {
+     "n": "Vantage Markets",
+     "u": "https://www.vantagemarkets.com/en/market-analysis/bank-of-england-base-rate-decision-gbp-gilts-ftse/",
+     "t": "Broker analysis, context"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Bank of England raised its rate by 0.25 points to 4 percent on 5 November, its first hike since August 2023",
+     "n": "CNBC and MoneyWeek both report the decision."
+    },
+    {
+     "s": "ok",
+     "c": "The vote was eight to one, with one member seeking a half-point rise",
+     "n": "CNBC states the split; MoneyWeek's live blog reports the same vote."
+    },
+    {
+     "s": "warn",
+     "c": "UK inflation will reach about 5 percent by mid-2027",
+     "n": "A Bank projection, reported by CNBC; forecasts depend on the energy price path, which depends on the Iran war."
+    }
+   ],
+   "ctx": "The base rate sets the price of borrowing across the economy and moves mortgage and loan rates. A net energy importer buys more energy than it sells, so higher prices hurt it more. Basis points are hundredths of a percentage point. The first line of the vote, eight to one, is what CNBC reports; the Bank's own minutes were not opened.",
+   "loop_query": "central bank building",
+   "i18n": {
+    "it": {
+     "title": "La Banca d'Inghilterra alza i tassi al 4 per cento, il primo aumento da agosto 2023, e avverte che l'inflazione potrebbe arrivare a circa il 5 per cento a metà 2027",
+     "summary": "Il 5 novembre la Banca d'Inghilterra ha votato otto a uno per alzare il tasso principale di un quarto di punto percentuale al 4 per cento, il primo aumento da agosto 2023. Prevede un'inflazione britannica vicina al 5 per cento a metà 2027, spinta dai prezzi dell'energia legati alla guerra con l'Iran.",
+     "body": [
+      "Il Comitato di politica monetaria ha alzato il tasso dal 3,75 al 4 per cento. Un membro ha votato per un aumento più grande, di mezzo punto. I mercati avevano scontato la mossa oltre il 99 per cento e ora vedono circa una probabilità su quattro di un altro rialzo a dicembre.",
+      "Il governatore Andrew Bailey ha detto che, senza progressi reali verso una soluzione del conflitto in Medio Oriente, i rischi per i prezzi dell'energia, e quindi per l'inflazione, sono al rialzo. Essendo un importatore netto di energia, il Regno Unito è particolarmente esposto agli shock energetici.",
+      "I mercati hanno reagito con moderazione. Il rendimento del gilt decennale è salito di circa 2 punti base al 5,15 per cento, quello a due anni di circa 4 punti base al 4,78 per cento e la sterlina è rimasta stabile su dollaro ed euro. Uno stratega di JPMorgan ha definito l'aumento molto simbolico, perché all'inizio del 2026 i mercati si aspettavano tagli.",
+      "Il legame con l'area euro: lì l'inflazione ha raggiunto il 4,0 per cento in ottobre, e Dimitar Radev della Banca centrale europea ha avvertito che la pausa di ottobre non segna necessariamente la fine del ciclo di rialzi, secondo una newsletter di mercato. Le banche centrali di Svezia e Regno Unito si sono ora mosse. Questa è una descrizione di fatti, non un consiglio su prestiti o investimenti."
+     ],
+     "checks": [
+      {
+       "c": "La Banca d'Inghilterra ha alzato il tasso di 0,25 punti al 4 per cento il 5 novembre, il primo aumento da agosto 2023",
+       "n": "CNBC e MoneyWeek riportano entrambe la decisione."
+      },
+      {
+       "c": "Il voto è stato otto a uno, con un membro che chiedeva un aumento di mezzo punto",
+       "n": "La CNBC indica la divisione; il blog dal vivo di MoneyWeek riporta lo stesso voto."
+      },
+      {
+       "c": "L'inflazione britannica raggiungerà circa il 5 per cento a metà 2027",
+       "n": "Una proiezione della Banca riportata dalla CNBC; le previsioni dipendono dall'andamento dei prezzi dell'energia, che dipende dalla guerra con l'Iran."
+      }
+     ],
+     "ctx": "Il tasso di base fissa il prezzo del denaro nell'economia e influenza i tassi di mutui e prestiti. Un importatore netto di energia compra più energia di quanta ne venda, quindi i prezzi più alti lo colpiscono di più. I punti base sono centesimi di punto percentuale. Il voto otto a uno è quello riportato dalla CNBC; i verbali della Banca non sono stati consultati.",
+     "media_caps": [
+      "Analisi di Sky News su cosa significa l'aumento dei tassi per i mutui",
+      "Banca d'Inghilterra, immagine d'archivio della CNBC",
+      "Immagine dal blog dal vivo di MoneyWeek sulla decisione"
+     ]
+    }
+   }
+  },
+  {
+   "id": 19,
+   "sec": "biz",
+   "time": "15:30",
+   "read": 4,
+   "title": "Wall Street's Dow has its best day since April 2025 as the Democratic sweep and falling oil lift stocks",
+   "summary": "On 4 November the Dow Jones rose 3.03 percent to 53,357, its best day since April 2025, the S&P 500 gained 1.58 percent to 7,688 and the Nasdaq 1.44 percent to 25,736, as investors bet a divided Washington limits policy swings. On 5 November, Qualcomm fell 9 percent on weak guidance while AppLovin jumped 19 percent.",
+   "body": [
+    "The rally followed the Democrats winning both chambers of Congress in the midterms. Investors read a divided Washington as less likely to produce sharp policy shifts. The Dow rose more than 1,500 points, according to CNBC, the best day since April 2025.",
+    "Sectors diverged. Solar and healthcare shares outperformed, while defence, crypto and AI shares lagged. The largest US technology groups moved sharply on the idea that slower spending might ease worries about debt. The ten-year US Treasury yield fell about 6 basis points to 4.89 percent, and the dollar weakened as oil fell.",
+    "On 5 November, in premarket trading, Dow futures were up about 0.6 percent while Nasdaq-100 futures were down 0.6 percent. Qualcomm dropped 9 percent despite beating earnings, because of weak guidance. AppLovin rose 19 percent after beating expectations. Data centre stocks retreated amid regulatory concerns, with CoreWeave down almost 4 percent. European indices opened higher.",
+    "The oil link is central: crude fell more than 8 percent on hopes of Middle East de-escalation, which eases inflation worries. These moves can reverse quickly if talks with Iran fail. This is a market summary, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=mCQM6kQdV64",
+     "cap": "Dow soars 1,500 points for its best day since April 2025",
+     "credit": "CNBC Television"
+    },
+    {
+     "type": "image",
+     "u": "https://www.schwab.com/sites/g/files/eyrktu1071/files/466794857_2x1_0.jpg",
+     "cap": "Image from Charles Schwab's market update",
+     "credit": "Charles Schwab"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108167980-1751639150622-gettyimages-2210368385-mfu_1991.jpeg?v=1771553945&w=1920&h=1080",
+     "cap": "Stock exchange trading floor, CNBC archive image",
+     "credit": "CNBC / Getty Images"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNBC, live updates",
+     "u": "https://cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+     "t": "Business broadcaster"
+    },
+    {
+     "n": "Charles Schwab",
+     "u": "https://www.schwab.com/learn/story/stock-market-update-open",
+     "t": "Broker market update"
+    },
+    {
+     "n": "CaixaBank Research",
+     "u": "https://www.caixabankresearch.com/en/publications/financial-markets-daily-report/04-november-2026",
+     "t": "Bank research, daily markets report"
+    },
+    {
+     "n": "Gulf News, oil",
+     "u": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+     "t": "Regional newspaper, Brent price"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Dow rose 3.03 percent to 53,357 on 4 November, its best day since April 2025",
+     "n": "Index levels in the market reports agree; CNBC calls it the best day since April 2025."
+    },
+    {
+     "s": "warn",
+     "c": "Qualcomm fell 9 percent and AppLovin rose 19 percent on 5 November",
+     "n": "Premarket moves from CNBC's live blog; closing moves were not checked."
+    },
+    {
+     "s": "warn",
+     "c": "Falling oil and Middle East hopes drove the rally",
+     "n": "Reporters attribute the move to both the election result and oil; the weight of each cannot be measured."
+    }
+   ],
+   "ctx": "The Dow, S&P 500 and Nasdaq are indexes of US stocks. Futures are contracts that show where markets expect to open. Guidance is a company's forecast for coming quarters, and stocks often react more to it than to current results. Day-one moves after elections often fade, so a single session says little about the longer path.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "A Wall Street il Dow ha la sua migliore giornata da aprile 2025 mentre il successo dei Democratici e il calo del petrolio spingono le azioni",
+     "summary": "Il 4 novembre il Dow Jones è salito del 3,03 per cento a 53.357, la migliore giornata da aprile 2025, l'S&P 500 dell'1,58 per cento a 7.688 e il Nasdaq dell'1,44 per cento a 25.736, perché gli investitori scommettono che un'America divisa limiti le svolte politiche. Il 5 novembre Qualcomm è scesa del 9 per cento per previsioni deboli mentre AppLovin è balzata del 19 per cento.",
+     "body": [
+      "Il rialzo è seguito alla vittoria dei Democratici in entrambe le Camere del Congresso alle elezioni di metà mandato. Gli investitori leggono una Washington divisa come meno incline a produrre svolte politiche brusche. Il Dow è salito di oltre 1.500 punti, secondo la CNBC, la migliore giornata da aprile 2025.",
+      "I settori hanno divergito. I titoli del solare e della sanità hanno fatto meglio, mentre difesa, criptovalute e IA sono rimasti indietro. I maggiori gruppi tecnologici americani si sono mossi molto sull'idea che una spesa più lenta possa attenuare le preoccupazioni sul debito. Il rendimento del Treasury decennale è sceso di circa 6 punti base al 4,89 per cento e il dollaro si è indebolito mentre il petrolio scendeva.",
+      "Il 5 novembre, nelle contrattazioni prima dell'apertura, i future sul Dow erano in rialzo di circa lo 0,6 per cento mentre quelli sul Nasdaq-100 perdevano lo 0,6 per cento. Qualcomm ha perso il 9 per cento nonostante utili migliori delle attese, a causa di previsioni deboli. AppLovin è salita del 19 per cento dopo aver battuto le attese. I titoli dei data center sono arretrati per timori regolatori, con CoreWeave in calo di quasi il 4 per cento. Le Borse europee hanno aperto in rialzo.",
+      "Il legame con il petrolio è centrale: il greggio è sceso di oltre l'8 per cento sulla speranza di una de-escalation in Medio Oriente, il che attenua i timori sull'inflazione. Questi movimenti possono invertirsi in fretta se i colloqui con l'Iran falliscono. Questa è una sintesi di mercato, non un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Il Dow è salito del 3,03 per cento a 53.357 il 4 novembre, la migliore giornata da aprile 2025",
+       "n": "I livelli degli indici nei report di mercato concordano; la CNBC la definisce la migliore giornata da aprile 2025."
+      },
+      {
+       "c": "Qualcomm è scesa del 9 per cento e AppLovin è salita del 19 per cento il 5 novembre",
+       "n": "Variazioni prima dell'apertura dal blog dal vivo della CNBC; le chiusure non sono state verificate."
+      },
+      {
+       "c": "Il calo del petrolio e le speranze sul Medio Oriente hanno guidato il rialzo",
+       "n": "I cronisti attribuiscono il movimento sia al risultato elettorale sia al petrolio; il peso di ciascun fattore non è misurabile."
+      }
+     ],
+     "ctx": "Dow, S&P 500 e Nasdaq sono indici di azioni americane. I future sono contratti che indicano dove i mercati si aspettano di aprire. Le previsioni aziendali sono le stime di un'azienda per i trimestri successivi, e i titoli spesso reagiscono più a quelle che ai risultati correnti. I movimenti del giorno dopo le elezioni spesso si attenuano, quindi una sola seduta dice poco sul percorso più lungo.",
+     "media_caps": [
+      "Il Dow balza di 1.500 punti, la migliore giornata da aprile 2025",
+      "Immagine dall'aggiornamento di mercato di Charles Schwab",
+      "Sala contrattazioni di Borsa, immagine d'archivio CNBC"
+     ]
+    }
+   }
+  },
+  {
+   "id": 20,
+   "sec": "lav",
+   "time": "09:30",
+   "read": 4,
+   "title": "UK junior job vacancies fall by a quarter since early 2025 while entry-level ads that mention AI nearly triple",
+   "summary": "New Adzuna data published on 5 November show junior vacancies in the United Kingdom are down by about a quarter since January 2025, while entry-level adverts that mention AI have almost tripled. Most of those ads ask only for basics such as using ChatGPT with office software.",
+   "body": [
+    "Adzuna, a job search site, reports that the number of junior vacancies on its platform fell by a quarter since the start of last year. Over the same period, entry-level adverts asking about AI skills grew to nearly three times their level of early 2025.",
+    "The rise in AI mentions largely reflects employers adding AI requirements to existing jobs, such as sales representatives, software engineers and assistants, rather than creating new AI roles. Most of these postings ask only for basics, such as prompting a chatbot and using AI inside standard office programmes.",
+    "Earlier figures point the same way. UK graduate listings fell below 10,000 in January, a 45 percent drop on the year, and a separate analysis found about a third fewer entry-level roles than before ChatGPT launched. Those are separate studies, with different methods, and online job ads are not the same as total hiring.",
+    "What this means for an engineering student in Italy: the data are British, so they do not describe Italy, where the latest Istat figures show youth unemployment at 19.9 percent in September and graduate employment at 78.7 percent. But the pattern is relevant. Junior posts are becoming scarcer, and the skills asked for are shifting from knowing AI to applying it in a real job. Practical projects and evidence of working with AI tools are a safer signal than a line on a CV."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.decisionmarketing.co.uk/wp-content/uploads/2022/10/workplace-1.jpg",
+     "cap": "Office workers, illustration from DecisionMarketing",
+     "credit": "DecisionMarketing"
+    },
+    {
+     "type": "image",
+     "u": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572498.jpg?v=3.1",
+     "cap": "Illustration from The Japan Times on the UK youth job market",
+     "credit": "The Japan Times"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Japan Times",
+     "u": "https://www.japantimes.co.jp/business/2026/11/05/tech/ai-skills-uk-youth-job-market/",
+     "t": "International newspaper"
+    },
+    {
+     "n": "Resultsense",
+     "u": "https://www.resultsense.com/news/2026-11-05-uk-entry-level-jobs-ai-skills-adzuna-indeed/",
+     "t": "UK news aggregator, Adzuna and Indeed data"
+    },
+    {
+     "n": "DecisionMarketing",
+     "u": "https://www.decisionmarketing.co.uk/news/entry-level-jobs-plummet-as-uk-businesses-turn-to-ai",
+     "t": "UK trade outlet"
+    },
+    {
+     "n": "BM Magazine",
+     "u": "https://bmmagazine.co.uk/news/uk-entry-level-job-losses-ai-chatgpt/",
+     "t": "UK business outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "UK junior vacancies on Adzuna are down by a quarter since early 2025, and entry-level ads mentioning AI have almost tripled",
+     "n": "The Japan Times and Resultsense report the Adzuna figures; the search summary matched in several outlets."
+    },
+    {
+     "s": "warn",
+     "c": "Entry-level roles are about a third lower than before ChatGPT",
+     "n": "From a separate earlier analysis reported by BM Magazine and others; method and data source differ."
+    },
+    {
+     "s": "warn",
+     "c": "AI is the cause of the fall in junior vacancies",
+     "n": "The sources link the two, but employers' costs and a weak economy also matter, and no study isolates AI."
+    }
+   ],
+   "ctx": "Adzuna is a job aggregator; it counts adverts, not hires or actual salaries. Adverts can disappear because of hiring freezes, longer cycles or ads moving to other channels. Entry-level means roles asking for little or no experience. AI skills in job ads is a loose term and often covers simple tool use.",
+   "loop_query": "university graduates job interview",
+   "i18n": {
+    "it": {
+     "title": "Nel Regno Unito le offerte per profili junior calano di un quarto dall'inizio del 2025 mentre gli annunci entry-level che citano l'IA quasi triplicano",
+     "summary": "Nuovi dati di Adzuna pubblicati il 5 novembre mostrano che le offerte per profili junior nel Regno Unito sono scese di circa un quarto da gennaio 2025, mentre gli annunci entry-level che citano l'IA sono quasi triplicati. Nella maggior parte chiedono solo nozioni di base, come usare ChatGPT con i programmi d'ufficio.",
+     "body": [
+      "Adzuna, un sito di ricerca del lavoro, riferisce che il numero di offerte per profili junior sulla sua piattaforma è calato di un quarto dall'inizio dello scorso anno. Nello stesso periodo gli annunci entry-level che chiedono competenze di IA sono cresciuti fino a quasi il triplo del livello di inizio 2025.",
+      "L'aumento delle citazioni dell'IA riflette in gran parte datori di lavoro che aggiungono requisiti di IA a lavori esistenti, come addetti alle vendite, ingegneri del software e assistenti, più che la creazione di nuovi ruoli di IA. La maggior parte di questi annunci chiede solo nozioni di base, come dare istruzioni a un chatbot e usare l'IA dentro i comuni programmi d'ufficio.",
+      "Dati precedenti vanno nella stessa direzione. Gli annunci per laureati nel Regno Unito sono scesi sotto i 10.000 a gennaio, un calo del 45 per cento su base annua, e un'analisi separata ha trovato circa un terzo di ruoli entry-level in meno rispetto a prima del lancio di ChatGPT. Sono studi distinti, con metodi diversi, e gli annunci online non coincidono con le assunzioni totali.",
+      "Che cosa significa per uno studente di ingegneria in Italia: i dati sono britannici, quindi non descrivono l'Italia, dove gli ultimi dati Istat mostrano la disoccupazione giovanile al 19,9 per cento a settembre e l'occupazione dei laureati al 78,7 per cento. Ma lo schema è rilevante. I posti junior diventano più scarsi e le competenze richieste passano dal conoscere l'IA all'applicarla in un lavoro reale. Progetti pratici e prove di lavoro con strumenti di IA sono un segnale più solido di una riga nel curriculum."
+     ],
+     "checks": [
+      {
+       "c": "Le offerte junior su Adzuna nel Regno Unito sono calate di un quarto dall'inizio del 2025 e gli annunci entry-level che citano l'IA sono quasi triplicati",
+       "n": "The Japan Times e Resultsense riportano i dati di Adzuna; il riassunto è coerente in più testate."
+      },
+      {
+       "c": "I ruoli entry-level sono circa un terzo in meno rispetto a prima di ChatGPT",
+       "n": "Da un'analisi precedente e separata riportata da BM Magazine e altri; metodo e fonte dei dati sono diversi."
+      },
+      {
+       "c": "L'IA è la causa del calo delle offerte junior",
+       "n": "Le fonti collegano i due fenomeni, ma contano anche i costi delle imprese e un'economia debole, e nessuno studio isola l'effetto dell'IA."
+      }
+     ],
+     "ctx": "Adzuna è un aggregatore di offerte di lavoro; conta gli annunci, non le assunzioni né le retribuzioni reali. Gli annunci possono sparire per blocchi delle assunzioni, cicli più lunghi o spostamento su altri canali. Entry-level indica ruoli che richiedono poca o nessuna esperienza. Competenze di IA negli annunci è un'espressione generica che spesso indica un semplice uso di strumenti.",
+     "media_caps": [
+      "Lavoratori in ufficio, immagine di DecisionMarketing",
+      "Immagine di The Japan Times sul mercato del lavoro giovanile britannico"
+     ]
+    }
+   }
+  },
+  {
+   "id": 21,
+   "sec": "lav",
+   "time": "10:30",
+   "read": 4,
+   "title": "Squarespace cuts 19 percent of staff, hitting product and engineering, even as non-tech employers pay software engineers more",
+   "summary": "Website builder Squarespace is laying off about 300 people, 19 percent of staff, with product and engineering teams reported hit hardest. A Randstad study reported on 29 October finds healthcare firms paying software engineers up to 17 percent more than tech companies, and banks 13 percent more.",
+   "body": [
+    "TechCrunch reported on 2 November that Squarespace is cutting about 300 employees, 19 percent of its global staff, as part of a restructuring meant to simplify operations, sharpen priorities and move faster. The trade outlet People Matters says product and engineering teams are hit hardest. The company told another outlet it does not link the cuts to AI infrastructure spending.",
+    "The context is pressure from AI website builders that generate sites from a prompt. Squarespace launched its own Blueprint AI tool in 2024 and recently announced Forma, an AI-native platform. It went private in a deal of about 7 billion dollars in 2024.",
+    "Against this, a Randstad study of 1,100 business and technology leaders in 11 countries, reported by CNBC on 29 October, finds that non-tech employers are outbidding tech companies. Healthcare and life sciences firms pay software engineers up to 17 percent more, and banks 13 percent more. Job postings requiring AI skills grew fivefold in a year, and 55 percent of non-tech organisations said they recruit people displaced by tech layoffs. CNBC cites 165,925 US tech job cuts in the first nine months of 2026.",
+    "What this means for a young engineer: the tech sector is shedding jobs at specialised companies, but demand for engineers is moving to banks, hospitals, manufacturers and public bodies, which often pay more. In Italy that fits with the push to bring AI into small and medium firms. The numbers describe the United States and several countries, not Italy, and a survey is not a labour market statistic."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=y0EnvtctqQM",
+     "cap": "Related: over 130,000 tech jobs lost in 2026, and AI is not the only reason",
+     "credit": "NDTV Profit",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://media.thenextweb.com/2026/11/anthony-casalena-squarespace-founder-portrait.jpg",
+     "cap": "Squarespace founder Anthony Casalena, illustration from The Next Web",
+     "credit": "The Next Web"
+    },
+    {
+     "type": "image",
+     "u": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
+     "cap": "Squarespace's Blueprint AI design tool",
+     "credit": "Squarespace / TechCrunch"
+    }
+   ],
+   "sources": [
+    {
+     "n": "TechCrunch",
+     "u": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+     "t": "Technology news"
+    },
+    {
+     "n": "The Next Web",
+     "u": "https://thenextweb.com/news/squarespace-layoffs-19-percent-300-jobs",
+     "t": "Technology news"
+    },
+    {
+     "n": "People Matters",
+     "u": "https://anz.peoplemattersglobal.com/news/strategic-hr/squarespace-lays-off-300-employees-with-product-and-engineering-teams-hit-hardest-53142",
+     "t": "HR trade outlet"
+    },
+    {
+     "n": "CNBC, Randstad study",
+     "u": "https://www.cnbc.com/2026/10/29/ai-jobs-software-engineers-tech-layoffs.html",
+     "t": "Business broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Squarespace is cutting about 300 jobs, 19 percent of its workforce",
+     "n": "TechCrunch, The Next Web and People Matters report the same figure."
+    },
+    {
+     "s": "warn",
+     "c": "Product and engineering teams are hit hardest",
+     "n": "Reported by People Matters; TechCrunch says the teams affected were not specified."
+    },
+    {
+     "s": "warn",
+     "c": "Healthcare firms pay software engineers up to 17 percent more than tech, banks 13 percent more",
+     "n": "Randstad survey of 1,100 leaders, reported by CNBC; employer survey, not payroll data."
+    }
+   ],
+   "ctx": "A layoff tracker counts announced cuts, which are not the same as people who stay unemployed; many are re-hired quickly. Randstad is a staffing company, so its survey reflects employers it works with. Squarespace is privately owned, so its numbers are not audited in public filings. The AI link in this story is context, not a stated cause.",
+   "loop_query": "software developers office",
+   "i18n": {
+    "it": {
+     "title": "Squarespace taglia il 19 per cento del personale, colpendo prodotto e ingegneria, mentre i datori di lavoro non tech pagano di più gli ingegneri del software",
+     "summary": "Il costruttore di siti web Squarespace licenzia circa 300 persone, il 19 per cento del personale, con i team di prodotto e ingegneria riportati come i più colpiti. Uno studio di Randstad riportato il 29 ottobre rileva che le aziende sanitarie pagano gli ingegneri del software fino al 17 per cento in più delle società tecnologiche, e le banche il 13 per cento in più.",
+     "body": [
+      "TechCrunch ha riferito il 2 novembre che Squarespace taglia circa 300 dipendenti, il 19 per cento del personale globale, nell'ambito di una ristrutturazione pensata per semplificare le attività, affinare le priorità e muoversi più in fretta. Il sito di settore People Matters scrive che i team di prodotto e ingegneria sono i più colpiti. L'azienda ha detto a un'altra testata di non collegare i tagli alla spesa per le infrastrutture di IA.",
+      "Il contesto è la pressione dei costruttori di siti con IA che generano siti a partire da un'istruzione. Squarespace ha lanciato il proprio strumento Blueprint AI nel 2024 e ha annunciato di recente Forma, una piattaforma nata per l'IA. È uscita dalla Borsa con un'operazione da circa 7 miliardi di dollari nel 2024.",
+      "In controtendenza, uno studio di Randstad su 1.100 dirigenti d'azienda e di tecnologia in 11 paesi, riportato dalla CNBC il 29 ottobre, rileva che i datori di lavoro non tecnologici offrono più delle società tech. Le aziende sanitarie e delle scienze della vita pagano gli ingegneri del software fino al 17 per cento in più, le banche il 13 per cento in più. Gli annunci che richiedono competenze di IA sono cresciuti di cinque volte in un anno, e il 55 per cento delle organizzazioni non tecnologiche ha detto di assumere persone rimaste senza lavoro dopo i tagli nel tech. La CNBC cita 165.925 tagli di posti nel tech americano nei primi nove mesi del 2026.",
+      "Che cosa significa per un giovane ingegnere: il settore tecnologico perde posti in aziende specializzate, ma la domanda di ingegneri si sposta verso banche, ospedali, imprese manifatturiere ed enti pubblici, che spesso pagano di più. In Italia questo si lega alla spinta a portare l'IA nelle piccole e medie imprese. I numeri descrivono gli Stati Uniti e vari paesi, non l'Italia, e un sondaggio non è una statistica del mercato del lavoro."
+     ],
+     "checks": [
+      {
+       "c": "Squarespace taglia circa 300 posti, il 19 per cento della forza lavoro",
+       "n": "TechCrunch, The Next Web e People Matters riportano la stessa cifra."
+      },
+      {
+       "c": "I team di prodotto e ingegneria sono i più colpiti",
+       "n": "Riportato da People Matters; TechCrunch dice che i team coinvolti non sono stati specificati."
+      },
+      {
+       "c": "Le aziende sanitarie pagano gli ingegneri del software fino al 17 per cento in più delle società tech, le banche il 13 per cento in più",
+       "n": "Indagine Randstad su 1.100 dirigenti riportata dalla CNBC; sondaggio tra datori di lavoro, non dati sulle buste paga."
+      }
+     ],
+     "ctx": "Un tracker dei licenziamenti conta i tagli annunciati, che non coincidono con le persone che restano disoccupate; molte vengono riassunte in fretta. Randstad è un'agenzia di lavoro, quindi la sua indagine riflette i datori di lavoro con cui opera. Squarespace è di proprietà privata, quindi i suoi dati non sono verificabili in bilanci pubblici. Il legame con l'IA in questa notizia è contesto, non una causa dichiarata.",
+     "media_caps": [
+      "Correlato: oltre 130.000 posti tech persi nel 2026, e l'IA non è l'unico motivo",
+      "Anthony Casalena, fondatore di Squarespace, immagine di The Next Web",
+      "Lo strumento di design Blueprint AI di Squarespace"
+     ]
+    }
+   }
+  }
+ ]
+}
