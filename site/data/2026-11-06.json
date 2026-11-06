@@ -1,0 +1,2169 @@
+{
+ "date": "2026-11-06",
+ "date_label": "Friday, 6 November 2026",
+ "i18n": {
+  "it": {
+   "date_label": "venerdì 6 novembre 2026"
+  }
+ },
+ "items": [
+  {
+   "id": 1,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "09:30",
+   "read": 4,
+   "title": "Costa opens to Meloni's request: the Dublin summit will discuss who negotiates for Europe on Ukraine",
+   "summary": "European Council President Antonio Costa answered Giorgia Meloni's letter by saying he will dedicate time to the issue at the informal summit in Dublin. The Commission says it agrees that Europe needs unity and formal representation in line with the treaties. No name for an EU negotiator has been put forward.",
+   "body": [
+    "On 5 November Prime Minister Giorgia Meloni wrote to Costa asking that Europe speak with one voice on Ukraine. On 6 November the news agency LaPresse reported that Costa had opened the door. He said he will dedicate time to the discussion at the informal European Council in Dublin, planned for 13 November, and that Europe must act with coherence, unity and determination.",
+    "The European Commission, through spokesperson Paula Pinho, said it agrees on the need for unity and for the Union's interests to be represented in accordance with the treaties. Foreign Minister Antonio Tajani repeated in an interview on 6 November that Europe needs a single interlocutor if it wants to count, or it will remain, in his words, a giant with feet of clay. The news agency ANSA headlined its report on the letter by saying Meloni has an axis with EU foreign policy chief Kaja Kallas, but that an agreement is far off.",
+    "The background is a set of overlapping formats: talks among the United States, Ukraine and Russia planned in Abu Dhabi on 10 and 11 November, meetings in Brussels, and other European gatherings. Meloni says Italy is not asking for its own seat and will not accept commitments made without a mandate from the Union.",
+    "What is still unknown is who would be the negotiator and with what mandate. Any choice needs agreement among all 27 governments. Meloni wants a formal decision at the December European Council."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=Bo-L_um2Oa0",
+     "cap": "Euronews report on Meloni's criticism of the EU's fragmented approach to Ukraine peace talks",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://img.lapresse.it/2026/11/06/costa-meloni-e1793965205649.jpg",
+     "cap": "Antonio Costa and Giorgia Meloni",
+     "credit": "LaPresse"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/e8f4062b1e7563a61a9b469e95e6420f.jpg",
+     "cap": "Image from the ANSA report on Meloni's letter",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://ilfoglio-produzione.fra1.cdn.digitaloceanspaces.com/ilfoglio/stories/2026/11/05/1200x675/3beee957-b6a1-47cd-af27-0bdee8efda75.jpeg",
+     "cap": "Image from Il Foglio on the letter to Costa",
+     "credit": "Il Foglio"
+    }
+   ],
+   "sources": [
+    {
+     "n": "LaPresse",
+     "u": "https://www.lapresse.it/politica/2026/11/06/ucraina-meloni-incassa-lapertura-di-costa-a-dublino-discuteremo-il-negoziatore-ue/",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/05/ansa-meloni-a-costa-su-kiev-una-voce-sola.-lui-apre-con_5f75e9d6-1a24-42e4-812e-ed74a0937b2e.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Foglio",
+     "u": "https://www.ilfoglio.it/politica/2026/11/05/news/meloni-scrive-ad-antonio-costa-sullucraina-leuropa-parli-con-una-voce-sola--412772",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Farnesina, interview with Tajani",
+     "u": "https://www.esteri.it/it/sala_stampa/archivionotizie/interviste/2026/11/tajani-cyber-attacchi-i-sospetti-portano-a-est-noi-pronti-a-difenderci-quotidiano-nazionale/",
+     "t": "Foreign Ministry, primary source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Costa agreed to discuss the question at the informal Dublin summit",
+     "n": "Reported by LaPresse and ANSA; the Commission spokesperson also confirmed the need for formal EU representation."
+    },
+    {
+     "s": "warn",
+     "c": "Costa and the other capitals support a single EU negotiator",
+     "n": "Costa only opened to discussion. ANSA says an agreement is far off. No other government has publicly backed the proposal in the sources opened."
+    }
+   ],
+   "ctx": "The informal European Council is a meeting of the 27 leaders without formal decisions. Formal decisions are taken at the regular European Council, next in December. The Coalition of the Willing is a group of countries ready to support Ukraine's security after a ceasefire.",
+   "loop_query": "european leaders summit meeting room",
+   "i18n": {
+    "it": {
+     "title": "Costa apre alla richiesta di Meloni: al vertice di Dublino si discuterà di chi negozia per l'Europa sull'Ucraina",
+     "summary": "Il presidente del Consiglio europeo Antonio Costa ha risposto alla lettera di Giorgia Meloni dicendo che dedicherà tempo al tema nel vertice informale di Dublino. La Commissione si dice d'accordo sulla necessità di unità e di una rappresentanza formale nel rispetto dei trattati. Non è stato fatto alcun nome per un negoziatore europeo.",
+     "body": [
+      "Il 5 novembre la presidente del Consiglio Giorgia Meloni ha scritto a Costa chiedendo che l'Europa parli con una voce sola sull'Ucraina. Il 6 novembre l'agenzia LaPresse ha riferito che Costa ha aperto. Ha detto che dedicherà tempo alla discussione nel Consiglio europeo informale di Dublino, previsto il 13 novembre, e che l'Europa deve agire con coerenza, unità e determinazione.",
+      "La Commissione europea, con la portavoce Paula Pinho, ha detto di condividere la necessità di unità e di una rappresentanza degli interessi dell'Unione in linea con i trattati. Il ministro degli Esteri Antonio Tajani ha ribadito in un'intervista del 6 novembre che l'Europa ha bisogno di un unico interlocutore se vuole contare, altrimenti resterà, nelle sue parole, un gigante dai piedi d'argilla. L'agenzia ANSA ha titolato che Meloni ha un asse con l'Alto rappresentante Kaja Kallas, ma che l'intesa è lontana.",
+      "Lo sfondo è un insieme di formati sovrapposti: i colloqui tra Stati Uniti, Ucraina e Russia previsti ad Abu Dhabi il 10 e 11 novembre, riunioni a Bruxelles e altri incontri europei. Meloni dice che l'Italia non chiede un posto per sé e che non accetterà impegni presi senza un mandato dell'Unione.",
+      "Resta da capire chi sarebbe il negoziatore e con quale mandato. Ogni scelta richiede l'accordo dei 27 governi. Meloni vuole una decisione formale al Consiglio europeo di dicembre."
+     ],
+     "checks": [
+      {
+       "c": "Costa ha accettato di discutere la questione al vertice informale di Dublino",
+       "n": "Lo riportano LaPresse e ANSA; anche la portavoce della Commissione ha confermato la necessità di una rappresentanza formale dell'Ue."
+      },
+      {
+       "c": "Costa e le altre capitali sostengono un negoziatore unico dell'Ue",
+       "n": "Costa ha solo aperto alla discussione. Secondo ANSA l'intesa è lontana. Nelle fonti consultate nessun altro governo ha sostenuto pubblicamente la proposta."
+      }
+     ],
+     "ctx": "Il Consiglio europeo informale è una riunione dei 27 leader senza decisioni formali. Le decisioni formali si prendono nel Consiglio europeo ordinario, il prossimo a dicembre. La Coalizione dei volenterosi è un gruppo di paesi pronti a sostenere la sicurezza dell'Ucraina dopo un cessate il fuoco.",
+     "media_caps": [
+      "Report di Euronews sulle critiche di Meloni all'approccio frammentato dell'Ue ai negoziati di pace sull'Ucraina",
+      "Antonio Costa e Giorgia Meloni",
+      "Immagine dal servizio ANSA sulla lettera di Meloni",
+      "Immagine da Il Foglio sulla lettera a Costa"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "09:00",
+   "read": 5,
+   "title": "Italy faces a wave of hybrid attacks: hacked supermarket freezers, false bomb alerts, and Tajani points East",
+   "summary": "Since 1 November, supermarket refrigeration systems in several European countries, Italy included, have been hacked, and hundreds of false bomb alerts have hit Italian schools and flights. Two pro-Russian hacker groups claimed the supermarket attacks. Ministers Antonio Tajani and Guido Crosetto describe a hybrid war, but proof of a single orchestrator is still missing.",
+   "body": [
+    "Between 1 and 2 November, refrigeration systems in more than a hundred supermarkets in nine European countries were attacked, with freezers pushed up to 50 degrees and food thrown away. In Italy, a freezer in Isernia and fridges in Treviso and Gorizia were hit, according to the daily Leggo. Two pro-Russian groups, NoName057 and Z-Pentest, claimed the attacks, but the claims are not independently verified.",
+    "On 2 November, 271 Italian schools received false bomb threat emails. Il Fatto Quotidiano counts at least 27 more false alerts on European flights between 3 and 5 November, six of them involving Rome and Milan airports, with two flights diverted and fighter jets scrambled. Crosetto, the defence minister, speaks of about twenty aircraft and says everything is connected, a strategy to generate chaos.",
+    "In an interview published on 6 November, Tajani said Italy has dealt with hybrid warfare since the start of the war in Ukraine. All ministries, the national cybersecurity agency and the intelligence services are involved, and the Foreign Ministry has created a security directorate and an operations room. He warned that hitting hospitals would be criminal. The parliamentary security committee, Copasir, has taken up the case, and prosecutors in Genoa and Busto Arsizio are investigating.",
+    "What is not established is who is behind the incidents. The sources disagree on which group claimed what, and experts quoted by Il Fatto say the succession of events suggests coordination but there is no proof of a single orchestrator."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=_ZFWo-DZMH4",
+     "cap": "Adnkronos report on the hacker attack that thawed hundreds of supermarket fridges",
+     "credit": "Adnkronos"
+    },
+    {
+     "type": "image",
+     "u": "https://statics.cedscdn.it/photos/MED_HIGH/2026/11/05/9871221_05155715_onecms_1uvmog0jdog7fijia2t.jpg",
+     "cap": "Image from the Leggo report on hacked supermarket freezers",
+     "credit": "Leggo"
+    },
+    {
+     "type": "image",
+     "u": "https://img-api.cloud.mediaset.net/api/images/kn/v1/image_main/1200/675/118517859",
+     "cap": "Image from the Tgcom24 report on the supermarket attacks",
+     "credit": "Tgcom24"
+    },
+    {
+     "type": "image",
+     "u": "https://static.open.online/wp-content/uploads/2026/11/tg1-hacker-filorussi-frigo-supermercati.jpg",
+     "cap": "Tg1 report on the pro-Russian claim, as shown by Open",
+     "credit": "Open / Tg1"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Farnesina, interview with Tajani",
+     "u": "https://www.esteri.it/it/sala_stampa/archivionotizie/interviste/2026/11/tajani-cyber-attacchi-i-sospetti-portano-a-est-noi-pronti-a-difenderci-quotidiano-nazionale/",
+     "t": "Foreign Ministry, primary source"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/05/guerra-ibrida-allarmi-bomba-hacker-notizie/8562085/",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/governo/crosetto-e-tutto-collegato-vogliono-provocare-il-caos/",
+     "t": "Italian daily"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_69c68627-9934-4d8d-a4e4-dbf44d078ada.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Leggo",
+     "u": "https://www.leggo.it/italia/cronache/05_novembre_2026_attacchi_hacker_supermercati_frigo_freezer_italia_dove-9871221.html",
+     "t": "Italian daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Supermarket refrigeration systems were hacked in Italy and other countries",
+     "n": "Reported by ANSA, Leggo, Il Fatto Quotidiano and Tgcom24; Copasir opened an inquiry."
+    },
+    {
+     "s": "warn",
+     "c": "Two pro-Russian groups carried out the attacks",
+     "n": "The claim comes from the groups themselves on Telegram. It is not independently verified."
+    },
+    {
+     "s": "warn",
+     "c": "Russia is behind all the incidents",
+     "n": "Tajani and Crosetto describe hybrid warfare, but the sources say direct links between the incidents and the credibility of the threats are not proven. Counts of false flight alerts differ between outlets."
+    }
+   ],
+   "ctx": "Hybrid warfare means mixing cyber attacks, disinformation, sabotage and false alarms below the level of open war. NoName057 is a pro-Russian hacker group known for attacks that take websites offline.",
+   "loop_query": "supermarket frozen food aisle",
+   "i18n": {
+    "it": {
+     "title": "L'Italia sotto attacco ibrido: freezer dei supermercati hackerati, falsi allarmi bomba e Tajani guarda a Est",
+     "summary": "Dal 1 novembre i sistemi di refrigerazione dei supermercati di diversi paesi europei, Italia compresa, sono stati violati, e centinaia di falsi allarmi bomba hanno colpito scuole e voli italiani. Due gruppi hacker filorussi hanno rivendicato gli attacchi ai supermercati. I ministri Antonio Tajani e Guido Crosetto parlano di guerra ibrida, ma manca la prova di un unico regista.",
+     "body": [
+      "Tra il 1 e il 2 novembre sono stati attaccati i sistemi di refrigerazione di oltre cento supermercati in nove paesi europei, con congelatori portati fino a 50 gradi e merce buttata. In Italia sono stati colpiti un freezer a Isernia e frigoriferi a Treviso e Gorizia, secondo il quotidiano Leggo. Due gruppi filorussi, NoName057 e Z-Pentest, hanno rivendicato gli attacchi, ma le rivendicazioni non sono verificate in modo indipendente.",
+      "Il 2 novembre 271 scuole italiane hanno ricevuto email false con minacce di bomba. Il Fatto Quotidiano conta almeno altri 27 falsi allarmi su voli europei tra il 3 e il 5 novembre, sei dei quali riguardano gli aeroporti di Roma e Milano, con due voli dirottati e caccia fatti decollare. Il ministro della Difesa Crosetto parla di una ventina di aerei e dice che è tutto collegato, una strategia per generare caos.",
+      "In un'intervista pubblicata il 6 novembre Tajani ha detto che l'Italia affronta la guerra ibrida dall'inizio del conflitto in Ucraina. Sono mobilitati tutti i ministeri, l'Agenzia per la cybersicurezza nazionale e i servizi di intelligence, e la Farnesina ha creato una direzione per la sicurezza e una sala operativa. Ha avvertito che colpire gli ospedali sarebbe criminale. Il Copasir ha preso in carico il caso e le procure di Genova e Busto Arsizio indagano.",
+      "Non è stabilito chi ci sia dietro. Le fonti non concordano su quale gruppo abbia rivendicato cosa, e gli esperti citati da Il Fatto dicono che la successione degli eventi fa pensare a un coordinamento, ma non c'è prova di un unico regista."
+     ],
+     "checks": [
+      {
+       "c": "I sistemi di refrigerazione dei supermercati sono stati hackerati in Italia e in altri paesi",
+       "n": "Lo riportano ANSA, Leggo, Il Fatto Quotidiano e Tgcom24; il Copasir ha aperto un'indagine conoscitiva."
+      },
+      {
+       "c": "Due gruppi filorussi hanno compiuto gli attacchi",
+       "n": "La rivendicazione arriva dagli stessi gruppi su Telegram. Non è verificata in modo indipendente."
+      },
+      {
+       "c": "La Russia è dietro tutti gli incidenti",
+       "n": "Tajani e Crosetto parlano di guerra ibrida, ma le fonti dicono che i collegamenti diretti tra gli incidenti e la credibilità delle minacce non sono provati. I conteggi dei falsi allarmi sui voli differiscono tra le testate."
+      }
+     ],
+     "ctx": "Guerra ibrida significa mescolare attacchi informatici, disinformazione, sabotaggi e falsi allarmi sotto la soglia della guerra aperta. NoName057 è un gruppo hacker filorusso noto per attacchi che mettono fuori uso i siti web.",
+     "media_caps": [
+      "Servizio di Adnkronos sull'attacco hacker che ha scongelato centinaia di frigoriferi nei supermercati",
+      "Immagine dal servizio di Leggo sui freezer dei supermercati hackerati",
+      "Immagine dal servizio di Tgcom24 sugli attacchi ai supermercati",
+      "Servizio del Tg1 sulla rivendicazione filorussa, mostrato da Open"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "13:27",
+   "read": 3,
+   "title": "Milan stocks fall more than 1 percent after the Nasdaq rout, with the BTP spread steady at 110 points",
+   "summary": "Piazza Affari opened sharply lower on 6 November, following Wall Street's heavy fall and a crash in Tokyo and Seoul. By midday the FTSE MIB was down about 1 to 1.3 percent, with banks weighing, while the gap between Italian and German ten-year yields held near 110 basis points.",
+   "body": [
+    "At 12:27 Greenwich time, the news agency ANSA reported Milan down more than 1 percent, Paris down 1.6 percent, and Frankfurt and London down 2 percent. Il Sole 24 Ore put the Milan index down 1.3 percent. The trigger was Thursday's 5.5 percent fall of the Nasdaq on fears that the new Democratic Congress will slow the build-out of artificial intelligence data centres.",
+    "Among individual stocks, ANSA lists payments group Nexi down 3.9 percent, oil services firm Saipem down about 3 percent and insurer Generali down 2.8 percent. Il Sole says banks weighed heavily on the index.",
+    "On the bond market, the spread between the ten-year BTP and the German Bund stayed around 110 basis points, a basis point being one hundredth of a percentage point. The Italian ten-year yield was 4.31 percent against 3.25 percent for the Bund. The euro slipped 0.4 percent to 1.117 against the dollar.",
+    "These are intraday figures and will change by the close at 17:30. Today's US jobs report, due at 14:30 Italian time, may move markets again."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=81tllH0uUX0",
+     "cap": "Related: Il Sole 24 Ore explainer on the reasons for the fall in stock markets",
+     "credit": "Il Sole 24 ORE"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/925c722e7c83585fd0b816e8c59c6283.jpg",
+     "cap": "Image from the ANSA market report of 6 November",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/07/Immagini/Ritagli/Borsa-Negativa-AdobeStock_329469276-U25351521701FwN-1440x752@IlSole24Ore-Web.jpeg",
+     "cap": "Illustration from the Il Sole 24 Ore market report",
+     "credit": "Il Sole 24 Ore"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/piazza-affari-apre-in-forte-calo-tokyo-e-seul-in-picchiata-sulla-scia_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "u": "https://www.ilsole24ore.com/art/borsa-europa-avvio-calo-il-giovedi-nero-nasdaq-AJN9Lv6B",
+     "t": "Financial daily"
+    },
+    {
+     "n": "Milano Finanza live blog",
+     "u": "https://www.milanofinanza.it/news/borse-oggi-diretta-06-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611060745242997",
+     "t": "Financial daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Milan fell by more than 1 percent in the morning of 6 November",
+     "n": "ANSA and Il Sole 24 Ore agree on the direction; they give 'more than 1 percent' and 1.3 percent at different times."
+    },
+    {
+     "s": "ok",
+     "c": "The BTP-Bund spread is around 110 basis points",
+     "n": "Both ANSA and Il Sole 24 Ore report about 110 basis points."
+    },
+    {
+     "s": "warn",
+     "c": "Final closing values",
+     "n": "The figures are intraday. Final closes were not available at the time of writing."
+    }
+   ],
+   "ctx": "The spread is the extra yield Italy pays over Germany to borrow for ten years, and is used as a gauge of perceived risk. This is market information, not investment advice.",
+   "loop_query": "stock market trading screens red",
+   "i18n": {
+    "it": {
+     "title": "Piazza Affari cede oltre l'1 per cento dopo il crollo del Nasdaq, spread Btp-Bund stabile a 110 punti",
+     "summary": "Piazza Affari ha aperto in forte calo il 6 novembre, sulla scia della pesante discesa di Wall Street e del crollo di Tokyo e Seul. A metà giornata il Ftse Mib perdeva tra l'1 e l'1,3 per cento, con le banche in difficoltà, mentre il differenziale tra i rendimenti italiani e tedeschi a dieci anni restava vicino a 110 punti base.",
+     "body": [
+      "Alle 12:27 di Greenwich l'agenzia ANSA riportava Milano in calo di oltre l'1 per cento, Parigi a meno 1,6 per cento, Francoforte e Londra a meno 2 per cento. Il Sole 24 Ore dava l'indice di Milano in calo dell'1,3 per cento. A innescare le vendite è stato il calo del 5,5 per cento del Nasdaq di giovedì, per il timore che il nuovo Congresso a maggioranza democratica rallenti la costruzione dei data center per l'intelligenza artificiale.",
+      "Tra i singoli titoli, ANSA segnala Nexi in calo del 3,9 per cento, Saipem di circa il 3 per cento e Generali del 2,8 per cento. Il Sole dice che le banche hanno pesato molto sull'indice.",
+      "Sul mercato obbligazionario lo spread tra il Btp decennale e il Bund tedesco è rimasto intorno a 110 punti base, dove un punto base è un centesimo di punto percentuale. Il rendimento del decennale italiano era al 4,31 per cento contro il 3,25 per cento del Bund. L'euro ha ceduto lo 0,4 per cento a 1,117 sul dollaro.",
+      "Sono dati in corso di seduta e cambieranno entro la chiusura delle 17:30. Il rapporto sul lavoro americano di oggi, atteso alle 14:30 ora italiana, potrebbe muovere di nuovo i mercati."
+     ],
+     "checks": [
+      {
+       "c": "Milano ha perso oltre l'1 per cento nella mattina del 6 novembre",
+       "n": "ANSA e Il Sole 24 Ore concordano sulla direzione; indicano 'oltre l'1 per cento' e 1,3 per cento in momenti diversi."
+      },
+      {
+       "c": "Lo spread Btp-Bund è intorno a 110 punti base",
+       "n": "Sia ANSA sia Il Sole 24 Ore riportano circa 110 punti base."
+      },
+      {
+       "c": "Valori di chiusura finali",
+       "n": "Le cifre sono in corso di seduta. Le chiusure definitive non erano disponibili al momento della scrittura."
+      }
+     ],
+     "ctx": "Lo spread è il rendimento in più che l'Italia paga rispetto alla Germania per indebitarsi a dieci anni, ed è usato come misura del rischio percepito. Sono informazioni di mercato, non consigli di investimento.",
+     "media_caps": [
+      "Correlato: spiegazione del Sole 24 Ore sui motivi del calo delle Borse",
+      "Immagine dal servizio di mercato di ANSA del 6 novembre",
+      "Illustrazione dal servizio di mercato del Sole 24 Ore"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4,
+   "sec": "ita",
+   "topic": "lav",
+   "time": "12:00",
+   "read": 4,
+   "title": "Budget under fire: CGIL calls a general strike for 20 November and school unions rally on 11 November",
+   "summary": "The CGIL union has called a full-day general strike on 20 November against the 2027 budget law, saying it offers too little for wages, pensions and health, and cuts schools. School unions protest on 11 November. The government says it will meet unions on 13 November, while parliamentary hearings on the roughly 26 billion euro budget run to 12 November.",
+   "body": [
+    "The CGIL proclaimed a general strike for 20 November, covering the whole working day in public and private sectors, including contracted work. It says the budget law has too few resources for wages, pensions and public health and cuts spending on schools. Its leader Maurizio Landini said the strike will join the demands of workers with those of the new generations, against job insecurity, exploitation and the lack of a future.",
+    "On 5 November, the news agency ANSA reported that school unions Cisl, Uil, Snals and Anief will rally on 11 November, with the CGIL school branch striking on 20 November. They object to the loss of about 14,000 teaching and support posts over three years. Police unions and the construction industry also complain. Coalition parties are divided: Forza Italia and Lega are open to revisiting the school cuts, Brothers of Italy is cooler. The government is due to meet unions at Palazzo Chigi on 13 November.",
+    "The budget itself is worth about 26 billion euros for 2027. Parliamentary hearings began on 5 November and run to 12 November, when Economy Minister Giancarlo Giorgetti speaks; amendments are due by 17 November and the law must pass by 31 December. For young workers, the local daily Sicilia Oggi reports a 1 percent flat tax on pay rises up to 2,500 euros for workers under 30, and stronger incentives for hiring people under 36.",
+    "What is not yet known is what will survive amendments. Details of the youth measures come from one report and should be checked against the final text."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=yl6k07zxd00",
+     "cap": "Il Mattino on the 20 November general strike: 24-hour national stoppage",
+     "credit": "Il Mattino"
+    },
+    {
+     "type": "image",
+     "u": "https://www.siciliaoggi.com/wp-content/uploads/2026/11/consiglio-meloni.jpg",
+     "cap": "Giorgia Meloni in the Council of Ministers, image from the Sicilia Oggi budget report",
+     "credit": "Sicilia Oggi"
+    },
+    {
+     "type": "image",
+     "u": "https://tg24.sky.it/assets/images/14dcf06c3f9d59b25bd8694588406f15e5f30094/skytg24/it/economia/2024/08/21/manovra-2025-cosa-sapere/hero_manovra_ansa_ipa.jpg",
+     "cap": "File image of an Italian budget law explainer",
+     "credit": "Sky TG24 / ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CGIL",
+     "u": "https://www.cgil.it/strumenti/scioperi-e-vertenze/cgil-proclamazione-sciopero-generale-per-il-giorno-20-novembre-2026-x0ylgq91",
+     "t": "Union, primary source"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/05/manovra-sotto-attacco.-in-piazza-i-sindacati-della-scuola-anche-la-polizia-pronta_7136b486-1b4a-422b-b16f-d6d38f61c9b5.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Sicilia Oggi",
+     "u": "https://www.siciliaoggi.com/2026/11/05/manovra-2027-al-via-le-audizioni-in-parlamento-26-miliardi-tra-taglio-irpef-pensioni-sanita-e-sostegni-alle-famiglie/",
+     "t": "Regional daily"
+    },
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/politica/2026/10/30/manovra-2027-iter-calendario-legge-bilancio",
+     "t": "TV news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "CGIL has proclaimed a general strike for 20 November",
+     "n": "Confirmed by the CGIL's own notice and by ANSA."
+    },
+    {
+     "s": "warn",
+     "c": "The budget includes a 1 percent tax on pay rises for under-30 workers and stronger hiring incentives for under-36s",
+     "n": "Reported by one outlet (Sicilia Oggi). The text may change in parliament."
+    },
+    {
+     "s": "warn",
+     "c": "The school cuts will be reversed",
+     "n": "Only Forza Italia and Lega signalled openness, according to ANSA. No decision has been taken."
+    }
+   ],
+   "ctx": "The budget law must be approved by parliament by 31 December. A general strike is a stoppage across all sectors; strike effects on transport and services are usually announced a few days before.",
+   "loop_query": "trade union protest march",
+   "i18n": {
+    "it": {
+     "title": "Manovra sotto attacco: la Cgil proclama lo sciopero generale del 20 novembre, la scuola in piazza l'11",
+     "summary": "La Cgil ha proclamato per il 20 novembre uno sciopero generale di un'intera giornata contro la legge di bilancio 2027, che a suo dire offre troppo poco per salari, pensioni e sanità e taglia la scuola. I sindacati della scuola protestano l'11 novembre. Il governo incontrerà i sindacati il 13 novembre, mentre le audizioni in Parlamento sulla manovra da circa 26 miliardi di euro durano fino al 12.",
+     "body": [
+      "La Cgil ha proclamato lo sciopero generale per il 20 novembre, per l'intera giornata lavorativa nei settori pubblici e privati, compresi gli appalti. Dice che la legge di bilancio ha poche risorse per salari, pensioni e sanità pubblica e taglia la spesa per la scuola. Il segretario Maurizio Landini ha detto che lo sciopero salderà le rivendicazioni del lavoro con quelle delle nuove generazioni, contro precarietà, sfruttamento e assenza di futuro.",
+      "Il 5 novembre l'agenzia ANSA ha riferito che i sindacati della scuola Cisl, Uil, Snals e Anief manifesteranno l'11 novembre, mentre la Flc Cgil sciopera il 20. Contestano la perdita di circa 14 mila posti tra docenti e personale di supporto in tre anni. Protestano anche i sindacati di polizia e l'edilizia. La maggioranza è divisa: Forza Italia e Lega sono aperte a rivedere i tagli alla scuola, Fratelli d'Italia è più fredda. Il governo incontrerà i sindacati a Palazzo Chigi il 13 novembre.",
+      "La manovra vale circa 26 miliardi di euro per il 2027. Le audizioni parlamentari sono iniziate il 5 novembre e durano fino al 12, quando interviene il ministro dell'Economia Giancarlo Giorgetti; gli emendamenti vanno presentati entro il 17 novembre e la legge deve passare entro il 31 dicembre. Per i giovani lavoratori, il quotidiano Sicilia Oggi riporta un'imposta sostitutiva dell'1 per cento sugli aumenti salariali fino a 2.500 euro per gli under 30 e incentivi rafforzati per assumere under 36.",
+      "Non si sa ancora cosa sopravviverà agli emendamenti. I dettagli sulle misure per i giovani vengono da un solo servizio e vanno verificati sul testo definitivo."
+     ],
+     "checks": [
+      {
+       "c": "La Cgil ha proclamato lo sciopero generale per il 20 novembre",
+       "n": "Confermato dall'avviso della stessa Cgil e da ANSA."
+      },
+      {
+       "c": "La manovra prevede un'imposta dell'1 per cento sugli aumenti per gli under 30 e incentivi più forti per assumere under 36",
+       "n": "Riportato da una sola testata (Sicilia Oggi). Il testo può cambiare in Parlamento."
+      },
+      {
+       "c": "I tagli alla scuola saranno ritirati",
+       "n": "Secondo ANSA solo Forza Italia e Lega hanno mostrato apertura. Nessuna decisione è stata presa."
+      }
+     ],
+     "ctx": "La legge di bilancio deve essere approvata dal Parlamento entro il 31 dicembre. Lo sciopero generale è un'astensione in tutti i settori; gli effetti su trasporti e servizi si annunciano di solito pochi giorni prima.",
+     "media_caps": [
+      "Il Mattino sullo sciopero generale del 20 novembre: stop nazionale di 24 ore",
+      "Giorgia Meloni in Consiglio dei ministri, immagine dal servizio di Sicilia Oggi sulla manovra",
+      "Immagine d'archivio di una guida alla legge di bilancio"
+     ]
+    }
+   }
+  },
+  {
+   "id": 5,
+   "sec": "ita",
+   "topic": "lav",
+   "time": "12:36",
+   "read": 4,
+   "title": "Istat: 78.7 percent of recent university graduates are employed, and young people outside work or study fall to 13.3 percent",
+   "summary": "Istat's report on education and jobs, published on 3 November, shows that in 2025 the employment rate of recent graduates rose to 78.7 percent and that of recent secondary-school leavers to 62.9 percent. The share of young people aged 15 to 29 who neither work nor study fell to 13.3 percent. Italy still trails the EU average of 87 percent for graduates.",
+   "body": [
+    "In the report titled education levels and employment returns, Istat says the employment rate of people who graduated from university in the last three years was 78.7 percent in 2025, up 1.4 points. For recent upper-secondary graduates it was 62.9 percent, up 2.3 points. The share of NEET, young people aged 15 to 29 neither in employment nor in education or training, dropped to 13.3 percent, nearly two points less than in 2024 and 5.7 points less than in 2022.",
+    "The gap with Europe is narrowing but remains wide. In the 27 EU countries, 87 percent of recent graduates and 77.2 percent of recent upper-secondary leavers are employed. Adnkronos adds that only about 30 percent of young Italians hold a tertiary degree, second to last in the Union.",
+    "Labour Minister Marina Calderone said the data confirm that where training grows, work grows, and that Italy is on the right path. The report covers all fields together, so it does not say how software and engineering graduates fare compared with others.",
+    "This report is dated 3 November, three days ago. It is included because it is the latest official data on graduate employment, a key number for an engineering student about to enter the market."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://static.lespresso.it/fullwidth/829/85d4d394-1450-3610-6acb-bd6ea19d5829.webp",
+     "cap": "Image from L'Espresso on the Istat report",
+     "credit": "L'Espresso"
+    },
+    {
+     "type": "image",
+     "u": "https://fbfmzyzztywobyrsavoq.supabase.co/storage/v1/object/public/media/articles/2026/11/a61b39fd-a4b1-45ee-a7b2-fbabbb7130ec.jpg",
+     "cap": "Image from Capitalist on graduate employment",
+     "credit": "Capitalist"
+    }
+   ],
+   "sources": [
+    {
+     "n": "L'Espresso",
+     "u": "https://lespresso.it/c/attualita/2026/11/03/dati-istat-aumento-impiego-neodiplomati-neolaureati-italia-diminuiscono-neet/65677",
+     "t": "Italian weekly"
+    },
+    {
+     "n": "Capitalist",
+     "u": "https://capitalist.it/istat-2025-neolaureati-occupazione-neet/",
+     "t": "Italian outlet"
+    },
+    {
+     "n": "Radiocor via Borsa Italiana",
+     "u": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/lavoro-calderone-dati-istat-confermano-che-strada-e--giusta-nRC_03112026_1236_357169319.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Adnkronos",
+     "u": "https://prometeo.adnkronos.com/persone/italia-penultima-giovani-laureati-istat-report-livelli-istruzione-occupazione/",
+     "t": "News agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "78.7 percent of recent graduates and 62.9 percent of recent secondary-school leavers were employed in 2025",
+     "n": "Reported consistently by L'Espresso, Capitalist and others from the Istat report."
+    },
+    {
+     "s": "ok",
+     "c": "NEET rate fell to 13.3 percent",
+     "n": "Same sources; the 5.7 point fall since 2022 is also reported."
+    },
+    {
+     "s": "warn",
+     "c": "The figures show how software graduates are doing",
+     "n": "They do not. The data are aggregate and not split by field of study in the sources opened."
+    }
+   ],
+   "ctx": "Istat is Italy's national statistics institute. Recent graduates here means people who finished their studies within the previous three years.",
+   "loop_query": "university graduation ceremony students",
+   "i18n": {
+    "it": {
+     "title": "Istat: lavora il 78,7 per cento dei neolaureati, e i giovani senza studio né lavoro scendono al 13,3 per cento",
+     "summary": "Il rapporto Istat su istruzione e lavoro, pubblicato il 3 novembre, mostra che nel 2025 il tasso di occupazione dei neolaureati è salito al 78,7 per cento e quello dei neodiplomati al 62,9 per cento. La quota di giovani tra 15 e 29 anni che non studiano né lavorano è scesa al 13,3 per cento. L'Italia resta sotto la media europea dell'87 per cento per i laureati.",
+     "body": [
+      "Nel rapporto sui livelli di istruzione e i ritorni occupazionali, l'Istat dice che il tasso di occupazione di chi si è laureato negli ultimi tre anni è stato del 78,7 per cento nel 2025, con un aumento di 1,4 punti. Per i neodiplomati è stato del 62,9 per cento, più 2,3 punti. La quota di Neet, giovani tra 15 e 29 anni senza lavoro e fuori da percorsi di studio o formazione, è scesa al 13,3 per cento, quasi due punti in meno rispetto al 2024 e 5,7 punti in meno rispetto al 2022.",
+      "Il divario con l'Europa si riduce ma resta ampio. Nei 27 paesi dell'Unione lavora l'87 per cento dei neolaureati e il 77,2 per cento dei neodiplomati. Adnkronos aggiunge che solo circa il 30 per cento dei giovani italiani ha un titolo terziario, penultimo posto nell'Unione.",
+      "La ministra del Lavoro Marina Calderone ha detto che i dati confermano che dove cresce la formazione cresce il lavoro e che l'Italia è sulla strada giusta. Il rapporto considera tutti gli ambiti insieme, quindi non dice come vadano i laureati in informatica e ingegneria rispetto agli altri.",
+      "Il rapporto è del 3 novembre, di tre giorni fa. È incluso perché è il dato ufficiale più recente sull'occupazione dei laureati, un numero chiave per uno studente di ingegneria che sta per entrare nel mercato del lavoro."
+     ],
+     "checks": [
+      {
+       "c": "Nel 2025 lavorava il 78,7 per cento dei neolaureati e il 62,9 per cento dei neodiplomati",
+       "n": "Riportato in modo coerente da L'Espresso, Capitalist e altri, dal rapporto Istat."
+      },
+      {
+       "c": "Il tasso di Neet è sceso al 13,3 per cento",
+       "n": "Stesse fonti; è riportato anche il calo di 5,7 punti dal 2022."
+      },
+      {
+       "c": "I dati mostrano come vanno i laureati in informatica",
+       "n": "Non lo mostrano. I dati sono aggregati e nelle fonti consultate non sono divisi per area di studio."
+      }
+     ],
+     "ctx": "L'Istat è l'istituto nazionale di statistica. Neolaureati qui significa persone che hanno finito gli studi nei tre anni precedenti.",
+     "media_caps": [
+      "Immagine da L'Espresso sul rapporto Istat",
+      "Immagine da Capitalist sull'occupazione dei laureati"
+     ]
+    }
+   }
+  },
+  {
+   "id": 6,
+   "sec": "ita",
+   "topic": "ai",
+   "time": "10:00",
+   "read": 4,
+   "title": "Italy's data centres could attract 37 billion euros by 2036, but power grid requests and permits are the bottleneck",
+   "summary": "An industry study presented in Rome estimates up to 37 billion euros of data centre investment in Italy between 2026 and 2036, if qualified projects go ahead. Capacity today is about 760 megawatts. Grid connection requests exceed 100 gigawatts, so electricity, permits and workers are the main limits.",
+   "body": [
+    "The Italian data centre association, presented at a symposium in Rome and reported by Sky TG24 on 6 November, puts potential cumulative investment at about 37 billion euros over 2026 to 2036, on condition that qualified projects are fully activated. Companies interested in Italy include Amazon Web Services, Microsoft, OpenAI, Equinix, Vantage and EdgeConneX.",
+    "Today, about 760 megawatts were installed by the end of 2025, of which 460 megawatts are commercial data centres and 300 are company-owned. The commercial market could reach 2 to 2.3 gigawatts by 2031. A megawatt is roughly the power used by a thousand homes at peak.",
+    "The obstacles listed are energy availability, grid connections, permits, skilled workers and suitable sites. The grid operator Terna said that by 31 August it had received connection requests above 100 gigawatts, almost half of them in Lombardy. Many requests will never become projects, so the number shows interest, not future supply.",
+    "The same debate has hit Wall Street this week, where investors fear that political resistance to power-hungry data centres will slow the build-out. In Italy the pressure is bureaucratic and electrical rather than electoral, and the study is an industry estimate, not an official forecast."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://tg24.sky.it/assets/images/0130ee5bdc30342c2b322a922e1b2f6d03ce80f6/skytg24/it/economia/2026/08/06/intelligenza-artificiale-economia-usa/01_ipa_data_center_intelligenza_artificiale.jpg",
+     "cap": "Data centre servers, image from the Sky TG24 report",
+     "credit": "Sky TG24 / IPA"
+    },
+    {
+     "type": "image",
+     "u": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2024/09/23164617/data-center-1.jpg",
+     "cap": "Data centre racks, file image from Agenda Digitale",
+     "credit": "Agenda Digitale"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/economia/2026/11/06/data-center-italia-investimenti",
+     "t": "TV news"
+    },
+    {
+     "n": "Agenda Digitale",
+     "u": "https://www.agendadigitale.eu/infrastrutture/data-center-in-italia-investimenti-record-ma-la-burocrazia-frena-tutto/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "Today",
+     "u": "https://www.today.it/dossier/economia/data-center-rischio-bolla.html",
+     "t": "Online daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Up to 37 billion euros of investment by 2036",
+     "n": "It is an industry association estimate, conditional on full project activation. Not an official forecast."
+    },
+    {
+     "s": "ok",
+     "c": "Grid connection requests to Terna exceed 100 gigawatts",
+     "n": "Reported by Sky TG24 with the date 31 August; the sources agree that grid and permits are the main constraint."
+    }
+   ],
+   "ctx": "A data centre is a building full of servers that stores and processes data, including for AI. Electricity is its main cost and its main limit.",
+   "loop_query": "data center servers corridor",
+   "i18n": {
+    "it": {
+     "title": "I data center italiani potrebbero attrarre 37 miliardi entro il 2036, ma richieste di rete e permessi frenano",
+     "summary": "Uno studio di settore presentato a Roma stima fino a 37 miliardi di euro di investimenti in data center in Italia tra il 2026 e il 2036, se i progetti qualificati andranno avanti. La capacità oggi è di circa 760 megawatt. Le richieste di connessione alla rete superano i 100 gigawatt, quindi elettricità, permessi e personale sono i limiti principali.",
+     "body": [
+      "L'associazione italiana dei data center, in un simposio a Roma riportato da Sky TG24 il 6 novembre, indica un investimento potenziale cumulato di circa 37 miliardi di euro nel periodo 2026-2036, a condizione che i progetti qualificati siano attivati per intero. Tra le aziende interessate all'Italia ci sono Amazon Web Services, Microsoft, OpenAI, Equinix, Vantage ed EdgeConneX.",
+      "Oggi a fine 2025 erano installati circa 760 megawatt, di cui 460 di data center commerciali e 300 aziendali. Il mercato commerciale potrebbe arrivare a 2-2,3 gigawatt entro il 2031. Un megawatt è all'incirca la potenza usata da mille case nelle ore di punta.",
+      "Gli ostacoli indicati sono la disponibilità di energia, gli allacci alla rete, le autorizzazioni, il personale specializzato e i siti adatti. Il gestore della rete Terna ha detto che al 31 agosto aveva ricevuto richieste di connessione oltre i 100 gigawatt, quasi la metà in Lombardia. Molte richieste non diventeranno progetti, quindi il numero mostra interesse, non offerta futura.",
+      "Lo stesso dibattito ha colpito Wall Street questa settimana, dove gli investitori temono che la resistenza politica ai data center affamati di energia rallenti la costruzione. In Italia la pressione è burocratica ed elettrica più che elettorale, e lo studio è una stima del settore, non una previsione ufficiale."
+     ],
+     "checks": [
+      {
+       "c": "Fino a 37 miliardi di euro di investimenti entro il 2036",
+       "n": "È una stima dell'associazione di settore, condizionata all'attivazione completa dei progetti. Non è una previsione ufficiale."
+      },
+      {
+       "c": "Le richieste di connessione a Terna superano i 100 gigawatt",
+       "n": "Riportato da Sky TG24 con la data del 31 agosto; le fonti concordano che rete e permessi sono il vincolo principale."
+      }
+     ],
+     "ctx": "Un data center è un edificio pieno di server che conservano ed elaborano dati, anche per l'intelligenza artificiale. L'elettricità è il suo costo principale e il suo limite principale.",
+     "media_caps": [
+      "Server di un data center, immagine dal servizio di Sky TG24",
+      "Rack di un data center, immagine d'archivio da Agenda Digitale"
+     ]
+    }
+   }
+  },
+  {
+   "id": 7,
+   "sec": "ita",
+   "topic": "inn",
+   "time": "09:00",
+   "read": 3,
+   "title": "At the Lincei Academy, Italy takes stock of its quantum computers, from Naples to Rome to Milan",
+   "summary": "On 6 November the news agency ANSA convenes Italian quantum researchers at the Lincei Academy in Rome. Italy now has home-built machines such as Partenope in Naples and the photonic Qolossus 2.0 in Rome, and a national strategy from July 2025. The stated challenge is turning research into industry.",
+   "body": [
+    "ANSA organised the event on understanding the quantum revolution between research, innovation and society at the National Academy of the Lincei on 6 November. Its preview lists the machines Italy has: Partenope, a superconducting quantum processor at the University of Naples Federico II, and Qolossus 2.0 at Sapienza University in Rome, presented in December 2025 as the first Italian photonic quantum computer, which uses light particles. Its core was developed by the National Research Council institute for photonics and nanotechnologies in Milan, with the University of Pavia.",
+    "Partenope was upgraded in March 2026 and described by ANSA as among the most powerful in the world. The national quantum computing centre of the ICSC foundation in Bologna also received significant support, which helped narrow the gap with Europe.",
+    "Italy adopted a national strategy for quantum technologies in July 2025, and recovery plan funds gave momentum to infrastructure and startups. The preview names the main challenge as bridging research and industrial applications, and mentions the future quantum internet.",
+    "This is an event preview rather than a scientific result. No new discovery was announced in the sources opened."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=5gwNp7jcaVw",
+     "cap": "Related: Il Mattino on the first full-stack quantum computer in Italy, made in Naples",
+     "credit": "Il Mattino"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/7968bbbcdb2a7d9a65090c939f1eb294.jpg",
+     "cap": "Image from the ANSA quantum event page",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://statics.cedscdn.it/photos/MED_HIGH/2026/03/16/9419466_16170407_partenope.jpg",
+     "cap": "The Partenope quantum computer in Naples",
+     "credit": "Corriere Adriatico"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA, quantum event",
+     "u": "https://www.ansa.it/sito/notizie/speciali/evento-quantum/2026/11/05/la-rivoluzione-quantistica-una-sfida-per-litalia-_6db92e10-255d-492a-ba3d-d7f9a2ef69a1.html",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA, Qolossus 2.0",
+     "u": "https://www.ansa.it/sito/notizie/speciali/evento-quantum/2025/12/09/presentato-qolossus-2.0-il-primo-computer-quantistico-fotonico-italiano-_70cf4682-c1ef-43b0-8645-9cbb04bebd8e.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Corriere Adriatico",
+     "u": "https://www.corriereadriatico.it/tecnologia/moltofuturo/partenope_computer_quantistico_raddoppia_la_sua_forza-9423466.html",
+     "t": "Italian daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Italy has quantum computers Partenope and Qolossus 2.0",
+     "n": "Confirmed by ANSA coverage in March 2026 and December 2025 and by Corriere Adriatico."
+    },
+    {
+     "s": "warn",
+     "c": "Partenope is among the most powerful quantum computers in the world",
+     "n": "ANSA's description; no independent ranking was found in the sources opened."
+    }
+   ],
+   "ctx": "A quantum computer uses quantum bits, called qubits, that can hold several states at once, which may speed up some calculations. Today's machines are small and error-prone.",
+   "loop_query": "quantum computer laboratory",
+   "i18n": {
+    "it": {
+     "title": "All'Accademia dei Lincei l'Italia fa il punto sui computer quantistici, da Napoli a Roma a Milano",
+     "summary": "Il 6 novembre l'agenzia ANSA riunisce all'Accademia dei Lincei a Roma i ricercatori italiani del quantistico. L'Italia ha ormai macchine proprie come Partenope a Napoli e il fotonico Qolossus 2.0 a Roma, e una strategia nazionale del luglio 2025. La sfida indicata è portare la ricerca nell'industria.",
+     "body": [
+      "ANSA ha organizzato l'evento su come comprendere la rivoluzione quantistica tra ricerca, innovazione e società all'Accademia nazionale dei Lincei il 6 novembre. L'anticipazione elenca le macchine italiane: Partenope, un processore quantistico superconduttore all'Università Federico II di Napoli, e Qolossus 2.0 alla Sapienza di Roma, presentato a dicembre 2025 come il primo computer quantistico fotonico italiano, che usa particelle di luce. Il suo cuore è stato sviluppato dall'istituto di fotonica e nanotecnologie del Consiglio nazionale delle ricerche a Milano, con l'Università di Pavia.",
+      "Partenope è stato potenziato a marzo 2026 e ANSA lo ha descritto tra i più potenti al mondo. Anche il centro nazionale di calcolo quantistico della fondazione ICSC a Bologna ha ricevuto un sostegno rilevante, che ha aiutato a ridurre il divario con l'Europa.",
+      "L'Italia ha adottato una strategia nazionale per le tecnologie quantistiche a luglio 2025, e i fondi del piano di ripresa hanno dato slancio a infrastrutture e startup. L'anticipazione indica come sfida principale il collegamento tra ricerca e applicazioni industriali, e cita il futuro internet quantistico.",
+      "Questa è l'anticipazione di un evento, non un risultato scientifico. Nelle fonti consultate non è stata annunciata nessuna nuova scoperta."
+     ],
+     "checks": [
+      {
+       "c": "L'Italia ha i computer quantistici Partenope e Qolossus 2.0",
+       "n": "Confermato dalla copertura ANSA di marzo 2026 e dicembre 2025 e da Corriere Adriatico."
+      },
+      {
+       "c": "Partenope è tra i computer quantistici più potenti al mondo",
+       "n": "È la descrizione di ANSA; nelle fonti consultate non è stata trovata una classifica indipendente."
+      }
+     ],
+     "ctx": "Un computer quantistico usa bit quantistici, detti qubit, che possono assumere più stati insieme, e questo può accelerare alcuni calcoli. Le macchine di oggi sono piccole e soggette a errori.",
+     "media_caps": [
+      "Correlato: Il Mattino sul primo computer quantistico full stack d'Italia, nato a Napoli",
+      "Immagine dalla pagina ANSA sull'evento quantistico",
+      "Il computer quantistico Partenope a Napoli"
+     ]
+    }
+   }
+  },
+  {
+   "id": 8,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "Draft EU rules on AI Act fines would let the AI Office restart the five-year clock; comments close 9 November",
+   "summary": "The European Commission has published a draft implementing regulation on how the AI Office investigates and fines providers of the most powerful AI models. Investigation steps would restart the five-year limitation period, up to a ten-year ceiling. Public comments are open until 9 November, and adoption is planned for the fourth quarter of 2026.",
+   "body": [
+    "The draft was published on 12 October under reference Ares(2026)9589403. It sets procedural rules for the Commission's enforcement under Article 75 of the AI Act, regulation 2024/1689, which covers providers of general-purpose AI models that also deploy them, and AI systems inside very large online platforms and search engines. Trade press names Google and Meta as examples. Fines for general-purpose model breaches can reach 15 million euros or 3 percent of worldwide turnover, whichever is higher.",
+    "The five-year period to impose a fine would start when the non-compliance ends. Six steps would restart it: requests for documents, evaluations of AI systems, inspections, structured dialogues, opening of proceedings and reopening of proceedings. The absolute maximum would be ten years. A separate five-year period would apply to collecting a fine once it is final.",
+    "On procedure, companies would first get redacted files, with full access limited to named external legal, economic and technical advisers who cannot be company employees. Third parties who supplied evidence would have one week to object before confidential material is shared. Filings would need qualified electronic signatures under the EU eIDAS rules.",
+    "Who is affected: the covered providers and their advisers, and complainants such as publishers or competitors. Anyone can send comments through the Commission's consultation page until midnight Brussels time on 9 November. A separate consultation on the Cloud and AI Development Act, proposed on 3 June, closes on 11 November. After adoption, the rules enter into force 20 days after publication in the Official Journal."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://ppc.land/content/images/size/w1200/2026/10/eu-ai-office-google-meta-ai-act-5-year-fining-clock-reset.jpg",
+     "cap": "Illustration from the PPC Land report on the draft",
+     "credit": "PPC Land"
+    },
+    {
+     "type": "image",
+     "u": "https://www.actuia.com/storage/uploads/generated/11444-nvcvha5o-1200.jpg",
+     "cap": "Illustration from the ActuIA report on the time limit for fines",
+     "credit": "ActuIA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "PPC Land",
+     "u": "https://ppc.land/eu-draft-lets-ai-office-restart-5-year-fining-clock-on-google-and-meta-ai/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "ActuIA",
+     "u": "https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "European Commission, AI Act enforcement",
+     "u": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+     "t": "Official source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The consultation on the draft closes on 9 November",
+     "n": "Stated by PPC Land and ActuIA."
+    },
+    {
+     "s": "warn",
+     "c": "Details of the limitation periods and procedure",
+     "n": "Taken from trade press summaries of the draft. The draft text itself was not opened. Details may change before adoption."
+    },
+    {
+     "s": "ok",
+     "c": "General-purpose model breaches can be fined up to 15 million euros or 3 percent of turnover",
+     "n": "The Commission's AI Act enforcement page gives the same ceiling."
+    }
+   ],
+   "ctx": "The AI Office is the Commission body that supervises general-purpose AI models. An implementing regulation fills in procedural details of a law. This is general information, not legal advice.",
+   "loop_query": "european commission building brussels",
+   "i18n": {
+    "it": {
+     "title": "Bozza Ue sulle multe dell'AI Act: l'Ufficio per l'IA potrebbe far ripartire il termine di cinque anni, commenti fino al 9 novembre",
+     "summary": "La Commissione europea ha pubblicato una bozza di regolamento di esecuzione su come l'Ufficio per l'IA indaga e sanziona i fornitori dei modelli di IA più potenti. Le fasi dell'indagine farebbero ripartire il termine di prescrizione di cinque anni, fino a un tetto di dieci. I commenti sono aperti fino al 9 novembre e l'adozione è prevista nel quarto trimestre del 2026.",
+     "body": [
+      "La bozza è stata pubblicata il 12 ottobre con riferimento Ares(2026)9589403. Fissa le regole procedurali per l'applicazione da parte della Commissione dell'articolo 75 dell'AI Act, il regolamento 2024/1689, che riguarda i fornitori di modelli di IA per finalità generali che li usano anche in proprio, e i sistemi di IA dentro le piattaforme online e i motori di ricerca di grandi dimensioni. La stampa di settore cita Google e Meta come esempi. Le multe per le violazioni dei modelli per finalità generali possono arrivare a 15 milioni di euro o al 3 per cento del fatturato mondiale, se più alto.",
+      "Il termine di cinque anni per imporre una sanzione partirebbe dalla fine della violazione. Sei atti lo farebbero ripartire: richieste di documenti, valutazioni dei sistemi di IA, ispezioni, dialoghi strutturati, apertura del procedimento e sua riapertura. Il massimo assoluto sarebbe di dieci anni. Un termine separato di cinque anni varrebbe per riscuotere una multa diventata definitiva.",
+      "Sulla procedura, le aziende riceverebbero prima fascicoli oscurati, con accesso completo limitato a consulenti esterni legali, economici e tecnici indicati per nome, che non possono essere dipendenti dell'azienda. I terzi che hanno fornito prove avrebbero una settimana per opporsi prima che il materiale riservato sia condiviso. Gli atti richiederebbero firme elettroniche qualificate secondo le regole europee eIDAS.",
+      "Chi è interessato: i fornitori coperti e i loro consulenti, e chi presenta denunce, come editori o concorrenti. Chiunque può inviare osservazioni tramite la pagina di consultazione della Commissione fino alla mezzanotte di Bruxelles del 9 novembre. Una consultazione separata sulla legge per lo sviluppo del cloud e dell'IA, proposta il 3 giugno, si chiude l'11 novembre. Dopo l'adozione, le regole entrano in vigore 20 giorni dopo la pubblicazione nella Gazzetta ufficiale dell'Unione."
+     ],
+     "checks": [
+      {
+       "c": "La consultazione sulla bozza si chiude il 9 novembre",
+       "n": "Lo indicano PPC Land e ActuIA."
+      },
+      {
+       "c": "Dettagli su termini di prescrizione e procedura",
+       "n": "Tratti da sintesi della stampa di settore. Il testo della bozza non è stato consultato. I dettagli possono cambiare prima dell'adozione."
+      },
+      {
+       "c": "Le violazioni dei modelli per finalità generali possono costare fino a 15 milioni di euro o al 3 per cento del fatturato",
+       "n": "La pagina della Commissione sull'applicazione dell'AI Act indica lo stesso massimale."
+      }
+     ],
+     "ctx": "L'Ufficio per l'IA è l'organo della Commissione che vigila sui modelli di IA per finalità generali. Un regolamento di esecuzione precisa i dettagli procedurali di una legge. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Illustrazione dal servizio di PPC Land sulla bozza",
+      "Illustrazione dal servizio di ActuIA sul termine per le multe"
+     ]
+    }
+   }
+  },
+  {
+   "id": 9,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "The AI Office can already demand answers from model providers: what happened since enforcement started on 2 August",
+   "summary": "The AI Act's enforcement powers for general-purpose models have applied since 2 August 2026. In mid-October the AI Office sent its first formal requests for information to leading providers about security, outside testing and monitoring. Wrong or missing answers can themselves be fined.",
+   "body": [
+    "Under the AI Act, the Commission's AI Office and national authorities have had enforcement powers since 2 August 2026. According to the specialist outlet Unite.ai, on 14 October the AI Office sent its first formal requests for information to providers of the most advanced models, including OpenAI, Anthropic, Google DeepMind and Meta. The Commission page on enforcement confirms the tools: requesting information and documents, access to models for evaluation, and corrective measures.",
+    "The questions reportedly cover three areas. First, security: whether models run in secure environments with containment safeguards. Second, external evaluation: whether independent evaluators have enough access and whether their findings change decisions. Third, post-market monitoring: how providers study real-world use and feed it into their systemic risk assessments.",
+    "The same week, the United States Federal Trade Commission sent civil investigative demands to OpenAI and Anthropic about safety incidents, privacy policies and safeguards, according to CBS News. The two actions are separate and have different legal bases. Both followed reports of AI agents that went beyond their testing limits.",
+    "What to know: fines for general-purpose model breaches reach 15 million euros or 3 percent of worldwide turnover, and for prohibited practices 35 million euros or 7 percent. Incorrect, incomplete or misleading answers to information requests can be fined separately, up to 7.5 million euros or 1 percent for AI systems. Deadlines to reply were not published in the sources opened, and the Commission has not published its own announcement that we could open."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=qlwAnqQHhhQ",
+     "cap": "Related: EU Debates on the new powers of the AI Office to enforce AI Act rules on general-purpose models",
+     "credit": "EU Debates"
+    },
+    {
+     "type": "image",
+     "u": "https://www.unite.ai/wp-content/uploads/2026/10/eu-announces-first-ai-act-enforcement-actions-after-ai-agent-incidents.jpg",
+     "cap": "Illustration from the Unite.ai report on the first AI Act enforcement actions",
+     "credit": "Unite.ai"
+    },
+    {
+     "type": "image",
+     "u": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/15/89db4a92-6b7e-42b9-88e4-b343e530a9c4/thumbnail/1200x630/ac78a7a104f3b9896fe256a91fb09a66/gettyimages-2296187035.jpg",
+     "cap": "Image from the CBS News report on the FTC subpoenas",
+     "credit": "CBS News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission, AI Act enforcement",
+     "u": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+     "t": "Official source"
+    },
+    {
+     "n": "Unite.ai",
+     "u": "https://www.unite.ai/eu-announces-first-ai-act-enforcement-actions-after-ai-agent-incidents/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/",
+     "t": "US broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Enforcement powers of the AI Office apply from 2 August 2026",
+     "n": "Stated on the Commission's enforcement page."
+    },
+    {
+     "s": "warn",
+     "c": "The AI Office sent its first requests for information on 14 October to OpenAI, Anthropic, Google DeepMind and Meta",
+     "n": "Single specialist source. The Commission's own announcement was not found, and reply deadlines are unknown."
+    },
+    {
+     "s": "ok",
+     "c": "The FTC sent civil investigative demands to OpenAI and Anthropic",
+     "n": "Reported by CBS News on 15 October, citing Axios."
+    }
+   ],
+   "ctx": "General-purpose AI models are large models, like those behind chatbots, that can do many tasks. Systemic risk is the label for the most powerful ones, with extra duties. This is general information, not legal advice.",
+   "loop_query": "cybersecurity server room lights",
+   "i18n": {
+    "it": {
+     "title": "L'Ufficio per l'IA può già chiedere risposte ai fornitori di modelli: cosa è successo da quando l'applicazione è partita il 2 agosto",
+     "summary": "I poteri di applicazione dell'AI Act sui modelli per finalità generali valgono dal 2 agosto 2026. A metà ottobre l'Ufficio per l'IA ha inviato le prime richieste formali di informazioni ai principali fornitori su sicurezza, test esterni e monitoraggio. Anche risposte sbagliate o mancanti possono essere sanzionate.",
+     "body": [
+      "Secondo l'AI Act, l'Ufficio per l'IA della Commissione e le autorità nazionali hanno poteri di applicazione dal 2 agosto 2026. Secondo il sito specializzato Unite.ai, il 14 ottobre l'Ufficio ha inviato le prime richieste formali di informazioni ai fornitori dei modelli più avanzati, tra cui OpenAI, Anthropic, Google DeepMind e Meta. La pagina della Commissione sull'applicazione conferma gli strumenti: richiesta di informazioni e documenti, accesso ai modelli per la valutazione e misure correttive.",
+      "Le domande riguarderebbero tre ambiti. Primo, la sicurezza: se i modelli funzionano in ambienti protetti con misure di contenimento. Secondo, la valutazione esterna: se i valutatori indipendenti hanno accesso sufficiente e se i loro risultati cambiano le decisioni. Terzo, il monitoraggio dopo l'immissione sul mercato: come i fornitori studiano l'uso reale e lo inseriscono nelle valutazioni dei rischi sistemici.",
+      "Nella stessa settimana la Commissione federale per il commercio degli Stati Uniti, la Ftc, ha inviato richieste di indagine civile a OpenAI e Anthropic su incidenti di sicurezza, politiche sulla privacy e salvaguardie, secondo la Cbs. Le due azioni sono separate e hanno basi giuridiche diverse. Entrambe sono seguite a notizie di agenti di IA che hanno superato i limiti dei test.",
+      "Cosa sapere: le multe per violazioni dei modelli per finalità generali arrivano a 15 milioni di euro o al 3 per cento del fatturato mondiale, e per le pratiche vietate a 35 milioni o al 7 per cento. Risposte scorrette, incomplete o fuorvianti alle richieste di informazioni possono essere sanzionate a parte, fino a 7,5 milioni di euro o all'1 per cento per i sistemi di IA. Le scadenze per rispondere non erano indicate nelle fonti consultate, e non abbiamo trovato un annuncio della Commissione da consultare."
+     ],
+     "checks": [
+      {
+       "c": "I poteri dell'Ufficio per l'IA si applicano dal 2 agosto 2026",
+       "n": "Indicato nella pagina della Commissione sull'applicazione."
+      },
+      {
+       "c": "Il 14 ottobre l'Ufficio per l'IA ha inviato le prime richieste di informazioni a OpenAI, Anthropic, Google DeepMind e Meta",
+       "n": "Una sola fonte specializzata. L'annuncio della Commissione non è stato trovato e le scadenze di risposta sono ignote."
+      },
+      {
+       "c": "La Ftc ha inviato richieste di indagine civile a OpenAI e Anthropic",
+       "n": "Riportato dalla Cbs il 15 ottobre, citando Axios."
+      }
+     ],
+     "ctx": "I modelli di IA per finalità generali sono grandi modelli, come quelli dei chatbot, capaci di molti compiti. Rischio sistemico è l'etichetta per i più potenti, con obblighi aggiuntivi. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Correlato: EU Debates sui nuovi poteri dell'Ufficio per l'IA per far rispettare l'AI Act sui modelli per finalità generali",
+      "Illustrazione dal servizio di Unite.ai sulle prime azioni di applicazione dell'AI Act",
+      "Immagine dal servizio della Cbs sulle richieste della Ftc"
+     ]
+    }
+   }
+  },
+  {
+   "id": 10,
+   "sec": "reg",
+   "time": "12:00",
+   "read": 5,
+   "title": "Italy measures AI at work: the Labour Ministry opens two dashboards and promises a national strategy by the end of November",
+   "summary": "On 5 November the Labour Ministry presented two dashboards built with INAPP and Sviluppo Lavoro Italia that combine AI's potential impact on tasks, skills employers want, and contract trends. The AI at work Observatory, created under Law 132/2025, is to deliver a national strategy, an impact report and updated guidelines for companies and workers by the end of November.",
+   "body": [
+    "The Observatory on the adoption of AI systems in the world of work was set up under Law 132 of 23 September 2025, the Italian AI law, by ministerial decree 173 of 15 December 2025. It has a steering committee, four technical committees, an ethics commission and a consultation board with social partners, and has been fully operational since 3 June 2026. Minister Marina Calderone appointed its members.",
+    "At a press meeting on 5 November, the ministry presented two dashboards developed with the public research body INAPP and the agency Sviluppo Lavoro Italia. They combine three data streams: the potential impact of AI on job tasks, the skills companies are seeking, and the real trend of contracts. International research on AI and jobs gives, in the ministry's words, discordant results, so Italy wants its own evidence.",
+    "Three documents are due by the end of November: a national strategy on the use of AI in work, an annual impact report and updated guidelines for companies and workers. Employers and workers should watch the guidelines, since they will say how AI tools should be introduced in workplaces.",
+    "Related rules already exist. The AI Act has banned, since 2 February 2025, AI that infers emotions of employees at work, with narrow exceptions. Obligations for high-risk AI used in hiring and worker management, listed in Annex III, now apply from 2 December 2027 after the Digital Omnibus delay. This is general information, not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=pN0Lodj6GZs",
+     "cap": "Ministry of Labour presentation of the Observatory on AI in the world of work",
+     "credit": "Ministero del Lavoro e delle Politiche Sociali"
+    },
+    {
+     "type": "image",
+     "u": "https://www.adn24.it/wp-content/uploads/2026/11/IA-lavoro.jpg",
+     "cap": "Image from the ADN24 report on AI and work",
+     "credit": "ADN24"
+    },
+    {
+     "type": "image",
+     "u": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2026/11/ai-e-lavoro-in-italia.png",
+     "cap": "Illustration from Agenda Digitale on AI and work in Italy",
+     "credit": "Agenda Digitale"
+    },
+    {
+     "type": "image",
+     "u": "https://www.inapp.gov.it/wp-content/uploads/Non-organizzati/cover-notizia-AI.png",
+     "cap": "INAPP cover image on the AI observatory",
+     "credit": "INAPP"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Ministry of Labour, Observatory page",
+     "u": "https://www.lavoro.gov.it/pagine/osservatorio-sulladozione-di-sistemi-di-intelligenza-artificiale-nel-mondo-del-lavoro",
+     "t": "Ministry, primary source"
+    },
+    {
+     "n": "Agenda Digitale",
+     "u": "https://www.agendadigitale.eu/cultura-digitale/ai-e-lavoro-litalia-comincia-a-misurare-impatti-per-decidere-le-politiche/",
+     "t": "Specialist outlet"
+    },
+    {
+     "n": "INAPP",
+     "u": "https://www.inapp.gov.it/comunicazione/notizie/nasce-losservatorio-sullintelligenza-artificiale-nel-mondo-del-lavoro-linapp-per-la-transizione-digitale",
+     "t": "Public research body"
+    },
+    {
+     "n": "ADN24",
+     "u": "https://www.adn24.it/blog/2026/11/06/ia-e-lavoro-losservatorio-verso-una-strategia-nazionale/",
+     "t": "Online news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The ministry presented two AI and work dashboards on 5 November",
+     "n": "Reported by Agenda Digitale and ADN24."
+    },
+    {
+     "s": "ok",
+     "c": "The Observatory exists under Law 132/2025 and decree 173 of 15 December 2025",
+     "n": "Stated on the ministry's page and by INAPP."
+    },
+    {
+     "s": "warn",
+     "c": "Three documents will be delivered by the end of November",
+     "n": "A stated plan, not a binding legal deadline in the sources opened."
+    }
+   ],
+   "ctx": "INAPP is Italy's public institute for policy analysis. Annex III of the AI Act lists high-risk uses of AI, including recruitment and managing workers.",
+   "loop_query": "office workers laptops teamwork",
+   "i18n": {
+    "it": {
+     "title": "L'Italia misura l'IA nel lavoro: il ministero apre due cruscotti e promette una strategia nazionale entro fine novembre",
+     "summary": "Il 5 novembre il ministero del Lavoro ha presentato due cruscotti realizzati con Inapp e Sviluppo Lavoro Italia che uniscono l'impatto potenziale dell'IA sulle mansioni, le competenze richieste dalle imprese e l'andamento dei contratti. L'Osservatorio sull'IA nel lavoro, istituito dalla legge 132 del 2025, deve consegnare entro fine novembre una strategia nazionale, un rapporto sugli impatti e linee guida aggiornate per imprese e lavoratori.",
+     "body": [
+      "L'Osservatorio sull'adozione di sistemi di intelligenza artificiale nel mondo del lavoro è stato istituito dalla legge 132 del 23 settembre 2025, la legge italiana sull'IA, con il decreto ministeriale 173 del 15 dicembre 2025. Ha un comitato di indirizzo, quattro comitati tecnico-scientifici, una commissione etica e un tavolo di consultazione con le parti sociali, ed è pienamente operativo dal 3 giugno 2026. La ministra Marina Calderone ne ha nominato i componenti.",
+      "In un incontro con la stampa il 5 novembre il ministero ha presentato due cruscotti sviluppati con l'ente pubblico di ricerca Inapp e con l'agenzia Sviluppo Lavoro Italia. Uniscono tre flussi di dati: l'impatto potenziale dell'IA sulle mansioni, le competenze cercate dalle imprese e l'andamento reale dei contratti. La ricerca internazionale su IA e lavoro dà, nelle parole del ministero, risultati discordanti, quindi l'Italia vuole prove proprie.",
+      "Entro fine novembre sono attesi tre documenti: una strategia nazionale sull'uso dell'IA nel lavoro, un rapporto annuale sugli impatti e linee guida aggiornate per imprese e lavoratori. Datori di lavoro e lavoratori dovrebbero seguire le linee guida, perché diranno come introdurre gli strumenti di IA nei luoghi di lavoro.",
+      "Esistono già regole collegate. L'AI Act vieta dal 2 febbraio 2025 l'IA che deduce le emozioni dei dipendenti sul lavoro, con eccezioni ristrette. Gli obblighi per l'IA ad alto rischio usata nelle assunzioni e nella gestione dei lavoratori, elencata nell'allegato III, si applicano ora dal 2 dicembre 2027 dopo il rinvio del pacchetto Digital Omnibus. Informazione generale, non consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Il 5 novembre il ministero ha presentato due cruscotti su IA e lavoro",
+       "n": "Riportato da Agenda Digitale e ADN24."
+      },
+      {
+       "c": "L'Osservatorio esiste in base alla legge 132/2025 e al decreto 173 del 15 dicembre 2025",
+       "n": "Indicato sulla pagina del ministero e da Inapp."
+      },
+      {
+       "c": "Tre documenti saranno consegnati entro fine novembre",
+       "n": "Un piano dichiarato, non una scadenza di legge vincolante nelle fonti consultate."
+      }
+     ],
+     "ctx": "L'Inapp è l'istituto pubblico per l'analisi delle politiche. L'allegato III dell'AI Act elenca gli usi dell'IA ad alto rischio, tra cui selezione del personale e gestione dei lavoratori.",
+     "media_caps": [
+      "Presentazione dell'Osservatorio sull'IA nel mondo del lavoro del ministero del Lavoro",
+      "Immagine dal servizio di ADN24 su IA e lavoro",
+      "Illustrazione da Agenda Digitale su IA e lavoro in Italia",
+      "Immagine di copertina dell'Inapp sull'osservatorio per l'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 11,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "Labelling AI content has been required since 2 August: what Article 50 asks, and the 2 December and 2 February dates",
+   "summary": "Article 50 of the AI Act, on transparency, has applied since 2 August 2026. Chatbots must say they are AI, deepfakes and AI-written public-interest text must be labelled, and generative systems must mark outputs in machine-readable form. Systems already on the market have until 2 December 2026 for marking, and 2 February 2027 for watermark detection interoperability.",
+   "body": [
+    "Providers of AI systems must tell people when they interact with an AI, such as a chatbot, and must mark synthetic audio, image, video and text in a machine-readable format. Deployers must label deepfakes and AI-generated or manipulated text published to inform the public on matters of public interest, and must disclose the use of emotion recognition and biometric categorisation. Law firm Paul Weiss notes that no single technique is enough: a mix of metadata, watermarking and other methods is expected.",
+    "Dates matter. The obligations apply since 2 August 2026. Content generated, or for deepfakes published, before that date does not have to be labelled retroactively. A grace period until 2 December 2026 covers marking and detection for generative systems already on the market, and 2 February 2027 is the deadline for watermark detection interoperability.",
+    "The Commission published the final voluntary Code of Practice on marking and labelling on 10 June 2026, and final guidelines on Article 50 on 20 July 2026. Around 190 organisations signed the code, and the Commission has finalised three EU icons for fully AI-generated, AI-modified and interactive labelling. Signing the code is not mandatory and is not a legal safe harbour by itself.",
+    "Who is affected: anyone building or deploying generative tools in the EU, including small teams and students who publish apps or content. The fine is up to 15 million euros or 3 percent of worldwide turnover, whichever is higher. The national authority for Italy depends on the sector, with the cybersecurity agency ACN as market surveillance authority under Decree 179/2026. This is general information, not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=rwxch717hY0",
+     "cap": "Related: CGTN on why the EU's AI labelling rules for chatbots and deepfakes matter",
+     "credit": "CGTN"
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.cloudinary.com/reedsmith/image/fetch/t_opengraph/t_watermark/https://images.passle.net/fit-in/2000x0/filters:crop(0,62,1000,558)/Passle/MediaLibrary/Images/2026-05-27-21-05-34-729-6a175c9e80478c2eb8505e79.jpg",
+     "cap": "Illustration from Reed Smith on the transparency code of practice",
+     "credit": "Reed Smith"
+    },
+    {
+     "type": "image",
+     "u": "https://ppc.land/content/images/size/w1200/2026/10/eu-ai-office-google-meta-ai-act-5-year-fining-clock-reset.jpg",
+     "cap": "Illustration on EU AI Office enforcement",
+     "credit": "PPC Land"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission, Code of Practice",
+     "u": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+     "t": "Official source"
+    },
+    {
+     "n": "Paul Weiss",
+     "u": "https://www.paulweiss.com/insights/client-memos/eu-finalises-transparency-rules-for-ai-generated-content",
+     "t": "Law firm memo"
+    },
+    {
+     "n": "Reed Smith",
+     "u": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102nbz0/transparency-obligations-for-ai-generated-content-the-code-of-practice-adequacy/",
+     "t": "Law firm blog"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Article 50 transparency obligations apply since 2 August 2026",
+     "n": "Stated by the Commission page and both law firm notes."
+    },
+    {
+     "s": "ok",
+     "c": "Final guidelines were published on 20 July 2026 and the Code of Practice on 10 June 2026",
+     "n": "Commission page and Paul Weiss and Reed Smith memos agree."
+    },
+    {
+     "s": "warn",
+     "c": "A grace period runs to 2 December 2026 and watermark detection interoperability is due 2 February 2027",
+     "n": "Taken from the Paul Weiss memo; the Commission page opened did not detail grace periods."
+    }
+   ],
+   "ctx": "A deepfake is AI-made or edited audio, image or video that looks real. Watermarking means hiding a signal in the content that software can detect.",
+   "loop_query": "smartphone screen video editing",
+   "i18n": {
+    "it": {
+     "title": "L'etichettatura dei contenuti IA è obbligatoria dal 2 agosto: cosa chiede l'articolo 50 e le date del 2 dicembre e del 2 febbraio",
+     "summary": "L'articolo 50 dell'AI Act, sulla trasparenza, si applica dal 2 agosto 2026. I chatbot devono dire di essere IA, i deepfake e i testi generati dall'IA di interesse pubblico vanno etichettati e i sistemi generativi devono marcare i risultati in formato leggibile dalle macchine. I sistemi già sul mercato hanno tempo fino al 2 dicembre 2026 per la marcatura e fino al 2 febbraio 2027 per l'interoperabilità del rilevamento dei watermark.",
+     "body": [
+      "I fornitori di sistemi di IA devono dire alle persone quando interagiscono con un'IA, come un chatbot, e devono marcare audio, immagini, video e testi sintetici in un formato leggibile dalle macchine. Chi impiega questi sistemi deve etichettare i deepfake e i testi generati o manipolati dall'IA pubblicati per informare il pubblico su temi di interesse pubblico, e deve dichiarare l'uso del riconoscimento delle emozioni e della categorizzazione biometrica. Lo studio legale Paul Weiss nota che nessuna tecnica basta da sola: ci si aspetta un insieme di metadati, watermark e altri metodi.",
+      "Le date contano. Gli obblighi si applicano dal 2 agosto 2026. I contenuti generati, o per i deepfake pubblicati, prima di quella data non vanno etichettati retroattivamente. Un periodo transitorio fino al 2 dicembre 2026 copre marcatura e rilevamento per i sistemi generativi già sul mercato, e il 2 febbraio 2027 è il termine per l'interoperabilità del rilevamento dei watermark.",
+      "La Commissione ha pubblicato il codice di condotta volontario definitivo sulla marcatura e l'etichettatura il 10 giugno 2026 e le linee guida definitive sull'articolo 50 il 20 luglio 2026. Circa 190 organizzazioni hanno firmato il codice, e la Commissione ha definito tre icone europee per contenuti interamente generati dall'IA, modificati dall'IA e interattivi. Firmare il codice non è obbligatorio e da solo non è una protezione legale.",
+      "Chi è interessato: chiunque costruisca o impieghi strumenti generativi nell'Ue, inclusi piccoli team e studenti che pubblicano app o contenuti. La multa arriva a 15 milioni di euro o al 3 per cento del fatturato mondiale, se più alto. L'autorità italiana competente dipende dal settore, con l'Agenzia per la cybersicurezza nazionale come autorità di vigilanza del mercato secondo il decreto 179/2026. Informazione generale, non consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Gli obblighi di trasparenza dell'articolo 50 si applicano dal 2 agosto 2026",
+       "n": "Indicato dalla pagina della Commissione e da entrambe le note degli studi legali."
+      },
+      {
+       "c": "Le linee guida definitive sono del 20 luglio 2026 e il codice di condotta del 10 giugno 2026",
+       "n": "Concordano la pagina della Commissione e le note di Paul Weiss e Reed Smith."
+      },
+      {
+       "c": "Un periodo transitorio dura fino al 2 dicembre 2026 e l'interoperabilità del rilevamento dei watermark è attesa per il 2 febbraio 2027",
+       "n": "Tratto dalla nota di Paul Weiss; la pagina della Commissione consultata non dettagliava i periodi transitori."
+      }
+     ],
+     "ctx": "Un deepfake è un audio, un'immagine o un video creati o modificati dall'IA che sembrano reali. Il watermark è un segnale nascosto nel contenuto che un software può rilevare.",
+     "media_caps": [
+      "Correlato: CGTN sul perché contano le regole Ue sull'etichettatura dell'IA per chatbot e deepfake",
+      "Illustrazione di Reed Smith sul codice di condotta sulla trasparenza",
+      "Illustrazione sull'applicazione dell'AI Act da parte dell'Ufficio per l'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 12,
+   "sec": "ai",
+   "time": "07:00",
+   "read": 4,
+   "title": "Investors doubt Anthropic can price its IPO at 1.5 trillion dollars next week after the tech selloff",
+   "summary": "Prospective investors told Reuters they doubt Anthropic can hold its roadshow the week of 9 November and list in November at the 1.5 trillion dollar valuation discussed. Some want a lower price, and one sees closer to 1 trillion dollars. The doubts follow the sharpest technology selloff in a year.",
+   "body": [
+    "According to a Reuters exclusive published on 6 November, potential investors in Anthropic's much-awaited share sale are pushing for a more attractive valuation before committing. Bankers had been preparing to start the roadshow, the series of investor meetings before pricing, in the week of 9 November. The 1.5 trillion dollar figure now discussed is seen by some as the high end of expectations, and one investor sees a likely valuation closer to 1 trillion dollars.",
+    "In October, investors had expected a listing as early as that month at up to 2 trillion dollars. The offering was reported to be around 100 billion dollars. Reuters says investors also point to the company's record of quarterly losses, large spending commitments, and an updated filing that left out the October revenue figure.",
+    "The backdrop is the technology selloff that followed Tuesday's US midterm elections, with fears that a Democratic Congress will tighten rules on data centres. Reuters adds that a delay could in turn hurt a stock market heavily weighted toward large technology companies.",
+    "What is not known: whether Anthropic or its banks will change the timetable or the price. The sources opened carry no company response. The report rests on unnamed investors, so the final outcome may differ."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=hIEF43hTzaw",
+     "cap": "Related: ABC News Australia on Anthropic's IPO as a test of market appetite for AI giants",
+     "credit": "ABC News (Australia)"
+    },
+    {
+     "type": "image",
+     "u": "https://www.cp24.com/resizer/v2/HXPFML6DUJFG5F63S6SLTTDXHI.jpg?smart=true&auth=8bb47263c787c18f782c3047c58f07eeeaef1e1d239088efc612d3720bb299e5&width=1200&height=630",
+     "cap": "Image from the Reuters exclusive as syndicated by CP24",
+     "credit": "Reuters / CP24"
+    },
+    {
+     "type": "image",
+     "u": "https://www.resultsense.com/assets/img/research-investment-3-1dgTXveL.jpeg",
+     "cap": "Illustration from the Resultsense report on the IPO timing",
+     "credit": "Resultsense"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Reuters via BNN Bloomberg",
+     "u": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive",
+     "t": "Wire service"
+    },
+    {
+     "n": "Reuters via CP24",
+     "u": "https://www.cp24.com/news/money/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive/",
+     "t": "Wire service, syndicated"
+    },
+    {
+     "n": "Resultsense",
+     "u": "https://www.resultsense.com/news/2026-11-06-anthropic-ipo-investor-doubts-timing/",
+     "t": "Aggregator"
+    },
+    {
+     "n": "Yahoo Finance, earlier timing",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-targets-pre-thanksgiving-ipo-111436118.html",
+     "t": "Financial news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Investors doubt the roadshow can start next week at 1.5 trillion dollars",
+     "n": "One Reuters exclusive based on unnamed prospective investors; other outlets repeat it. No Anthropic comment found."
+    },
+    {
+     "s": "ok",
+     "c": "A valuation of up to 2 trillion dollars had been expected in October",
+     "n": "Reuters says so; an earlier Yahoo Finance headline mentions a 2 trillion dollar target."
+    }
+   ],
+   "ctx": "An IPO is the first sale of a company's shares to the public. A roadshow is the pre-sale tour of investor meetings. Valuation is the price put on the whole company. Not investment advice.",
+   "loop_query": "stock exchange trading floor bell",
+   "i18n": {
+    "it": {
+     "title": "Gli investitori dubitano che Anthropic possa quotarsi a 1.500 miliardi di dollari la prossima settimana dopo il crollo tecnologico",
+     "summary": "Potenziali investitori hanno detto a Reuters di dubitare che Anthropic possa fare il roadshow nella settimana del 9 novembre e quotarsi a novembre alla valutazione di 1.500 miliardi di dollari di cui si parla. Alcuni vogliono un prezzo più basso e uno vede una cifra vicina a 1.000 miliardi. I dubbi arrivano dopo il peggior calo dei titoli tecnologici in un anno.",
+     "body": [
+      "Secondo un'esclusiva Reuters del 6 novembre, i potenziali investitori nella attesa vendita di azioni di Anthropic chiedono una valutazione più interessante prima di impegnarsi. Le banche si preparavano ad avviare il roadshow, il giro di incontri con gli investitori prima del prezzo, nella settimana del 9 novembre. La cifra di 1.500 miliardi di dollari ora in discussione è vista da alcuni come il limite alto delle attese, e un investitore vede una valutazione più probabile vicina a 1.000 miliardi.",
+      "A ottobre gli investitori si aspettavano una quotazione già in quel mese fino a 2.000 miliardi di dollari. L'offerta era indicata intorno ai 100 miliardi di dollari. Reuters dice che gli investitori citano anche lo storico di perdite trimestrali dell'azienda, i grandi impegni di spesa e un documento aggiornato che ometteva il dato sui ricavi di ottobre.",
+      "Lo sfondo è il calo dei titoli tecnologici seguito alle elezioni di metà mandato americane di martedì, con il timore che un Congresso democratico stringa le regole sui data center. Reuters aggiunge che un rinvio potrebbe a sua volta danneggiare un mercato azionario molto concentrato sui grandi gruppi tecnologici.",
+      "Non si sa se Anthropic o le sue banche cambieranno calendario o prezzo. Nelle fonti consultate non c'è una risposta dell'azienda. Il servizio si basa su investitori anonimi, quindi l'esito finale potrebbe essere diverso."
+     ],
+     "checks": [
+      {
+       "c": "Gli investitori dubitano che il roadshow parta la prossima settimana a 1.500 miliardi di dollari",
+       "n": "Una sola esclusiva Reuters basata su potenziali investitori anonimi; altre testate la riprendono. Nessun commento di Anthropic trovato."
+      },
+      {
+       "c": "A ottobre era attesa una valutazione fino a 2.000 miliardi di dollari",
+       "n": "Lo dice Reuters; un precedente titolo di Yahoo Finance cita un obiettivo di 2.000 miliardi."
+      }
+     ],
+     "ctx": "Un'Ipo è la prima vendita al pubblico delle azioni di una società. Il roadshow è il giro di incontri con gli investitori prima della vendita. La valutazione è il prezzo attribuito all'intera società. Non è un consiglio di investimento.",
+     "media_caps": [
+      "Correlato: ABC News Australia sulla quotazione di Anthropic come test dell'appetito del mercato per i giganti dell'IA",
+      "Immagine dall'esclusiva Reuters ripresa da CP24",
+      "Illustrazione dal servizio di Resultsense sui tempi della quotazione"
+     ]
+    }
+   }
+  },
+  {
+   "id": 13,
+   "sec": "ai",
+   "time": "15:00",
+   "read": 4,
+   "title": "OpenAI promises to pay full power costs at its data centre campuses, after voters rejected local projects",
+   "summary": "On 5 November OpenAI published a Community Compact and a policy blueprint committing campuses it owns and operates to pay their full electricity and grid costs, disclose impacts, and drop confidentiality agreements with public officials. It asks governments to set the same rules for the whole industry. It comes right after the midterms, where data centres became a political issue.",
+   "body": [
+    "OpenAI's documents, published on 5 November, say each compute campus it owns and operates will have a local agreement. It will bear the full cost of electricity and supporting infrastructure, protect other customers' utility rates, publish construction plans and report on noise, water use and power consumption, and engage residents early with a local contact person and an annual public report. It also says it will stop using non-disclosure agreements with public officials.",
+    "The blueprint asks federal, state and local governments to adopt matching rules for the industry: limits on mandatory non-disclosure agreements for officials, disclosure of environmental and jobs data, special tariffs for very large electricity users, and clawback of tax incentives. Reported local pledges include 80 million dollars in Effingham County, Georgia, and 6 million dollars for childcare in Pike County, Ohio, with SB Energy.",
+    "The timing follows the 3 November US elections, where voters rejected almost all data centre measures put to local ballots; counts differ between outlets, at 39 of 40 and 41 of 42. Rising electricity bills turned data centres into a campaign issue, and technology stocks fell sharply on 5 November.",
+    "The commitments come from the company itself and cover only sites it owns and operates, not partner sites. Whether lawmakers will adopt the proposals is open. Regulation and electricity prices are now the main risk factors to watch for the AI build-out."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=fkB8mt1DEVw",
+     "cap": "Related: PBS NewsHour on why communities are revolting against data centres",
+     "credit": "PBS NewsHour"
+    },
+    {
+     "type": "image",
+     "u": "https://www.unite.ai/wp-content/uploads/2026/11/openai-publishes-community-compact-and-ai-campus-policy-blueprint.jpg",
+     "cap": "Illustration from the Unite.ai report on the OpenAI compact",
+     "credit": "Unite.ai"
+    },
+    {
+     "type": "image",
+     "u": "https://rollingout.com/wp-content/uploads/2026/04/shutterstock_2719900129-1.jpg",
+     "cap": "File image of a data centre, from the Rolling Out report",
+     "credit": "Rolling Out"
+    }
+   ],
+   "sources": [
+    {
+     "n": "MLex",
+     "u": "https://www.mlex.com/mlex/artificial-intelligence/articles/2546822",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Unite.ai",
+     "u": "https://www.unite.ai/openai-publishes-community-compact-and-ai-campus-policy-blueprint/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Rolling Out",
+     "u": "https://rollingout.com/2026/11/05/openai-data-centers-backlash-blueprint/",
+     "t": "Online news"
+    },
+    {
+     "n": "Fox Business",
+     "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
+     "t": "US business TV"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "OpenAI published a community compact and policy blueprint on 5 November",
+     "n": "MLex, Unite.ai and Rolling Out all report it."
+    },
+    {
+     "s": "warn",
+     "c": "OpenAI will pay full power and grid costs at its campuses",
+     "n": "A company pledge, not yet verifiable, and limited to sites it owns and operates."
+    },
+    {
+     "s": "warn",
+     "c": "Voters rejected data centre measures in almost all local ballots",
+     "n": "Counts differ: 39 of 40 in one report, 41 of 42 in another."
+    }
+   ],
+   "ctx": "A compute campus is OpenAI's term for a large data centre site. A large-load tariff is a special electricity price for very big customers.",
+   "loop_query": "power lines substation dusk",
+   "i18n": {
+    "it": {
+     "title": "OpenAI promette di pagare tutti i costi elettrici dei suoi campus di data center, dopo il rifiuto degli elettori ai progetti locali",
+     "summary": "Il 5 novembre OpenAI ha pubblicato un Patto con le comunità e un documento di indirizzo che impegnano i campus che possiede e gestisce a pagare per intero i costi di elettricità e rete, a rendere noti gli impatti e a rinunciare agli accordi di riservatezza con i funzionari pubblici. Chiede ai governi le stesse regole per tutto il settore. Arriva subito dopo le elezioni di metà mandato, dove i data center sono diventati un tema politico.",
+     "body": [
+      "I documenti di OpenAI, pubblicati il 5 novembre, dicono che ogni campus di calcolo che possiede e gestisce avrà un accordo locale. Si farà carico dell'intero costo dell'elettricità e delle infrastrutture di supporto, proteggerà le tariffe degli altri clienti, pubblicherà i piani di costruzione e riferirà su rumore, uso dell'acqua e consumi, e coinvolgerà presto i residenti con un referente locale e un rapporto pubblico annuale. Dice anche che smetterà di usare accordi di riservatezza con i funzionari pubblici.",
+      "Il documento di indirizzo chiede a governi federale, statali e locali di adottare regole analoghe per il settore: limiti agli accordi di riservatezza obbligatori per i funzionari, trasparenza sui dati ambientali e occupazionali, tariffe speciali per i grandi consumatori di elettricità e recupero degli incentivi fiscali. Tra gli impegni locali riportati ci sono 80 milioni di dollari nella contea di Effingham, in Georgia, e 6 milioni di dollari per l'assistenza all'infanzia nella contea di Pike, in Ohio, con SB Energy.",
+      "I tempi seguono le elezioni americane del 3 novembre, dove gli elettori hanno respinto quasi tutte le misure sui data center sottoposte a voto locale; i conteggi differiscono tra le testate, 39 su 40 e 41 su 42. L'aumento delle bollette elettriche ha fatto dei data center un tema della campagna, e i titoli tecnologici sono crollati il 5 novembre.",
+      "Gli impegni vengono dall'azienda stessa e riguardano solo i siti che possiede e gestisce, non quelli dei partner. Resta aperto se i legislatori adotteranno le proposte. Regolamentazione e prezzi dell'elettricità sono ora i principali fattori di rischio da seguire per la crescita dell'IA."
+     ],
+     "checks": [
+      {
+       "c": "OpenAI ha pubblicato un patto con le comunità e un documento di indirizzo il 5 novembre",
+       "n": "MLex, Unite.ai e Rolling Out lo riportano."
+      },
+      {
+       "c": "OpenAI pagherà tutti i costi di energia e rete nei suoi campus",
+       "n": "È un impegno dell'azienda, non ancora verificabile, e limitato ai siti che possiede e gestisce."
+      },
+      {
+       "c": "Gli elettori hanno respinto le misure sui data center in quasi tutti i voti locali",
+       "n": "I conteggi differiscono: 39 su 40 in un servizio, 41 su 42 in un altro."
+      }
+     ],
+     "ctx": "Campus di calcolo è il termine di OpenAI per un grande sito di data center. Una tariffa per grandi carichi è un prezzo speciale dell'elettricità per clienti molto grandi.",
+     "media_caps": [
+      "Correlato: PBS NewsHour sul perché le comunità si ribellano ai data center",
+      "Illustrazione dal servizio di Unite.ai sul patto di OpenAI",
+      "Immagine d'archivio di un data center, dal servizio di Rolling Out"
+     ]
+    }
+   }
+  },
+  {
+   "id": 14,
+   "sec": "pol",
+   "time": "08:00",
+   "read": 4,
+   "title": "Trump talks to Qatar's emir and says he will decide soon on Iran, as Tehran sends seven demands",
+   "summary": "President Donald Trump spoke with Qatar's emir about mediation and said he will soon decide whether to resume strikes on Iran or seek a deal. Iran sent a nuclear proposal through Qatar listing seven conditions before talks can start. Vice President JD Vance is urging an agreement.",
+   "body": [
+    "Qatar's emir, Sheikh Tamim bin Hamad Al Thani, and Trump held a phone call on 6 November about Doha's mediation efforts, Bloomberg reported. Trump told reporters he would soon decide on next steps after meeting his security advisers: Do we want to go further? I would rather not destroy the rest of the country if possible, but maybe I will have to, he said, adding that people would know soon enough.",
+    "According to The National, Iran sent a nuclear proposal via Qatar. Tehran says the United States must lift sanctions, release frozen assets, pay war reparations and meet four more conditions before negotiations on nuclear matters can proceed, and it says the Strait of Hormuz will not reopen until its conditions are met. Qatar is seeking support for a draft deal that could restart talks within days, according to Gulf News.",
+    "Vice President Vance has urged an agreement and attributed Republican losses in Tuesday's midterms to voter frustration over the war, the cost of living and support for Israel. Brent crude fell to about 93 dollars a barrel, according to Gulf News, while other outlets said it fell below 100 dollars.",
+    "What is unknown: Trump's decision and its timing, which he has kept deliberately vague, the content of the four unpublished Iranian conditions, and whether Washington will accept any of them."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=hwAMp1UxYAI",
+     "cap": "LiveNOW from FOX: Trump signals resumed strikes on Iran after the midterms",
+     "credit": "LiveNOW from FOX"
+    },
+    {
+     "type": "image",
+     "u": "https://www.thenationalnews.com/resizer/v2/6L4W4IPIHNA6VHEZ76V655VHQU.jpg?auth=8c7006a2b9818b0634bd20cf9f3adc2365782c914a0cb7fe5eecbbd2f627b2a7&smart=true&width=1200&height=630",
+     "cap": "Image from The National report on Trump's Iran options",
+     "credit": "The National"
+    },
+    {
+     "type": "image",
+     "u": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/1a5f299e-5aa8-4d20-95a6-6171b6505569/thumbnail/1200x630g6/ed4073f9937bb4660170a6a729eb91f1/gettyimages-2303012797.jpg",
+     "cap": "Image from the CBS News live coverage of the Iran war",
+     "credit": "CBS News / Getty"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The National",
+     "u": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/",
+     "t": "Gulf-based news outlet"
+    },
+    {
+     "n": "Al Jazeera live",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+     "t": "Qatar-based broadcaster"
+    },
+    {
+     "n": "Bloomberg",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-06/trump-holds-call-with-mediator-qatar-about-iran-de-escalation",
+     "t": "Financial news agency"
+    },
+    {
+     "n": "Gulf News",
+     "u": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+     "t": "UAE daily"
+    },
+    {
+     "n": "CBS News live",
+     "u": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+     "t": "US broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Trump and Qatar's emir spoke by phone about mediation",
+     "n": "Reported by Bloomberg and Al Jazeera."
+    },
+    {
+     "s": "warn",
+     "c": "Iran set seven conditions",
+     "n": "Reported by The National and Jpost from Iranian sources; only three are public (sanctions, assets, reparations)."
+    },
+    {
+     "s": "warn",
+     "c": "Oil price level",
+     "n": "Outlets differ: about 93 dollars (Gulf News) or below 100 dollars (others) for Brent."
+    }
+   ],
+   "ctx": "The Strait of Hormuz is the narrow passage through which a large share of the world's oil is shipped. Qatar mediates because it talks to both sides. The war's history is not covered here; see earlier editions.",
+   "loop_query": "oil tanker ship sea sunset",
+   "i18n": {
+    "it": {
+     "title": "Trump parla con l'emiro del Qatar e dice che deciderà presto sull'Iran, mentre Teheran invia sette richieste",
+     "summary": "Il presidente Donald Trump ha parlato con l'emiro del Qatar della mediazione e ha detto che deciderà presto se riprendere gli attacchi all'Iran o cercare un accordo. L'Iran ha inviato attraverso il Qatar una proposta nucleare con sette condizioni prima di avviare i colloqui. Il vicepresidente JD Vance spinge per un'intesa.",
+     "body": [
+      "L'emiro del Qatar, lo sceicco Tamim bin Hamad Al Thani, e Trump hanno avuto una telefonata il 6 novembre sugli sforzi di mediazione di Doha, ha riferito Bloomberg. Trump ha detto ai giornalisti che deciderà presto i prossimi passi dopo una riunione con i consiglieri per la sicurezza: Vogliamo andare oltre? Preferirei non distruggere il resto del paese, se possibile, ma forse dovrò farlo, ha detto, aggiungendo che lo si saprà presto.",
+      "Secondo The National l'Iran ha inviato una proposta nucleare tramite il Qatar. Teheran dice che gli Stati Uniti devono togliere le sanzioni, sbloccare i beni congelati, pagare i danni di guerra e soddisfare altre quattro condizioni prima che i negoziati sul nucleare possano andare avanti, e afferma che lo Stretto di Hormuz non riaprirà finché le condizioni non saranno soddisfatte. Il Qatar cerca sostegno per una bozza di accordo che potrebbe riavviare i colloqui entro pochi giorni, secondo Gulf News.",
+      "Il vicepresidente Vance ha invitato a un accordo e ha attribuito le sconfitte repubblicane alle elezioni di metà mandato di martedì alla frustrazione degli elettori per la guerra, il costo della vita e il sostegno a Israele. Il greggio Brent è sceso a circa 93 dollari al barile, secondo Gulf News, mentre altre testate hanno parlato di un calo sotto i 100 dollari.",
+      "Non si sa quale sarà la decisione di Trump e quando, perché lui l'ha tenuta volutamente vaga, né quali siano le quattro condizioni iraniane non rese pubbliche, né se Washington ne accetterà qualcuna."
+     ],
+     "checks": [
+      {
+       "c": "Trump e l'emiro del Qatar hanno parlato al telefono della mediazione",
+       "n": "Riportato da Bloomberg e Al Jazeera."
+      },
+      {
+       "c": "L'Iran ha posto sette condizioni",
+       "n": "Riportato da The National e da Jpost da fonti iraniane; solo tre sono pubbliche (sanzioni, beni, danni di guerra)."
+      },
+      {
+       "c": "Livello del prezzo del petrolio",
+       "n": "Le testate differiscono: circa 93 dollari (Gulf News) o sotto i 100 dollari (altre) per il Brent."
+      }
+     ],
+     "ctx": "Lo Stretto di Hormuz è il passaggio stretto da cui transita una larga parte del petrolio mondiale. Il Qatar fa da mediatore perché parla con entrambe le parti. La storia della guerra non è ripercorsa qui; vedi le edizioni precedenti.",
+     "media_caps": [
+      "LiveNOW from FOX: Trump segnala la ripresa degli attacchi all'Iran dopo le elezioni di metà mandato",
+      "Immagine dal servizio di The National sulle opzioni di Trump sull'Iran",
+      "Immagine dalla copertura in diretta di CBS News sulla guerra in Iran"
+     ]
+    }
+   }
+  },
+  {
+   "id": 15,
+   "sec": "pol",
+   "time": "10:00",
+   "read": 4,
+   "title": "China's rare earth export pause expires on 10 November with no formal extension published",
+   "summary": "The suspension of China's tighter rare earth export controls runs out on 10 November. US Treasury Secretary Scott Bessent has said the broader trade truce was extended to 10 January 2027, but China has not published a formal notice. Beijing says it will keep approving rare earth licences for Europe.",
+   "body": [
+    "Rare earths are metals used in magnets, motors, chips and defence equipment, and China dominates their supply. In October 2025, Beijing announced tighter export controls, then paused them under a one-year truce with the United States. That legal pause expires on 10 November 2026.",
+    "According to the Motley Fool, Bessent said the truce was extended to 10 January 2027 and covers the rare earth controls, but China has not published formal documentation of an extension. If the pause lapsed without one, the controls could resume.",
+    "For Europe, China's commerce ministry spokesperson He Yadong said in October that Beijing will keep exports flowing to Europe whatever happens with the US deal and is willing to continue approving licences. EU trade commissioner Maroš Šefčovič met Chinese Commerce Minister Wang Wentao in Beijing, and China offered a green channel mechanism to speed licences. Euronews notes that Europe's drive to reduce dependence on China could come at a price.",
+    "What is unknown: whether and how China will formalise the extension, and how fast licences really move. Assurances ease uncertainty without ending Europe's structural dependence on Chinese supply."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=jiiMhM1LALU",
+     "cap": "Related: WION on China easing rare earth exports to the EU and the green route",
+     "credit": "WION"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/107187447-16752759422023-02-01t181608z_1646662569_rc2c2z9kd7an_rtrmadp_0_global-europe.jpeg",
+     "cap": "Image from the CNBC report on China's rare earth exports to Europe",
+     "credit": "CNBC / Reuters"
+    },
+    {
+     "type": "image",
+     "u": "https://images.euronews.com/articles/stories/09/97/08/96/1200x675_cmsv2_04570115-acf0-58c9-b573-6e31d30b336d-9970896.jpg",
+     "cap": "Image from the Euronews report on the EU's push to reduce reliance on China",
+     "credit": "Euronews"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Motley Fool",
+     "u": "https://fool.com/investing/2026/11/05/china-rare-earth-export-pause-usar-mp-materials",
+     "t": "Financial publisher"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+     "t": "US business TV"
+    },
+    {
+     "n": "Euronews",
+     "u": "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price",
+     "t": "European broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The pause on China's rare earth controls expires on 10 November",
+     "n": "Stated by the Motley Fool; consistent with the CNBC timeline of a one-year suspension."
+    },
+    {
+     "s": "warn",
+     "c": "The truce was extended to 10 January 2027",
+     "n": "Based on a Bessent statement; China has not published a formal notice, according to the Motley Fool."
+    },
+    {
+     "s": "ok",
+     "c": "China says it will keep approving licences for Europe",
+     "n": "A Commerce Ministry statement reported by CNBC on 15 October."
+    }
+   ],
+   "ctx": "Export controls are licensing rules that let a government slow or stop sales abroad. A green channel is a faster approval route. Nothing here is investment advice.",
+   "loop_query": "container port cranes cargo",
+   "i18n": {
+    "it": {
+     "title": "La pausa cinese sull'export di terre rare scade il 10 novembre senza una proroga formale",
+     "summary": "La sospensione dei controlli più stretti della Cina sull'export di terre rare scade il 10 novembre. Il segretario al Tesoro americano Scott Bessent ha detto che la tregua commerciale più ampia è stata prorogata al 10 gennaio 2027, ma la Cina non ha pubblicato un avviso formale. Pechino dice che continuerà ad approvare le licenze di terre rare per l'Europa.",
+     "body": [
+      "Le terre rare sono metalli usati in magneti, motori, chip e armamenti, e la Cina domina la loro offerta. A ottobre 2025 Pechino ha annunciato controlli più stretti sull'export, poi sospesi con una tregua di un anno con gli Stati Uniti. Quella sospensione legale scade il 10 novembre 2026.",
+      "Secondo il Motley Fool, Bessent ha detto che la tregua è stata prorogata al 10 gennaio 2027 e copre i controlli sulle terre rare, ma la Cina non ha pubblicato documenti formali di proroga. Se la pausa scadesse senza una proroga, i controlli potrebbero riprendere.",
+      "Per l'Europa, il portavoce del ministero del Commercio cinese He Yadong ha detto a ottobre che Pechino manterrà le esportazioni verso l'Europa qualunque cosa accada all'accordo con gli Stati Uniti ed è disposta a continuare ad approvare le licenze. Il commissario europeo al Commercio Maroš Šefčovič ha incontrato a Pechino il ministro del Commercio cinese Wang Wentao, e la Cina ha offerto un meccanismo di canale verde per accelerare le licenze. Euronews nota che la spinta europea a ridurre la dipendenza dalla Cina potrebbe avere un costo.",
+      "Non si sa se e come la Cina formalizzerà la proroga, né quanto velocemente si muoveranno davvero le licenze. Le rassicurazioni attenuano l'incertezza senza chiudere la dipendenza strutturale dell'Europa dall'offerta cinese."
+     ],
+     "checks": [
+      {
+       "c": "La pausa sui controlli cinesi alle terre rare scade il 10 novembre",
+       "n": "Indicato dal Motley Fool; coerente con la cronologia di CNBC di una sospensione di un anno."
+      },
+      {
+       "c": "La tregua è stata prorogata al 10 gennaio 2027",
+       "n": "Basato su una dichiarazione di Bessent; la Cina non ha pubblicato un avviso formale, secondo il Motley Fool."
+      },
+      {
+       "c": "La Cina dice che continuerà ad approvare le licenze per l'Europa",
+       "n": "Dichiarazione del ministero del Commercio riportata da CNBC il 15 ottobre."
+      }
+     ],
+     "ctx": "I controlli sull'export sono regole di licenza che permettono a un governo di rallentare o fermare le vendite all'estero. Il canale verde è una via di approvazione più rapida. Nulla qui è un consiglio di investimento.",
+     "media_caps": [
+      "Correlato: WION sull'allentamento cinese dell'export di terre rare verso l'Ue e il canale verde",
+      "Immagine dal servizio di CNBC sull'export cinese di terre rare verso l'Europa",
+      "Immagine dal servizio di Euronews sulla spinta Ue a ridurre la dipendenza dalla Cina"
+     ]
+    }
+   }
+  },
+  {
+   "id": 16,
+   "sec": "inn",
+   "time": "11:00",
+   "read": 4,
+   "title": "X-ray experiment confirms altermagnetism, a third kind of magnetism that could reshape computer memory",
+   "summary": "Researchers led by the SLAC laboratory have given what they call conclusive experimental proof of altermagnetism, a magnetic phase theorised in 2022. The study, published in Science, used circularly polarised X-rays on manganese telluride. Altermagnets could be useful for faster memory and spintronic devices.",
+   "body": [
+    "Until now, physicists knew two main magnetic phases: ferromagnets, like a fridge magnet, and antiferromagnets, where neighbouring spins cancel out. Altermagnetism, predicted in 2022, is a third: it has zero net magnetisation, like an antiferromagnet, but the spin pattern is locked to the crystal structure in a way that can produce spin-polarised currents.",
+    "A team at the SLAC National Accelerator Laboratory, led by Daniel Jost, with the European Synchrotron Radiation Facility in France, tested manganese telluride. They scattered circularly polarised X-rays off it and found left and right-handed beams scattered differently, a chiral signature that a conventional antiferromagnet should not show. The Stanford Daily reported the result on 6 November; the paper itself appeared in Science in October.",
+    "Why it matters: Jost says ferromagnets are too easily disturbed by magnetic fields, while antiferromagnets are hard to use for data storage. Altermagnets could combine strengths, with potential in memory devices, data centres, quantum technologies and spintronics, where electron spins instead of charge carry information.",
+    "These are applications under study, not products. Material properties at room temperature, manufacturing and device performance remain open questions."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://quantumzeitgeist.com/wp-content/uploads/magnetic-phase-boost-quantum-tech-data-1200x630.png",
+     "cap": "Illustration from Quantum Zeitgeist on the altermagnetism result",
+     "credit": "Quantum Zeitgeist"
+    },
+    {
+     "type": "image",
+     "u": "https://stanforddaily.com/wp-content/uploads/2024/03/Research-Roundup.png",
+     "cap": "Stanford Daily Research Roundup banner",
+     "credit": "The Stanford Daily"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Stanford Daily",
+     "u": "https://stanforddaily.com/2026/11/06/research-roundup-magnetic-phase-chip",
+     "t": "University newspaper"
+    },
+    {
+     "n": "ESRF",
+     "u": "https://www.esrf.fr/home/news/general/content-news/general/researchers-find-proof-of-altermagnetism-a-new-magnetic-phase.html",
+     "t": "Research facility, press release"
+    },
+    {
+     "n": "Stanford News",
+     "u": "https://news.stanford.edu/stories/2026/10/altermagnetism-magnetic-phase-research",
+     "t": "University press release"
+    },
+    {
+     "n": "Quantum Zeitgeist",
+     "u": "https://quantumzeitgeist.com/slac-magnetic-phase-boost-quantum-tech/",
+     "t": "Specialist press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "X-ray scattering on manganese telluride confirms altermagnetism",
+     "n": "Reported by the Stanford Daily, ESRF and Stanford press releases; published in Science."
+    },
+    {
+     "s": "warn",
+     "c": "Altermagnets will improve memory and data centres",
+     "n": "Researchers' stated potential; no device has been demonstrated in these sources."
+    },
+    {
+     "s": "warn",
+     "c": "Freshness",
+     "n": "The Science paper is from October; coverage continued on 6 November."
+    }
+   ],
+   "ctx": "Spin is a quantum property of electrons that behaves like a tiny magnet. Spintronics is electronics that uses spin as well as charge.",
+   "loop_query": "physics laboratory research equipment",
+   "i18n": {
+    "it": {
+     "title": "Un esperimento a raggi X conferma l'altermagnetismo, un terzo tipo di magnetismo che potrebbe cambiare le memorie dei computer",
+     "summary": "Ricercatori guidati dal laboratorio SLAC hanno fornito quella che definiscono una prova sperimentale conclusiva dell'altermagnetismo, una fase magnetica teorizzata nel 2022. Lo studio, pubblicato su Science, ha usato raggi X polarizzati circolarmente sul tellururo di manganese. Gli altermagneti potrebbero servire per memorie più veloci e dispositivi spintronici.",
+     "body": [
+      "Finora i fisici conoscevano due fasi magnetiche principali: i ferromagneti, come la calamita del frigorifero, e gli antiferromagneti, dove gli spin vicini si annullano. L'altermagnetismo, previsto nel 2022, è una terza fase: ha magnetizzazione netta nulla, come un antiferromagnete, ma lo schema degli spin è legato alla struttura del cristallo in un modo che può produrre correnti polarizzate di spin.",
+      "Un gruppo del laboratorio nazionale SLAC, guidato da Daniel Jost, con la struttura europea ESRF in Francia, ha testato il tellururo di manganese. Hanno inviato raggi X polarizzati circolarmente e hanno visto che i fasci destrorsi e sinistrorsi si diffondono in modo diverso, una firma chirale che un normale antiferromagnete non dovrebbe mostrare. Lo Stanford Daily ha riportato il risultato il 6 novembre; l'articolo scientifico è uscito su Science a ottobre.",
+      "Perché conta: secondo Jost i ferromagneti sono troppo sensibili ai campi magnetici, mentre gli antiferromagneti sono poco adatti a conservare dati. Gli altermagneti potrebbero unire i punti di forza, con potenziale per memorie, data center, tecnologie quantistiche e spintronica, dove a portare l'informazione sono gli spin degli elettroni invece della carica.",
+      "Sono applicazioni allo studio, non prodotti. Le proprietà a temperatura ambiente, la produzione e le prestazioni dei dispositivi restano questioni aperte."
+     ],
+     "checks": [
+      {
+       "c": "La diffusione di raggi X sul tellururo di manganese conferma l'altermagnetismo",
+       "n": "Riportato da Stanford Daily e dai comunicati di ESRF e Stanford; pubblicato su Science."
+      },
+      {
+       "c": "Gli altermagneti miglioreranno memorie e data center",
+       "n": "Potenziale dichiarato dai ricercatori; nelle fonti non è stato dimostrato alcun dispositivo."
+      },
+      {
+       "c": "Attualità",
+       "n": "L'articolo su Science è di ottobre; la copertura è proseguita il 6 novembre."
+      }
+     ],
+     "ctx": "Lo spin è una proprietà quantistica degli elettroni che si comporta come una minuscola calamita. La spintronica è l'elettronica che usa lo spin oltre alla carica.",
+     "media_caps": [
+      "Illustrazione di Quantum Zeitgeist sul risultato dell'altermagnetismo",
+      "Banner della rubrica Research Roundup dello Stanford Daily"
+     ]
+    }
+   }
+  },
+  {
+   "id": 17,
+   "sec": "inn",
+   "time": "14:00",
+   "read": 3,
+   "title": "Blue Origin delays New Glenn's return to flight to January 2027 as it rebuilds its damaged launchpad",
+   "summary": "Blue Origin has pushed the next New Glenn launch to January 2027, says a memo seen by CNBC, after a May explosion damaged its Florida launchpad. The company had aimed for December. The delay matters for NASA's Artemis moon plans, in which Blue Origin builds a lander.",
+   "body": [
+    "CNBC reported on 5 November, following the Financial Times, that Blue Origin's chief executive Dave Limp told staff in an internal memo that the New Glenn rocket would return to flight in January 2027. In October, Limp had told Fox News to expect a December launch.",
+    "The cause is damage to the Cape Canaveral launch complex from a May 2026 explosion during a hot-fire test, plus summer weather that slowed reconstruction. The next flight is to carry 48 satellites for Amazon's Leo internet constellation. Limp wrote that in just six months the team accomplished what many thought would take years.",
+    "Blue Origin is one of two companies NASA selected for crewed lunar landers under Artemis, the other being SpaceX with Starship. NASA has said fuelling the Starship lander in Earth orbit before Artemis IV, the planned first crewed landing, could take as many as 22 launches, according to Satnews. The Federal Aviation Administration has given tentative dates for the next Starship test flight around 8 November, according to Behind the Black, which is unconfirmed.",
+    "Not known: how the delay affects Blue Origin's Blue Moon lander schedule and the overall Artemis timeline. The sources opened do not detail it."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=rHPSuvQfbHo",
+     "cap": "Related: Dawn News on Blue Origin's months of delays after the rocket explosion damaged the launch pad",
+     "credit": "DawnNews English"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108526742-17938969962026-04-19t020525z_78488080_rc21ska1w4d0_rtrmadp_0_space-blue-origin-new-glenn.jpeg",
+     "cap": "A New Glenn rocket on its pad",
+     "credit": "CNBC / Reuters"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+     "t": "US business TV"
+    },
+    {
+     "n": "US News (FT report)",
+     "u": "https://www.usnews.com/news/top-news/articles/2026-11-05/blue-origin-delays-new-glenn-rocket-launch-into-january-ft-reports",
+     "t": "News aggregator, reporting the Financial Times"
+    },
+    {
+     "n": "Satnews",
+     "u": "https://satnews.com/2026/11/03/nasa-graphic-outlines-artemis-iv-starship-refueling-architecture-as-launch-estimates-vary/",
+     "t": "Specialist press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Blue Origin delayed New Glenn's return to flight to January 2027",
+     "n": "CNBC saw the CEO memo; the Financial Times reported the same."
+    },
+    {
+     "s": "warn",
+     "c": "Starship's next test flight is around 8 November",
+     "n": "A tentative date from a blog quoting FAA information; not confirmed in other sources."
+    },
+    {
+     "s": "warn",
+     "c": "Up to 22 launches to refuel the Starship lander",
+     "n": "A NASA figure from an October meeting reported by Satnews; estimates vary."
+    }
+   ],
+   "ctx": "A hot-fire test fires a rocket's engines while it stays on the ground. Artemis is NASA's programme to return astronauts to the Moon.",
+   "loop_query": "rocket launch pad night",
+   "i18n": {
+    "it": {
+     "title": "Blue Origin rinvia a gennaio 2027 il ritorno al volo del New Glenn mentre ricostruisce la rampa danneggiata",
+     "summary": "Blue Origin ha spostato il prossimo lancio del New Glenn a gennaio 2027, secondo una nota interna vista dalla Cnbc, dopo che un'esplosione a maggio ha danneggiato la rampa in Florida. L'azienda puntava a dicembre. Il ritardo conta per i piani lunari Artemis della Nasa, in cui Blue Origin costruisce un lander.",
+     "body": [
+      "La Cnbc ha riferito il 5 novembre, dopo il Financial Times, che l'amministratore delegato di Blue Origin Dave Limp ha detto ai dipendenti in una nota interna che il razzo New Glenn tornerà in volo a gennaio 2027. A ottobre Limp aveva detto a Fox News di aspettarsi un lancio a dicembre.",
+      "La causa è il danno al complesso di lancio di Cape Canaveral per un'esplosione di maggio 2026 durante un test di accensione, aggravato dal maltempo estivo che ha rallentato la ricostruzione. Il prossimo volo porterà 48 satelliti per la costellazione internet Leo di Amazon. Limp ha scritto che in soli sei mesi la squadra ha fatto ciò che molti pensavano richiedesse anni.",
+      "Blue Origin è una delle due aziende scelte dalla Nasa per i lander lunari con equipaggio di Artemis, l'altra è SpaceX con Starship. La Nasa ha detto che rifornire il lander Starship in orbita terrestre prima di Artemis IV, il primo sbarco con equipaggio previsto, potrebbe richiedere fino a 22 lanci, secondo Satnews. La Faa, l'ente federale per l'aviazione, ha dato date provvisorie per il prossimo volo di prova di Starship intorno all'8 novembre, secondo Behind the Black, ma non è confermato.",
+      "Non si sa come il ritardo influisca sul calendario del lander Blue Moon di Blue Origin e sulla tabella complessiva di Artemis. Le fonti consultate non lo dettagliano."
+     ],
+     "checks": [
+      {
+       "c": "Blue Origin ha rinviato il ritorno al volo del New Glenn a gennaio 2027",
+       "n": "La Cnbc ha visto la nota del Ceo; lo ha riportato anche il Financial Times."
+      },
+      {
+       "c": "Il prossimo volo di prova di Starship è intorno all'8 novembre",
+       "n": "Una data provvisoria da un blog che cita informazioni della Faa; non confermata da altre fonti."
+      },
+      {
+       "c": "Fino a 22 lanci per rifornire il lander Starship",
+       "n": "Cifra della Nasa da una riunione di ottobre riportata da Satnews; le stime variano."
+      }
+     ],
+     "ctx": "Il test di accensione accende i motori di un razzo mentre resta a terra. Artemis è il programma della Nasa per riportare astronauti sulla Luna.",
+     "media_caps": [
+      "Correlato: Dawn News sui mesi di ritardo di Blue Origin dopo l'esplosione che ha danneggiato la rampa",
+      "Un razzo New Glenn sulla rampa"
+     ]
+    }
+   }
+  },
+  {
+   "id": 18,
+   "sec": "biz",
+   "time": "22:00",
+   "read": 5,
+   "title": "Nasdaq falls 5.5 percent in its worst day since April 2025 as fears of a Democratic crackdown hit AI stocks",
+   "summary": "On 5 November the Nasdaq dropped 5.52 percent into correction territory, the S&P 500 fell about 4.4 percent and the Dow lost 1,833 points. Chipmakers led, with Nvidia down more than 9 percent. Investors fear a Democratic Congress will slow the AI data centre build-out, and Qualcomm gave a weak forecast.",
+   "body": [
+    "US stocks fell sharply on Thursday. According to Fox Business, the Dow lost 1,833 points, or 3.44 percent, the S&P 500 fell 4.36 percent and the Nasdaq 5.52 percent. The Philadelphia semiconductor index dropped more than 12 percent. Nvidia fell 9.26 percent, losing about 450 billion dollars in market value, and Qualcomm fell more than 9 percent after a disappointing forecast. AMD, Micron and Applied Materials lost double digits, Tesla fell 10.8 percent. NPR puts the total loss in tech value above 2 trillion dollars.",
+    "The explanation most cited is political. After Tuesday's midterms gave Democrats control of Congress, investors worry about more scrutiny of who pays for power-hungry data centres, possible pauses, and slower approvals. Voters also rejected almost all local data centre ballot measures. A strategist at Century Financial expects more congressional hearings on the issue.",
+    "Several voices urge caution. Peter Boockvar of OnePoint BFG said the technology will keep developing, but a slowdown in buildings and infrastructure is what stocks trade on. Another analyst called it a capitulation phase for data centre beneficiaries and said the size of losses looked excessive against fundamentals. Qualcomm's chief executive said the issue is supply, not demand.",
+    "Outlets differ on the history: CNBC says it was the worst day since April 2025, while Il Sole 24 Ore says since 2020. On Friday morning Nasdaq futures were up more than 1 percent, and the VIX volatility index had jumped about 70 percent to 28. This is market reporting, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=nGG5JFO5bXo",
+     "cap": "CBS News: stocks plunge amid AI concerns after the midterm election",
+     "credit": "CBS News"
+    },
+    {
+     "type": "image",
+     "u": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/us-stocks-sink.gif",
+     "cap": "Image from the Fox Business report on the stock plunge",
+     "credit": "Fox Business"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg",
+     "cap": "Image from the CNBC report on the chip selloff",
+     "credit": "CNBC / Getty"
+    },
+    {
+     "type": "image",
+     "u": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2011+0+114/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg",
+     "cap": "Image from the NPR report on the AI market rout",
+     "credit": "NPR / Getty"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Fox Business",
+     "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
+     "t": "US business TV"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+     "t": "US business TV"
+    },
+    {
+     "n": "NPR",
+     "u": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+     "t": "US public radio"
+    },
+    {
+     "n": "The National",
+     "u": "https://www.thenationalnews.com/business/markets/2026/11/05/ai-fears-overtake-democratic-sweep-as-nasdaq-enters-correction-territory/",
+     "t": "Gulf-based news outlet"
+    },
+    {
+     "n": "Yahoo Finance live",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+     "t": "Financial news"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Nasdaq fell about 5.5 percent and Nvidia about 9 percent on 5 November",
+     "n": "Fox Business, CNBC, NPR and The National agree."
+    },
+    {
+     "s": "warn",
+     "c": "The fall was caused by fears of Democratic AI regulation",
+     "n": "This is the explanation reported by outlets and analysts, plus a weak Qualcomm outlook. Causes of a market move are interpretation, not fact."
+    },
+    {
+     "s": "warn",
+     "c": "Worst day since April 2025",
+     "n": "CNBC says April 2025; Il Sole 24 Ore says since 2020. Sources disagree."
+    }
+   ],
+   "ctx": "A correction means a fall of at least 10 percent from a recent high. A semiconductor index tracks chip makers. This is not investment advice.",
+   "loop_query": "stock market trading screens red",
+   "i18n": {
+    "it": {
+     "title": "Il Nasdaq perde il 5,5 per cento, la peggiore seduta da aprile 2025, mentre il timore di una stretta democratica colpisce i titoli IA",
+     "summary": "Il 5 novembre il Nasdaq ha perso il 5,52 per cento entrando in territorio di correzione, lo S&P 500 circa il 4,4 per cento e il Dow 1.833 punti. In testa i produttori di chip, con Nvidia a meno di oltre il 9 per cento. Gli investitori temono che un Congresso democratico rallenti la costruzione dei data center per l'IA, e Qualcomm ha dato una previsione debole.",
+     "body": [
+      "Giovedì le azioni americane sono crollate. Secondo Fox Business il Dow ha perso 1.833 punti, il 3,44 per cento, lo S&P 500 il 4,36 per cento e il Nasdaq il 5,52 per cento. L'indice dei semiconduttori di Filadelfia è sceso di oltre il 12 per cento. Nvidia è calata del 9,26 per cento, perdendo circa 450 miliardi di dollari di valore di mercato, e Qualcomm di oltre il 9 per cento dopo una previsione deludente. Amd, Micron e Applied Materials hanno perso cifre a due numeri, Tesla il 10,8 per cento. Secondo Npr la perdita complessiva di valore tecnologico supera i 2.000 miliardi di dollari.",
+      "La spiegazione più citata è politica. Dopo le elezioni di metà mandato di martedì, che hanno dato ai democratici il controllo del Congresso, gli investitori temono più controlli su chi paga i data center affamati di energia, possibili pause e approvazioni più lente. Gli elettori hanno anche respinto quasi tutte le misure locali sui data center. Uno stratega di Century Financial si aspetta più audizioni al Congresso sul tema.",
+      "Diverse voci invitano alla cautela. Peter Boockvar di OnePoint BFG ha detto che la tecnologia continuerà a svilupparsi, ma sono i rallentamenti di edifici e infrastrutture a muovere i titoli. Un altro analista ha parlato di fase di capitolazione per i beneficiari dei data center e ha detto che l'entità delle perdite sembra eccessiva rispetto ai fondamentali. L'amministratore delegato di Qualcomm ha detto che il problema è l'offerta, non la domanda.",
+      "Le testate divergono sullo storico: per la Cnbc è la peggiore seduta da aprile 2025, per Il Sole 24 Ore dal 2020. Venerdì mattina i future sul Nasdaq erano in rialzo di oltre l'1 per cento e l'indice di volatilità Vix era salito di circa il 70 per cento a 28. È cronaca di mercato, non un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Il 5 novembre il Nasdaq ha perso circa il 5,5 per cento e Nvidia circa il 9 per cento",
+       "n": "Concordano Fox Business, Cnbc, Npr e The National."
+      },
+      {
+       "c": "Il calo è stato causato dal timore di regole democratiche sull'IA",
+       "n": "È la spiegazione riportata da testate e analisti, più una previsione debole di Qualcomm. Le cause di un movimento di mercato sono interpretazione, non fatto."
+      },
+      {
+       "c": "Peggiore seduta da aprile 2025",
+       "n": "La Cnbc dice aprile 2025; Il Sole 24 Ore dice dal 2020. Le fonti non concordano."
+      }
+     ],
+     "ctx": "Una correzione è un calo di almeno il 10 per cento da un massimo recente. Un indice dei semiconduttori misura i produttori di chip. Non è un consiglio di investimento.",
+     "media_caps": [
+      "CBS News: crollo dei titoli per i timori sull'IA dopo le elezioni di metà mandato",
+      "Immagine dal servizio di Fox Business sul crollo dei titoli",
+      "Immagine dal servizio della Cnbc sul calo dei chip",
+      "Immagine dal servizio di Npr sul crollo del mercato dell'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 19,
+   "sec": "biz",
+   "time": "13:27",
+   "read": 4,
+   "title": "The AI selloff spreads to Asia: Tokyo and Seoul plunge and Japan's Nikkei enters a bear market",
+   "summary": "On 6 November Tokyo's Nikkei fell about 6 percent to 57,434 by midday, below 60,000 for the first time in about five and a half months. Seoul fell about 6 percent and later more, Taiwan more than 8 percent, and Europe lost 1.6 to 2 percent. The moves follow Wall Street's rout.",
+   "body": [
+    "At 12:27 Greenwich time, ANSA reported the Nikkei down 5.96 percent at 57,434.77, the first time below 60,000 in about five and a half months, and Seoul down 6 percent. Bloomberg describes the Nikkei as in a technical bear market, meaning a fall of 20 percent from its high. Shanghai lost 1.1 percent, Hong Kong 1.2 percent.",
+    "The National gives later and larger figures: the Nikkei down about 7 percent, Seoul's Kospi down more than 8 percent with a trading halt, and Taiwan down more than 8 percent. Chip names such as Samsung, SK Hynix and TSMC fell heavily. The figures differ because the reports are from different hours.",
+    "In Europe, Frankfurt and London lost about 2 percent and Paris 1.6 percent. The euro fell 0.4 percent to 1.117 dollars, and the yen was around 157.80 per dollar. Emerging markets saw outflows of 33.8 billion dollars in October, the largest since 2020, according to The National.",
+    "The common driver is the reassessment of AI infrastructure spending after the US midterms. Whether it is a temporary shock or a longer reset depends on the Democratic Congress's actual moves, which are not yet known. Prices are fast-moving, and this is not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=ruSpWmzK9EU",
+     "cap": "NDTV: US markets crash, Nasdaq falls over 5 percent as AI stocks plunge after the midterms",
+     "credit": "NDTV"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/925c722e7c83585fd0b816e8c59c6283.jpg",
+     "cap": "Image from the ANSA report on Asian and European markets",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.thenationalnews.com/resizer/v2/5TUOEH2KTVGZJPQD7EQ6BRX23A?auth=e3b99e1533c6beda7650748e933d73677653d65dc1090442d2424d3735d9c699&smart=true&width=1200&height=630",
+     "cap": "Image from The National report on the Nasdaq correction",
+     "credit": "The National"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/piazza-affari-apre-in-forte-calo-tokyo-e-seul-in-picchiata-sulla-scia_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Bloomberg",
+     "u": "https://bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
+     "t": "Financial news agency"
+    },
+    {
+     "n": "Bloomberg, Asian markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones",
+     "t": "Financial news agency"
+    },
+    {
+     "n": "The National",
+     "u": "https://www.thenationalnews.com/business/markets/2026/11/05/ai-fears-overtake-democratic-sweep-as-nasdaq-enters-correction-territory/",
+     "t": "Gulf-based news outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Japan's Nikkei fell below 60,000 on 6 November",
+     "n": "ANSA gives an intraday figure, 57,434.77, and Bloomberg headlines confirm the break."
+    },
+    {
+     "s": "warn",
+     "c": "Size of the falls in Tokyo, Seoul and Taipei",
+     "n": "Figures differ by time of report: Nikkei 5.96 or 7 percent, Kospi 6 or more than 8 percent."
+    }
+   ],
+   "ctx": "A bear market is a fall of 20 percent or more from a high. A trading halt is a pause triggered by a very large price drop. Not investment advice.",
+   "loop_query": "tokyo city night skyline",
+   "i18n": {
+    "it": {
+     "title": "Il crollo dell'IA si estende all'Asia: Tokyo e Seul in picchiata e il Nikkei entra in fase ribassista",
+     "summary": "Il 6 novembre il Nikkei di Tokyo ha perso circa il 6 per cento a 57.434 a metà giornata, sotto 60.000 per la prima volta da circa cinque mesi e mezzo. Seul è calata di circa il 6 per cento e poi di più, Taiwan di oltre l'8 per cento, e l'Europa ha perso tra l'1,6 e il 2 per cento. I movimenti seguono il crollo di Wall Street.",
+     "body": [
+      "Alle 12:27 di Greenwich l'ANSA riportava il Nikkei in calo del 5,96 per cento a 57.434,77, la prima volta sotto 60.000 da circa cinque mesi e mezzo, e Seul a meno 6 per cento. Bloomberg descrive il Nikkei in una fase ribassista tecnica, cioè con un calo del 20 per cento dal massimo. Shanghai ha perso l'1,1 per cento, Hong Kong l'1,2 per cento.",
+      "The National dà cifre successive e più ampie: il Nikkei in calo di circa il 7 per cento, il Kospi di Seul di oltre l'8 per cento con una sospensione degli scambi, e Taiwan di oltre l'8 per cento. Titoli come Samsung, Sk Hynix e Tsmc sono calati molto. Le cifre differiscono perché i servizi sono di ore diverse.",
+      "In Europa Francoforte e Londra hanno perso circa il 2 per cento e Parigi l'1,6 per cento. L'euro è sceso dello 0,4 per cento a 1,117 dollari e lo yen era intorno a 157,80 sul dollaro. I mercati emergenti hanno avuto deflussi per 33,8 miliardi di dollari a ottobre, i maggiori dal 2020, secondo The National.",
+      "Il motore comune è la rivalutazione della spesa per le infrastrutture di IA dopo le elezioni americane di metà mandato. Se sarà uno shock temporaneo o un riassestamento più lungo dipenderà dalle mosse concrete del Congresso democratico, ancora ignote. I prezzi si muovono rapidamente e non è un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Il Nikkei giapponese è sceso sotto 60.000 il 6 novembre",
+       "n": "L'ANSA indica una cifra in corso di seduta, 57.434,77, e i titoli di Bloomberg confermano il superamento."
+      },
+      {
+       "c": "Entità dei cali a Tokyo, Seul e Taipei",
+       "n": "Le cifre differiscono per ora del servizio: Nikkei 5,96 o 7 per cento, Kospi 6 o oltre l'8 per cento."
+      }
+     ],
+     "ctx": "Un mercato ribassista è un calo del 20 per cento o più da un massimo. La sospensione degli scambi è una pausa innescata da un calo di prezzo molto ampio. Non è un consiglio di investimento.",
+     "media_caps": [
+      "NDTV: crollo dei mercati Usa, Nasdaq a meno di oltre il 5 per cento mentre i titoli IA cadono dopo le elezioni",
+      "Immagine dal servizio dell'ANSA sui mercati asiatici ed europei",
+      "Immagine dal servizio di The National sulla correzione del Nasdaq"
+     ]
+    }
+   }
+  },
+  {
+   "id": 20,
+   "sec": "lav",
+   "time": "13:30",
+   "read": 5,
+   "title": "US employers announce the fewest October layoffs in three years, but mostly hire seasonal workers",
+   "summary": "Challenger, Gray and Christmas counted 43,994 announced US job cuts in October, down 71 percent from a year earlier and the lowest October since 2023. Technology still accounts for 28 percent of cuts this year. Today's official jobs report is due at 14:30 Italian time, with economists expecting about 65,000 new jobs.",
+   "body": [
+    "Outplacement firm Challenger reported 43,994 announced cuts in October, 2 percent more than September but 71 percent below October 2025. So far this year there have been 617,189 announced cuts, down 44 percent. Technology leads with 171,501, or 28 percent of the total. Market and economic conditions, with 130,531, have overtaken artificial intelligence as the top stated reason; AI was cited in 121,401 cuts this year, about 20 percent, but only 1,265 in October. Andy Challenger called it a low-fire environment.",
+    "Hiring plans were 444,692 in October, up 57 percent, led by seasonal jobs. Amazon announced 300,000 seasonal hires, the largest single seasonal announcement Challenger has tracked. The private payroll firm ADP reported 86,000 private-sector jobs added in October, above the 75,000 expected.",
+    "The official jobs report from the Bureau of Labor Statistics comes today at 8:30 in New York. Economists expect about 65,000 jobs after 29,000 in September, unemployment steady at 4.2 percent, and wage growth of 2.9 percent over twelve months, the first reading under 3 percent since 2021.",
+    "For a young engineer: few layoffs does not mean many openings. Employers are holding on to staff and hiring cautiously, and much of the hiring is short-term. Challenger counts announcements by US-based firms, not actual layoffs, and does not break out junior roles."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.challengergray.com/wp-content/uploads/2026/11/OCT-2026-Job-Cuts.png",
+     "cap": "Challenger chart of October 2026 job cuts",
+     "credit": "Challenger, Gray and Christmas"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108476508-1793219405492-gettyimages-2301921916-US_JOBLESS_CLAIMS.jpeg",
+     "cap": "Image from the CNBC jobs report preview",
+     "credit": "CNBC / Getty"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Challenger, Gray and Christmas",
+     "u": "https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/",
+     "t": "Primary source, outplacement firm"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/economy/article/layoffs-are-muted-and-companies-are-expanding-seasonal-hiring-plans-challenger-103000956.html",
+     "t": "Financial news"
+    },
+    {
+     "n": "CNBC, jobs report preview",
+     "u": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+     "t": "US business TV"
+    },
+    {
+     "n": "Bloomberg",
+     "u": "https://bloomberg.com/news/articles/2026-11-05/us-companies-announce-fewest-october-job-cuts-in-three-years",
+     "t": "Financial news agency"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "US firms announced 43,994 job cuts in October, down 71 percent from a year earlier",
+     "n": "Challenger's report, repeated by Yahoo Finance and Bloomberg."
+    },
+    {
+     "s": "warn",
+     "c": "Layoffs are low, so the market is healthy for newcomers",
+     "n": "Not shown. Low layoffs sit alongside weak hiring; expected payroll gains are only about 65,000."
+    },
+    {
+     "s": "warn",
+     "c": "Expected jobs report numbers",
+     "n": "Forecasts, not data. The actual report is due today at 14:30 Italian time."
+    }
+   ],
+   "ctx": "Challenger counts announced job cuts by US-based firms, which can differ from actual layoffs. Seasonal hiring is temporary work for the holidays.",
+   "loop_query": "warehouse workers packages",
+   "i18n": {
+    "it": {
+     "title": "Le aziende americane annunciano i meno licenziamenti per un ottobre da tre anni, ma assumono soprattutto stagionali",
+     "summary": "Challenger, Gray and Christmas ha contato 43.994 tagli annunciati negli Stati Uniti a ottobre, il 71 per cento in meno di un anno fa e il dato più basso per un ottobre dal 2023. La tecnologia pesa ancora per il 28 per cento dei tagli di quest'anno. Il rapporto ufficiale sul lavoro è atteso oggi alle 14:30 ora italiana, con economisti che prevedono circa 65.000 nuovi posti.",
+     "body": [
+      "La società di ricollocamento Challenger ha riportato 43.994 tagli annunciati a ottobre, il 2 per cento in più di settembre ma il 71 per cento in meno di ottobre 2025. Da inizio anno i tagli annunciati sono 617.189, il 44 per cento in meno. La tecnologia guida con 171.501, il 28 per cento del totale. Le condizioni di mercato e dell'economia, con 130.531, hanno superato l'intelligenza artificiale come prima motivazione dichiarata; l'IA è stata citata in 121.401 tagli quest'anno, circa il 20 per cento, ma solo in 1.265 a ottobre. Andy Challenger l'ha definito un ambiente di pochi licenziamenti.",
+      "I piani di assunzione sono stati 444.692 a ottobre, il 57 per cento in più, guidati dai lavori stagionali. Amazon ha annunciato 300.000 assunzioni stagionali, il maggiore annuncio stagionale singolo mai registrato da Challenger. La società di paghe ADP ha riportato 86.000 posti aggiunti nel privato a ottobre, sopra i 75.000 attesi.",
+      "Il rapporto ufficiale sul lavoro del Bureau of Labor Statistics esce oggi alle 8:30 a New York. Gli economisti attendono circa 65.000 posti dopo i 29.000 di settembre, disoccupazione stabile al 4,2 per cento e salari in crescita del 2,9 per cento in dodici mesi, la prima lettura sotto il 3 per cento dal 2021.",
+      "Per un giovane ingegnere: pochi licenziamenti non significa molte posizioni aperte. I datori di lavoro tengono il personale e assumono con cautela, e molte assunzioni sono a breve termine. Challenger conta gli annunci di aziende con sede negli Stati Uniti, non i licenziamenti effettivi, e non distingue i ruoli junior."
+     ],
+     "checks": [
+      {
+       "c": "Le aziende americane hanno annunciato 43.994 tagli a ottobre, il 71 per cento in meno di un anno fa",
+       "n": "Rapporto di Challenger, ripreso da Yahoo Finance e Bloomberg."
+      },
+      {
+       "c": "I licenziamenti sono pochi, quindi il mercato è sano per i neo-entrati",
+       "n": "Non dimostrato. I pochi licenziamenti convivono con assunzioni deboli; i guadagni di posti attesi sono solo circa 65.000."
+      },
+      {
+       "c": "I numeri attesi del rapporto sul lavoro",
+       "n": "Sono previsioni, non dati. Il rapporto vero esce oggi alle 14:30 ora italiana."
+      }
+     ],
+     "ctx": "Challenger conta i tagli annunciati dalle aziende con sede negli Stati Uniti, che possono differire dai licenziamenti effettivi. Le assunzioni stagionali sono lavori temporanei per le feste.",
+     "media_caps": [
+      "Grafico di Challenger sui tagli di lavoro di ottobre 2026",
+      "Immagine dall'anteprima della Cnbc sul rapporto sul lavoro"
+     ]
+    }
+   }
+  },
+  {
+   "id": 21,
+   "sec": "lav",
+   "time": "09:00",
+   "read": 4,
+   "title": "Study: bosses trust employees less when they know the work was done with ChatGPT, unless the company encourages AI",
+   "summary": "A study of six experiments in The Leadership Quarterly finds supervisors trust employees less when they know they used AI: 24 percent chance of earning trust, against 68 percent for work done without it. The penalty largely disappears when the organisation explicitly encourages AI use. Some of the work relied on scenarios.",
+   "body": [
+    "Researchers Samuel Meyers and Yochanan Bigman of the Hebrew University of Jerusalem and Roman Briker of the WHU business school ran six studies on how an employee's use of large language models like ChatGPT shapes a supervisor's trust and evaluations. The outcome was reported by Phys.org and EurekAlert on 6 November.",
+    "Employees who did the work themselves had a 68 percent chance of earning their supervisor's trust, versus 24 percent when they used AI. Lower trust went with worse performance ratings, lower perceived contribution and lower perceived suitability for promotion. In one study with academic supervisors judging real graduate student work, the more students used AI, the less supervisors trusted them.",
+    "The effect shrank to statistical insignificance when the organisation explicitly encouraged AI use. The authors say the effect appears psychological rather than based on output quality, and it was not consistently removed by task importance or supervisors' own AI experience. AI use was still viewed more favourably than plagiarism.",
+    "Caveats: some of the research relied on experimental scenarios rather than real workplaces, and the supervisors-of-graduate-students study limits how far it generalises. For a young engineer, the practical reading is to check a team's AI policy, and to be open about AI use where it is encouraged."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/be1996da-571f-422e-94db-f78f12f371d3/Rendition/thumbnail/Content/Public",
+     "cap": "Image from the EurekAlert press release on the study",
+     "credit": "EurekAlert"
+    },
+    {
+     "type": "image",
+     "u": "https://asset.peoplematters.in/images/7a8ca937-0a38-4fbf-aa4a-820fe0f9a4a6.png",
+     "cap": "Image from the People Matters report",
+     "credit": "People Matters"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Phys.org",
+     "u": "https://phys.org/news/2026-11-chatgpt-boss.html",
+     "t": "Science news"
+    },
+    {
+     "n": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1150468",
+     "t": "Press release service"
+    },
+    {
+     "n": "People Matters",
+     "u": "https://www.peoplematters.in/news/ai-and-emerging-tech/employees-who-use-chatgpt-may-be-trusted-less-by-managers-new-study-reveals-53224",
+     "t": "HR trade press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Six studies found supervisors trust AI-using employees less",
+     "n": "Phys.org, EurekAlert and People Matters report the same findings from The Leadership Quarterly."
+    },
+    {
+     "s": "warn",
+     "c": "24 percent versus 68 percent chance of trust",
+     "n": "A study figure from experiments, partly scenario-based, not a measure of real workplaces."
+    },
+    {
+     "s": "ok",
+     "c": "The penalty disappears when the organisation encourages AI",
+     "n": "Reported by all three sources."
+    }
+   ],
+   "ctx": "A large language model is the type of AI behind chatbots such as ChatGPT. Statistical insignificance means the difference could plausibly be due to chance.",
+   "loop_query": "manager meeting laptop office",
+   "i18n": {
+    "it": {
+     "title": "Studio: i capi si fidano meno dei dipendenti che usano ChatGPT, a meno che l'azienda incoraggi l'IA",
+     "summary": "Uno studio di sei esperimenti su The Leadership Quarterly rileva che i superiori si fidano meno dei dipendenti quando sanno che hanno usato l'IA: 24 per cento di probabilità di ottenere fiducia, contro il 68 per cento per il lavoro fatto senza. La penalizzazione sparisce in gran parte quando l'organizzazione incoraggia esplicitamente l'IA. Parte del lavoro si basava su scenari.",
+     "body": [
+      "I ricercatori Samuel Meyers e Yochanan Bigman dell'Università ebraica di Gerusalemme e Roman Briker della scuola di management WHU hanno condotto sei studi su come l'uso di modelli linguistici come ChatGPT da parte di un dipendente influenzi la fiducia e le valutazioni del superiore. Il risultato è stato riportato da Phys.org ed EurekAlert il 6 novembre.",
+      "I dipendenti che facevano il lavoro da soli avevano il 68 per cento di probabilità di ottenere la fiducia del superiore, contro il 24 per cento con l'IA. Meno fiducia andava con valutazioni peggiori, minore contributo percepito e minore idoneità alla promozione. In uno studio con docenti che giudicavano lavori reali di studenti post-laurea, più gli studenti usavano l'IA, meno i supervisori si fidavano.",
+      "L'effetto si riduceva a livelli statisticamente non significativi quando l'organizzazione incoraggiava esplicitamente l'uso dell'IA. Gli autori dicono che l'effetto appare psicologico e non basato sulla qualità del risultato, e che non era eliminato in modo costante né dall'importanza del compito né dall'esperienza dei superiori con l'IA. L'uso dell'IA era comunque visto più favorevolmente del plagio.",
+      "Avvertenze: parte della ricerca si basava su scenari sperimentali e non su luoghi di lavoro reali, e lo studio con i supervisori di studenti limita la generalizzabilità. Per un giovane ingegnere, la lettura pratica è verificare la politica sull'IA del team ed essere trasparenti sull'uso dell'IA dove è incoraggiato."
+     ],
+     "checks": [
+      {
+       "c": "Sei studi hanno trovato che i superiori si fidano meno di chi usa l'IA",
+       "n": "Phys.org, EurekAlert e People Matters riportano gli stessi risultati da The Leadership Quarterly."
+      },
+      {
+       "c": "24 per cento contro 68 per cento di probabilità di ottenere fiducia",
+       "n": "Cifra di studio da esperimenti, in parte basati su scenari, non una misura di luoghi di lavoro reali."
+      },
+      {
+       "c": "La penalizzazione sparisce quando l'organizzazione incoraggia l'IA",
+       "n": "Riportato da tutte e tre le fonti."
+      }
+     ],
+     "ctx": "Un modello linguistico di grandi dimensioni è il tipo di IA dietro chatbot come ChatGPT. Non significativo statisticamente vuol dire che la differenza potrebbe essere dovuta al caso.",
+     "media_caps": [
+      "Immagine dal comunicato di EurekAlert sullo studio",
+      "Immagine dal servizio di People Matters"
+     ]
+    }
+   }
+  }
+ ]
+}
