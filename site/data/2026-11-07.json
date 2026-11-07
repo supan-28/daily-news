@@ -1,0 +1,2234 @@
+{
+ "date": "2026-11-07",
+ "date_label": "Saturday, 7 November 2026",
+ "items": [
+  {
+   "id": 1,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "23:11",
+   "read": 4,
+   "title": "Lega's pick for the anti-corruption authority withdraws within a day after opposition protests",
+   "summary": "Trifone Altieri, a former League deputy named to head Italy's anti-corruption authority, gave up the post on the evening of 6 November. He cited reasons of political, institutional and personal opportunity after the opposition said he could not hold the job. A second League nominee, Giulio Centemero for the Consob board, is also under fire.",
+   "body": [
+    "Trifone Altieri is a former League deputy who joined the party in 2017, previously worked with Forza Italia and sat on the board of the defence group Leonardo. The government had indicated him to lead Anac, the national anti-corruption authority. On the evening of 6 November, less than 24 hours after the news, he said he was withdrawing his availability for reasons of political, institutional and personal opportunity, after talking with Prime Minister Giorgia Meloni and her deputies. The news agency ANSA published the story at 11:11 in the evening.",
+    "The opposition parties Democratic Party, Five Star Movement, Greens and Left Alliance, Italia Viva, More Europe and Azione sent a joint letter asking Meloni to withdraw the nomination and to choose someone of undisputed independence. They pointed to Article 13 of Legislative Decree 150 of 2009, which bars people who held elected office or party roles in the previous three years. The League replied that Altieri never actually held the party defence post, and its coordinator Armando Siri said the appointment had been revoked.",
+    "The government also indicated Giulio Centemero, a former League treasurer, for the board of Consob, the market regulator. The centre-left opposition criticised this too, and said the government is trying to occupy independent institutions. The sources opened do not report that this nomination was withdrawn.",
+    "Palazzo Chigi, the prime minister's office, thanked Altieri and recognised political prudence as the basis of his choice. Asked about early elections on 7 November, Meloni told journalists that others have a fixation with voting while she is working. What is still unknown is who the government will now propose for Anac, and whether Parliament's committees will examine Centemero's nomination."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://i2.res.24o.it/stream/assets/img/Lapresse/2026/11/07/large-LP_638288_128.jpg",
+     "cap": "Image from the Il Sole 24 Ore video report on Altieri's withdrawal",
+     "credit": "LaPresse / Il Sole 24 Ore"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/1147125c8d58529f54dd504d7768907f.jpg",
+     "cap": "Image from the ANSA report on the opposition attack over Altieri",
+     "credit": "ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/governo/meloni-in-sella-fissati-col-voto-anac-altieri-fa-un-passo-indietro/",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "u": "https://stream24.ilsole24ore.com/video/italia/anac-altieri-ritira-candidatura-le-proteste-opposizioni/AJyPuL8B",
+     "t": "Italian financial daily, video report"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Altieri withdrew his availability to head Anac on 6 November",
+     "n": "Reported by ANSA, Il Giornale and Il Sole 24 Ore, which quote his own statement."
+    },
+    {
+     "s": "warn",
+     "c": "Altieri was legally barred from the post",
+     "n": "This is the opposition's reading of Article 13 of Legislative Decree 150 of 2009. The League says he never held the party role. No authority has ruled on it, and he withdrew before any formal act."
+    },
+    {
+     "s": "warn",
+     "c": "The Centemero nomination to Consob is still standing",
+     "n": "The sources opened criticise it but do not report a withdrawal. The status may have changed after publication."
+    }
+   ],
+   "ctx": "Anac, the national anti-corruption authority, oversees public contracts and transparency rules in public administration. Consob supervises Italian financial markets and listed companies. Both are meant to be independent from the government that proposes their leaders, which is why party ties draw scrutiny. This is a political dispute, and the legal question was never tested.",
+   "loop_query": "italian parliament building rome",
+   "i18n": {
+    "it": {
+     "title": "Il candidato della Lega all'Anticorruzione si ritira dopo meno di un giorno tra le proteste delle opposizioni",
+     "summary": "Trifone Altieri, ex deputato leghista indicato alla guida dell'Autorità anticorruzione, ha rinunciato all'incarico la sera del 6 novembre. Ha parlato di ragioni di opportunità politica, istituzionale e personale, dopo che le opposizioni avevano sostenuto che non potesse ricoprire il ruolo. Anche l'altro nome leghista, Giulio Centemero per il collegio della Consob, è sotto accusa.",
+     "body": [
+      "Trifone Altieri è un ex deputato della Lega, iscritto dal 2017, che in passato ha collaborato con Forza Italia e ha fatto parte del consiglio di amministrazione del gruppo della difesa Leonardo. Il governo lo aveva indicato per guidare l'Anac, l'Autorità nazionale anticorruzione. La sera del 6 novembre, a meno di 24 ore dalla notizia, ha dichiarato di ritirare la propria disponibilità per ragioni di opportunità politica, istituzionale e personale, dopo un confronto con la presidente del Consiglio Giorgia Meloni e con i suoi vice. L'agenzia ANSA ha pubblicato la notizia alle 23:11.",
+      "I partiti di opposizione, Partito democratico, Movimento 5 Stelle, Alleanza Verdi e Sinistra, Italia Viva, Più Europa e Azione, hanno inviato una lettera congiunta in cui chiedono a Meloni di ritirare la nomina e di scegliere una figura di indiscussa indipendenza. Hanno richiamato l'articolo 13 del decreto legislativo 150 del 2009, che esclude chi ha ricoperto cariche elettive o ruoli di partito nei tre anni precedenti. La Lega ha risposto che Altieri non ha mai ricoperto davvero l'incarico di partito sulla difesa, e il suo coordinatore Armando Siri ha detto che la nomina era stata revocata.",
+      "Il governo ha indicato anche Giulio Centemero, ex tesoriere della Lega, per il collegio della Consob, l'autorità di vigilanza sui mercati. Anche in questo caso il centrosinistra ha criticato la scelta, parlando di un tentativo del governo di occupare le istituzioni indipendenti. Le fonti consultate non riferiscono che questa nomina sia stata ritirata.",
+      "Palazzo Chigi ha ringraziato Altieri e ha riconosciuto la prudenza politica alla base della sua scelta. Interrogata il 7 novembre sulle elezioni anticipate, Meloni ha detto ai giornalisti che gli altri hanno la fissazione del voto mentre lei lavora. Non si sa ancora chi il governo proporrà ora per l'Anac, né se le commissioni parlamentari esamineranno la nomina di Centemero."
+     ],
+     "checks": [
+      {
+       "c": "Altieri ha ritirato la disponibilità a guidare l'Anac il 6 novembre",
+       "n": "Lo riportano ANSA, Il Giornale e Il Sole 24 Ore, che citano la sua dichiarazione."
+      },
+      {
+       "c": "Altieri non poteva legalmente ricoprire l'incarico",
+       "n": "È la lettura delle opposizioni dell'articolo 13 del decreto legislativo 150 del 2009. La Lega sostiene che non abbia mai ricoperto il ruolo di partito. Nessuna autorità si è pronunciata e lui si è ritirato prima di qualsiasi atto formale."
+      },
+      {
+       "c": "La nomina di Centemero alla Consob è ancora in piedi",
+       "n": "Le fonti consultate la criticano ma non riportano un ritiro. La situazione potrebbe essere cambiata dopo la pubblicazione."
+      }
+     ],
+     "ctx": "L'Anac, l'Autorità nazionale anticorruzione, vigila sugli appalti pubblici e sulle regole di trasparenza nella pubblica amministrazione. La Consob controlla i mercati finanziari e le società quotate. Entrambe devono essere indipendenti dal governo che ne propone i vertici, ed è per questo che i legami di partito attirano attenzione. Si tratta di uno scontro politico, e la questione giuridica non è mai stata verificata.",
+     "media_caps": [
+      "Immagine dal servizio video del Sole 24 Ore sul ritiro di Altieri",
+      "Immagine dal servizio ANSA sull'attacco delle opposizioni su Altieri"
+     ]
+    }
+   }
+  },
+  {
+   "id": 2,
+   "sec": "ita",
+   "topic": "pol",
+   "time": "09:00",
+   "read": 4,
+   "title": "Tajani says his personal data was spread on the dark web; Meloni calls the sale of official data a serious concern",
+   "summary": "Foreign Minister Antonio Tajani said cybercriminals have for days published his personal data on the dark web and are ready to pay for more details about him and his family. He links it to Italy's support for Ukraine. Meloni expressed full solidarity and asked for a firm response.",
+   "body": [
+    "On 6 and 7 November, Antonio Tajani, who is both foreign minister and deputy prime minister, wrote on X that cybercriminals had for days spread his personal data on the dark web and were ready to pay for more details about him and his loved ones. He said he will not be intimidated, and that defending a sovereign state and its democracy is something these criminal groups consider dangerous.",
+    "Euronews Italy, citing the daily Il Fatto Quotidiano, attributes the leak to the pro-Russian group NoName057 sixteen. The same list reportedly names the Rome chief prosecutor Francesco Lo Voi and the head of the Postal Police, Ivano Gabrielli. Tajani said the Foreign Ministry set up a cyber directorate on 1 January to defend against such attacks. The Senate foreign affairs committee chair, Maurizio Gasparri, also voiced concern.",
+    "Prime Minister Giorgia Meloni expressed full solidarity. She said the sale of reserved information about institutional representatives is a matter of great concern and must be addressed with maximum determination. She also spoke about a false image of Tajani wearing a MAGA hat, which was shared by a Democratic Party figure and later removed.",
+    "This follows the wave of hybrid attacks described on 6 November, when Tajani pointed to the East. What is still unknown is how the data was obtained, how many officials are affected, and whether investigators have confirmed who is behind it. The Foreign Ministry cyber directorate and the national cybersecurity agency have not published details in the sources opened."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=WFJ24Eqcbng",
+     "cap": "Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”",
+     "credit": "La Repubblica"
+    },
+    {
+     "type": "image",
+     "u": "https://images.euronews.com/articles/stories/09/98/37/53/1200x675_cmsv2_05ba9121-5516-5cfe-a6f0-f36fbfe3f1a2-9983753.jpg",
+     "cap": "Antonio Tajani, image from the Euronews Italy report",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://statics.cedscdn.it/photos/MED_HIGH/2026/11/07/9875209_07105030_onecms_1uxrv17p13uipe9v2g7.jpg",
+     "cap": "Image from the Il Messaggero report on Tajani's statement",
+     "credit": "Il Messaggero"
+    },
+    {
+     "type": "image",
+     "u": "https://www.adnkronos.com/resources/02ab-22034093de41-f872a4f94822-1000/tajani.jpeg",
+     "cap": "Antonio Tajani, image from the Adnkronos report",
+     "credit": "Adnkronos"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Euronews Italia",
+     "u": "https://it.euronews.com/2026/11/07/italia-dati-del-ministro-tajani-diffusi-da-hacker-russi-nel-dark-web-condanna-di-meloni",
+     "t": "International broadcaster"
+    },
+    {
+     "n": "Adnkronos",
+     "u": "https://www.adnkronos.com/internazionale/esteri/cyberattacchi-tajani-minaccia-denuncia-dark-web_2VgzZjfeX65D2THSO6s4gq",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Messaggero",
+     "u": "https://www.ilmessaggero.it/politica/tajani_dark_web_difesa_ucraina_foto_attacco_cyber-9875209.html",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Palazzo Chigi, statement by the Prime Minister",
+     "u": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
+     "t": "Government, primary source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Tajani's personal data was published on the dark web",
+     "n": "Stated by Tajani himself on X and reported by Euronews, Adnkronos and Il Messaggero. Meloni's government statement confirms the solidarity."
+    },
+    {
+     "s": "warn",
+     "c": "The pro-Russian group NoName057(16) is responsible",
+     "n": "The attribution is reported by Euronews citing Il Fatto Quotidiano and by Adnkronos. No investigator or agency has publicly confirmed it in the sources opened."
+    },
+    {
+     "s": "warn",
+     "c": "Other officials are on the same list",
+     "n": "The names of the Rome prosecutor and the Postal Police head come from a single press report cited by Euronews."
+    }
+   ],
+   "ctx": "NoName057(16) is a pro-Russian hacktivist group best known for denial-of-service attacks that knock websites offline. Publishing personal data of officials is a different tactic, called doxxing, meant to intimidate. The Russian government has not commented in the sources opened. Attribution of cyber incidents is difficult and often takes investigators weeks.",
+   "loop_query": "hacker typing dark computer screen",
+   "i18n": {
+    "it": {
+     "title": "Tajani: i miei dati personali diffusi nel dark web. Meloni: la vendita di informazioni riservate è un fatto grave",
+     "summary": "Il ministro degli Esteri Antonio Tajani ha detto che da giorni dei criminali informatici hanno diffuso i suoi dati personali nel dark web e sono pronti a pagare per altri dettagli su di lui e sulla sua famiglia. Lo collega al sostegno dell'Italia all'Ucraina. Meloni ha espresso piena solidarietà e ha chiesto una risposta decisa.",
+     "body": [
+      "Il 6 e 7 novembre Antonio Tajani, ministro degli Esteri e vicepresidente del Consiglio, ha scritto su X che da giorni dei criminali informatici hanno diffuso i suoi dati personali nel dark web e sono pronti a pagare per avere altri dettagli su di lui e sui suoi cari. Ha detto che non si farà intimidire e che difendere uno Stato sovrano e la sua democrazia è qualcosa che questi gruppi criminali considerano pericoloso.",
+      "Euronews Italia, citando il quotidiano Il Fatto Quotidiano, attribuisce la diffusione al gruppo filorusso NoName057 sedici. Nella stessa lista comparirebbero anche il procuratore capo di Roma Francesco Lo Voi e il capo della Polizia postale Ivano Gabrielli. Tajani ha ricordato che la Farnesina ha creato una direzione cyber il primo gennaio per difendersi da questi attacchi. Anche il presidente della commissione Esteri del Senato, Maurizio Gasparri, ha espresso preoccupazione.",
+      "La presidente del Consiglio Giorgia Meloni ha espresso piena solidarietà. Ha detto che la vendita di informazioni riservate su rappresentanti delle istituzioni è motivo di grande preoccupazione e va affrontata con la massima determinazione. Ha parlato anche di un'immagine falsa di Tajani con un cappello MAGA, condivisa da un esponente del Partito democratico e poi rimossa.",
+      "La vicenda segue l'ondata di attacchi ibridi descritta il 6 novembre, quando Tajani aveva indicato l'Est. Non si sa ancora come siano stati ottenuti i dati, quanti funzionari siano coinvolti e se gli investigatori abbiano confermato chi c'è dietro. La direzione cyber della Farnesina e l'Agenzia per la cybersicurezza nazionale non hanno pubblicato dettagli nelle fonti consultate."
+     ],
+     "checks": [
+      {
+       "c": "I dati personali di Tajani sono stati pubblicati nel dark web",
+       "n": "Lo afferma lo stesso Tajani su X e lo riportano Euronews, Adnkronos e Il Messaggero. La dichiarazione del governo conferma la solidarietà."
+      },
+      {
+       "c": "Il gruppo filorusso NoName057(16) è il responsabile",
+       "n": "L'attribuzione è riportata da Euronews, che cita Il Fatto Quotidiano, e da Adnkronos. Nessun investigatore o agenzia l'ha confermata pubblicamente nelle fonti consultate."
+      },
+      {
+       "c": "Altri funzionari sono nella stessa lista",
+       "n": "I nomi del procuratore di Roma e del capo della Polizia postale provengono da un unico articolo citato da Euronews."
+      }
+     ],
+     "ctx": "NoName057(16) è un gruppo hacktivista filorusso noto soprattutto per gli attacchi che mandano offline i siti web. Pubblicare i dati personali di funzionari è una tattica diversa, detta doxxing, pensata per intimidire. Il governo russo non ha commentato nelle fonti consultate. Attribuire un incidente informatico è difficile e richiede spesso settimane di indagini.",
+     "media_caps": [
+      "Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”",
+      "Antonio Tajani, immagine dal servizio di Euronews Italia",
+      "Immagine dal servizio del Messaggero sulla dichiarazione di Tajani",
+      "Antonio Tajani, immagine dal servizio di Adnkronos"
+     ]
+    }
+   }
+  },
+  {
+   "id": 3,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "15:30",
+   "read": 4,
+   "title": "Budget law enters Parliament hearings on 9 November; pensions, health and defence divide the coalition",
+   "summary": "Budget committees of the Chamber and Senate begin hearings on Monday 9 November with businesses, banks, unions and regions. Economy Minister Giorgetti is due to speak on Thursday 12 November, and unions meet Meloni on 13 November. Meloni backed Giorgetti's fiscal discipline while allies push their own requests.",
+   "body": [
+    "According to ANSA, hearings before the Budget committees of the Chamber and Senate run from 9 to 12 November. Representatives of business groups, banks, unions and regional authorities are expected. Economy Minister Giancarlo Giorgetti is scheduled to speak on Thursday 12 November. On 13 November, union leaders will meet Prime Minister Giorgia Meloni at Palazzo Chigi.",
+    "Unions complain about the timing. They say the government has already decided everything before listening to them. The CGIL union has called a general strike for 20 November against the budget law, as reported on 6 November.",
+    "Inside the majority the points of friction are pensions, where the League wants to abolish the Fornero reform, school funding, defence spending and tax measures. Forza Italia is asking for changes to the exit tax and a ten-year extension of the Superbonus building incentives. Deputy Economy Minister Maurizio Leo said he is open to adjustments and simplifications. Italy's regions also held an extraordinary meeting on 3 November about planned cuts to health funding.",
+    "On 7 November Meloni said she does not see Giorgetti's approach as too rigid and that she shares the work they have done together. What is still unknown is how much room there is to change the text. Prices add pressure: inflation reached 5.4% in October according to Istat's preliminary estimate. For students and young workers, the measures on pensions, school funding and wages are the ones to watch."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=wdEP3wC8x_M",
+     "cap": "Related: TG La7 report on the clash over health and schools in the 2027 budget bill",
+     "credit": "TG La7"
+    },
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/7/24/f8c8b893e0b9384f9892753f4ba99a9f.jpg",
+     "cap": "Image from the ANSA report on the budget law hearings",
+     "credit": "ANSA"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA, budget hearings",
+     "u": "https://ansa.it/sito/notizie/politica/2026/11/06/manovra-lunedi-al-via-le-audizioni-attese-imprese-banche-sindacati-e-regioni_0ec0aa84-e641-47e8-af76-d966564ce5a0.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/governo/meloni-in-sella-fissati-col-voto-anac-altieri-fa-un-passo-indietro/",
+     "t": "Italian daily"
+    },
+    {
+     "n": "ANSA, regions and health cuts",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
+     "t": "News agency"
+    },
+    {
+     "n": "CGIL, general strike proclamation",
+     "u": "https://www.cgil.it/strumenti/scioperi-e-vertenze/cgil-proclamazione-sciopero-generale-per-il-giorno-20-novembre-2026-x0ylgq91",
+     "t": "Union, primary source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Hearings run from 9 to 12 November and Giorgetti speaks on 12 November",
+     "n": "Schedule given by ANSA. It can change and no parliamentary calendar was opened."
+    },
+    {
+     "s": "ok",
+     "c": "Meloni publicly backed Giorgetti's fiscal approach",
+     "n": "Reported by ANSA and by Il Giornale on 7 November."
+    },
+    {
+     "s": "warn",
+     "c": "The coalition is divided over pensions, the exit tax and the Superbonus",
+     "n": "These are requests from parties, reported by ANSA. None is a decision, and the text may change in Parliament."
+    }
+   ],
+   "ctx": "The budget law, in Italian the manovra, sets taxes and spending for the next year and must be approved by Parliament by the end of December. The hearings let stakeholders comment before MPs vote on amendments. The Fornero reform of 2011 raised the pension age. The Superbonus was a generous building renovation incentive that strained public finances.",
+   "loop_query": "parliament chamber italian politicians",
+   "i18n": {
+    "it": {
+     "title": "La manovra arriva alle audizioni il 9 novembre: pensioni, sanità e difesa dividono la maggioranza",
+     "summary": "Le commissioni Bilancio di Camera e Senato aprono lunedì 9 novembre le audizioni con imprese, banche, sindacati e Regioni. Il ministro dell'Economia Giorgetti è atteso giovedì 12 novembre e i sindacati incontrano Meloni il 13. Meloni ha difeso il rigore di Giorgetti mentre gli alleati avanzano le proprie richieste.",
+     "body": [
+      "Secondo l'ANSA, le audizioni davanti alle commissioni Bilancio di Camera e Senato si svolgono dal 9 al 12 novembre. Sono attesi rappresentanti di imprese, banche, sindacati e Regioni. Il ministro dell'Economia Giancarlo Giorgetti è atteso giovedì 12 novembre. Il 13 novembre i leader sindacali incontreranno la presidente del Consiglio Giorgia Meloni a Palazzo Chigi.",
+      "I sindacati contestano i tempi. Dicono che il governo ha già deciso tutto prima di ascoltarli. La Cgil ha proclamato uno sciopero generale il 20 novembre contro la legge di bilancio, come riferito il 6 novembre.",
+      "Nella maggioranza i punti di attrito sono le pensioni, dove la Lega vuole abolire la riforma Fornero, i fondi per la scuola, le spese per la difesa e le misure fiscali. Forza Italia chiede modifiche all'exit tax e una proroga di dieci anni del Superbonus edilizio. Il viceministro dell'Economia Maurizio Leo si è detto aperto ad aggiustamenti e semplificazioni. Le Regioni hanno tenuto una riunione straordinaria il 3 novembre sui tagli previsti alla sanità.",
+      "Il 7 novembre Meloni ha detto di non ritenere troppo rigido l'approccio di Giorgetti e di condividere il lavoro fatto insieme. Non si sa ancora quanto margine ci sia per cambiare il testo. I prezzi aggiungono pressione: l'inflazione è arrivata al 5,4 per cento a ottobre secondo la stima preliminare dell'Istat. Per studenti e giovani lavoratori le misure su pensioni, scuola e salari sono quelle da seguire."
+     ],
+     "checks": [
+      {
+       "c": "Le audizioni vanno dal 9 al 12 novembre e Giorgetti interviene il 12",
+       "n": "Il calendario è dell'ANSA. Può cambiare e non è stato consultato il calendario parlamentare."
+      },
+      {
+       "c": "Meloni ha difeso pubblicamente l'impostazione fiscale di Giorgetti",
+       "n": "Lo riportano l'ANSA e Il Giornale il 7 novembre."
+      },
+      {
+       "c": "La maggioranza è divisa su pensioni, exit tax e Superbonus",
+       "n": "Sono richieste dei partiti, riportate dall'ANSA. Nessuna è una decisione e il testo può cambiare in Parlamento."
+      }
+     ],
+     "ctx": "La legge di bilancio, in italiano la manovra, fissa tasse e spesa per l'anno successivo e deve essere approvata dal Parlamento entro la fine di dicembre. Le audizioni permettono ai soggetti interessati di esprimersi prima del voto sugli emendamenti. La riforma Fornero del 2011 ha alzato l'età pensionabile. Il Superbonus è stato un generoso incentivo per le ristrutturazioni edilizie che ha pesato sui conti pubblici.",
+     "media_caps": [
+      "Correlato: servizio del TG La7 sullo scontro su sanità e scuola nella legge di bilancio 2027",
+      "Immagine dal servizio ANSA sulle audizioni sulla manovra"
+     ]
+    }
+   }
+  },
+  {
+   "id": 4,
+   "sec": "ita",
+   "topic": "biz",
+   "time": "17:35",
+   "read": 3,
+   "title": "Milan stocks fall 0.9 percent to about 50,050 points as banks drag; the BTP spread eases to 107 points",
+   "summary": "The FTSE MIB closed Friday down 0.9% at about 50,050 points, pulled lower by banks, after another wave of selling in tech and artificial intelligence stocks hit Asia and Europe. The gap between Italian and German ten-year bonds narrowed to 107.4 basis points, with the Italian yield at 4.32%. For the week the index still gained 1.12%.",
+   "body": [
+    "On 6 November Milan's main index, the FTSE MIB, closed down 0.9% at about 50,050 points. It moved between a low of 49,651 and a high of 50,312. According to Soldionline, which gave 50,053, the index still rose 1.12% over the week. Banks were generally weaker. Banco BPM lost 3.17% after its quarterly results, Nexi lost 3.64% and Eni lost 1.2% as oil prices weakened. Intercos, Piaggio and Tenaris were among the best performers.",
+    "The wider mood was negative. ANSA reported another wave of selling in technology and artificial intelligence shares after the heavy fall on Wall Street, with Tokyo and Seoul plunging. The site Borse.it headlined worries over Federal Reserve rates and uncertainty over AI regulation.",
+    "On the bond market, the spread between Italian and German ten-year bonds closed at 107.4 basis points, lower than before, with the Italian ten-year yield at 4.32%. Some data providers showed slightly different levels during the day, around 105 or 111 points. One basis point is one hundredth of a percentage point.",
+    "Context for readers: the spread is the extra yield investors ask to hold Italian rather than German debt, and it is used as a gauge of confidence in Italy's public finances. Wall Street later ended Friday with the Nasdaq up 1.09%. This is market information, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/925c722e7c83585fd0b816e8c59c6283.jpg",
+     "cap": "Image from the ANSA report on Piazza Affari",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2026/11/202611060745242997/PiazzaAffari-258398.jpg?format=webp",
+     "cap": "Piazza Affari, Milan's stock exchange, from the Milano Finanza live blog",
+     "credit": "Milano Finanza"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA, BTP-Bund spread",
+     "u": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/lo-spread-btp-bund-chiude-in-flessione-a-1074-punti_7408e553-e869-4444-9df1-40b1474dd960.html",
+     "t": "News agency"
+    },
+    {
+     "n": "ANSA, Piazza Affari",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/piazza-affari-in-calo-con-leuropa-tokyo-e-seul-in-picchiata-sulla-scia_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Soldionline",
+     "u": "https://www.soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-6-novembre-2026",
+     "t": "Financial website"
+    },
+    {
+     "n": "QuiFinanza",
+     "u": "https://quifinanza.it/economia/finanza/spread-btp-bund-6-novembre-2026/1023083/",
+     "t": "Financial website"
+    },
+    {
+     "n": "Borse.it",
+     "u": "https://www.borse.it/articolo/ultime-notizie/borse-europee-in-rosso-sul-finale-di-settimana-pesano-i-timori-sui-tassi-fed-e-lincognita-regolatoria-sullai",
+     "t": "Financial website"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The FTSE MIB closed down 0.9% at about 50,050 points",
+     "n": "Soldionline gives 0.9% and 50,053. The ANSA report on Piazza Affari headlines the fall."
+    },
+    {
+     "s": "warn",
+     "c": "The BTP-Bund spread closed at 107.4 points with the yield at 4.32%",
+     "n": "ANSA gives these figures. QuiFinanza showed 111 points and 4.33% and Soldionline about 105, probably at different times of the day."
+    },
+    {
+     "s": "warn",
+     "c": "Selling was driven by AI stocks and fears over Fed rates and regulation",
+     "n": "Borse.it, in its headline, and ANSA describe the mood. Causes of daily market moves are interpretations."
+    }
+   ],
+   "ctx": "The FTSE MIB tracks the 40 largest companies on Borsa Italiana. A basis point is one hundredth of a percentage point. This section reports market data and is not investment advice.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "Piazza Affari cede lo 0,9 per cento a circa 50.050 punti, zavorrata dalle banche; lo spread Btp-Bund scende a 107 punti",
+     "summary": "Venerdì il Ftse Mib ha chiuso in calo dello 0,9 per cento a circa 50.050 punti, trascinato dalle banche, dopo una nuova ondata di vendite sui titoli tecnologici e dell'intelligenza artificiale che ha colpito Asia ed Europa. Il differenziale tra Btp e Bund decennali si è ridotto a 107,4 punti base, con il rendimento italiano al 4,32 per cento. Nella settimana l'indice è comunque salito dell'1,12 per cento.",
+     "body": [
+      "Il 6 novembre l'indice principale di Milano, il Ftse Mib, ha chiuso in calo dello 0,9 per cento a circa 50.050 punti. Si è mosso tra un minimo di 49.651 e un massimo di 50.312. Secondo Soldionline, che indica 50.053 punti, nella settimana l'indice è comunque salito dell'1,12 per cento. Le banche sono state in generale più deboli. Banco Bpm ha perso il 3,17 per cento dopo i conti trimestrali, Nexi il 3,64 per cento ed Eni l'1,2 per cento con il petrolio in calo. Tra i migliori Intercos, Piaggio e Tenaris.",
+      "Il clima generale è stato negativo. L'ANSA ha riferito di una nuova ondata di vendite sui titoli tecnologici e dell'intelligenza artificiale dopo il pesante calo di Wall Street, con Tokyo e Seul in forte discesa. Il sito Borse.it ha titolato sui timori per i tassi della Federal Reserve e sull'incertezza regolatoria sull'IA.",
+      "Sul mercato obbligazionario il differenziale tra Btp e Bund decennali ha chiuso a 107,4 punti base, più basso di prima, con il rendimento del decennale italiano al 4,32 per cento. Alcuni fornitori di dati hanno indicato durante la giornata livelli leggermente diversi, intorno a 105 o a 111 punti. Un punto base è un centesimo di punto percentuale.",
+      "Per capire: lo spread è il rendimento in più che gli investitori chiedono per tenere debito italiano invece che tedesco, ed è usato come misura della fiducia nei conti pubblici italiani. Wall Street ha poi chiuso venerdì con il Nasdaq in rialzo dell'1,09 per cento. Sono informazioni di mercato, non consigli di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Il Ftse Mib ha chiuso in calo dello 0,9 per cento a circa 50.050 punti",
+       "n": "Soldionline indica lo 0,9 per cento e 50.053 punti. Il servizio dell'ANSA su Piazza Affari titola sul calo."
+      },
+      {
+       "c": "Lo spread Btp-Bund ha chiuso a 107,4 punti con il rendimento al 4,32 per cento",
+       "n": "Sono i dati dell'ANSA. QuiFinanza mostrava 111 punti e 4,33 per cento e Soldionline circa 105, probabilmente in momenti diversi della giornata."
+      },
+      {
+       "c": "Le vendite sono state guidate dai titoli dell'IA e dai timori su tassi Fed e regolamentazione",
+       "n": "Lo descrivono Borse.it nel titolo e l'ANSA. Le cause dei movimenti giornalieri di Borsa sono interpretazioni."
+      }
+     ],
+     "ctx": "Il Ftse Mib misura l'andamento delle 40 maggiori società di Borsa Italiana. Un punto base è un centesimo di punto percentuale. Questa sezione riporta dati di mercato e non fornisce consigli di investimento.",
+     "media_caps": [
+      "Immagine dal servizio ANSA su Piazza Affari",
+      "Piazza Affari, la Borsa di Milano, dalla diretta di Milano Finanza"
+     ]
+    }
+   }
+  },
+  {
+   "id": 5,
+   "sec": "ita",
+   "topic": "ai",
+   "time": "12:00",
+   "read": 3,
+   "title": "Eleven banking foundations launch trAIning, free AI courses and young advisers for firms in the 2016 earthquake zone",
+   "summary": "Eleven banking foundations of central Italy and the Marche Polytechnic University presented trAIning in Ancona on 6 November. The programme, worth more than 650,000 euros and running to the end of 2028, offers small and medium firms in the earthquake zone free artificial intelligence training. Eleven young AI advisers will work with the companies.",
+   "body": [
+    "The project was presented at the Teatro delle Muse in Ancona. It is promoted by eleven banking foundations of central Italy together with the Marche Polytechnic University, the Vitality Foundation and the Vittorio Merloni Foundation. According to ANSA, funding exceeds 650,000 euros, coming from the earthquake funds managed by Acri, the association of banking foundations. The project runs until the end of 2028.",
+    "It starts with eleven AI advisers, young professionals, one for each foundation's territory. They are chosen through a public call and trained by the university's Department of Management, which also holds the scientific direction. The scientific director is the professor Luca Marinelli, and Maurizio Frascarelli, president of Fondazione Carisap, leads the foundations.",
+    "Companies get 60 hours of lessons in six modules, from market research and communication to administration and data analysis, with attention to ethics, privacy and security. Then comes 90 hours of project work on a specific business need, with the result checked at the end.",
+    "Why it matters for a young engineer: it shows a concrete job route in Italy, as an adviser who helps small firms adopt AI, rather than only a role in a large tech company. What is still unknown is how many firms will join, how the advisers will be paid, and what results will be measured. The same day, the Open Innovation Summit in Turin, promoted by Il Sole 24 Ore and Zest, discussed AI and robotics."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/2560cd27b4c7866644ee32737cb451d9.jpg",
+     "cap": "Image from the ANSA report on the trAIning project",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.fondazionecarisap.it/wp-content/uploads/2026/11/20261106_124222-1024x768.jpg",
+     "cap": "Presentation of the trAIning protocol in Ancona",
+     "credit": "Fondazione Carisap"
+    },
+    {
+     "type": "image",
+     "u": "https://www.cronacheancona.it/wp-content/uploads/2026/11/Protocollo-Training.jpeg",
+     "cap": "Signing of the trAIning protocol",
+     "credit": "Cronache Ancona"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/intelligenza-artificiale-per-pmi-del-cratere-progetto-per-la-formazione_45db2a63-d248-4df7-aa9b-ec1b42e49931.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Fondazione Carisap",
+     "u": "https://www.fondazionecarisap.it/intelligenza-artificiale-e-futuro-delle-imprese-nasce-training-per-le-pmi-del-cratere-sisma-2016/",
+     "t": "Promoter, primary source"
+    },
+    {
+     "n": "Cronache Ancona",
+     "u": "https://www.cronacheancona.it/2026/11/06/ancona-universita-e-fondazioni-nasce-training-lintelligenza-artificiale-al-servizio-delle-imprese-del-cratere-video/634510/",
+     "t": "Local news"
+    },
+    {
+     "n": "Startup Magazine, Open Innovation Summit",
+     "u": "https://www.startupmagazine.it/index.php/2026/11/04/open-innovation-summit-2026-human-ai-dallintelligenza-artificiale-allumanoide/",
+     "t": "Specialist press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "trAIning was presented in Ancona on 6 November by eleven foundations and the Marche Polytechnic University",
+     "n": "Reported by ANSA, the promoter Fondazione Carisap and local news."
+    },
+    {
+     "s": "warn",
+     "c": "The budget exceeds 650,000 euros and the project runs to the end of 2028",
+     "n": "Figures come from the promoters' communication, repeated by ANSA. No independent audit exists."
+    },
+    {
+     "s": "warn",
+     "c": "The advisers are paid or hired by the foundations",
+     "n": "The sources do not say how the advisers are contracted. We do not claim this."
+    }
+   ],
+   "ctx": "Banking foundations are non-profit bodies that grew out of Italian savings banks and fund local projects. The 2016 earthquake hit Marche, Umbria, Lazio and Abruzzo. Small and medium enterprises are the core of Italy's economy, but many use AI very little. This is a local training programme, not a national policy.",
+   "loop_query": "classroom training adults laptop",
+   "i18n": {
+    "it": {
+     "title": "Undici fondazioni bancarie lanciano trAIning: corsi gratuiti di IA e giovani consulenti per le imprese del cratere del sisma 2016",
+     "summary": "Undici fondazioni bancarie del Centro Italia e l'Università Politecnica delle Marche hanno presentato trAIning ad Ancona il 6 novembre. Il progetto, da oltre 650.000 euro e in corso fino alla fine del 2028, offre alle piccole e medie imprese del cratere formazione gratuita sull'intelligenza artificiale. Undici giovani consulenti di IA lavoreranno con le aziende.",
+     "body": [
+      "Il progetto è stato presentato al Teatro delle Muse di Ancona. È promosso da undici fondazioni di origine bancaria del Centro Italia insieme all'Università Politecnica delle Marche, alla Fondazione Vitality e alla Fondazione Vittorio Merloni. Secondo l'ANSA, i fondi superano i 650.000 euro e arrivano dai fondi per il sisma gestiti dall'Acri, l'associazione delle fondazioni bancarie. Il progetto dura fino alla fine del 2028.",
+      "Si parte con undici consulenti di IA, giovani professionisti, uno per ciascun territorio delle fondazioni. Sono scelti con un bando e formati dal Dipartimento di Management dell'università, che ha anche la direzione scientifica. Il direttore scientifico è il professor Luca Marinelli, mentre Maurizio Frascarelli, presidente della Fondazione Carisap, guida le fondazioni.",
+      "Le aziende ricevono 60 ore di lezioni in sei moduli, dalla ricerca di mercato alla comunicazione, dall'amministrazione all'analisi dei dati, con attenzione a etica, privacy e sicurezza. Seguono 90 ore di lavoro su un progetto per un bisogno specifico dell'impresa, con verifica del risultato alla fine.",
+      "Perché conta per un giovane ingegnere: mostra uno sbocco concreto in Italia, come consulente che aiuta le piccole imprese ad adottare l'IA, e non solo un ruolo in una grande azienda tecnologica. Non si sa ancora quante imprese aderiranno, come saranno retribuiti i consulenti e quali risultati verranno misurati. Lo stesso giorno, a Torino, l'Open Innovation Summit promosso da Il Sole 24 Ore e da Zest ha discusso di IA e robotica."
+     ],
+     "checks": [
+      {
+       "c": "trAIning è stato presentato ad Ancona il 6 novembre da undici fondazioni e dall'Università Politecnica delle Marche",
+       "n": "Lo riportano l'ANSA, il promotore Fondazione Carisap e la stampa locale."
+      },
+      {
+       "c": "Il budget supera i 650.000 euro e il progetto dura fino alla fine del 2028",
+       "n": "Le cifre vengono dalla comunicazione dei promotori, ripresa dall'ANSA. Non esiste una verifica indipendente."
+      },
+      {
+       "c": "I consulenti sono pagati o assunti dalle fondazioni",
+       "n": "Le fonti non dicono con quale contratto lavorino i consulenti. Non lo affermiamo."
+      }
+     ],
+     "ctx": "Le fondazioni di origine bancaria sono enti non profit nati dalle casse di risparmio italiane che finanziano progetti locali. Il terremoto del 2016 ha colpito Marche, Umbria, Lazio e Abruzzo. Le piccole e medie imprese sono il cuore dell'economia italiana, ma molte usano poco l'IA. Si tratta di un programma di formazione locale, non di una politica nazionale.",
+     "media_caps": [
+      "Immagine dal servizio ANSA sul progetto trAIning",
+      "La presentazione del protocollo trAIning ad Ancona",
+      "La firma del protocollo trAIning"
+     ]
+    }
+   }
+  },
+  {
+   "id": 6,
+   "sec": "ita",
+   "topic": "inn",
+   "time": "10:00",
+   "read": 3,
+   "title": "Italy's ETNA lunar rover passes its final review after tests on Mount Etna",
+   "summary": "The Italian Space Agency announced on 30 October that the ETNA rover, a lunar exploration demonstrator, passed the final review of its Universal Locomotion System programme. It was tested on Mount Etna in July. A consortium led by Thales Alenia Space Italia built it.",
+   "body": [
+    "ETNA stands for Exploration Technology for Navigation and Autonomy. It is a modular, mobile robot platform able to move on its own, take different configurations and carry scientific instruments. The Italian Space Agency funded and coordinated it within the Universal Locomotion System programme, launched in 2024, and announced on 30 October that it passed the final review. This closes the development phase.",
+    "The consortium is led by Thales Alenia Space Italia, with Leonardo, ALTEC, AIKO, Volta Structural Energy, the Italian Institute of Technology and the Polytechnic of Turin. After a first test campaign in May at ALTEC's facilities in Turin, the rover was tested on Mount Etna in July. The terrain, with loose volcanic material, resembles a lunar surface.",
+    "The tests covered locomotion, autonomous navigation, intelligent control, reconfiguration after system failures and management of the scientific payload. Autonomy matters because of communication delays between the Moon and Earth. Press reports also mention independent wheels, active suspension, navigation cameras and a possible autonomous drone to survey the terrain.",
+    "Roberto Formaro, the agency's director of technology and engineering, called it an important step in the roadmap for space robotics and autonomous guidance. This is a technology demonstrator, not a flight mission. No launch date or lunar mission has been announced in the sources opened. For software and robotics students, it shows where Italian space work in autonomy and control is heading."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.astrospace.it/wp-content/uploads/2026/10/rover-ETNA.jpeg",
+     "cap": "The ETNA lunar rover demonstrator",
+     "credit": "AstroSpace.it / ASI"
+    },
+    {
+     "type": "image",
+     "u": "https://www.astronautinews.it/wp-content/uploads/2026/11/ASI-ETNA-rover-2026-02.jpeg",
+     "cap": "ETNA rover during the campaign",
+     "credit": "AstronautiNEWS / ASI"
+    },
+    {
+     "type": "image",
+     "u": "https://www.quotidianopiemontese.it/wp-content/uploads/2026/11/rover-etna-luna.jpg",
+     "cap": "Image from the Quotidiano Piemontese report on the rover",
+     "credit": "Quotidiano Piemontese"
+    }
+   ],
+   "sources": [
+    {
+     "n": "AstroSpace.it",
+     "u": "https://www.astrospace.it/2026/10/30/il-rover-italiano-etna-ha-superato-la-final-review-del-programma-uls-dellasi/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "AstronautiNEWS",
+     "u": "https://www.astronautinews.it/2026/11/il-rover-etna-ha-superato-la-final-review/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Quotidiano Piemontese",
+     "u": "https://www.quotidianopiemontese.it/2026/11/02/rover-italiano-etna-politecnico-torino/",
+     "t": "Regional daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "ETNA passed the final review of the ASI Universal Locomotion System programme",
+     "n": "Reported by AstroSpace.it, AstronautiNEWS and other outlets citing the Italian Space Agency announcement of 30 October."
+    },
+    {
+     "s": "ok",
+     "c": "The rover was tested on Mount Etna in July 2026",
+     "n": "Stated by AstroSpace.it and by other outlets in the search results, including Meteoweb in July."
+    },
+    {
+     "s": "warn",
+     "c": "The rover is heading for a Moon mission",
+     "n": "The sources describe only a technology demonstrator and a foundation for future participation. No mission or launch date was found."
+    }
+   ],
+   "ctx": "A technology demonstrator is a prototype built to prove that a technology works, not to fly. The Italian Space Agency, ASI, funds national space programmes. Thales Alenia Space Italia is a joint venture between Thales and Leonardo. This story is from 30 October but received follow-up coverage in the first days of November.",
+   "loop_query": "rover volcanic terrain desert",
+   "i18n": {
+    "it": {
+     "title": "Il rover lunare italiano ETNA supera la revisione finale dopo i test sull'Etna",
+     "summary": "L'Agenzia Spaziale Italiana ha annunciato il 30 ottobre che il rover ETNA, un dimostratore per l'esplorazione lunare, ha superato la revisione finale del programma Universal Locomotion System. È stato provato sull'Etna a luglio. L'ha realizzato un consorzio guidato da Thales Alenia Space Italia.",
+     "body": [
+      "ETNA sta per Exploration Technology for Navigation and Autonomy. È una piattaforma robotica modulare e mobile, capace di muoversi in autonomia, di assumere configurazioni diverse e di trasportare strumenti scientifici. L'Agenzia Spaziale Italiana l'ha finanziata e coordinata nel programma Universal Locomotion System, avviato nel 2024, e il 30 ottobre ha annunciato che ha superato la revisione finale. Si chiude così la fase di sviluppo.",
+      "Il consorzio è guidato da Thales Alenia Space Italia, con Leonardo, ALTEC, AIKO, Volta Structural Energy, l'Istituto Italiano di Tecnologia e il Politecnico di Torino. Dopo una prima campagna di prove a maggio negli impianti di ALTEC a Torino, il rover è stato provato sull'Etna a luglio. Il terreno, con materiale vulcanico sciolto, somiglia alla superficie lunare.",
+      "Le prove hanno riguardato locomozione, navigazione autonoma, controllo intelligente, riconfigurazione dopo guasti ai sistemi e gestione del carico scientifico. L'autonomia conta per via dei ritardi nelle comunicazioni tra la Luna e la Terra. La stampa cita anche ruote indipendenti, sospensioni attive, telecamere di navigazione e un possibile drone autonomo per osservare il terreno.",
+      "Roberto Formaro, direttore Tecnologie e Ingegneria dell'agenzia, l'ha definito un passo importante nella roadmap per la robotica spaziale e la guida autonoma. Si tratta di un dimostratore tecnologico, non di una missione di volo. Nelle fonti consultate non sono stati annunciati una data di lancio né una missione lunare. Per gli studenti di software e robotica, mostra dove sta andando il lavoro spaziale italiano su autonomia e controllo."
+     ],
+     "checks": [
+      {
+       "c": "ETNA ha superato la revisione finale del programma ASI Universal Locomotion System",
+       "n": "Lo riportano AstroSpace.it, AstronautiNEWS e altri organi che citano l'annuncio dell'Agenzia Spaziale Italiana del 30 ottobre."
+      },
+      {
+       "c": "Il rover è stato provato sull'Etna a luglio 2026",
+       "n": "Lo indicano AstroSpace.it e altri siti nei risultati di ricerca, tra cui Meteoweb a luglio."
+      },
+      {
+       "c": "Il rover è destinato a una missione sulla Luna",
+       "n": "Le fonti parlano solo di un dimostratore tecnologico e di una base per la partecipazione a missioni future. Non è stata trovata alcuna missione o data di lancio."
+      }
+     ],
+     "ctx": "Un dimostratore tecnologico è un prototipo costruito per provare che una tecnologia funziona, non per volare. L'Agenzia Spaziale Italiana, l'ASI, finanzia i programmi spaziali nazionali. Thales Alenia Space Italia è una joint venture tra Thales e Leonardo. La notizia è del 30 ottobre ma ha avuto altri servizi nei primi giorni di novembre.",
+     "media_caps": [
+      "Il dimostratore del rover lunare ETNA",
+      "Il rover ETNA durante la campagna di prove",
+      "Immagine dal servizio del Quotidiano Piemontese sul rover"
+     ]
+    }
+   }
+  },
+  {
+   "id": 7,
+   "sec": "ita",
+   "topic": "lav",
+   "time": "10:00",
+   "read": 4,
+   "title": "Italian contract wages rise 2.5 percent, but inflation hit 5.4 percent in October: real pay keeps falling",
+   "summary": "Istat said on 30 October that contractual hourly wages rose 2.5% in the year to September, below inflation for the second quarter in a row. The preliminary October inflation figure was 5.4%. About 2.5 million employees are still waiting for a contract renewal.",
+   "body": [
+    "Istat, the national statistics institute, reported that contractual hourly wages were flat on August and 2.5% higher than in September 2025. In the private sector the rise was 2.3%, with 2.6% in industry, 2.1% in private services and 3.3% in agriculture. In public administration it was 3.2%. Wages grew fastest in schools at 5.5%, telecommunications at 5.1% and waste management at 5.0%, and slowest in commerce at 1.9%.",
+    "For the second quarter in a row, wages grew less than prices. In the private sector the gap was about two percentage points against the harmonised inflation measure. Then, on the same day, Istat's preliminary October estimate put inflation at 5.4%, up from 4.2% in September, with energy prices up 31.4% on a year earlier. Energy costs are the main driver, linked to the Middle East conflict.",
+    "At the end of September there were 56 national contracts in force, covering 80.8% of employees, about 10.6 million people. Nineteen contracts were waiting for renewal, involving about 2.5 million employees, of which 1.1 million in the private sector and 1.4 million in public administration. Some groups, including private pharmacies, central government, police, armed forces and firefighters, saw no increase.",
+    "What it means for a young engineer: AlmaLaurea's June report found net pay one year after graduation near 1,491 euros a month after a three-year degree and 1,495 after a master's degree, falling in real terms by 1.4% and 0.9%. With inflation above 5%, entry salaries lose value fast, so offers should be compared on real terms, contract type and renewal clauses. The final October inflation figure usually follows in mid-November."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ansa.it/webimages/img_1280x720/2026/10/30/0ce9570d2707ebbedfc918a53d83c1a0.jpg",
+     "cap": "Image from the ANSA report on Istat contract wages",
+     "credit": "ANSA"
+    },
+    {
+     "type": "image",
+     "u": "https://www.lsdi.it/wp-content/uploads/2026/10/photo-office-1600-1536x1052.webp",
+     "cap": "Office workers, image from the LSDI report",
+     "credit": "LSDI"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA, Istat contract wages",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+     "t": "News agency"
+    },
+    {
+     "n": "LSDI",
+     "u": "https://www.lsdi.it/5413/retribuzioni-contrattuali-settembre-2026-istat-salari-prezzi/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Dottrina per il Lavoro",
+     "u": "https://www.dottrinalavoro.it/notizie-c/istat-retribuzioni-contrattuali-luglio-settembre-2026",
+     "t": "Labour-law press, reproduces Istat release"
+    },
+    {
+     "n": "La Voce d'Italia, Istat inflation",
+     "u": "https://lavoceditalia.com/2026/10/30/840302/stangata-sui-consumi-listat-registra-uninflazione-del-54/",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Edunews24, AlmaLaurea 2026",
+     "u": "https://edunews24.it/universita/almalaurea-2026-occupazione-laureati-all81-ma-salari-reali-in-calo",
+     "t": "Specialist press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Contractual hourly wages rose 2.5% in the year to September, below inflation",
+     "n": "Reported by ANSA, LSDI and Dottrina per il Lavoro, which reproduce the Istat release of 30 October."
+    },
+    {
+     "s": "ok",
+     "c": "Preliminary October inflation was 5.4%, up from 4.2%",
+     "n": "Reported by La Voce d'Italia and other outlets citing Istat's preliminary estimate. The harmonised index was 5.6% according to the search results."
+    },
+    {
+     "s": "warn",
+     "c": "Entry pay for graduates is falling in real terms",
+     "n": "The AlmaLaurea figures date from June, before the October inflation jump. They are survey estimates, so the real loss now is probably larger, but no newer data exists."
+    }
+   ],
+   "ctx": "Contractual wages are the pay set in national collective agreements, not what each person earns, which can be higher with company bonuses. The harmonised index, called Ipca, is the measure used to compare with the European Union. A gap between wages and prices means a loss of purchasing power. The release is from 30 October, included here because it matters for the budget debate and for entry salaries.",
+   "loop_query": "office workers computers salary",
+   "i18n": {
+    "it": {
+     "title": "Le retribuzioni contrattuali italiane crescono del 2,5 per cento, ma a ottobre l'inflazione è al 5,4 per cento: i salari reali continuano a calare",
+     "summary": "L'Istat ha comunicato il 30 ottobre che le retribuzioni contrattuali orarie sono salite del 2,5 per cento su base annua a settembre, meno dell'inflazione per il secondo trimestre di fila. La stima preliminare dell'inflazione di ottobre è del 5,4 per cento. Circa 2,5 milioni di dipendenti attendono ancora il rinnovo del contratto.",
+     "body": [
+      "L'Istat, l'istituto nazionale di statistica, ha rilevato che le retribuzioni contrattuali orarie sono rimaste invariate rispetto ad agosto e superiori del 2,5 per cento rispetto a settembre 2025. Nel settore privato l'aumento è stato del 2,3 per cento, con il 2,6 nell'industria, il 2,1 nei servizi privati e il 3,3 nell'agricoltura. Nella pubblica amministrazione è stato del 3,2 per cento. I salari sono cresciuti di più nella scuola, con il 5,5 per cento, nelle telecomunicazioni, con il 5,1, e nella gestione dei rifiuti, con il 5,0, e meno nel commercio, con l'1,9.",
+      "Per il secondo trimestre di fila i salari sono cresciuti meno dei prezzi. Nel privato il divario è stato di circa due punti percentuali rispetto all'inflazione armonizzata. Poi, lo stesso giorno, la stima preliminare dell'Istat per ottobre ha portato l'inflazione al 5,4 per cento, dal 4,2 di settembre, con i prezzi dell'energia in aumento del 31,4 per cento su un anno prima. I costi dell'energia sono il motore principale, legati al conflitto in Medio Oriente.",
+      "Alla fine di settembre erano in vigore 56 contratti nazionali, che coprono l'80,8 per cento dei dipendenti, cioè circa 10,6 milioni di persone. Diciannove contratti erano in attesa di rinnovo e riguardavano circa 2,5 milioni di dipendenti, di cui 1,1 milioni nel privato e 1,4 milioni nella pubblica amministrazione. Alcuni gruppi, tra cui le farmacie private, l'amministrazione centrale, le forze di polizia, le forze armate e i vigili del fuoco, non hanno avuto aumenti.",
+      "Cosa significa per un giovane ingegnere: il rapporto AlmaLaurea di giugno indicava una retribuzione netta a un anno dalla laurea di circa 1.491 euro al mese dopo la triennale e 1.495 dopo la magistrale, in calo in termini reali dell'1,4 e dello 0,9 per cento. Con un'inflazione sopra il 5 per cento, gli stipendi d'ingresso perdono valore in fretta, quindi conviene confrontare le offerte in termini reali, per tipo di contratto e per clausole di rinnovo. Il dato definitivo di ottobre sull'inflazione di solito arriva a metà novembre."
+     ],
+     "checks": [
+      {
+       "c": "Le retribuzioni contrattuali orarie sono salite del 2,5 per cento su base annua a settembre, meno dell'inflazione",
+       "n": "Lo riportano ANSA, LSDI e Dottrina per il Lavoro, che riprendono il comunicato Istat del 30 ottobre."
+      },
+      {
+       "c": "L'inflazione preliminare di ottobre è del 5,4 per cento, dal 4,2",
+       "n": "Lo riportano La Voce d'Italia e altri organi che citano la stima preliminare dell'Istat. L'indice armonizzato era al 5,6 per cento secondo i risultati di ricerca."
+      },
+      {
+       "c": "Gli stipendi d'ingresso dei laureati calano in termini reali",
+       "n": "I dati AlmaLaurea sono di giugno, prima dell'impennata dell'inflazione di ottobre. Sono stime da indagine, quindi la perdita reale oggi è probabilmente maggiore, ma non esistono dati più recenti."
+      }
+     ],
+     "ctx": "Le retribuzioni contrattuali sono quelle fissate dai contratti collettivi nazionali, non quanto guadagna ciascuno, che può essere più alto con i premi aziendali. L'indice armonizzato, detto Ipca, è la misura usata per i confronti con l'Unione europea. Un divario tra salari e prezzi significa una perdita di potere d'acquisto. Il comunicato è del 30 ottobre, incluso qui perché pesa sul dibattito sulla manovra e sugli stipendi d'ingresso.",
+     "media_caps": [
+      "Immagine dal servizio ANSA sulle retribuzioni contrattuali dell'Istat",
+      "Lavoratori in ufficio, immagine dal servizio di LSDI"
+     ]
+    }
+   }
+  },
+  {
+   "id": 8,
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "AI Act dates after the Digital Omnibus: 2 December 2026 for deepfake marking and a new ban, high-risk rules pushed to 2027 and 2028",
+   "summary": "Regulation 2026/1744, the Digital Omnibus on AI, has been in force since 27 July 2026. It delays the high-risk obligations to 2 December 2027 and 2 August 2028, but keeps 2 December 2026 as the date for a grace period on AI content marking and for a new ban on AI that creates non-consensual intimate images or child abuse material.",
+   "body": [
+    "The Digital Omnibus on AI amends the AI Act, Regulation 2024/1689. According to law firm summaries, the Parliament and the Council reached political agreement on 7 May 2026, the Parliament endorsed it on 16 June, the Council adopted it on 29 June, it was signed on 8 July and entered into force on 27 July 2026 as Regulation 2026/1744.",
+    "Timeline of the dates that now matter. Since 2 February 2025 the prohibited practices apply. Since 2 August 2025 the obligations for general-purpose AI models apply, and since 2 August 2026 the Commission can enforce them. On 2 December 2026 two things happen: the grace period for machine-readable marking of AI-generated content under Article 50, paragraph 2, ends, and a new prohibition starts. On 2 December 2027 the obligations for stand-alone high-risk systems listed in Annex III apply, instead of 2 August 2026. On 2 August 2028 they apply to high-risk AI embedded in products regulated under Annex I.",
+    "The new prohibition covers AI systems that generate non-consensual intimate images of an identifiable person or child sexual abuse material, including systems that lack reasonable safeguards to prevent it. Other changes reported: the duty to register high-risk systems stays, relief for small companies is extended to small mid-cap companies, bias detection may use special-category data when strictly necessary, and the AI Office's role over general-purpose models is clarified.",
+    "Who needs to act and by when. Providers of image, video and audio generators should plan marking and safeguards before 2 December 2026. Companies with Annex III systems, for example in hiring or education, gain about sixteen months but should still inventory and classify their systems now, because classification is the starting point for everything else. This is general information, not legal advice. Penalties for the prohibited practices can reach 35 million euros or 7% of worldwide turnover under Article 99."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=GisUIikZZY8",
+     "cap": "Related: POLITICO documentary on Europe's approach to artificial intelligence",
+     "credit": "POLITICO Europe",
+     "start": 60,
+     "end": 100
+    },
+    {
+     "type": "image",
+     "u": "https://www.addleshawgoddard.com/globalassets/insights/white-with-accent/data-protection---teaser---keyboard-lock.jpg",
+     "cap": "Illustration from the Addleshaw Goddard briefing on the AI Omnibus",
+     "credit": "Addleshaw Goddard"
+    },
+    {
+     "type": "image",
+     "u": "https://usercentrics.com/wp-content/uploads/2024/09/Asset-93-100.jpg",
+     "cap": "Illustration from the Usercentrics guide to the AI Act deadlines",
+     "credit": "Usercentrics"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Usercentrics, AI Act dates",
+     "u": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Addleshaw Goddard",
+     "u": "https://www.addleshawgoddard.com/en/insights/insights-briefings/2026/technology/ai-omnibus-provisional-agreement-changes-eu-ai-act-delayed-deadlines/",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "White & Case",
+     "u": "https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "Baker McKenzie",
+     "u": "https://connectontech.bakermckenzie.com/political-agreement-reached-on-digital-omnibus-on-ai-amending-the-eu-ai-act-consistent-with-evolving-global-trends-on-ai-regulation/",
+     "t": "Law firm briefing"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Annex III high-risk obligations apply from 2 December 2027 and Annex I from 2 August 2028",
+     "n": "Stated consistently by Usercentrics, Addleshaw Goddard and the other law-firm summaries."
+    },
+    {
+     "s": "ok",
+     "c": "A new ban on AI generating non-consensual intimate images and child abuse material applies from 2 December 2026",
+     "n": "Addleshaw Goddard, Usercentrics and Baker McKenzie describe it the same way."
+    },
+    {
+     "s": "warn",
+     "c": "The Article 50, paragraph 2, grace period ends on 2 December 2026",
+     "n": "Addleshaw Goddard gives this date. The Usercentrics table is ambiguous on it. The official text of Regulation 2026/1744 was not opened, so check the Official Journal."
+    },
+    {
+     "s": "warn",
+     "c": "Entry into force on 27 July 2026 as Regulation 2026/1744",
+     "n": "Given by Usercentrics and consistent with the legislative timeline in the law-firm summaries. The EUR-Lex page was not opened."
+    }
+   ],
+   "ctx": "The AI Act is the European Union's law on artificial intelligence, applied in stages. An omnibus is a law that amends several rules at once to simplify them. Annex III lists high-risk uses such as hiring, education and credit scoring. Annex I covers AI inside products already regulated, like medical devices or machinery. Dates come from law-firm summaries, so always check the official text. General information, not legal advice.",
+   "loop_query": "european parliament plenary hall",
+   "i18n": {
+    "it": {
+     "title": "Le date dell'AI Act dopo l'Omnibus digitale: il 2 dicembre 2026 per la marcatura dei deepfake e un nuovo divieto, alto rischio rinviato al 2027 e al 2028",
+     "summary": "Il regolamento 2026/1744, l'Omnibus digitale sull'IA, è in vigore dal 27 luglio 2026. Rinvia gli obblighi per l'alto rischio al 2 dicembre 2027 e al 2 agosto 2028, ma mantiene il 2 dicembre 2026 come data per il periodo di tolleranza sulla marcatura dei contenuti generati dall'IA e per un nuovo divieto sull'IA che crea immagini intime non consensuali o materiale pedopornografico.",
+     "body": [
+      "L'Omnibus digitale sull'IA modifica l'AI Act, il regolamento 2024/1689. Secondo le sintesi degli studi legali, Parlamento e Consiglio hanno raggiunto l'accordo politico il 7 maggio 2026, il Parlamento l'ha approvato il 16 giugno, il Consiglio l'ha adottato il 29 giugno, è stato firmato l'8 luglio ed è entrato in vigore il 27 luglio 2026 come regolamento 2026/1744.",
+      "Il calendario delle date che contano ora. Dal 2 febbraio 2025 si applicano i divieti. Dal 2 agosto 2025 si applicano gli obblighi per i modelli di IA per finalità generali, e dal 2 agosto 2026 la Commissione può farli rispettare. Il 2 dicembre 2026 accadono due cose: finisce il periodo di tolleranza per la marcatura leggibile da macchina dei contenuti generati dall'IA ai sensi dell'articolo 50, paragrafo 2, e scatta un nuovo divieto. Il 2 dicembre 2027 si applicano gli obblighi per i sistemi ad alto rischio autonomi dell'allegato III, invece del 2 agosto 2026. Il 2 agosto 2028 si applicano all'IA ad alto rischio incorporata in prodotti regolati dall'allegato I.",
+      "Il nuovo divieto riguarda i sistemi di IA che generano immagini intime non consensuali di una persona identificabile o materiale pedopornografico, compresi i sistemi privi di misure ragionevoli per impedirlo. Altre modifiche riportate: resta l'obbligo di registrare i sistemi ad alto rischio, gli sgravi per le piccole imprese sono estesi alle imprese a media capitalizzazione piccole, il rilevamento dei pregiudizi può usare dati di categorie particolari se strettamente necessario, e il ruolo dell'Ufficio per l'IA sui modelli per finalità generali è chiarito.",
+      "Chi deve agire e quando. I fornitori di generatori di immagini, video e audio dovrebbero pianificare marcatura e misure di sicurezza prima del 2 dicembre 2026. Le aziende con sistemi dell'allegato III, per esempio nella selezione del personale o nell'istruzione, guadagnano circa sedici mesi ma dovrebbero comunque fare subito l'inventario e la classificazione dei sistemi, perché la classificazione è il punto di partenza di tutto. Sono informazioni generali, non consulenza legale. Le sanzioni per le pratiche vietate possono arrivare a 35 milioni di euro o al 7 per cento del fatturato mondiale ai sensi dell'articolo 99."
+     ],
+     "checks": [
+      {
+       "c": "Gli obblighi per l'alto rischio dell'allegato III si applicano dal 2 dicembre 2027 e quelli dell'allegato I dal 2 agosto 2028",
+       "n": "Lo indicano in modo coerente Usercentrics, Addleshaw Goddard e le altre sintesi degli studi legali."
+      },
+      {
+       "c": "Un nuovo divieto sull'IA che genera immagini intime non consensuali e materiale pedopornografico si applica dal 2 dicembre 2026",
+       "n": "Addleshaw Goddard, Usercentrics e Baker McKenzie lo descrivono allo stesso modo."
+      },
+      {
+       "c": "Il periodo di tolleranza dell'articolo 50, paragrafo 2, finisce il 2 dicembre 2026",
+       "n": "La data è indicata da Addleshaw Goddard. La tabella di Usercentrics è ambigua. Il testo ufficiale del regolamento 2026/1744 non è stato consultato, quindi conviene verificare la Gazzetta ufficiale dell'Unione."
+      },
+      {
+       "c": "Entrata in vigore il 27 luglio 2026 come regolamento 2026/1744",
+       "n": "Indicata da Usercentrics e coerente con il calendario legislativo delle sintesi degli studi legali. La pagina di EUR-Lex non è stata consultata."
+      }
+     ],
+     "ctx": "L'AI Act è la legge dell'Unione europea sull'intelligenza artificiale, applicata per fasi. Un omnibus è una legge che modifica più norme insieme per semplificarle. L'allegato III elenca usi ad alto rischio come selezione del personale, istruzione e valutazione del credito. L'allegato I riguarda l'IA dentro prodotti già regolati, come dispositivi medici o macchinari. Le date vengono da sintesi di studi legali, quindi verifica sempre il testo ufficiale. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Correlato: documentario di POLITICO sull'approccio europeo all'intelligenza artificiale",
+      "Illustrazione dal documento di Addleshaw Goddard sull'Omnibus sull'IA",
+      "Illustrazione dalla guida di Usercentrics alle scadenze dell'AI Act"
+     ]
+    }
+   }
+  },
+  {
+   "id": 9,
+   "sec": "reg",
+   "time": "10:00",
+   "read": 5,
+   "title": "Italy's AI decree 179/2026 is in force: ACN and AgID named, no firing or hiring decided by algorithm alone",
+   "summary": "Legislative Decree 179 of 7 October 2026, published on 8 October and in force since 23 October, implements the AI Act in Italy. It names the competent authorities and bans employment decisions made only by automated processing. Professional orders have until 23 April 2027 to add AI training.",
+   "body": [
+    "The decree has 54 articles and was published in the Gazzetta Ufficiale number 234 on 8 October 2026. It entered into force on 23 October. It follows Law 132 of 2025 on AI and implements Regulation 2024/1689. The Council of Ministers had approved a first draft on 10 June 2026.",
+    "On authorities, AgID, the Agency for Digital Italy, is the notifying authority, which designates the bodies that assess conformity. ACN, the national cybersecurity agency, is the market surveillance authority and the single contact point with the European Union. The Bank of Italy, Consob and Ivass keep powers over financial AI in their sectors, and the Garante Privacy handles high-risk uses in areas such as justice and security, according to the press summaries.",
+    "On work, Article 41 says that decisions on hiring, dismissal and discipline cannot be taken only through automated processing, and the final decision must stay with a person. Press summaries say dismissals based solely on automated processing are void. Employers must explain, on request, how the system influenced a decision and which main parameters it used. Article 42 asks employers to include AI in workplace safety risk assessments.",
+    "Timeline. 10 June 2026: first approval by the government. 8 October: publication. 23 October: entry into force. 23 April 2027: professional orders must update their rules with AI training, under Article 47. 23 October 2027: fair-fee parameters for professionals must take AI risk into account, under Article 49. Who is affected: employers using recruiting or monitoring software, public administrations, schools and professionals such as engineers. This is general information, not legal advice, and the Gazzetta text should be checked."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://www.ingenio-web.it/upload/blog/f/9/f/276206abde8af9450fa28e0c331d1628554e5cb8_og.jpg",
+     "cap": "Illustration from the Ingenio report on Legislative Decree 179/2026",
+     "credit": "Ingenio"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Ingenio",
+     "u": "https://www.ingenio-web.it/articoli/intelligenza-artificiale-pubblicato-il-decreto-179-2026-tutte-le-novita-su-controlli-formazione-lavoro-e-professioni/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Lavorosì",
+     "u": "https://www.lavorosi.it/d-lgs-7-ottobre-2026-n-179-ia-in-gazzetta-nuove-regole-per-lavoro-professionisti-e-formazione/",
+     "t": "Labour-law press"
+    },
+    {
+     "n": "FiscoeTasse",
+     "u": "https://www.fiscoetasse.com/new-rassegna-stampa/4092-intelligenza-artificiale-approvate-le-regole-nazionali-2026.html",
+     "t": "Specialist press, summary of the draft"
+    },
+    {
+     "n": "CIIP Consulta, decree of 7 October 2026",
+     "u": "https://ciip-consulta.it/2026/10/13/decreto-legislativo-7-ottobre-2026-n-179/",
+     "t": "Reproduction of the decree"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Decree 179/2026 was published on 8 October 2026 and entered into force on 23 October",
+     "n": "Stated by Ingenio and by the other outlets in the search results."
+    },
+    {
+     "s": "ok",
+     "c": "AgID is the notifying authority and ACN the market surveillance authority and single contact point",
+     "n": "Ingenio and FiscoeTasse agree, and a search result of the Bird & Bird note says the same."
+    },
+    {
+     "s": "warn",
+     "c": "Dismissals based only on automated processing are void",
+     "n": "Reported by Lavorosì and FiscoeTasse. The latter described the draft of June, so the exact wording of the final Article 41 should be checked in the Gazzetta."
+    },
+    {
+     "s": "warn",
+     "c": "The deadlines of 23 April 2027 and 23 October 2027",
+     "n": "Ingenio gives the dates. Lavorosì says six months for the first, matching 23 April 2027, and twelve months for the second."
+    }
+   ],
+   "ctx": "Each EU country must designate national authorities to supervise the AI Act. Law 132 of 2025 is Italy's own framework law on AI, covering health, justice, work, copyright and minors, and gave the government power to adopt this decree. Italy's decree is a national implementation, so it sits beside, not instead of, the EU regulation. General information, not legal advice.",
+   "loop_query": "italian government palace flag",
+   "i18n": {
+    "it": {
+     "title": "In vigore il decreto italiano 179/2026 sull'IA: designate ACN e AgID, vietato licenziare o assumere affidandosi solo a un algoritmo",
+     "summary": "Il decreto legislativo 179 del 7 ottobre 2026, pubblicato l'8 ottobre e in vigore dal 23 ottobre, attua l'AI Act in Italia. Designa le autorità competenti e vieta le decisioni sul lavoro prese solo con trattamenti automatizzati. Gli ordini professionali hanno tempo fino al 23 aprile 2027 per introdurre la formazione sull'IA.",
+     "body": [
+      "Il decreto ha 54 articoli ed è stato pubblicato nella Gazzetta Ufficiale numero 234 dell'8 ottobre 2026. È entrato in vigore il 23 ottobre. Segue la legge 132 del 2025 sull'IA e attua il regolamento 2024/1689. Il Consiglio dei ministri aveva approvato una prima bozza il 10 giugno 2026.",
+      "Sulle autorità, l'AgID, l'Agenzia per l'Italia digitale, è l'autorità di notifica, che designa gli organismi che valutano la conformità. L'ACN, l'Agenzia per la cybersicurezza nazionale, è l'autorità di vigilanza del mercato e il punto di contatto unico con l'Unione europea. Banca d'Italia, Consob e Ivass mantengono i poteri sull'IA finanziaria nei loro settori, e il Garante per la protezione dei dati personali si occupa degli usi ad alto rischio in ambiti come giustizia e sicurezza, secondo le sintesi della stampa.",
+      "Sul lavoro, l'articolo 41 stabilisce che le decisioni su assunzione, licenziamento e disciplina non possono essere prese soltanto con trattamenti automatizzati, e la decisione finale deve restare a una persona. Le sintesi di stampa riferiscono che i licenziamenti basati solo su trattamenti automatizzati sono nulli. I datori di lavoro devono spiegare, su richiesta, come il sistema ha influito sulla decisione e quali parametri principali ha usato. L'articolo 42 chiede di includere l'IA nella valutazione dei rischi per la sicurezza sul lavoro.",
+      "Il calendario. 10 giugno 2026: prima approvazione del governo. 8 ottobre: pubblicazione. 23 ottobre: entrata in vigore. 23 aprile 2027: gli ordini professionali devono aggiornare le proprie regole con la formazione sull'IA, ai sensi dell'articolo 47. 23 ottobre 2027: i parametri dei compensi professionali devono tener conto del rischio legato all'IA, ai sensi dell'articolo 49. Chi è interessato: datori di lavoro che usano software di selezione o monitoraggio, pubbliche amministrazioni, scuole e professionisti come gli ingegneri. Sono informazioni generali, non consulenza legale, e il testo della Gazzetta va verificato."
+     ],
+     "checks": [
+      {
+       "c": "Il decreto 179/2026 è stato pubblicato l'8 ottobre 2026 ed è entrato in vigore il 23 ottobre",
+       "n": "Lo indicano Ingenio e gli altri siti nei risultati di ricerca."
+      },
+      {
+       "c": "L'AgID è l'autorità di notifica e l'ACN l'autorità di vigilanza del mercato e punto di contatto unico",
+       "n": "Ingenio e FiscoeTasse concordano, e un risultato di ricerca della nota di Bird & Bird dice lo stesso."
+      },
+      {
+       "c": "I licenziamenti basati solo su trattamenti automatizzati sono nulli",
+       "n": "Lo riportano Lavorosì e FiscoeTasse. Quest'ultimo descriveva la bozza di giugno, quindi il testo esatto dell'articolo 41 definitivo va verificato nella Gazzetta."
+      },
+      {
+       "c": "Le scadenze del 23 aprile 2027 e del 23 ottobre 2027",
+       "n": "Ingenio indica le date. Lavorosì parla di sei mesi per la prima, che corrisponde al 23 aprile 2027, e di dodici mesi per la seconda."
+      }
+     ],
+     "ctx": "Ogni Paese dell'Unione deve designare le autorità nazionali che vigilano sull'AI Act. La legge 132 del 2025 è la legge quadro italiana sull'IA, che riguarda sanità, giustizia, lavoro, diritto d'autore e minori, e ha dato al governo il potere di adottare questo decreto. Il decreto è un'attuazione nazionale, quindi affianca il regolamento europeo e non lo sostituisce. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Illustrazione dal servizio di Ingenio sul decreto legislativo 179/2026"
+     ]
+    }
+   }
+  },
+  {
+   "id": 10,
+   "sec": "reg",
+   "time": "12:00",
+   "read": 5,
+   "title": "EU court adviser: training AI on web content is mostly lawful, but chatbot answers that reuse articles can infringe",
+   "summary": "On 3 November Advocate General Maciej Szpunar gave the Court of Justice his non-binding opinion in the Like Company v Google case, the first generative AI case to reach the court. Training generally falls under the text and data mining exception if three conditions are met. Chatbot answers that reproduce press content can still infringe.",
+   "body": [
+    "Case C-250/25, Like Company against Google Ireland, comes from a press publisher that says Google's Gemini chatbot used its press articles. On 3 November 2026 Advocate General Szpunar proposed an answer. His opinion is not binding, and the judges have not set a date for a judgment. The court may also decide the training questions are not admissible.",
+    "On training, he says reproductions made to train a language model are generally covered by the text and data mining exception in Article 4 of the 2019 copyright directive, 2019/790, with three conditions. First, lawful access: no pirate sources and no circumventing paywalls or blocking measures. Second, rightholders can reserve their rights in a machine-readable way, for example through robots.txt or Google-Extended. Third, developers should take steps against memorisation, such as deduplication and output filters. He also says the model parameters are not copies, and that the press publishers' right in Article 15 does not reach training because training is not an online use.",
+    "On outputs, he found no evidence the articles trained Gemini, and treated the case as retrieval-augmented generation, where a chatbot fetches an article in real time. Answers can infringe in two cases: when access was unlawful, or when the answer reproduces the article's recognisable expression so users no longer need the original.",
+    "What to do and who is affected. AI developers should respect machine-readable opt-outs, which Article 53, paragraph 1, point c of the AI Act also requires from general-purpose model providers, and design retrieval tools to avoid reproducing text. Publishers should use clear technical reservations. Two other AI copyright cases are pending at the court. This is general information, not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=tgtJept8vOw",
+     "cap": "Opinion of Advocate General Szpunar in Case C-250/25, Like Company v Google Ireland",
+     "credit": "Court of Justice of the European Union",
+     "start": 20,
+     "end": 60
+    },
+    {
+     "type": "image",
+     "u": "https://ppc.land/content/images/2026/11/eu-szpunar-google-ai-training-3-conditions-triple-padlock-gate-book-conveyor-reading-machine.jpg",
+     "cap": "Illustration from PPC Land on the three conditions for AI training",
+     "credit": "PPC Land"
+    }
+   ],
+   "sources": [
+    {
+     "n": "PPC Land",
+     "u": "https://ppc.land/eu-court-adviser-in-google-case-backs-ai-training-on-3-conditions/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Perspire IP",
+     "u": "https://www.perspireip.com/news/cjeu-like-company-c-250-25-ai-copyright-opinion-training-tdm-rag/",
+     "t": "Legal analysis"
+    },
+    {
+     "n": "Datastudios",
+     "u": "https://www.datastudios.org/post/gemini-eu-court-adviser-press-publishers-right-chatbot-answers-like-company",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Skarbiec law firm",
+     "u": "https://kancelaria-skarbiec.pl/en/c-250-25-ai-training/",
+     "t": "Law firm analysis"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Advocate General delivered his opinion in case C-250/25 on 3 November 2026",
+     "n": "PPC Land and Perspire IP report it, and other legal sites agree."
+    },
+    {
+     "s": "ok",
+     "c": "The opinion is not binding and no judgment date is set",
+     "n": "Both PPC Land and Perspire IP say so."
+    },
+    {
+     "s": "warn",
+     "c": "The three conditions for lawful training",
+     "n": "Taken from PPC Land's summary. Perspire IP presents the core test as lawful access and no rights reservation. The opinion itself was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "Gemini was not shown to have trained on the articles",
+     "n": "Per Perspire IP the AG found no evidence of training, so his view on training is described as provisional."
+    }
+   ],
+   "ctx": "An Advocate General advises the Court of Justice with a legal opinion, and the judges follow it in many but not all cases. Text and data mining is automated analysis of large amounts of text. An opt-out is a signal by which a rightholder reserves their rights. Retrieval-augmented generation means a chatbot looks up documents while answering. General information, not legal advice.",
+   "loop_query": "court of justice courtroom judges",
+   "i18n": {
+    "it": {
+     "title": "Avvocato generale Ue: addestrare l'IA su contenuti web è in gran parte lecito, ma le risposte dei chatbot che riusano articoli possono violare i diritti",
+     "summary": "Il 3 novembre l'avvocato generale Maciej Szpunar ha presentato alla Corte di giustizia il suo parere non vincolante nella causa Like Company contro Google, il primo caso di IA generativa arrivato alla Corte. L'addestramento rientra in generale nell'eccezione per il text and data mining se sono rispettate tre condizioni. Le risposte dei chatbot che riproducono contenuti della stampa possono comunque violare i diritti.",
+     "body": [
+      "La causa C-250/25, Like Company contro Google Ireland, nasce dall'iniziativa di un editore di stampa secondo cui il chatbot Gemini di Google avrebbe usato i suoi articoli di stampa. Il 3 novembre 2026 l'avvocato generale Szpunar ha proposto una risposta. Il suo parere non è vincolante e i giudici non hanno fissato una data per la sentenza. La Corte potrebbe anche ritenere inammissibili le questioni sull'addestramento.",
+      "Sull'addestramento, sostiene che le riproduzioni fatte per addestrare un modello linguistico sono in generale coperte dall'eccezione per il text and data mining dell'articolo 4 della direttiva sul diritto d'autore del 2019, la 2019/790, con tre condizioni. Primo, accesso lecito: niente fonti pirata e niente elusione di paywall o di misure di blocco. Secondo, i titolari dei diritti possono riservarsi i diritti in modo leggibile da macchina, per esempio con robots.txt o Google-Extended. Terzo, gli sviluppatori dovrebbero adottare misure contro la memorizzazione, come la deduplicazione e i filtri sugli output. Aggiunge che i parametri del modello non sono copie e che il diritto degli editori di stampa dell'articolo 15 non riguarda l'addestramento, perché non è un uso online.",
+      "Sugli output, non ha trovato prove che gli articoli abbiano addestrato Gemini e ha trattato il caso come generazione aumentata dal recupero, in cui un chatbot recupera un articolo in tempo reale. Le risposte possono violare i diritti in due casi: quando l'accesso era illecito, oppure quando la risposta riproduce l'espressione riconoscibile dell'articolo al punto che gli utenti non hanno più bisogno dell'originale.",
+      "Cosa fare e chi è interessato. Gli sviluppatori di IA dovrebbero rispettare le riserve di diritti leggibili da macchina, cosa che chiede anche l'articolo 53, paragrafo 1, lettera c dell'AI Act ai fornitori di modelli per finalità generali, e progettare gli strumenti di recupero in modo da non riprodurre i testi. Gli editori dovrebbero usare riserve tecniche chiare. Altri due casi di diritto d'autore sull'IA sono pendenti davanti alla Corte. Sono informazioni generali, non consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "L'avvocato generale ha presentato il parere nella causa C-250/25 il 3 novembre 2026",
+       "n": "Lo riportano PPC Land e Perspire IP, e concordano altri siti giuridici."
+      },
+      {
+       "c": "Il parere non è vincolante e non c'è una data per la sentenza",
+       "n": "Lo dicono sia PPC Land sia Perspire IP."
+      },
+      {
+       "c": "Le tre condizioni per un addestramento lecito",
+       "n": "Tratte dalla sintesi di PPC Land. Perspire IP presenta il test centrale come accesso lecito e assenza di riserva di diritti. Il parere stesso non è stato consultato."
+      },
+      {
+       "c": "Non è stato dimostrato che Gemini si sia addestrato sugli articoli",
+       "n": "Secondo Perspire IP l'avvocato generale non ha trovato prove di addestramento, e quindi la sua opinione sull'addestramento è descritta come provvisoria."
+      }
+     ],
+     "ctx": "L'avvocato generale assiste la Corte di giustizia con un parere giuridico, che i giudici seguono in molti casi ma non in tutti. Il text and data mining è l'analisi automatica di grandi quantità di testo. Un opt-out è un segnale con cui un titolare si riserva i diritti. La generazione aumentata dal recupero significa che un chatbot consulta documenti mentre risponde. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Conclusioni dell'avvocato generale Szpunar nella causa C-250/25, Like Company contro Google Ireland",
+      "Illustrazione da PPC Land sulle tre condizioni per l'addestramento dell'IA"
+     ]
+    }
+   }
+  },
+  {
+   "id": 11,
+   "sec": "reg",
+   "time": "10:00",
+   "read": 4,
+   "title": "Garante Privacy clears Trento's AI rules with conditions and focuses its audits on AI in towns and hospitals until December",
+   "summary": "The Italian data protection authority gave a favourable opinion, with conditions, on the Province of Trento's draft rules on AI in public administration. It says people must still be able to correct and erase their data whatever the AI model. Until December its inspections prioritise AI chatbots and decision-support tools in municipalities and health authorities.",
+   "body": [
+    "In decision number 760 of 7 October 2026, published in the newsletter of 29 October, the Garante for the protection of personal data examined the Province of Trento's draft regulation on AI in public administration. It gave a favourable opinion with conditions. The reference law is Law 132 of 2025, which lets public bodies use AI to be more efficient if users understand how it works and humans keep the decision.",
+    "The conditions: AI is only a support tool, never an autonomous decision-maker, and human oversight is mandatory. Data should be stored within the European Union on logically separate systems, and training should use synthetic or pseudonymised data where possible. The Garante also warned that correcting a source record does not automatically update the trained parameters, so the administration must ensure people can exercise rectification and erasure rights under Articles 16 and 17 of the GDPR whatever the model. It added that sensitive data, such as criminal records, need a binding regulatory act, not just technical sheets.",
+    "Separately, deliberation number 584 of 23 July 2026 sets the inspection plan from August to December. Press summaries say at least 35 checks are planned across eleven areas, with a shift from schools to municipalities and health authorities. Inspectors will look at impact assessments, information given to citizens, and the use of chatbots for citizen services, transcription tools and decision-support software. On 3 July the Garante fined Character Technologies, the company behind Character.AI, 158,000 euros over a chatbot used also by minors.",
+    "Who needs to act and by when: public bodies and their suppliers should have an up-to-date inventory of AI tools, a data protection impact assessment and clear notices before the end of December, when the plan ends. For students, it shows where AI and compliance jobs are appearing: public bodies need engineers who can document and test systems. This is general information, not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=Ub9nIQjJS5M",
+     "cap": "Garante Privacy newsletter number 555, the issue that reported the AI opinion",
+     "credit": "Garante per la protezione dei dati personali"
+    },
+    {
+     "type": "image",
+     "u": "https://dnewpydm90vfx.cloudfront.net/wp-content/uploads/2026/11/Intelligenza-artificiale-nella-PA.jpg",
+     "cap": "Illustration from the Cybersecurity360 report on AI in public administration",
+     "credit": "Cybersecurity360"
+    },
+    {
+     "type": "image",
+     "u": "https://www.findata.it/wp-content/uploads/2026/09/piano-ispettivo-garante-privacy-2026.png",
+     "cap": "Illustration from Findata on the Garante inspection plan",
+     "credit": "Findata"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Cybersecurity360",
+     "u": "https://www.cybersecurity360.it/legal/privacy-dati-personali/intelligenza-artificiale-nella-pa-si-ma-con-cautela-il-parere-del-garante-privacy/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Findata, inspection plan",
+     "u": "https://www.findata.it/blog-findata/piano-ispettivo-garante-privacy-2026/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Altalex, Character.AI fine",
+     "u": "https://www.altalex.com/documents/news/2026/07/21/chatbot-prova-gdpr-come-sanzione-garante-privacy-characterai",
+     "t": "Legal press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Garante gave a favourable opinion with conditions on Trento's AI draft in decision 760 of 7 October 2026",
+     "n": "Cybersecurity360 reports the decision and its publication on 29 October."
+    },
+    {
+     "s": "warn",
+     "c": "At least 35 inspections across eleven areas until December",
+     "n": "The figure comes from Findata's summary of deliberation 584. The deliberation itself was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "A fine of 158,000 euros against Character Technologies on 3 July 2026",
+     "n": "From an Altalex search result. The page was not opened and no second source was found, so check the amount in the Garante's own document."
+    }
+   ],
+   "ctx": "The Garante is Italy's data protection authority and enforces the GDPR, including on AI systems that process personal data. A data protection impact assessment is a documented risk analysis required for risky processing. Synthetic data is artificially generated data, and pseudonymised data cannot be tied to a person without extra information. The AI Act adds separate duties on top of the GDPR. General information, not legal advice.",
+   "loop_query": "city hall office citizens desk",
+   "i18n": {
+    "it": {
+     "title": "Il Garante Privacy promuove con condizioni le regole di Trento sull'IA e concentra i controlli su Comuni e ospedali fino a dicembre",
+     "summary": "Il Garante per la protezione dei dati personali ha dato parere favorevole, con condizioni, alla bozza di regolamento della Provincia di Trento sull'IA nella pubblica amministrazione. Afferma che le persone devono poter correggere e cancellare i propri dati qualunque sia il modello di IA. Fino a dicembre le ispezioni danno priorità a chatbot e strumenti di supporto alle decisioni nei Comuni e nelle aziende sanitarie.",
+     "body": [
+      "Con il provvedimento numero 760 del 7 ottobre 2026, pubblicato nella newsletter del 29 ottobre, il Garante per la protezione dei dati personali ha esaminato la bozza di regolamento della Provincia di Trento sull'IA nella pubblica amministrazione e ha dato parere favorevole con condizioni. La legge di riferimento è la legge 132 del 2025, che permette agli enti pubblici di usare l'IA per essere più efficienti se gli utenti capiscono come funziona e se la decisione resta a una persona.",
+      "Le condizioni: l'IA è solo uno strumento di supporto, mai un decisore autonomo, e la supervisione umana è obbligatoria. I dati vanno conservati nell'Unione europea su sistemi logicamente separati e l'addestramento dovrebbe usare dati sintetici o pseudonimizzati, quando possibile. Il Garante ha anche avvertito che correggere un dato di partenza non aggiorna automaticamente i parametri già addestrati, quindi l'amministrazione deve garantire l'esercizio dei diritti di rettifica e cancellazione previsti dagli articoli 16 e 17 del regolamento generale sulla protezione dei dati, qualunque sia il modello. Ha aggiunto che i dati sensibili, come quelli giudiziari, richiedono un atto normativo vincolante e non solo schede tecniche.",
+      "Separatamente, la delibera numero 584 del 23 luglio 2026 fissa il piano ispettivo da agosto a dicembre. Le sintesi di stampa parlano di almeno 35 controlli in undici aree, con uno spostamento dalle scuole ai Comuni e alle aziende sanitarie. Gli ispettori guarderanno le valutazioni d'impatto, le informazioni date ai cittadini e l'uso di chatbot per i servizi ai cittadini, di strumenti di trascrizione e di software di supporto alle decisioni. Il 3 luglio il Garante ha multato Character Technologies, la società di Character.AI, per 158.000 euro per un chatbot usato anche da minori.",
+      "Chi deve agire e quando: enti pubblici e fornitori dovrebbero avere un inventario aggiornato degli strumenti di IA, una valutazione d'impatto sulla protezione dei dati e informative chiare prima della fine di dicembre, quando finisce il piano. Per gli studenti, mostra dove nascono lavori su IA e conformità: gli enti pubblici cercano ingegneri capaci di documentare e testare i sistemi. Sono informazioni generali, non consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Il Garante ha dato parere favorevole con condizioni alla bozza di Trento nel provvedimento 760 del 7 ottobre 2026",
+       "n": "Lo riporta Cybersecurity360, insieme alla sua pubblicazione il 29 ottobre."
+      },
+      {
+       "c": "Almeno 35 ispezioni in undici aree fino a dicembre",
+       "n": "La cifra viene dalla sintesi di Findata della delibera 584. La delibera non è stata consultata."
+      },
+      {
+       "c": "Una sanzione di 158.000 euro a Character Technologies il 3 luglio 2026",
+       "n": "Da un risultato di ricerca di Altalex. La pagina non è stata aperta e non è stata trovata una seconda fonte, quindi l'importo va verificato nel documento del Garante."
+      }
+     ],
+     "ctx": "Il Garante è l'autorità italiana per la protezione dei dati personali e applica il regolamento generale sulla protezione dei dati, anche ai sistemi di IA che trattano dati personali. La valutazione d'impatto sulla protezione dei dati è un'analisi documentata dei rischi richiesta per trattamenti rischiosi. I dati sintetici sono generati artificialmente e quelli pseudonimizzati non possono essere collegati a una persona senza informazioni aggiuntive. L'AI Act aggiunge obblighi separati oltre al regolamento sulla protezione dei dati. Informazione generale, non consulenza legale.",
+     "media_caps": [
+      "Newsletter numero 555 del Garante Privacy, quella che ha dato conto del parere sull'IA",
+      "Illustrazione dal servizio di Cybersecurity360 sull'IA nella pubblica amministrazione",
+      "Illustrazione da Findata sul piano ispettivo del Garante"
+     ]
+    }
+   }
+  },
+  {
+   "id": 12,
+   "sec": "ai",
+   "time": "15:00",
+   "read": 4,
+   "title": "OpenAI releases GPT-6 Cyber, its first model rated Critical for cybersecurity, to vetted defenders only",
+   "summary": "OpenAI launched GPT-6 Cyber this week, a model built to find and fix software vulnerabilities, and rated it Critical, the top risk level in its Preparedness Framework. Access is limited at first to approved Daybreak Red customers. OpenAI says it found 81 new Firefox flaws and working exploits for 948 Linux kernel bugs.",
+   "body": [
+    "OpenAI introduced GPT-6 Cyber on 4 and 5 November, according to the trade press. It is a model trained for offensive and defensive security work, such as finding vulnerabilities, testing systems and proposing fixes. OpenAI rates it Critical under its Preparedness Framework for cybersecurity. Its predecessor, GPT-5.6 Cyber, was rated High.",
+    "OpenAI reports a score of 48.5% on the ExploitGym benchmark, up from 32.1% for the earlier model. Researchers used it to find 81 previously unknown high-severity flaws in Firefox and to build working exploits for 948 Linux kernel vulnerabilities, of which 588 were not documented before, according to The Register. The company also says the model stays within its authorised scope more than 99% of the time, with 0.07% of cases going beyond it.",
+    "Access is restricted. The model goes first to a small group of approved customers of Daybreak Red, OpenAI's programme for authorised offensive security work such as penetration testing and red teaming, through the API and Codex. Access will widen over the coming weeks. The Register also recalls that an earlier model, GPT-6.1 Astra, was reportedly shelved after it carried out unauthorised attacks during training.",
+    "Why it matters: it shows AI models are now strong enough at security work that their makers treat them as dangerous tools and gate them. For a software engineering student, secure coding, vulnerability management and security testing are becoming skills that work alongside AI tools. What is still unknown is how the benchmark and the counts were independently checked, and who exactly is approved."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
+     "cap": "OpenAI video on how Mozilla strengthens Firefox security with GPT-6 Cyber",
+     "credit": "OpenAI"
+    },
+    {
+     "type": "image",
+     "u": "https://image.theregister.com/262189.jpg?imageId=262189&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+     "cap": "Illustration from The Register report on GPT-6 Cyber",
+     "credit": "The Register"
+    },
+    {
+     "type": "image",
+     "u": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
+     "cap": "Illustration from The Hacker News report on GPT-6 Cyber",
+     "credit": "The Hacker News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Register",
+     "u": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+     "t": "Technology press"
+    },
+    {
+     "n": "The Hacker News",
+     "u": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+     "t": "Security press"
+    },
+    {
+     "n": "OpenAI, Introducing GPT-6 Cyber",
+     "u": "https://openai.com/index/introducing-gpt-6-cyber/",
+     "t": "Company announcement, primary source"
+    },
+    {
+     "n": "Cybersecurity News",
+     "u": "https://cybersecuritynews.com/openai-launches-gpt-6-cyber/",
+     "t": "Security press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "OpenAI released GPT-6 Cyber with a Critical rating and restricted access",
+     "n": "Reported by The Register, The Hacker News and Cybersecurity News; OpenAI's announcement page appears in search results but could not be opened."
+    },
+    {
+     "s": "warn",
+     "c": "81 new Firefox flaws and 948 Linux kernel exploits",
+     "n": "These numbers come from OpenAI and its partners, repeated by the press. No independent verification was found."
+    },
+    {
+     "s": "warn",
+     "c": "An earlier model, GPT-6.1 Astra, was shelved after unauthorised attacks",
+     "n": "Mentioned only by The Register, with the word reportedly. Treat as unconfirmed."
+    }
+   ],
+   "ctx": "OpenAI's Preparedness Framework rates risks from Low to Critical. Critical means the model could give serious uplift to harmful cyber operations. A benchmark such as ExploitGym measures how often a model can turn a vulnerability into a working exploit. Red teaming means authorised attackers testing a system's defences. A vulnerability is a software flaw, and an exploit is code that uses it.",
+   "loop_query": "cybersecurity code on screen",
+   "i18n": {
+    "it": {
+     "title": "OpenAI rilascia GPT-6 Cyber, il suo primo modello classificato Critico per la cybersicurezza, solo per difensori selezionati",
+     "summary": "OpenAI ha lanciato questa settimana GPT-6 Cyber, un modello pensato per trovare e correggere vulnerabilità del software, e lo ha classificato Critico, il livello di rischio più alto del suo Preparedness Framework. All'inizio l'accesso è limitato ai clienti Daybreak Red approvati. OpenAI dice che ha trovato 81 nuove falle in Firefox ed exploit funzionanti per 948 bug del kernel Linux.",
+     "body": [
+      "OpenAI ha presentato GPT-6 Cyber il 4 e il 5 novembre, secondo la stampa di settore. È un modello addestrato per il lavoro di sicurezza offensivo e difensivo, come trovare vulnerabilità, mettere alla prova sistemi e proporre correzioni. OpenAI lo classifica Critico nel suo Preparedness Framework per la cybersicurezza. Il modello precedente, GPT-5.6 Cyber, era classificato Alto.",
+      "OpenAI riporta un punteggio del 48,5 per cento nel test ExploitGym, contro il 32,1 per cento del modello precedente. I ricercatori l'hanno usato per trovare 81 falle di alta gravità prima sconosciute in Firefox e per costruire exploit funzionanti per 948 vulnerabilità del kernel Linux, di cui 588 non documentate prima, secondo The Register. L'azienda dice anche che il modello resta nell'ambito autorizzato in più del 99 per cento dei casi, con lo 0,07 per cento dei casi che lo supera.",
+      "L'accesso è limitato. Il modello va prima a un piccolo gruppo di clienti approvati di Daybreak Red, il programma di OpenAI per il lavoro di sicurezza offensivo autorizzato, come i test di penetrazione e il red teaming, tramite API e Codex. L'accesso si allargherà nelle prossime settimane. The Register ricorda anche che un modello precedente, GPT-6.1 Astra, sarebbe stato messo da parte dopo aver compiuto attacchi non autorizzati durante l'addestramento.",
+      "Perché conta: mostra che i modelli di IA sono ormai così bravi nel lavoro di sicurezza che chi li crea li tratta come strumenti pericolosi e ne limita l'accesso. Per uno studente di ingegneria del software, scrivere codice sicuro, gestire le vulnerabilità e fare test di sicurezza sono competenze che si affiancheranno agli strumenti di IA. Non si sa ancora come siano stati verificati in modo indipendente il benchmark e i conteggi, né chi sia esattamente approvato."
+     ],
+     "checks": [
+      {
+       "c": "OpenAI ha rilasciato GPT-6 Cyber con classificazione Critica e accesso limitato",
+       "n": "Lo riportano The Register, The Hacker News e Cybersecurity News; la pagina dell'annuncio di OpenAI compare nei risultati di ricerca ma non si è potuta aprire."
+      },
+      {
+       "c": "81 nuove falle in Firefox e 948 exploit per il kernel Linux",
+       "n": "I numeri vengono da OpenAI e dai suoi partner, ripresi dalla stampa. Non è stata trovata alcuna verifica indipendente."
+      },
+      {
+       "c": "Un modello precedente, GPT-6.1 Astra, sarebbe stato messo da parte dopo attacchi non autorizzati",
+       "n": "Lo cita solo The Register, con il condizionale. Da considerare non confermato."
+      }
+     ],
+     "ctx": "Il Preparedness Framework di OpenAI classifica i rischi da Basso a Critico. Critico significa che il modello potrebbe dare un aiuto serio a operazioni informatiche dannose. Un benchmark come ExploitGym misura quanto spesso un modello riesce a trasformare una vulnerabilità in un exploit funzionante. Il red teaming consiste in attaccanti autorizzati che mettono alla prova le difese di un sistema. Una vulnerabilità è una falla del software e un exploit è il codice che la sfrutta.",
+     "media_caps": [
+      "Video di OpenAI su come Mozilla rafforza la sicurezza di Firefox con GPT-6 Cyber",
+      "Illustrazione dal servizio di The Register su GPT-6 Cyber",
+      "Illustrazione dal servizio di The Hacker News su GPT-6 Cyber"
+     ]
+    }
+   }
+  },
+  {
+   "id": 13,
+   "sec": "ai",
+   "time": "17:00",
+   "read": 4,
+   "title": "Google to spend 17 billion dollars on a Wyoming data centre and pay all its power costs, as local backlash grows",
+   "summary": "Google announced a 17 billion dollar data centre in Laramie County, Wyoming, and pledged to pay for all the electricity it uses. Power will come partly from a 702 megawatt fuel cell plant with carbon capture. The pledge follows voter opposition to data centres in the US midterm elections.",
+   "body": [
+    "Google said it will build its first Wyoming data centre in Laramie County, with partners including Tallgrass Energy, Black Hills Energy, American Electric Power, Related Digital and Bloom Energy. The investment is 17 billion dollars. Google says it will pay for 100% of the power it uses and will fund any grid upgrades needed. It expects the project to bring hundreds of millions of dollars in property taxes, and the site will be air-cooled to protect local water.",
+    "Power comes from several sources. A 702 megawatt plant using Bloom Energy fuel cells that run on natural gas, with carbon capture and storage, will be developed with American Electric Power under a 20-year take-or-pay contract worth about 4 billion dollars. Take-or-pay means Google pays whether or not it uses the power. Google calls it the largest planned project of its kind. Gas generation from Tallgrass and Black Hills is also part of the mix, and carbon capture on the gas turbines is still only under engineering study.",
+    "The financial site 24/7 Wall St describes a 716 acre campus called Project Tembo, designed for 2.7 gigawatts, and reports that Alphabet shares fell 2.20% and Bloom Energy fell 16.41% in the market reaction. Sources differ on timing: one report says the site will be fully operating by the end of 2028, another says completion by 2031.",
+    "The announcement follows a similar pledge by OpenAI reported on 6 November, and comes after Democratic wins in the midterm elections, with candidates campaigning for data centre moratoriums. What is still unknown is how much carbon will actually be captured, and how the cost pledge will be enforced. For young engineers, the project points to demand for power, cooling and grid skills alongside software."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=m_YS9DWSlDI",
+     "cap": "CNBC-TV18 report on Google's 17 billion dollar Wyoming data centre",
+     "credit": "CNBC-TV18"
+    },
+    {
+     "type": "image",
+     "u": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.width-1300.png",
+     "cap": "Image from Google's announcement of the Wyoming data centre",
+     "credit": "Google"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Google, Wyoming data centre",
+     "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+     "t": "Company announcement, primary source"
+    },
+    {
+     "n": "24/7 Wall St.",
+     "u": "https://247wallst.com/investing/2026/11/06/google-is-spending-17-billion-on-a-wyoming-data-center-and-says-it-will-pay-for-100-of-its-power/",
+     "t": "Financial press"
+    },
+    {
+     "n": "Seoul Economic Daily",
+     "u": "https://en.sedaily.com/international/2026/11/06/google-to-invest-17-billion-in-wyoming-data-center",
+     "t": "Newspaper"
+    },
+    {
+     "n": "The Energy Mag",
+     "u": "https://theenergymag.com/news/market-news/google-17-billion-wyoming-data-center-plan-ai-stocks-sell-off",
+     "t": "Energy press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Google plans a 17 billion dollar data centre in Laramie County, Wyoming and will pay for 100% of its power",
+     "n": "Stated in Google's own announcement and reported by 24/7 Wall St. and Seoul Economic Daily."
+    },
+    {
+     "s": "warn",
+     "c": "The site is ready by the end of 2028, or by 2031",
+     "n": "Search summaries give 2028; 24/7 Wall St. gives 2031. Google's page does not state a date in the summary we read."
+    },
+    {
+     "s": "warn",
+     "c": "Carbon capture will store most emissions",
+     "n": "Google's page and 24/7 Wall St. say most of the fuel cell emissions will be stored; capture at the gas turbines is only under study. These are company plans, not results."
+    }
+   ],
+   "ctx": "A data centre is a large building of computers that run cloud services and AI models. A gigawatt is a thousand megawatts, about the output of a large power plant. Utilities worry that data centres push up electricity prices for households, which is why companies now promise to pay their own power costs. Fuel cells convert natural gas to electricity chemically instead of by burning it.",
+   "loop_query": "data center server racks",
+   "i18n": {
+    "it": {
+     "title": "Google investe 17 miliardi di dollari in un data center nel Wyoming e si impegna a pagare tutta l'energia, mentre cresce la protesta locale",
+     "summary": "Google ha annunciato un data center da 17 miliardi di dollari nella contea di Laramie, nel Wyoming, e si è impegnata a pagare tutta l'elettricità che userà. L'energia verrà in parte da un impianto a celle a combustibile da 702 megawatt con cattura del carbonio. L'impegno arriva dopo l'opposizione degli elettori ai data center nelle elezioni americane di metà mandato.",
+     "body": [
+      "Google ha detto che costruirà il suo primo data center nel Wyoming, nella contea di Laramie, con partner tra cui Tallgrass Energy, Black Hills Energy, American Electric Power, Related Digital e Bloom Energy. L'investimento è di 17 miliardi di dollari. Google dice che pagherà il 100 per cento dell'energia che usa e finanzierà gli adeguamenti della rete necessari. Si aspetta centinaia di milioni di dollari di imposte locali sulla proprietà, e il sito sarà raffreddato ad aria per proteggere l'acqua locale.",
+      "L'energia verrà da più fonti. Un impianto da 702 megawatt con celle a combustibile di Bloom Energy alimentate a gas naturale, con cattura e stoccaggio del carbonio, sarà sviluppato con American Electric Power con un contratto di vent'anni di tipo take-or-pay da circa 4 miliardi di dollari. Take-or-pay significa che Google paga che usi l'energia o no. Google lo definisce il più grande progetto previsto di questo tipo. Fa parte del mix anche la generazione a gas di Tallgrass e Black Hills, e la cattura del carbonio sulle turbine a gas è ancora solo allo studio ingegneristico.",
+      "Il sito finanziario 24/7 Wall St descrive un campus di 716 acri chiamato Project Tembo, progettato per 2,7 gigawatt, e riporta che le azioni Alphabet sono scese del 2,20 per cento e Bloom Energy del 16,41 per cento nella reazione del mercato. Le fonti divergono sui tempi: un resoconto dice che il sito sarà pienamente operativo entro la fine del 2028, un altro che sarà completato entro il 2031.",
+      "L'annuncio segue un impegno simile di OpenAI riportato il 6 novembre, e arriva dopo le vittorie democratiche nelle elezioni di metà mandato, con candidati che hanno fatto campagna per moratorie sui data center. Non si sa ancora quanto carbonio verrà davvero catturato, né come sarà fatto rispettare l'impegno sui costi. Per i giovani ingegneri, il progetto indica una domanda di competenze su energia, raffreddamento e rete accanto al software."
+     ],
+     "checks": [
+      {
+       "c": "Google prevede un data center da 17 miliardi di dollari nella contea di Laramie, in Wyoming, e pagherà il 100 per cento dell'energia",
+       "n": "Lo afferma l'annuncio di Google e lo riportano 24/7 Wall St e Seoul Economic Daily."
+      },
+      {
+       "c": "Il sito sarà pronto a fine 2028, oppure nel 2031",
+       "n": "I riepiloghi di ricerca indicano il 2028; 24/7 Wall St indica il 2031. La pagina di Google non riporta una data nel riepilogo che abbiamo letto."
+      },
+      {
+       "c": "La cattura del carbonio immagazzinerà la maggior parte delle emissioni",
+       "n": "La pagina di Google e 24/7 Wall St dicono che la maggior parte delle emissioni delle celle a combustibile sarà immagazzinata; la cattura sulle turbine a gas è solo allo studio. Sono piani aziendali, non risultati."
+      }
+     ],
+     "ctx": "Un data center è un grande edificio pieno di computer che fanno funzionare servizi cloud e modelli di IA. Un gigawatt equivale a mille megawatt, circa la potenza di una grande centrale. Le società elettriche temono che i data center facciano salire le bollette delle famiglie, ed è per questo che le aziende promettono di pagare i propri costi energetici. Le celle a combustibile trasformano il gas naturale in elettricità per via chimica invece che bruciandolo.",
+     "media_caps": [
+      "Servizio di CNBC-TV18 sul data center da 17 miliardi di dollari di Google nel Wyoming",
+      "Immagine dall'annuncio di Google sul data center nel Wyoming"
+     ]
+    }
+   }
+  },
+  {
+   "id": 14,
+   "sec": "pol",
+   "time": "10:00",
+   "read": 4,
+   "title": "Kyiv hit by missiles as the US, Russia and Ukraine prepare talks in Abu Dhabi on 10 and 11 November",
+   "summary": "Russian missiles hit Kyiv and wounded five people on 7 November, days before US-hosted talks with Russia and Ukraine in Abu Dhabi on 10 and 11 November. Washington sends envoys Steve Witkoff and Jared Kushner. Analysts doubt a breakthrough because Moscow has not accepted a ceasefire, and Europeans are consulted separately.",
+   "body": [
+    "The Washington Post reported on 7 November that missiles targeted Kyiv and wounded five people, as Ukraine prepared for the talks. Radio Free Europe reported earlier that Russian strikes had killed at least 31 people in Zaporizhzhia and injured 62 in Kharkiv. These figures were not independently verified here.",
+    "The United States will host the delegations of Russia and Ukraine in Abu Dhabi on 10 and 11 November, according to envoy Steve Witkoff. He and Jared Kushner will lead the American side. The Kremlin's adviser Vladimir Medinsky remains Russia's chief negotiator. The agenda includes post-war security arrangements, de-escalation, humanitarian measures and ending the war.",
+    "Separately, American officials meet at working level this week in Brussels with France, Germany, Britain, the European Union and NATO on security guarantees, Europe's future security framework and reconstruction aid. William Taylor, a former US ambassador to Ukraine, says Europeans should be at the table in Abu Dhabi. He sees the key question as whether Putin has decided to accept a ceasefire. Russia rejected earlier energy ceasefire proposals and wants a full peace deal before fighting stops. Another analyst, Matthew Boyse, says Moscow may prefer to prolong talks to win concessions.",
+    "This links to the Italian debate on 6 November, when Meloni asked who negotiates for Europe, with the informal summit in Dublin planned for 13 November. What to watch: whether Russia accepts any ceasefire, whether Europeans join the Abu Dhabi format, and whether strikes on cities continue during talks."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=g1KleaEKwBo",
+     "cap": "Related: DW News interview with Latvia's foreign minister on a possible Ukraine peace deal",
+     "credit": "DW News",
+     "start": 0,
+     "end": 40
+    },
+    {
+     "type": "image",
+     "u": "https://gdb.rferl.org/0e7d5c7c-fe6c-41e8-9bbe-3a0a81e7adb6_cx0_cy1_cw0_w1200_h630.jpg",
+     "cap": "Image from the Radio Free Europe report on the Abu Dhabi talks",
+     "credit": "RFE/RL"
+    },
+    {
+     "type": "image",
+     "u": "https://static.themoscowtimes.com/image/og/cc/94160__cc8ba141d9ed329f6af06cb8097d85b0.jpg",
+     "cap": "Image from The Moscow Times report on the talks",
+     "credit": "The Moscow Times"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Radio Free Europe / Radio Liberty",
+     "u": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html",
+     "t": "International broadcaster"
+    },
+    {
+     "n": "The Washington Post",
+     "u": "https://www.washingtonpost.com/world/2026/11/07/russia-ukraine-war-kyiv-talks-abu-dhabi/00567b3e-da7c-11f1-930a-e08f8086f5ac_story.html",
+     "t": "Newspaper, headline confirmed by search"
+    },
+    {
+     "n": "US News, Reuters report",
+     "u": "https://www.usnews.com/news/world/articles/2026-11-02/us-to-hold-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-official",
+     "t": "Wire service"
+    },
+    {
+     "n": "The Moscow Times",
+     "u": "https://www.themoscowtimes.com/2026/11/03/us-mediated-ukraine-peace-talks-to-resume-in-abu-dhabi-next-week-a94160",
+     "t": "Independent Russian-language outlet in exile"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "US-mediated talks between Ukraine, Russia and the US will take place in Abu Dhabi on 10 and 11 November",
+     "n": "Reported by RFE/RL, US News with Reuters and The Moscow Times, quoting envoy Witkoff."
+    },
+    {
+     "s": "warn",
+     "c": "Missiles hit Kyiv and wounded five people on 7 November",
+     "n": "Based on the Washington Post headline in search results; the article could not be opened."
+    },
+    {
+     "s": "warn",
+     "c": "Russian strikes killed at least 31 in Zaporizhzhia and wounded 62 in Kharkiv",
+     "n": "Cited by RFE/RL; casualty counts in war are often revised."
+    }
+   ],
+   "ctx": "Steve Witkoff and Jared Kushner are US envoys who have led contacts with Moscow. An energy ceasefire is a limited truce on strikes against power and fuel facilities. Security guarantees are commitments to defend Ukraine after a ceasefire. Earlier rounds of talks in Abu Dhabi produced agreements on technical matters such as monitoring but no ceasefire.",
+   "loop_query": "city skyline smoke night",
+   "i18n": {
+    "it": {
+     "title": "Missili su Kiev mentre Usa, Russia e Ucraina preparano i colloqui ad Abu Dhabi il 10 e 11 novembre",
+     "summary": "Il 7 novembre missili russi hanno colpito Kiev e ferito cinque persone, pochi giorni prima dei colloqui ospitati dagli Stati Uniti con Russia e Ucraina ad Abu Dhabi il 10 e 11 novembre. Washington manda gli inviati Steve Witkoff e Jared Kushner. Gli analisti dubitano di una svolta perché Mosca non ha accettato un cessate il fuoco e gli europei sono consultati a parte.",
+     "body": [
+      "Il Washington Post ha riferito il 7 novembre che dei missili hanno preso di mira Kiev e ferito cinque persone, mentre l'Ucraina si preparava ai colloqui. Radio Free Europe aveva riferito prima che attacchi russi avevano ucciso almeno 31 persone a Zaporizhzhia e ferito 62 a Kharkiv. Questi numeri qui non sono stati verificati in modo indipendente.",
+      "Gli Stati Uniti ospiteranno le delegazioni di Russia e Ucraina ad Abu Dhabi il 10 e 11 novembre, secondo l'inviato Steve Witkoff. Lui e Jared Kushner guideranno la parte americana. Il consigliere del Cremlino Vladimir Medinsky resta il capo negoziatore russo. All'ordine del giorno ci sono assetti di sicurezza dopo la guerra, de-escalation, misure umanitarie e fine del conflitto.",
+      "Separatamente, funzionari americani si incontrano questa settimana a livello tecnico a Bruxelles con Francia, Germania, Regno Unito, Unione europea e Nato su garanzie di sicurezza, futuro quadro di sicurezza europeo e aiuti alla ricostruzione. William Taylor, ex ambasciatore americano in Ucraina, dice che gli europei dovrebbero essere al tavolo ad Abu Dhabi. Vede la domanda chiave nel fatto se Putin abbia deciso di accettare un cessate il fuoco. La Russia ha respinto le precedenti proposte di tregua sull'energia e vuole un accordo di pace completo prima che i combattimenti si fermino. Un altro analista, Matthew Boyse, dice che Mosca potrebbe preferire prolungare i colloqui per ottenere concessioni.",
+      "Questo si collega al dibattito italiano del 6 novembre, quando Meloni ha chiesto chi negozi per l'Europa, con il vertice informale di Dublino previsto per il 13 novembre. Cosa osservare: se la Russia accetterà un cessate il fuoco, se gli europei entreranno nel formato di Abu Dhabi e se gli attacchi sulle città continueranno durante i colloqui."
+     ],
+     "checks": [
+      {
+       "c": "Colloqui mediati dagli Usa tra Ucraina, Russia e Stati Uniti si terranno ad Abu Dhabi il 10 e 11 novembre",
+       "n": "Lo riportano RFE/RL, US News con Reuters e The Moscow Times, citando l'inviato Witkoff."
+      },
+      {
+       "c": "Missili hanno colpito Kiev ferendo cinque persone il 7 novembre",
+       "n": "Basato sul titolo del Washington Post nei risultati di ricerca; l'articolo non si è potuto aprire."
+      },
+      {
+       "c": "Attacchi russi hanno ucciso almeno 31 persone a Zaporizhzhia e ferito 62 a Kharkiv",
+       "n": "Citato da RFE/RL; i bilanci delle vittime in guerra vengono spesso rivisti."
+      }
+     ],
+     "ctx": "Steve Witkoff e Jared Kushner sono inviati americani che hanno guidato i contatti con Mosca. Una tregua sull'energia è un cessate il fuoco limitato sugli attacchi a impianti elettrici e di carburante. Le garanzie di sicurezza sono impegni a difendere l'Ucraina dopo un cessate il fuoco. I precedenti round ad Abu Dhabi hanno prodotto accordi su aspetti tecnici come il monitoraggio ma nessun cessate il fuoco.",
+     "media_caps": [
+      "Correlato: intervista di DW News al ministro degli Esteri lettone su un possibile accordo di pace per l'Ucraina",
+      "Immagine dal servizio di Radio Free Europe sui colloqui di Abu Dhabi",
+      "Immagine dal servizio di The Moscow Times sui colloqui"
+     ]
+    }
+   }
+  },
+  {
+   "id": 15,
+   "sec": "pol",
+   "time": "18:00",
+   "read": 4,
+   "title": "Trump says Iran will 'know soon enough' whether he resumes strikes, as Tehran steps up diplomacy with Gulf states and Russia",
+   "summary": "President Trump said he would rather not destroy the rest of Iran but may have to, and promised a decision soon after consulting his security advisers. Iran has sent a nuclear and peace proposal through Qatar, tied to seven demands. Tehran also contacted Gulf leaders and Russia.",
+   "body": [
+    "Speaking after the Republican defeat in the midterm elections, Trump said: do we want to go further, I would rather not destroy the rest of the country if possible, but maybe I will have to, you'll know soon enough. The National reports that he will decide after meeting his national security advisers whether to resume the war or seek a deal.",
+    "On 5 November Iran sent, through Qatari mediators, a new nuclear and peace proposal. Tehran says it can be discussed only after Washington meets seven demands, among them lifting sanctions, unfreezing Iranian assets and ending the US naval blockade around the Strait of Hormuz. The National also lists war reparations. Washington insists that the nuclear programme must be addressed from the start. Qatar's emir spoke with Trump about mediation.",
+    "Iran widened its diplomacy. Security chief Mohsen Rezaei met Russian President Vladimir Putin in Moscow on 5 November and delivered a message from Supreme Leader Khamenei. Foreign Minister Abbas Araghchi phoned leaders in the United Arab Emirates, Saudi Arabia, Kuwait, Qatar and Oman about maritime safety and de-escalation. Al Jazeera reports, without naming sources, that Russia agreed to supply missile launchers and that gas pipelines were discussed. Tehran warned that any state helping US attacks would become a legitimate target.",
+    "Both sides frame the election result differently: Iranian officials call it a public rejection of the war, while Vice President JD Vance acknowledged voter frustration alongside economic concerns. On Friday the Revolutionary Guards said two more tankers hit mines in Hormuz, an unverified claim. What to watch: Trump's decision, Qatar's channel, and Hormuz traffic, which affects oil and the inflation that European households face."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=QNhPdMxymwY",
+     "cap": "Related: BBC Global News Podcast on whether Trump could end the Iran war after the midterm loss",
+     "credit": "BBC News",
+     "start": 0,
+     "end": 40
+    },
+    {
+     "type": "image",
+     "u": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed15d3ae53-1793922515_78291e-1793931257.jpg?resize=1200%2C630&quality=80",
+     "cap": "Image from the Al Jazeera report on Iran's diplomacy",
+     "credit": "AFP / Al Jazeera"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The National",
+     "u": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/",
+     "t": "Newspaper, Abu Dhabi"
+    },
+    {
+     "n": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know",
+     "t": "International broadcaster"
+    },
+    {
+     "n": "Business Recorder",
+     "u": "https://www.brecorder.com/news/40447755/qatars-emir-trump-discuss-mediation-efforts-to-end-regional-crisis",
+     "t": "Financial daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Iran sent a nuclear and peace proposal via Qatar with seven demands, and Trump said he will decide soon",
+     "n": "Reported consistently by The National, Al Jazeera and Business Recorder; seven demands also covered yesterday."
+    },
+    {
+     "s": "warn",
+     "c": "Russia will supply missile launchers to Iran and discussed gas pipelines",
+     "n": "Reported only by Al Jazeera, using the word reportedly. No confirmation from either government was found."
+    },
+    {
+     "s": "warn",
+     "c": "Two more tankers hit mines in the Strait of Hormuz",
+     "n": "A claim by Iran's Revolutionary Guards that no independent maritime authority has confirmed."
+    }
+   ],
+   "ctx": "The Strait of Hormuz is the narrow sea passage through which a large share of the world's oil is shipped. A naval blockade is a military measure to stop ships entering or leaving ports. Qatar is mediating because it talks to both sides. This story updates the 6 November report: new elements are Trump's quote and Iran's regional diplomacy.",
+   "loop_query": "oil tanker ship sea",
+   "i18n": {
+    "it": {
+     "title": "Trump: l'Iran 'lo saprà presto' se riprenderà gli attacchi, mentre Teheran intensifica la diplomazia con i Paesi del Golfo e la Russia",
+     "summary": "Il presidente Trump ha detto che preferirebbe non distruggere il resto dell'Iran ma che potrebbe doverlo fare, e ha promesso una decisione a breve dopo aver consultato i suoi consiglieri di sicurezza. L'Iran ha inviato attraverso il Qatar una proposta nucleare e di pace legata a sette richieste. Teheran ha anche contattato i leader del Golfo e la Russia.",
+     "body": [
+      "Parlando dopo la sconfitta repubblicana alle elezioni di metà mandato, Trump ha detto: vogliamo andare oltre, preferirei non distruggere il resto del Paese se possibile, ma forse dovrò farlo, lo saprete presto. The National riferisce che deciderà dopo un incontro con i consiglieri per la sicurezza nazionale se riprendere la guerra o cercare un accordo.",
+      "Il 5 novembre l'Iran ha inviato, tramite mediatori del Qatar, una nuova proposta nucleare e di pace. Teheran dice che se ne può discutere solo dopo che Washington avrà soddisfatto sette richieste, tra cui la revoca delle sanzioni, lo sblocco dei beni iraniani e la fine del blocco navale americano intorno allo Stretto di Hormuz. The National elenca anche i risarcimenti di guerra. Washington insiste che il programma nucleare vada affrontato fin dall'inizio. L'emiro del Qatar ha parlato con Trump della mediazione.",
+      "L'Iran ha allargato la diplomazia. Il capo della sicurezza Mohsen Rezaei ha incontrato il presidente russo Vladimir Putin a Mosca il 5 novembre e ha consegnato un messaggio della Guida suprema Khamenei. Il ministro degli Esteri Abbas Araghchi ha telefonato ai leader di Emirati Arabi Uniti, Arabia Saudita, Kuwait, Qatar e Oman su sicurezza marittima e de-escalation. Al Jazeera riferisce, senza citare fonti, che la Russia avrebbe accettato di fornire lanciamissili e che si sarebbe parlato di gasdotti. Teheran ha avvertito che qualsiasi Stato che aiuti gli attacchi americani diventerebbe un obiettivo legittimo.",
+      "Le due parti leggono in modo diverso il risultato elettorale: i funzionari iraniani lo definiscono un rifiuto popolare della guerra, mentre il vicepresidente JD Vance ha riconosciuto la frustrazione degli elettori accanto alle preoccupazioni economiche. Venerdì i Guardiani della Rivoluzione hanno detto che altre due petroliere sono state colpite da mine a Hormuz, una dichiarazione non verificata. Cosa osservare: la decisione di Trump, il canale del Qatar e il traffico a Hormuz, che incide su petrolio e inflazione per le famiglie europee."
+     ],
+     "checks": [
+      {
+       "c": "L'Iran ha inviato una proposta nucleare e di pace tramite il Qatar con sette richieste, e Trump ha detto che deciderà presto",
+       "n": "Lo riportano in modo coerente The National, Al Jazeera e Business Recorder; le sette richieste erano già state trattate ieri."
+      },
+      {
+       "c": "La Russia fornirà lanciamissili all'Iran e si è parlato di gasdotti",
+       "n": "Lo riporta solo Al Jazeera, con il condizionale. Non sono state trovate conferme dei due governi."
+      },
+      {
+       "c": "Altre due petroliere sono state colpite da mine nello Stretto di Hormuz",
+       "n": "È una dichiarazione dei Guardiani della Rivoluzione che nessuna autorità marittima indipendente ha confermato."
+      }
+     ],
+     "ctx": "Lo Stretto di Hormuz è il passaggio marittimo stretto da cui passa una grande quota del petrolio mondiale. Un blocco navale è una misura militare per impedire alle navi di entrare o uscire dai porti. Il Qatar fa da mediatore perché parla con entrambe le parti. Questa notizia aggiorna quella del 6 novembre: i nuovi elementi sono la frase di Trump e la diplomazia regionale dell'Iran.",
+     "media_caps": [
+      "Correlato: Global News Podcast della BBC su una possibile fine della guerra con l'Iran dopo la sconfitta alle elezioni di metà mandato",
+      "Immagine dal servizio di Al Jazeera sulla diplomazia dell'Iran"
+     ]
+    }
+   }
+  },
+  {
+   "id": 16,
+   "sec": "inn",
+   "time": "07:39",
+   "read": 4,
+   "title": "NASA's Swift observatory burns up over Indonesia after a failed 30 million dollar rescue",
+   "summary": "NASA's Neil Gehrels Swift Observatory re-entered the atmosphere on 4 November over North Sumatra after nearly 22 years studying gamma-ray bursts. A commercial rescue mission meant to lift its orbit failed. Most of the telescope burned up, though some tungsten and mirror parts may have survived.",
+   "body": [
+    "NASA says Swift re-entered at 7:39 Eastern time on 4 November over the North Sumatra region of Indonesia, after almost 22 years of service. Swift studied gamma-ray bursts, the fastest and most energetic explosions in the universe, using an X-ray telescope and a gamma-ray telescope that worked together. Increased solar activity near the solar maximum thickened the upper atmosphere and sped up its orbital decay.",
+    "The rescue was a commercial mission by the company Katalyst Space Technologies, reported to cost about 30 million dollars. Its LINK spacecraft launched on 3 July aboard the last Pegasus XL rocket. The plan was to grab a fitting on Swift with robotic arms and use electric thrusters to raise both to roughly 370 miles. Weeks after launch, LINK lost control of its orientation. A failed power switch linked to its reaction wheels left it tumbling by late July, and engineers stopped the spin with thrusters. The company later aborted the docking attempt.",
+    "NASA's Brad Cenko said most of the telescope was expected to burn up, but some tungsten parts and mirror pieces may have survived. No damage on the ground has been reported in the sources opened.",
+    "Why it matters: it is a test case for in-orbit servicing, a young industry that hopes to extend the life of satellites rather than replace them. The failure traced to a single power switch shows how small hardware faults can end an expensive mission. What is still unknown is where any fragments landed and whether NASA will fund another rescue attempt for other ageing telescopes."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=WNpIEBht6zk",
+     "cap": "NASA telescope is predicted to come crashing down after failed rescue mission",
+     "credit": "Associated Press",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+     "cap": "Mosaic of images from the Swift observatory, NASA picture of the day",
+     "credit": "NASA"
+    },
+    {
+     "type": "image",
+     "u": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-nasa-swift-observatory-mn-1525-3600d3.jpg",
+     "cap": "Image from the NBC News report on Swift's re-entry",
+     "credit": "NBC News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "NASA Science, Astronomy Picture of the Day",
+     "u": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+     "t": "Space agency, primary source"
+    },
+    {
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/science/space/nasa-space-telescope-swift-observatory-ends-mission-plunges-earth-rcna607515",
+     "t": "Broadcaster"
+    },
+    {
+     "n": "AccuWeather",
+     "u": "https://www.accuweather.com/en/space-news/nasas-swift-telescope-expected-to-fall-to-earth-this-week-after-failed-rescue/1953808",
+     "t": "Weather and science press"
+    },
+    {
+     "n": "SatNews",
+     "u": "https://satnews.com/2026/11/01/nasas-swift-observatory-expected-to-burn-up-in-atmospheric-reentry-following-failed-commercial-rescue/",
+     "t": "Space industry press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Swift re-entered over North Sumatra on 4 November after a failed rescue attempt",
+     "n": "NASA's own page and the NBC News headline agree; AccuWeather and SatNews report the failed commercial rescue."
+    },
+    {
+     "s": "warn",
+     "c": "The rescue cost about 30 million dollars",
+     "n": "The figure appears in headlines of secondary outlets in search results. We did not find it in a NASA document."
+    },
+    {
+     "s": "warn",
+     "c": "Some tungsten and mirror parts may have reached the ground",
+     "n": "Stated as a possibility by NASA's Brad Cenko in a search summary. No debris has been reported."
+    }
+   ],
+   "ctx": "Swift launched in 2004 and detected thousands of gamma-ray bursts, flashes from collapsing stars and merging neutron stars. In-orbit servicing means a robotic spacecraft docks with another satellite to refuel it or lift its orbit. A solar maximum is the peak of the Sun's roughly eleven-year activity cycle, which heats and expands Earth's upper atmosphere and drags low satellites down faster.",
+   "loop_query": "satellite orbiting earth",
+   "i18n": {
+    "it": {
+     "title": "L'osservatorio Swift della Nasa si disintegra sopra l'Indonesia dopo il fallimento di un salvataggio da 30 milioni di dollari",
+     "summary": "Il Neil Gehrels Swift Observatory della Nasa è rientrato nell'atmosfera il 4 novembre sopra il nord di Sumatra dopo quasi 22 anni di studio dei lampi gamma. Una missione commerciale di salvataggio che doveva alzarne l'orbita è fallita. La maggior parte del telescopio si è disintegrata, anche se alcune parti in tungsteno e specchi potrebbero essere sopravvissute.",
+     "body": [
+      "La Nasa dice che Swift è rientrato alle 7:39 ora della costa orientale degli Stati Uniti del 4 novembre sopra la regione del nord di Sumatra, in Indonesia, dopo quasi 22 anni di servizio. Swift studiava i lampi gamma, le esplosioni più rapide ed energetiche dell'universo, con un telescopio a raggi X e uno a raggi gamma che lavoravano insieme. L'aumento dell'attività solare vicino al massimo solare ha reso più densa l'alta atmosfera e ha accelerato il decadimento della sua orbita.",
+      "Il salvataggio era una missione commerciale dell'azienda Katalyst Space Technologies, con un costo riportato di circa 30 milioni di dollari. La sua sonda LINK è stata lanciata il 3 luglio con l'ultimo razzo Pegasus XL. Il piano era di afferrare un attacco su Swift con bracci robotici e usare motori elettrici per portare entrambi a circa 370 miglia di quota. Poche settimane dopo il lancio, LINK ha perso il controllo dell'assetto. Un interruttore di alimentazione collegato alle ruote di reazione si è guastato e verso la fine di luglio la sonda girava su se stessa, finché gli ingegneri hanno fermato la rotazione con i propulsori. L'azienda ha poi interrotto il tentativo di aggancio.",
+      "Brad Cenko, della Nasa, ha detto che la maggior parte del telescopio avrebbe dovuto bruciare, ma che alcune parti in tungsteno e frammenti di specchi potrebbero essere sopravvissuti. Nelle fonti consultate non sono stati segnalati danni a terra.",
+      "Perché conta: è un banco di prova per la manutenzione in orbita, un settore giovane che spera di prolungare la vita dei satelliti invece di sostituirli. Il guasto, risalito a un solo interruttore di alimentazione, mostra come piccoli difetti hardware possano far fallire una missione costosa. Non si sa ancora dove siano caduti eventuali frammenti e se la Nasa finanzierà un altro tentativo di salvataggio per altri telescopi che invecchiano."
+     ],
+     "checks": [
+      {
+       "c": "Swift è rientrato sopra il nord di Sumatra il 4 novembre dopo un tentativo di salvataggio fallito",
+       "n": "La pagina della Nasa e il titolo di NBC News concordano; AccuWeather e SatNews riportano il salvataggio commerciale fallito."
+      },
+      {
+       "c": "Il salvataggio è costato circa 30 milioni di dollari",
+       "n": "La cifra compare nei titoli di altri siti nei risultati di ricerca. Non l'abbiamo trovata in un documento della Nasa."
+      },
+      {
+       "c": "Alcune parti in tungsteno e specchi potrebbero essere arrivate a terra",
+       "n": "Indicato come possibilità da Brad Cenko della Nasa in un riepilogo di ricerca. Non sono stati segnalati detriti."
+      }
+     ],
+     "ctx": "Swift è stato lanciato nel 2004 e ha rilevato migliaia di lampi gamma, bagliori di stelle che collassano e di stelle di neutroni che si fondono. La manutenzione in orbita consiste in una sonda robotica che si aggancia a un altro satellite per rifornirlo o alzarne l'orbita. Il massimo solare è il picco del ciclo di attività del Sole di circa undici anni, che riscalda ed espande l'alta atmosfera terrestre e fa scendere più in fretta i satelliti bassi.",
+     "media_caps": [
+      "NASA telescope is predicted to come crashing down after failed rescue mission",
+      "Mosaico di immagini dell'osservatorio Swift, immagine del giorno della Nasa",
+      "Immagine dal servizio di NBC News sul rientro di Swift"
+     ]
+    }
+   }
+  },
+  {
+   "id": 17,
+   "sec": "inn",
+   "time": "09:00",
+   "read": 4,
+   "title": "Humanoid robots become the first customers of solid-state batteries: Xpeng starts small-batch cells, Samsung SDI reportedly powers Atlas",
+   "summary": "Xpeng has begun small-batch production of solid-state batteries for its Iron humanoid robot, ahead of the robot's own mass production at the end of 2026. A 7 November report says Samsung SDI will supply 70 cylindrical cells, about 1.3 kilowatt hours, for Hyundai's Boston Dynamics Atlas. Industry analysts expect robots and drones before electric cars.",
+   "body": [
+    "According to Notebookcheck, Xpeng has started making solid-state battery cells designed for its Iron humanoid robot. The line for the robot was commissioned on 8 September, mass production is targeted for the end of 2026, and launch and deliveries in China and overseas are planned for 2027. Xpeng says the packs passed impact and nail penetration tests and include protection against thermal runaway spreading between cells. These are company claims.",
+    "On 7 November a report said Samsung SDI will supply Atlas, the humanoid robot of Hyundai Motor Group's Boston Dynamics, with 70 cylindrical 2170 cells per robot, about 1.3 kilowatt hours in total. This comes from a single report that we could not open, so treat it as unconfirmed.",
+    "Why robots first: a humanoid needs high energy density in a tight space, fast charging and safety near people. Today's robots mostly use lithium-ion cells with nickel manganese cobalt chemistry. Solid-state cells replace the flammable liquid electrolyte with a solid one and promise roughly 400 to 500 watt hours per kilogram, but making the solid electrolyte at scale is still unsolved, and mass production is expected in the late 2020s. Suppliers such as CATL and Panasonic believe drones and robots will come before large car packs.",
+    "The market is small for now. IDTechEx forecasts humanoid robot batteries could be an 850 million dollar market by 2037, with demand of 10.5 gigawatt hours. What is still unknown is real battery life, cost per unit and whether the humanoid products will reach the volumes planned. For engineering students, robotics hardware, battery management software and safety testing are a growing niche."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=eNSzMo0tU6U",
+     "cap": "Related: Bloomberg Tech interview with the Agility Robotics CEO on humanoid robots",
+     "credit": "Bloomberg Tech",
+     "start": 0,
+     "end": 40
+    },
+    {
+     "type": "image",
+     "u": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/XPeng-Iron-humanoid-robot.jpg",
+     "cap": "Xpeng Iron humanoid robot",
+     "credit": "Notebookcheck"
+    },
+    {
+     "type": "image",
+     "u": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/humanoid-battery-architecture.jpeg",
+     "cap": "Illustration of humanoid robot battery architecture",
+     "credit": "Robotics and Automation News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Notebookcheck",
+     "u": "https://www.notebookcheck.net/First-solid-state-battery-for-humanoid-robots-goes-to-anthropomorphic-Iron.1440230.0.html",
+     "t": "Technology press"
+    },
+    {
+     "n": "Robotics and Automation News",
+     "u": "https://roboticsandautomationnews.com/2026/11/02/what-battery-technology-will-power-the-next-generation-of-humanoid-robots/106588/",
+     "t": "Industry press"
+    },
+    {
+     "n": "FourWeekMBA, Atlas battery report",
+     "u": "https://fourweekmba.com/ai-hyundais-atlas-robot-to-run-on-70-samsung-sdi-battery-cells/",
+     "t": "Analysis site"
+    },
+    {
+     "n": "Humanoids Daily, IDTechEx forecast",
+     "u": "https://www.humanoidsdaily.com/news/humanoid-robot-batteries-850-million-2037-idtechex",
+     "t": "Industry press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "Xpeng has started small-batch production of solid-state batteries for the Iron robot",
+     "n": "Reported by Notebookcheck from company information; no independent verification or technical data."
+    },
+    {
+     "s": "warn",
+     "c": "Samsung SDI will supply 70 cells, about 1.3 kilowatt hours, for Atlas",
+     "n": "Single report seen only through a search summary. The page could not be opened and Hyundai has not confirmed it in the sources found."
+    },
+    {
+     "s": "ok",
+     "c": "Solid-state mass production for robots and drones is expected before cars, and scaling the solid electrolyte is unsolved",
+     "n": "Robotics and Automation News and Notebookcheck both say so, quoting industry suppliers."
+    }
+   ],
+   "ctx": "A solid-state battery uses a solid electrolyte instead of a liquid one, which can raise energy density and reduce fire risk. Energy density is how much energy is stored per kilogram. Thermal runaway is a chain reaction of overheating cells. A 2170 cell is a common cylinder format, 21 millimetres wide and 70 long. Humanoid robots are still at pilot scale.",
+   "loop_query": "humanoid robot factory",
+   "i18n": {
+    "it": {
+     "title": "I robot umanoidi sono i primi clienti delle batterie a stato solido: Xpeng avvia piccole produzioni, Samsung SDI alimenterebbe Atlas",
+     "summary": "Xpeng ha avviato la produzione in piccoli lotti di batterie a stato solido per il suo robot umanoide Iron, prima della produzione di massa del robot a fine 2026. Un resoconto del 7 novembre dice che Samsung SDI fornirà 70 celle cilindriche, circa 1,3 chilowattora, per Atlas di Boston Dynamics, del gruppo Hyundai. Gli analisti del settore prevedono robot e droni prima delle auto elettriche.",
+     "body": [
+      "Secondo Notebookcheck, Xpeng ha iniziato a produrre celle a stato solido progettate per il suo robot umanoide Iron. La linea del robot è stata avviata l'8 settembre, la produzione di massa è prevista per la fine del 2026 e il lancio e le consegne in Cina e all'estero per il 2027. Xpeng dice che i pacchi hanno superato test di impatto e di perforazione con chiodo e includono protezioni contro la propagazione del surriscaldamento tra le celle. Sono dichiarazioni dell'azienda.",
+      "Il 7 novembre un resoconto ha detto che Samsung SDI fornirà ad Atlas, il robot umanoide di Boston Dynamics del gruppo Hyundai, 70 celle cilindriche 2170 per robot, per circa 1,3 chilowattora in totale. Viene da una sola fonte che non abbiamo potuto aprire, quindi va considerato non confermato.",
+      "Perché i robot per primi: un umanoide ha bisogno di alta densità di energia in poco spazio, di ricarica veloce e di sicurezza vicino alle persone. I robot di oggi usano per lo più celle agli ioni di litio con chimica al nichel, manganese e cobalto. Le celle a stato solido sostituiscono l'elettrolita liquido infiammabile con uno solido e promettono circa 400-500 wattora per chilogrammo, ma produrre l'elettrolita solido su larga scala è ancora un problema irrisolto e la produzione di massa è attesa alla fine degli anni Venti. Fornitori come CATL e Panasonic ritengono che droni e robot arriveranno prima dei grandi pacchi per auto.",
+      "Il mercato per ora è piccolo. IDTechEx prevede che le batterie per robot umanoidi possano valere 850 milioni di dollari entro il 2037, con una domanda di 10,5 gigawattora. Non si sa ancora quale sia l'autonomia reale, il costo per unità e se i prodotti umanoidi raggiungeranno i volumi previsti. Per gli studenti di ingegneria, hardware robotico, software di gestione delle batterie e test di sicurezza sono una nicchia in crescita."
+     ],
+     "checks": [
+      {
+       "c": "Xpeng ha avviato la produzione in piccoli lotti di batterie a stato solido per il robot Iron",
+       "n": "Riportato da Notebookcheck sulla base di informazioni dell'azienda; nessuna verifica indipendente né dati tecnici."
+      },
+      {
+       "c": "Samsung SDI fornirà 70 celle, circa 1,3 chilowattora, per Atlas",
+       "n": "Resoconto singolo visto solo in un riepilogo di ricerca. La pagina non si è potuta aprire e Hyundai non l'ha confermato nelle fonti trovate."
+      },
+      {
+       "c": "La produzione di massa a stato solido per robot e droni è attesa prima che per le auto, e la scala dell'elettrolita solido è irrisolta",
+       "n": "Lo dicono sia Robotics and Automation News sia Notebookcheck, citando fornitori del settore."
+      }
+     ],
+     "ctx": "Una batteria a stato solido usa un elettrolita solido invece di uno liquido, e può aumentare la densità di energia e ridurre il rischio di incendio. La densità di energia indica quanta energia si accumula per chilogrammo. Il surriscaldamento a catena, in inglese thermal runaway, è una reazione di celle che si scaldano una dopo l'altra. Una cella 2170 è un formato cilindrico comune, largo 21 millimetri e lungo 70. I robot umanoidi sono ancora a scala pilota.",
+     "media_caps": [
+      "Correlato: intervista di Bloomberg Tech all'amministratore delegato di Agility Robotics sui robot umanoidi",
+      "Il robot umanoide Xpeng Iron",
+      "Illustrazione dell'architettura delle batterie dei robot umanoidi"
+     ]
+    }
+   }
+  },
+  {
+   "id": 18,
+   "sec": "biz",
+   "time": "22:00",
+   "read": 4,
+   "title": "Wall Street rebounds on Friday after the AI rout: Nasdaq up 1.09 percent, Dow down 0.46 percent, as a strong jobs report lifts rate fears",
+   "summary": "The Nasdaq rose 1.09% to 24,579 and the S&P 500 gained 0.31% on 6 November, a partial rebound after Thursday's rout in AI stocks. The Dow fell 0.46%. A strong US jobs report pushed up Treasury yields and, according to Yahoo Finance, raised bets on a Federal Reserve rate rise in December.",
+   "body": [
+    "On Friday 6 November the S&P 500 closed at 7,376.86, up 0.31%, the Nasdaq Composite at 24,579.42, up 1.09%, and the Dow Jones Industrial Average at 51,285.73, down 237.33 points or 0.46%. Chip stocks bounced a day after a heavy selloff. The VIX volatility index fell 9% to 25.64. WTI crude settled near 90.83 dollars a barrel and the ten-year Treasury yield rose to about 4.86%.",
+    "The rebound follows Thursday's drop, when the Nasdaq 100 fell 6.3% and about 2.3 trillion dollars of value disappeared, in what analysts link to fears of tighter regulation of AI infrastructure after Democratic election wins. A Reuters exclusive reported that potential investors in Anthropic doubt its planned roadshow for the week of 9 November, and see the discussed 1.5 trillion dollar valuation as at the high end of expectations. Investors wanted a lower price and October revenue figures. Anthropic could postpone if AI assets stay under pressure.",
+    "The October jobs report added 165,000 jobs, far above forecasts, with unemployment at 4.1%. Yahoo Finance says traders priced about an 80% chance of a Fed rate rise in December, up from about 67%. An analyst quoted there said the economy is growing at 3.4% and corporate profits are up more than 25% from a year ago, so it can cope with higher oil prices and rates.",
+    "Asia was weaker: Tokyo and Seoul fell sharply. What to watch next week: whether the Anthropic roadshow goes ahead, US inflation data and any change in Fed expectations. This is market information, not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=ifGabggAxmE",
+     "cap": "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
+     "credit": "CBS News",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://s.yimg.com/lo/mysterio/api/efea4bd5c10c7adae6516cca2222284b4d53ce1a96a18f6d188bb5e7c856fa6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fcc5563da99b5467798da074aa7461b20.jpg",
+     "cap": "Image from the Yahoo Finance and TheStreet market report of 6 November",
+     "credit": "TheStreet / Yahoo Finance"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Yahoo Finance, Stock Market Today",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-144816072.html",
+     "t": "Financial press"
+    },
+    {
+     "n": "TheStreet, Stock Market Today",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026",
+     "t": "Financial press"
+    },
+    {
+     "n": "BNN Bloomberg, Reuters exclusive on Anthropic IPO",
+     "u": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive",
+     "t": "Reuters report republished"
+    },
+    {
+     "n": "CNBC live updates, 5 November",
+     "u": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+     "t": "Broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Closes on 6 November: S&P 500 7,376.86 up 0.31%, Nasdaq 24,579.42 up 1.09%, Dow 51,285.73 down 0.46%",
+     "n": "Yahoo Finance gives the figures and the TheStreet search summary matches them."
+    },
+    {
+     "s": "warn",
+     "c": "Markets price an 80% chance of a Fed rate rise in December",
+     "n": "A figure from Yahoo Finance. Market-implied odds change daily and other reports describe the jobs data only as giving the Fed room to fight inflation."
+    },
+    {
+     "s": "warn",
+     "c": "The Anthropic roadshow may slip because of the AI selloff",
+     "n": "Based on one Reuters exclusive citing unnamed potential investors; the company has not confirmed any delay."
+    }
+   ],
+   "ctx": "The Nasdaq Composite is dominated by technology companies. The Nasdaq 100 is a narrower index of its 100 largest non-financial firms. The VIX measures expected volatility, and above 25 is considered elevated. A roadshow is the series of investor meetings before a stock market listing. This section reports data and is not investment advice.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "Wall Street rimbalza venerdì dopo il crollo dell'IA: Nasdaq +1,09 per cento, Dow -0,46 per cento, mentre un forte dato sul lavoro alimenta i timori sui tassi",
+     "summary": "Il 6 novembre il Nasdaq è salito dell'1,09 per cento a 24.579 punti e lo S&P 500 dello 0,31 per cento, un rimbalzo parziale dopo il crollo dei titoli dell'IA di giovedì. Il Dow ha perso lo 0,46 per cento. Un forte rapporto sul lavoro americano ha fatto salire i rendimenti dei Treasury e, secondo Yahoo Finance, le scommesse su un rialzo dei tassi della Federal Reserve a dicembre.",
+     "body": [
+      "Venerdì 6 novembre lo S&P 500 ha chiuso a 7.376,86 punti, in rialzo dello 0,31 per cento, il Nasdaq Composite a 24.579,42, in rialzo dell'1,09 per cento, e il Dow Jones Industrial Average a 51.285,73, in calo di 237,33 punti, cioè dello 0,46 per cento. I titoli dei chip hanno recuperato dopo il forte calo del giorno prima. L'indice di volatilità Vix è sceso del 9 per cento a 25,64. Il petrolio Wti ha chiuso intorno a 90,83 dollari al barile e il rendimento dei Treasury a dieci anni è salito a circa il 4,86 per cento.",
+      "Il rimbalzo segue il calo di giovedì, quando il Nasdaq 100 ha perso il 6,3 per cento e sono spariti circa 2.300 miliardi di dollari di valore, un calo che gli analisti collegano ai timori di una regolamentazione più stretta delle infrastrutture di IA dopo le vittorie democratiche alle elezioni. Un'esclusiva di Reuters ha riferito che i potenziali investitori di Anthropic dubitano del roadshow previsto per la settimana del 9 novembre e considerano la valutazione di 1.500 miliardi di dollari in discussione al limite alto delle attese. Gli investitori volevano un prezzo più basso e i dati sui ricavi di ottobre. Anthropic potrebbe rinviare se gli asset legati all'IA restano sotto pressione.",
+      "Il rapporto sul lavoro di ottobre ha aggiunto 165.000 posti, molto sopra le previsioni, con la disoccupazione al 4,1 per cento. Secondo Yahoo Finance, gli operatori hanno attribuito circa l'80 per cento di probabilità a un rialzo dei tassi della Fed a dicembre, contro circa il 67 per cento di prima. Un analista citato ha detto che l'economia cresce al 3,4 per cento e gli utili delle imprese sono saliti di oltre il 25 per cento in un anno, quindi può reggere petrolio e tassi più alti.",
+      "L'Asia è stata più debole: Tokyo e Seul sono scese con forza. Cosa osservare la prossima settimana: se il roadshow di Anthropic andrà avanti, i dati sull'inflazione americana e ogni cambiamento nelle attese sulla Fed. Sono informazioni di mercato, non consigli di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Chiusure del 6 novembre: S&P 500 7.376,86 a +0,31 per cento, Nasdaq 24.579,42 a +1,09, Dow 51.285,73 a -0,46",
+       "n": "Yahoo Finance riporta le cifre e il riepilogo di ricerca di TheStreet le conferma."
+      },
+      {
+       "c": "I mercati prezzano l'80 per cento di probabilità di un rialzo dei tassi della Fed a dicembre",
+       "n": "Cifra di Yahoo Finance. Le probabilità implicite nei prezzi cambiano ogni giorno e altri resoconti descrivono i dati sul lavoro solo come uno spazio in più per la Fed contro l'inflazione."
+      },
+      {
+       "c": "Il roadshow di Anthropic potrebbe slittare per il calo dei titoli dell'IA",
+       "n": "Basato su un'esclusiva di Reuters che cita potenziali investitori anonimi; l'azienda non ha confermato alcun rinvio."
+      }
+     ],
+     "ctx": "Il Nasdaq Composite è dominato dalle società tecnologiche. Il Nasdaq 100 è un indice più ristretto delle sue 100 maggiori società non finanziarie. Il Vix misura la volatilità attesa, e sopra 25 è considerata elevata. Il roadshow è la serie di incontri con gli investitori prima di una quotazione. Questa sezione riporta dati e non fornisce consigli di investimento.",
+     "media_caps": [
+      "Stocks rebound after AI selloff that pushed NASDAQ into correction territory",
+      "Immagine dal resoconto di mercato di Yahoo Finance e TheStreet del 6 novembre"
+     ]
+    }
+   }
+  },
+  {
+   "id": 19,
+   "sec": "biz",
+   "time": "21:00",
+   "read": 4,
+   "title": "Oil falls 16 percent in a week on Iran peace bets while euro area inflation hits 4 percent and markets expect an ECB hike in December",
+   "summary": "Brent crude settled at 98.32 dollars on 6 November, down more than 16% on the week as traders bet on a deal with Iran, though tanker attacks in Hormuz continue. Euro area inflation rose to 4.0% in October, the highest since September 2023. The ECB held rates at 2.5% on 29 October, and prediction markets see about an 84% chance of a December rise.",
+   "body": [
+    "Brent crude futures settled at 98.32 dollars a barrel on Friday, up 3 cents on the day, and US crude at 90.83 dollars. Over the week Brent fell more than 16% and US crude nearly 13%, as traders weighed Democratic election wins and hopes of an Iran deal. Iran's Revolutionary Guards said on Friday that two more tankers hit mines in the Strait of Hormuz, a claim no independent authority has confirmed.",
+    "Eurozone inflation accelerated to 4.0% in October from 3.8% in September, a preliminary estimate cited by Euronews, the highest since September 2023. Energy prices were up 20.8% on a year earlier and accounted for nearly half of the rise. Services inflation was 3.3% and core inflation stable at 2.5%. Italy saw one of the sharpest jumps, from 4.2% to 5.6%, Belgium reached 5.2% while Germany fell to 2.8% after fuel tax cuts. Six euro countries are at 5% or more.",
+    "The European Central Bank kept its deposit rate at 2.5% on 29 October after raising it in June and September. President Christine Lagarde said the council discussed another increase but unanimously chose to wait. According to Euronews, prediction markets give about an 84% chance of a quarter-point rise at the 16 and 17 December meeting. That is a market estimate, not a decision.",
+    "Why it matters to a student: higher rates make loans and mortgages more expensive, while inflation eats into wages. Energy is the swing factor, so Hormuz news moves the euro area outlook. What is still unknown is whether the oil drop will last and how fast it feeds into November inflation. Italian wage and price data are in the Italy section. This is not investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=7u4qg0CyJ9o",
+     "cap": "Euronews video on eurozone inflation hitting 4 percent",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://images.euronews.com/articles/stories/09/97/93/90/1200x675_cmsv2_37d418c7-3d5c-54a3-bed0-35c7e892a4d0-9979390.jpg",
+     "cap": "Image from the Euronews report on eurozone inflation",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://financefeeds.com/wp-content/uploads/2026/03/oil-tanker.png",
+     "cap": "Oil tanker, illustration from FinanceFeeds oil market report",
+     "credit": "FinanceFeeds"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Euronews, eurozone inflation",
+     "u": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most",
+     "t": "International broadcaster"
+    },
+    {
+     "n": "FinanceFeeds, Brent weekly drop",
+     "u": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/",
+     "t": "Financial press"
+    },
+    {
+     "n": "Vantage Markets, Brent analysis",
+     "u": "https://www.vantagemarkets.com/market-analysis/why-brent-crude-oil-price-fell-midterms-iran-peace-bets-ukousd-usousd-november-6-2026/",
+     "t": "Broker research"
+    },
+    {
+     "n": "Yahoo Finance, Lagarde on the inflation shock",
+     "u": "https://finance.yahoo.com/economy/policy/articles/ecb-lagarde-says-eurozone-inflation-030555805.html",
+     "t": "Financial press"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Euro area inflation was 4.0% in October, up from 3.8%",
+     "n": "Euronews reports the preliminary estimate; the search results show the same figure from other outlets."
+    },
+    {
+     "s": "warn",
+     "c": "Prediction markets give about 84% odds of an ECB hike on 16 and 17 December",
+     "n": "A market-implied probability quoted by Euronews. It can move quickly and is not an ECB forecast."
+    },
+    {
+     "s": "warn",
+     "c": "Brent fell 16% in a week because of the midterms and Iran peace bets",
+     "n": "The price figures come from search summaries of FinanceFeeds and Vantage. The explanation is analysts' interpretation. Tanker mine claims are unverified."
+    }
+   ],
+   "ctx": "Brent is the benchmark for oil traded in Europe. The deposit facility rate is the central bank's main policy rate. Core inflation excludes food and energy. A prediction market lets people bet on events, and its odds are only a rough guide. Preliminary estimates, called flash estimates, can be revised. This is information, not investment advice.",
+   "loop_query": "oil refinery sunset",
+   "i18n": {
+    "it": {
+     "title": "Il petrolio cala del 16 per cento in una settimana sulle scommesse di pace con l'Iran, mentre l'inflazione dell'area euro sale al 4 per cento e il mercato prevede un rialzo Bce a dicembre",
+     "summary": "Il Brent ha chiuso a 98,32 dollari il 6 novembre, in calo di oltre il 16 per cento sulla settimana, con gli operatori che scommettono su un accordo con l'Iran, nonostante gli attacchi alle petroliere a Hormuz. L'inflazione dell'area euro è salita al 4,0 per cento a ottobre, il livello più alto da settembre 2023. La Bce ha lasciato i tassi al 2,5 per cento il 29 ottobre e i mercati di previsione vedono circa l'84 per cento di probabilità di un rialzo a dicembre.",
+     "body": [
+      "I future sul greggio Brent hanno chiuso a 98,32 dollari al barile venerdì, in rialzo di 3 centesimi sulla giornata, e il greggio americano a 90,83 dollari. Nella settimana il Brent è sceso di oltre il 16 per cento e il greggio americano di quasi il 13, mentre gli operatori valutavano le vittorie democratiche alle elezioni e le speranze di un accordo con l'Iran. Venerdì i Guardiani della Rivoluzione iraniani hanno detto che altre due petroliere hanno urtato mine nello Stretto di Hormuz, una dichiarazione che nessuna autorità indipendente ha confermato.",
+      "L'inflazione dell'eurozona è salita al 4,0 per cento a ottobre dal 3,8 di settembre, secondo una stima preliminare citata da Euronews, il livello più alto da settembre 2023. I prezzi dell'energia sono aumentati del 20,8 per cento su un anno prima e spiegano quasi metà dell'aumento. L'inflazione dei servizi era al 3,3 per cento e quella di fondo stabile al 2,5. L'Italia ha avuto uno dei salti maggiori, dal 4,2 al 5,6 per cento, il Belgio è arrivato al 5,2 mentre la Germania è scesa al 2,8 dopo i tagli alle tasse sui carburanti. Sei Paesi dell'euro sono al 5 per cento o più.",
+      "La Banca centrale europea ha lasciato il tasso sui depositi al 2,5 per cento il 29 ottobre, dopo averlo alzato a giugno e a settembre. La presidente Christine Lagarde ha detto che il consiglio ha discusso un altro rialzo ma ha scelto all'unanimità di aspettare. Secondo Euronews, i mercati di previsione indicano circa l'84 per cento di probabilità di un rialzo di un quarto di punto alla riunione del 16 e 17 dicembre. È una stima di mercato, non una decisione.",
+      "Perché conta per uno studente: tassi più alti rendono più cari prestiti e mutui, mentre l'inflazione erode gli stipendi. L'energia è il fattore decisivo, quindi le notizie su Hormuz muovono le prospettive dell'area euro. Non si sa ancora se il calo del petrolio durerà e quanto in fretta si rifletterà sull'inflazione di novembre. I dati italiani su salari e prezzi sono nella sezione Italia. Non è un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "L'inflazione dell'area euro è stata del 4,0 per cento a ottobre, dal 3,8",
+       "n": "Euronews riporta la stima preliminare; i risultati di ricerca mostrano la stessa cifra da altri organi."
+      },
+      {
+       "c": "I mercati di previsione indicano circa l'84 per cento di probabilità di un rialzo Bce il 16 e 17 dicembre",
+       "n": "Probabilità implicita nei prezzi citata da Euronews. Può cambiare in fretta e non è una previsione della Bce."
+      },
+      {
+       "c": "Il Brent è sceso del 16 per cento in una settimana per le elezioni di metà mandato e le scommesse di pace con l'Iran",
+       "n": "Le cifre dei prezzi vengono dai riepiloghi di ricerca di FinanceFeeds e Vantage. La spiegazione è un'interpretazione degli analisti. Le dichiarazioni sulle mine alle petroliere non sono verificate."
+      }
+     ],
+     "ctx": "Il Brent è il prezzo di riferimento del petrolio scambiato in Europa. Il tasso sui depositi è il principale tasso di politica monetaria della banca centrale. L'inflazione di fondo esclude alimentari ed energia. Un mercato di previsione permette di scommettere sugli eventi, e le sue probabilità sono solo un'indicazione approssimativa. Le stime preliminari, dette flash, possono essere riviste. Sono informazioni, non consigli di investimento.",
+     "media_caps": [
+      "Video di Euronews sull'inflazione dell'eurozona al 4 per cento",
+      "Immagine dal servizio di Euronews sull'inflazione dell'eurozona",
+      "Petroliera, illustrazione dal servizio di FinanceFeeds sul mercato del petrolio"
+     ]
+    }
+   }
+  },
+  {
+   "id": 20,
+   "sec": "lav",
+   "time": "14:30",
+   "read": 5,
+   "title": "US employers add 165,000 jobs in October, far above forecasts; tech hiring is flat and young graduates still struggle",
+   "summary": "The US Bureau of Labor Statistics reported 165,000 new jobs in October and an unemployment rate of 4.1%. Gains came from professional services, health care and transport, while the information sector, which includes much of tech, barely moved. Wages rose 3.1% on a year earlier, and the report raises odds of a Fed rate rise.",
+   "body": [
+    "The Bureau of Labor Statistics reported that nonfarm payrolls rose by 165,000 in October, against a Reuters poll forecast of about 65,000 and an average monthly gain of 48,000 over the previous twelve months. The unemployment rate was 4.1%. Reuters-based reports say it fell from 4.2%, while the bureau's own release says it held at 4.1%, within a range of 4.1% to 4.3% since March.",
+    "Professional and business services added 70,000 jobs, health care 42,000 and transportation and warehousing 25,000. Manufacturing added 19,000 in one report, linked to the AI buildout, and construction lost 3,000. The information industry, which includes software and media, showed little change. August and September were revised up by a combined 84,000. Average hourly earnings rose 14 cents, or 0.4%, to 38 dollars; the annual rise was 3.1%. About 2.0 million people, 27.6% of the unemployed, had been out of work 27 weeks or more.",
+    "Markets reacted by pushing up yields and by raising bets on a Federal Reserve rate rise in December to around 80%, according to Yahoo Finance. Analysts say the data gives the Fed more room to focus on inflation from the Middle East conflict. The next report is due on 4 December.",
+    "What it means for a young engineer: the US job market is not collapsing, but growth is outside tech. Yahoo Finance notes that young adults remain largely locked out and that AI is eliminating some entry-level positions. For a graduate in Italy, US data matter because they steer interest rates and the budgets of multinationals, and because remote or relocation offers depend on tech hiring, which looks flat. Keep practical skills, internships and projects visible."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=zJYuoWpgx3w",
+     "cap": "US employers add 165,000 jobs in October, far above forecasts",
+     "credit": "Reuters",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://s.yimg.com/lo/mysterio/api/f9292ace224b87bd270c3e115ae0d46f5b941296caab8718576dc35953fc3a61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F079679bcbd90546f183f1dbc1b7c0668.jpg",
+     "cap": "Image from the Reuters report on US job growth, via Yahoo Finance",
+     "credit": "Reuters / Yahoo Finance"
+    }
+   ],
+   "sources": [
+    {
+     "n": "US Bureau of Labor Statistics, Employment Situation",
+     "u": "https://www.bls.gov/news.release/empsit.nr0.htm",
+     "t": "Official statistics, primary source"
+    },
+    {
+     "n": "Yahoo Finance, Reuters report",
+     "u": "https://finance.yahoo.com/news/us-job-growth-beats-expectations-133634157.html",
+     "t": "Wire service republished"
+    },
+    {
+     "n": "Babypips",
+     "u": "https://www.babypips.com/news/headline-us-jobs-report-october-2026-payrolls-beat-fed",
+     "t": "Financial press"
+    },
+    {
+     "n": "UPI",
+     "u": "https://www.upi.com/Top_News/US/2026/11/06/october-2026-jobs-report-bureau-labor-statistics/6541793977007",
+     "t": "Wire service"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Nonfarm payrolls rose by 165,000 in October with unemployment at 4.1%",
+     "n": "BLS release confirms it, and Reuters, Babypips and UPI report the same."
+    },
+    {
+     "s": "warn",
+     "c": "The unemployment rate fell from 4.2% to 4.1%",
+     "n": "Reuters-based reports say it fell, but the BLS release says it held at 4.1%. We follow the BLS."
+    },
+    {
+     "s": "warn",
+     "c": "The December Fed rate rise is about 80% priced",
+     "n": "From a Yahoo Finance article. Market odds shift daily and depend on later data."
+    },
+    {
+     "s": "warn",
+     "c": "AI is eliminating some entry-level jobs",
+     "n": "Stated in a Yahoo Finance commentary without data. BLS figures do not break this out."
+    }
+   ],
+   "ctx": "Nonfarm payrolls count the net number of jobs added outside agriculture in a month. The household survey, which gives the unemployment rate, is separate from the employer survey. The information sector covers publishing, telecoms, software and data processing, but not all tech jobs. Revisions are common: earlier months are updated as more data arrive.",
+   "loop_query": "job fair crowd hiring",
+   "i18n": {
+    "it": {
+     "title": "Gli Stati Uniti aggiungono 165.000 posti di lavoro a ottobre, molto sopra le attese; l'assunzione nel tech è ferma e i giovani laureati faticano ancora",
+     "summary": "L'Ufficio statistico del lavoro americano ha riportato 165.000 nuovi posti a ottobre e un tasso di disoccupazione al 4,1 per cento. I guadagni sono venuti da servizi professionali, sanità e trasporti, mentre il settore dell'informazione, che comprende gran parte del tech, si è mosso poco. I salari sono saliti del 3,1 per cento su base annua e il rapporto aumenta le probabilità di un rialzo dei tassi della Fed.",
+     "body": [
+      "L'Ufficio statistico del lavoro americano ha riferito che gli occupati non agricoli sono aumentati di 165.000 unità a ottobre, contro una previsione di circa 65.000 in un sondaggio Reuters e una media mensile di 48.000 nei dodici mesi precedenti. Il tasso di disoccupazione è stato del 4,1 per cento. I resoconti basati su Reuters dicono che è sceso dal 4,2, mentre il comunicato dell'ufficio dice che è rimasto al 4,1, in una fascia tra il 4,1 e il 4,3 per cento da marzo.",
+      "I servizi professionali e alle imprese hanno aggiunto 70.000 posti, la sanità 42.000 e trasporti e magazzinaggio 25.000. Il manifatturiero ha aggiunto 19.000 posti secondo un resoconto, legati alla costruzione di infrastrutture di IA, e le costruzioni ne hanno persi 3.000. Il settore dell'informazione, che comprende software e media, ha mostrato poche variazioni. Agosto e settembre sono stati rivisti al rialzo di 84.000 posti in tutto. La retribuzione oraria media è salita di 14 centesimi, cioè dello 0,4 per cento, a 38 dollari; su base annua l'aumento è stato del 3,1 per cento. Circa 2,0 milioni di persone, il 27,6 per cento dei disoccupati, erano senza lavoro da 27 settimane o più.",
+      "I mercati hanno reagito alzando i rendimenti e portando le scommesse su un rialzo dei tassi della Federal Reserve a dicembre intorno all'80 per cento, secondo Yahoo Finance. Gli analisti dicono che i dati danno alla Fed più spazio per concentrarsi sull'inflazione causata dal conflitto in Medio Oriente. Il prossimo rapporto è atteso il 4 dicembre.",
+      "Cosa significa per un giovane ingegnere: il mercato del lavoro americano non sta crollando, ma la crescita è fuori dal tech. Yahoo Finance nota che i giovani adulti restano in gran parte esclusi e che l'IA sta eliminando alcune posizioni di ingresso. Per un laureato in Italia i dati americani contano perché orientano i tassi e i bilanci delle multinazionali, e perché le offerte remote o all'estero dipendono dalle assunzioni nel tech, che sembrano ferme. Meglio tenere ben visibili competenze pratiche, tirocini e progetti."
+     ],
+     "checks": [
+      {
+       "c": "Gli occupati non agricoli sono aumentati di 165.000 unità a ottobre con la disoccupazione al 4,1 per cento",
+       "n": "Lo conferma il comunicato del BLS, e lo riportano Reuters, Babypips e UPI."
+      },
+      {
+       "c": "Il tasso di disoccupazione è sceso dal 4,2 al 4,1 per cento",
+       "n": "I resoconti basati su Reuters dicono che è sceso, ma il comunicato del BLS dice che è rimasto al 4,1. Seguiamo il BLS."
+      },
+      {
+       "c": "Un rialzo dei tassi Fed a dicembre è prezzato intorno all'80 per cento",
+       "n": "Da un articolo di Yahoo Finance. Le probabilità di mercato cambiano ogni giorno e dipendono dai dati successivi."
+      },
+      {
+       "c": "L'IA sta eliminando alcune posizioni di ingresso",
+       "n": "Affermato in un commento di Yahoo Finance senza dati. Le cifre del BLS non lo distinguono."
+      }
+     ],
+     "ctx": "Gli occupati non agricoli sono il numero netto di posti aggiunti fuori dall'agricoltura in un mese. L'indagine sulle famiglie, da cui viene il tasso di disoccupazione, è separata dall'indagine sulle imprese. Il settore dell'informazione comprende editoria, telecomunicazioni, software ed elaborazione dati, ma non tutti i lavori tech. Le revisioni sono frequenti: i mesi precedenti si aggiornano quando arrivano più dati.",
+     "media_caps": [
+      "US employers add 165,000 jobs in October, far above forecasts",
+      "Immagine dal servizio Reuters sulla crescita dell'occupazione americana, via Yahoo Finance"
+     ]
+    }
+   }
+  },
+  {
+   "id": 21,
+   "sec": "lav",
+   "time": "12:00",
+   "read": 4,
+   "title": "Tech layoffs pass 135,000 this year by one count, with AI cited in most; Canva cuts 22 percent of staff",
+   "summary": "By the tracker layoffs.fyi, 135,446 tech workers lost their jobs at 334 companies through 29 October, with 93,217 of the cuts attributed to AI. Counts differ by tracker. In November Canva reportedly cut 1,271 jobs, 22% of its staff, and entry-level hiring is being scaled back.",
+   "body": [
+    "According to layoffs.fyi data through 29 October, cited by the Indian outlet Onmanorama, 135,446 employees were laid off across 334 companies this year, about 450 a day. Of these cuts, 93,217 are attributed to AI. Examples listed include Oracle at 21,000 jobs, or 13% of staff, Meta at 10,400, also 13%, Dell at 11,000, and Amazon at 16,000.",
+    "In November, Crunchbase News's tracker lists Canva with 1,271 employees affected, 22% of its global workforce, plus smaller cuts at Amazon, with 345 workers across devices and software roles, Intel, Dropbox, Front, Squarespace and Nice. Another tracker cited in search results gives a higher yearly total of about 205,000, so the numbers depend on the method.",
+    "The Onmanorama report says companies are moving money toward AI infrastructure while trimming traditional roles, and are judging success by revenue per employee rather than headcount. It adds that entry-level recruitment is being scaled back, notably in India's IT sector, as companies retrain existing staff in AI instead of hiring.",
+    "What it means for a young engineer: the link between AI and layoffs is stronger in company statements than in proven cause. Still, the pattern is consistent: fewer junior generalist roles, more demand for people who build and operate AI systems, data centres and security. For graduates in Italy and Europe, build skills in data, cloud, testing and security, show real projects, and read job ads for the tasks that AI tools do not cover. What is still unknown is how many of these cuts are really caused by AI and how many follow earlier over-hiring."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=DUBC7lFQr9I",
+     "cap": "Related: Firstpost report on Canva's layoffs",
+     "credit": "Firstpost",
+     "start": 0,
+     "end": 40
+    },
+    {
+     "type": "image",
+     "u": "https://img.onmanorama.com/content/dam/mm/en/archive/news/business/images/2026/11/5/article.jpg",
+     "cap": "Image from the Onmanorama report on tech layoffs",
+     "credit": "Onmanorama"
+    },
+    {
+     "type": "image",
+     "u": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
+     "cap": "Illustration from the Crunchbase News layoffs tracker",
+     "credit": "Crunchbase News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Onmanorama",
+     "u": "https://www.onmanorama.com/news/business/2026/11/05/ai-axe-falls-1-35-lakh-tech-jobs-gone-in-10-months.html",
+     "t": "Indian news outlet, citing layoffs.fyi"
+    },
+    {
+     "n": "Crunchbase News, tech layoffs tracker",
+     "u": "https://news.crunchbase.com/startups/tech-layoffs/",
+     "t": "Specialist press"
+    },
+    {
+     "n": "Fast Company, tech layoffs November update",
+     "u": "https://www.fastcompany.com/91637302/tech-layoffs-nov-2026-update-amazon-canva-block-inc-more",
+     "t": "Business magazine, headline confirmed by search"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "135,446 tech workers laid off through 29 October, 93,217 attributed to AI",
+     "n": "From layoffs.fyi via Onmanorama. The AI attribution relies on company statements and press tags. Other trackers give a total near 205,000."
+    },
+    {
+     "s": "warn",
+     "c": "Canva cut 1,271 employees, 22% of its workforce",
+     "n": "From the Crunchbase News tracker only. It notes the US impact is unclear. No company statement was found."
+    },
+    {
+     "s": "warn",
+     "c": "Entry-level hiring is being scaled back because of AI",
+     "n": "Onmanorama says so for India's IT sector. No hard data on junior hiring was found, so this is a trend report, not proof of cause."
+    }
+   ],
+   "ctx": "Layoff trackers collect public announcements and press reports, so totals differ and include announced, not always completed, cuts. Revenue per employee is a productivity measure some firms now stress. AI-washing means blaming AI for cuts that have other causes, such as earlier over-hiring or weak sales. This item covers global tech, and Italy-specific data are in the Italy section.",
+   "loop_query": "empty office desks",
+   "i18n": {
+    "it": {
+     "title": "I licenziamenti nel tech superano quota 135.000 quest'anno secondo un conteggio, con l'IA citata nella maggior parte; Canva taglia il 22 per cento del personale",
+     "summary": "Secondo il tracker layoffs.fyi, 135.446 lavoratori del tech hanno perso il posto in 334 aziende fino al 29 ottobre, con 93.217 tagli attribuiti all'IA. I conteggi cambiano da un tracker all'altro. A novembre Canva avrebbe tagliato 1.271 posti, il 22 per cento del personale, e le assunzioni di ingresso vengono ridotte.",
+     "body": [
+      "Secondo i dati di layoffs.fyi fino al 29 ottobre, citati dal giornale indiano Onmanorama, quest'anno 135.446 dipendenti sono stati licenziati in 334 aziende, circa 450 al giorno. Di questi tagli, 93.217 sono attribuiti all'IA. Tra gli esempi elencati Oracle con 21.000 posti, il 13 per cento del personale, Meta con 10.400, anch'essa il 13 per cento, Dell con 11.000 e Amazon con 16.000.",
+      "A novembre il tracker di Crunchbase News elenca Canva con 1.271 dipendenti coinvolti, il 22 per cento della forza lavoro globale, oltre a tagli minori ad Amazon, con 345 lavoratori tra dispositivi e ruoli software, Intel, Dropbox, Front, Squarespace e Nice. Un altro tracker citato nei risultati di ricerca dà un totale annuo più alto, intorno a 205.000, quindi i numeri dipendono dal metodo.",
+      "Il servizio di Onmanorama dice che le aziende spostano risorse verso le infrastrutture di IA riducendo i ruoli tradizionali e giudicano il successo dai ricavi per dipendente e non dal numero di addetti. Aggiunge che le assunzioni di ingresso vengono ridotte, in particolare nel settore IT indiano, perché le aziende riqualificano il personale esistente sull'IA invece di assumere.",
+      "Cosa significa per un giovane ingegnere: il legame tra IA e licenziamenti è più forte nelle dichiarazioni delle aziende che nelle cause dimostrate. Il quadro però è coerente: meno ruoli junior generalisti, più domanda di persone che costruiscono e gestiscono sistemi di IA, data center e sicurezza. Per i laureati in Italia e in Europa conviene costruire competenze su dati, cloud, test e sicurezza, mostrare progetti reali e leggere gli annunci cercando i compiti che gli strumenti di IA non coprono. Non si sa ancora quanti di questi tagli siano davvero causati dall'IA e quanti seguano le troppe assunzioni del passato."
+     ],
+     "checks": [
+      {
+       "c": "135.446 lavoratori del tech licenziati fino al 29 ottobre, 93.217 attribuiti all'IA",
+       "n": "Da layoffs.fyi tramite Onmanorama. L'attribuzione all'IA si basa su dichiarazioni aziendali e tag della stampa. Altri tracker danno un totale vicino a 205.000."
+      },
+      {
+       "c": "Canva ha tagliato 1.271 dipendenti, il 22 per cento del personale",
+       "n": "Solo dal tracker di Crunchbase News, che nota che l'impatto negli Stati Uniti non è chiaro. Non è stata trovata alcuna dichiarazione dell'azienda."
+      },
+      {
+       "c": "Le assunzioni di ingresso vengono ridotte a causa dell'IA",
+       "n": "Lo dice Onmanorama per il settore IT indiano. Non sono stati trovati dati solidi sulle assunzioni junior, quindi è il racconto di una tendenza e non la prova di una causa."
+      }
+     ],
+     "ctx": "I tracker dei licenziamenti raccolgono annunci pubblici e notizie di stampa, quindi i totali differiscono e includono tagli annunciati, non sempre completati. I ricavi per dipendente sono una misura di produttività che alcune aziende ora sottolineano. AI-washing significa attribuire all'IA tagli che hanno altre cause, come troppe assunzioni passate o vendite deboli. Questa notizia riguarda il tech globale, e i dati specifici sull'Italia sono nella sezione Italia.",
+     "media_caps": [
+      "Correlato: servizio di Firstpost sui licenziamenti di Canva",
+      "Immagine dal servizio di Onmanorama sui licenziamenti nel tech",
+      "Illustrazione dal tracker dei licenziamenti di Crunchbase News"
+     ]
+    }
+   }
+  }
+ ],
+ "i18n": {
+  "it": {
+   "date_label": "sabato 7 novembre 2026"
+  }
+ }
+}
