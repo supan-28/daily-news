@@ -1,0 +1,2163 @@
+{
+ "date": "2026-11-08",
+ "date_label": "Sunday, 8 November 2026",
+ "items": [
+  {
+   "sec": "ita",
+   "topic": "pol",
+   "time": "02:00",
+   "read": 4,
+   "title": "Lega has until Monday's cabinet meeting to name a new head of the anti-corruption authority; Meloni wants it settled fast",
+   "summary": "After Altieri withdrew from the Anac nomination, League leader Matteo Salvini has set the cabinet meeting of 9 November as the deadline for a new name. Prime Minister Giorgia Meloni is reported to want a quick solution, and the opposition calls the withdrawal a victory.",
+   "body": [
+    "Altieri, a former League deputy, gave up the nomination to lead Anac, Italy's anti-corruption authority, on the evening of 6 November, after the opposition argued that a party figure could not head a body that oversees politics. The newspaper Quotidiano Nazionale reports that the nomination process now has to restart.",
+    "According to the same report, the League keeps the right to propose the name under the coalition agreement. Salvini has set the cabinet meeting of 9 November as the date by which a new candidate should be presented. The paper says Meloni is irritated by the episode and wants it closed quickly.",
+    "One name circulating is Francesco Urraro, a former senator who was elected in 2018 with the Five Star Movement and later joined the League. He now sits on the administrative justice council and is a candidate for the judiciary's self-governing council. This is a press indication, not an official nomination.",
+    "Five Star Movement leader Giuseppe Conte said that an authority controlling politics cannot be led by a party loyalist, but by someone of independent standing. Salvini expressed regret and called Altieri fully qualified. What remains unknown is who will be proposed on Monday and whether Parliament's committees will raise new objections."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=SpXPKqBUtmQ",
+     "cap": "News bulletin: Altieri withdraws his candidacy for the Anac presidency",
+     "credit": "Flash Notizie 24"
+    },
+    {
+     "type": "image",
+     "u": "https://www.quotidiano.net/image-service/view/acePublic/alias/contentid/ZDc5OTMxNDktYWRiOC00/1/la-conferenza-stampa-a-palazzo-chigi.webp?f=16%3A9&q=0.75&w=1200",
+     "cap": "Press conference at Palazzo Chigi, the prime minister's office",
+     "credit": "Quotidiano Nazionale"
+    },
+    {
+     "type": "image",
+     "u": "https://askanews.it/wp-content/uploads/2026/11/20261104_200335_9C259A2C.jpg",
+     "cap": "Image from the askanews report on the League's internal tensions",
+     "credit": "askanews"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Quotidiano Nazionale",
+     "u": "https://www.quotidiano.net/politica/lanac-resta-alla-lega-meloni-accelera-sul-nuovo-nome-o90xymi2",
+     "t": "Italian daily"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/governo/meloni-in-sella-fissati-col-voto-anac-altieri-fa-un-passo-indietro/",
+     "t": "Italian daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Altieri withdrew from the Anac nomination on 6 November",
+     "n": "Reported by ANSA and Il Giornale on 6 and 7 November, and by Quotidiano Nazionale on 8 November."
+    },
+    {
+     "s": "warn",
+     "c": "Salvini set 9 November as the deadline for a new League name and Urraro is a possible candidate",
+     "n": "Reported only by Quotidiano Nazionale. Urraro is a press hypothesis, not an official nomination."
+    }
+   ],
+   "ctx": "Anac is the national anti-corruption authority; its president is chosen by the government with the approval of parliamentary committees. The opposition argued that a recent party role makes a nominee unsuitable. Under the coalition's sharing of posts, this nomination belongs to the League. This item reports each side's stated position and does not take one.",
+   "loop_query": "parliament building",
+   "i18n": {
+    "it": {
+     "title": "La Lega ha tempo fino al Consiglio dei ministri di lunedì per indicare il nuovo presidente dell'Anticorruzione; Meloni vuole chiudere in fretta",
+     "summary": "Dopo il passo indietro di Altieri sulla guida dell'Anac, il leader della Lega Matteo Salvini ha fissato al Consiglio dei ministri del 9 novembre il termine per un nuovo nome. La presidente del Consiglio Giorgia Meloni vorrebbe una soluzione rapida, mentre le opposizioni parlano di una vittoria.",
+     "body": [
+      "Altieri, ex deputato della Lega, ha rinunciato la sera del 6 novembre alla nomina alla guida dell'Anac, l'Autorità nazionale anticorruzione, dopo che le opposizioni avevano sostenuto che un esponente di partito non può presiedere un organismo che vigila sulla politica. Il Quotidiano Nazionale scrive che l'iter di nomina deve ora ripartire da zero.",
+      "Secondo la stessa ricostruzione, la Lega mantiene il diritto di indicare il nome in base all'accordo di maggioranza. Salvini ha fissato al Consiglio dei ministri del 9 novembre la data entro cui presentare un nuovo candidato. Il giornale racconta che Meloni è irritata dall'episodio e vuole chiuderlo presto.",
+      "Tra i nomi che circolano c'è quello di Francesco Urraro, ex senatore eletto nel 2018 con il Movimento 5 Stelle e poi passato alla Lega. Oggi siede al Consiglio di presidenza della giustizia amministrativa ed è candidato al Consiglio superiore della magistratura. Si tratta di un'indicazione di stampa, non di una nomina ufficiale.",
+      "Il leader del Movimento 5 Stelle Giuseppe Conte ha detto che un'autorità che controlla la politica non può essere guidata da un uomo di partito, ma da una persona di notoria indipendenza. Salvini ha espresso rammarico e ha definito Altieri pienamente qualificato. Resta da capire chi verrà proposto lunedì e se le commissioni parlamentari solleveranno nuove obiezioni."
+     ],
+     "checks": [
+      {
+       "c": "Altieri ha rinunciato alla nomina all'Anac il 6 novembre",
+       "n": "Lo riportano ANSA e Il Giornale il 6 e 7 novembre e il Quotidiano Nazionale l'8 novembre."
+      },
+      {
+       "c": "Salvini ha fissato al 9 novembre il termine per un nuovo nome leghista e Urraro è un possibile candidato",
+       "n": "Lo riporta solo il Quotidiano Nazionale. Urraro è un'ipotesi di stampa, non una nomina ufficiale."
+      }
+     ],
+     "ctx": "L'Anac è l'autorità nazionale anticorruzione; il suo presidente è scelto dal governo con il via libera delle commissioni parlamentari. Le opposizioni sostengono che un recente ruolo di partito renda inadatto il candidato. Nella ripartizione degli incarichi della maggioranza, questa nomina spetta alla Lega. Questa notizia riporta la posizione dichiarata di ciascuna parte senza prenderne una.",
+     "media_caps": [
+      "Edizione del telegiornale: Altieri rinuncia alla candidatura alla presidenza dell'Anac",
+      "Conferenza stampa a Palazzo Chigi, sede della presidenza del Consiglio",
+      "Immagine dal servizio di askanews sulle tensioni interne alla Lega"
+     ]
+    }
+   },
+   "id": 1
+  },
+  {
+   "sec": "ita",
+   "topic": "pol",
+   "time": "20:03",
+   "read": 4,
+   "title": "Twenty-five of 29 League senators sign against their group leader Romeo as the party fights over the budget",
+   "summary": "On 4 November twenty-five of the League's 29 senators signed a request to remove Massimiliano Romeo as their group leader, after he backed a rival to Matteo Salvini at the party congress. Romeo refuses to resign and has called an assembly for 17 November. In the budget law the League has also changed its rapporteur.",
+   "body": [
+    "The League's Senate group has 29 members. According to Il Foglio, askanews and Il Giorno, twenty-five of them signed a request to remove Massimiliano Romeo, who is also the secretary of the party's Lombardy branch. At the congress of 24 and 25 October he had supported Massimo Garavaglia against Salvini, who was confirmed as party secretary.",
+    "Romeo has refused to step down and has convened an assembly of senators for 17 November, where an open vote could take place. Names mentioned as possible successors are Marco Dreosto, Claudio Borghi and Andrea Paganella. Lombardy's president Attilio Fontana said that evidently the promises had been broken.",
+    "The fight reaches the budget. Alberto Gusmeroli replaces Silvana Comaroli, who is close to Finance Minister Giancarlo Giorgetti, as the League's rapporteur on the budget bill. The League is pressing for a voluntary early retirement route at age 64 with 36 years of contributions, to be paid from the 850 million euros a year already set aside for early exits.",
+    "The Five Star Movement described the change as Salvini putting Giorgetti under supervision. The sources disagree on where Giorgetti stands in the dispute, so this report does not assign him a side. What to watch is the 17 November assembly and the amendment deadline for the budget."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://ilfoglio-produzione.fra1.cdn.digitaloceanspaces.com/ilfoglio/stories/2026/11/04/1200x675/0a38668b-d795-4dd7-a5db-d9c77109947b.jpeg?v=1793798935",
+     "cap": "Image from Il Foglio's report on the signatures against Romeo",
+     "credit": "Il Foglio"
+    },
+    {
+     "type": "image",
+     "u": "https://askanews.it/wp-content/uploads/2026/11/20261104_200335_9C259A2C.jpg",
+     "cap": "Image from the askanews report on the League senators",
+     "credit": "askanews"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Il Foglio",
+     "u": "https://www.ilfoglio.it/politica/2026/11/04/news/la-resa-dei-conti-di-salvini-25-firme-per-cacciare-romeo--412641",
+     "t": "Italian daily"
+    },
+    {
+     "n": "askanews",
+     "u": "https://askanews.it/2026/11/04/nella-lega-e-resa-dei-conti-senatori-firmano-per-rimuovere-romeo/",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Giorno",
+     "u": "https://www.ilgiorno.it/milano/politica/lega-25-senatori-contro-massimiliano-romeo-cfyg2ihl",
+     "t": "Italian daily"
+    },
+    {
+     "n": "Il Politico",
+     "u": "https://www.ilpoliticoweb.it/lega-romeo-sfiduciato-25-senatori-gusmeroli-manovra/",
+     "t": "Online political magazine"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Twenty-five of 29 League senators signed against Romeo on 4 November",
+     "n": "Reported by Il Foglio, askanews, Il Giorno and Il Politico."
+    },
+    {
+     "s": "ok",
+     "c": "Gusmeroli replaces Comaroli as the League's budget rapporteur",
+     "n": "Reported by Il Politico and by the budget coverage of Il Giornale and Torresette."
+    },
+    {
+     "s": "warn",
+     "c": "Giorgetti's position in the dispute",
+     "n": "Sources disagree: some list him among the signatories' camp, others present the change as aimed at his allies. No clear statement from him was found."
+    }
+   ],
+   "ctx": "A parliamentary group leader is chosen by the group's members, and the removal request is an internal party procedure, not a vote of Parliament. Salvini was reconfirmed League secretary at the extraordinary congress of 24 and 25 October. This is an internal party matter, so each side's account is reported as stated.",
+   "loop_query": "senate chamber empty",
+   "i18n": {
+    "it": {
+     "title": "Venticinque senatori leghisti su 29 firmano contro il capogruppo Romeo mentre il partito si divide sulla manovra",
+     "summary": "Il 4 novembre venticinque dei 29 senatori della Lega hanno firmato per rimuovere Massimiliano Romeo dalla guida del gruppo, dopo che al congresso aveva sostenuto un rivale di Matteo Salvini. Romeo rifiuta di dimettersi e ha convocato l'assemblea per il 17 novembre. Nella legge di bilancio la Lega ha anche cambiato relatore.",
+     "body": [
+      "Il gruppo della Lega al Senato conta 29 membri. Secondo Il Foglio, askanews e Il Giorno, venticinque hanno firmato per rimuovere Massimiliano Romeo, che è anche segretario della Lega Lombarda. Al congresso del 24 e 25 ottobre aveva sostenuto Massimo Garavaglia contro Salvini, confermato poi segretario del partito.",
+      "Romeo non intende lasciare e ha convocato per il 17 novembre un'assemblea dei senatori, dove potrebbe tenersi un voto a scrutinio palese. Tra i possibili successori si fanno i nomi di Marco Dreosto, Claudio Borghi e Andrea Paganella. Il presidente della Lombardia Attilio Fontana ha detto che evidentemente le promesse sono state tradite.",
+      "Lo scontro arriva fino alla manovra. Alberto Gusmeroli prende il posto di Silvana Comaroli, vicina al ministro dell'Economia Giancarlo Giorgetti, come relatore leghista della legge di bilancio. La Lega spinge per una uscita anticipata volontaria a 64 anni con 36 anni di contributi, da finanziare con gli 850 milioni di euro l'anno già previsti per le uscite anticipate.",
+      "Il Movimento 5 Stelle ha letto il cambio come Salvini che commissaria Giorgetti. Le fonti divergono sulla posizione di Giorgetti nello scontro, quindi non gli attribuiamo uno schieramento. Da seguire l'assemblea del 17 novembre e la scadenza degli emendamenti alla manovra."
+     ],
+     "checks": [
+      {
+       "c": "Il 4 novembre venticinque senatori leghisti su 29 hanno firmato contro Romeo",
+       "n": "Lo riportano Il Foglio, askanews, Il Giorno e Il Politico."
+      },
+      {
+       "c": "Gusmeroli sostituisce Comaroli come relatore leghista della manovra",
+       "n": "Lo riportano Il Politico e le cronache sulla manovra de Il Giornale e di Torresette."
+      },
+      {
+       "c": "La posizione di Giorgetti nello scontro",
+       "n": "Le fonti divergono: alcune lo collocano tra i firmatari, altre presentano il cambio come rivolto ai suoi alleati. Non risulta una sua dichiarazione chiara."
+      }
+     ],
+     "ctx": "Il capogruppo parlamentare è scelto dai membri del gruppo, e la richiesta di rimozione è una procedura interna al partito, non un voto del Parlamento. Salvini è stato riconfermato segretario della Lega al congresso straordinario del 24 e 25 ottobre. Si tratta di una questione interna di partito, quindi le versioni di ciascuna parte sono riportate come dichiarate.",
+     "media_caps": [
+      "Immagine dal servizio de Il Foglio sulle firme contro Romeo",
+      "Immagine dal servizio di askanews sui senatori della Lega"
+     ]
+    }
+   },
+   "id": 2
+  },
+  {
+   "sec": "ita",
+   "topic": "biz",
+   "time": "06:00",
+   "read": 4,
+   "title": "Il Sole 24 Ore: the budget law hides about 5 billion euros in charges, from utility bills to slot machines and tobacco",
+   "summary": "Il Sole 24 Ore reports on 8 November that the next budget law would raise at least 5 billion euros through charges on utility bills, stamps, gambling and tobacco. The single bet on slot machines and video lotteries would double from one to two euros. Parliamentary hearings start on Monday.",
+   "body": [
+    "The newspaper's front page on 8 November says the state intends to collect at least 5 billion euros from what it calls hidden charges: levies on financial transactions, on cigarettes, on utility bills and on gambling. It also lists increases in the price of several complementary services.",
+    "The one concrete example in the headline is gambling, where the single bet on slot machines and video lottery terminals would rise from one euro to two euros.",
+    "The budget bill is now in Parliament. Hearings of outside bodies start on Monday 9 November, Finance Minister Giancarlo Giorgetti is due before the budget committees on Thursday 12 November at 4 in the afternoon, and the deadline for amendments is reported to be 17 November. The coalition is divided over pensions, schools and health funding.",
+    "Only the headline summary of the article was available, so the detail of each levy and the year in which it applies are unknown. The 5 billion euro figure is the newspaper's own estimate, not an official government number."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=PQ09AzvIwpI",
+     "cap": "Related: Budget 2027, squeeze on pensions, rents and income tax",
+     "credit": "PointNews_Italy",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/08/Immagini/Ritagli/239dcf7e80efd515cce70cc6a9d56894-ansa-carburanti-benzina-diesel-U12058185667DLP-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+     "cap": "Image from Il Sole 24 Ore coverage of fuel prices and taxes on 8 November",
+     "credit": "ANSA / Il Sole 24 Ore"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Il Sole 24 Ore (press review, 8 November)",
+     "u": "https://www.agenziagiornalisticaopinione.it/rassegnastampa/il-sole-24-ore-rassegna-stampa-in-edicola-oggi-08-11-2026-oneri-in-bolletta-bolli-giochi-e-tabacchi-in-manovra-5-miliardi-di-balzelli-occulti-per-slot-e-videolottery-la-singola/",
+     "t": "Press review of the daily's front page"
+    },
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-audizioni-al-via-da-lunedi-9-giorgetti-in-commissione-giovedi-12_5b85877c-31e0-4b3a-a53c-052dc7d7b8da.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Il Giornale",
+     "u": "https://www.ilgiornale.it/news/politica-economica/manovra-partita-aperta-su-scuola-e-pensioni/",
+     "t": "Italian daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "The budget law raises about 5 billion euros in hidden charges",
+     "n": "Single newspaper's estimate, seen only through a press review of the front page. No official figure found."
+    },
+    {
+     "s": "ok",
+     "c": "Hearings start on 9 November and Giorgetti appears before the committee on 12 November",
+     "n": "ANSA, 4 November, with the calendar confirmed by other budget coverage."
+    }
+   ],
+   "ctx": "Italy's budget law is approved by Parliament by the end of the year. Hearings let associations, unions and regulators comment before amendments. Government and coalition parties have not yet commented on the 5 billion euro estimate in the sources found, so this is a newspaper's reading of the draft text.",
+   "loop_query": "euro coins and receipts",
+   "i18n": {
+    "it": {
+     "title": "Il Sole 24 Ore: la manovra nasconde circa 5 miliardi di euro di rincari, dalle bollette alle slot e ai tabacchi",
+     "summary": "Il Sole 24 Ore scrive l'8 novembre che la prossima legge di bilancio porterebbe almeno 5 miliardi di euro da oneri su bollette, bolli, giochi e tabacchi. La singola puntata su slot e videolottery raddoppierebbe da uno a due euro. Lunedì iniziano le audizioni in Parlamento.",
+     "body": [
+      "La prima pagina del quotidiano dell'8 novembre scrive che lo Stato intende incassare almeno 5 miliardi di euro da quelli che definisce balzelli occulti: prelievi sulle transazioni finanziarie, sulle sigarette, sulle bollette e sul gioco. Elenca anche rincari di diversi servizi complementari.",
+      "L'unico esempio concreto nel titolo riguarda il gioco, dove la singola puntata su slot e videolottery passerebbe da un euro a due euro.",
+      "Il disegno di legge di bilancio è ora in Parlamento. Le audizioni iniziano lunedì 9 novembre, il ministro dell'Economia Giancarlo Giorgetti è atteso davanti alle commissioni Bilancio giovedì 12 novembre alle 16, e il termine per gli emendamenti sarebbe il 17 novembre. La maggioranza è divisa su pensioni, scuola e fondi per la sanità.",
+      "Era disponibile solo il riassunto del titolo dell'articolo, quindi il dettaglio di ogni prelievo e l'anno di applicazione restano sconosciuti. La cifra di 5 miliardi di euro è una stima del giornale, non un dato ufficiale del governo."
+     ],
+     "checks": [
+      {
+       "c": "La manovra incassa circa 5 miliardi di euro in oneri nascosti",
+       "n": "Stima di un solo quotidiano, vista attraverso una rassegna stampa della prima pagina. Non risulta una cifra ufficiale."
+      },
+      {
+       "c": "Le audizioni partono il 9 novembre e Giorgetti è in commissione il 12 novembre",
+       "n": "ANSA, 4 novembre, con il calendario confermato da altre cronache sulla manovra."
+      }
+     ],
+     "ctx": "La legge di bilancio italiana viene approvata dal Parlamento entro fine anno. Le audizioni permettono ad associazioni, sindacati e autorità di esprimersi prima degli emendamenti. Nelle fonti trovate governo e partiti di maggioranza non hanno ancora commentato la stima di 5 miliardi di euro, che resta una lettura del testo da parte di un giornale.",
+     "media_caps": [
+      "Correlato: manovra 2027, stretta su pensioni, affitti e Irpef",
+      "Immagine dalla copertura de Il Sole 24 Ore su carburanti e tasse dell'8 novembre"
+     ]
+    }
+   },
+   "id": 3
+  },
+  {
+   "sec": "ita",
+   "topic": "biz",
+   "time": "07:00",
+   "read": 3,
+   "title": "Diesel excise cut expires with no extension: pumps could add up to about 5 cents a litre from Sunday",
+   "summary": "The government did not renew the temporary cut on diesel excise duty, which ended on 7 November. The cut was worth just under 4.9 cents a litre including VAT, so diesel could cost a few cents more from 8 November, though falling oil prices may offset part of it.",
+   "body": [
+    "The Official Gazette of Saturday 7 November carried no extension of the diesel excise discount, the last day of which was 7 November. The government had weighed until the last moment whether to renew the cut through the mobile excise mechanism, which uses extra VAT revenue from higher prices. Prime Minister Giorgia Meloni said on Friday that the executive was working day and night on fuel costs, but it went back to ordinary taxes.",
+    "The cut, introduced on 28 October according to Sky TG24, was worth about 4 cents a litre before VAT, or just under 4.9 cents with VAT. From 8 November the ordinary excise of 672.90 euros per thousand litres applies again, only on diesel and not on petrol.",
+    "Sky TG24 puts the average self-service diesel price at 2.224 euros a litre. The consumer association Adusbef notes that falling crude oil prices could cancel the increase and even allow further reductions at the pump. Yesterday's briefing reported that oil fell sharply in the past week on bets of a peace deal with Iran.",
+    "For households and hauliers the effect is small per litre but adds up for those who drive long distances. The open question is how quickly pump prices follow crude oil down in the coming days."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=209xcU-3tpE",
+     "cap": "Diesel excise cut expires: no extension and risk of higher prices",
+     "credit": "PointNews_Italy",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://tg24.sky.it/assets/images/0988158c8cd74a066d10223c2e319a3d498526b6/skytg24/it/economia/2026/10/02/sconto-carburanti-prezzo-benzina-benzina/0_ansa_benzinai_sconti_ben_diesel.JPG?im=Resize,width=1218",
+     "cap": "Fuel pump prices in Italy",
+     "credit": "ANSA / Sky TG24"
+    },
+    {
+     "type": "image",
+     "u": "https://wips.plug.it/cips/notizie.virgilio.it/cms/2026/11/gasolio-stop-taglio-accise.jpg",
+     "cap": "Image from Virgilio Notizie on the end of the diesel excise cut",
+     "credit": "Virgilio Notizie"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Sky TG24",
+     "u": "https://tg24.sky.it/economia/2026/11/07/taglio-accise-gasolio-scaduto-rincari-diesel",
+     "t": "Italian broadcaster"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "u": "https://www.ilsole24ore.com/art/gasolio-fine-taglio-accise-gazzetta-non-c-e-proroga-sconto-AJcvyI8B",
+     "t": "Italian financial daily"
+    },
+    {
+     "n": "Virgilio Notizie",
+     "u": "https://www.virgilio.it/notizie/stop-al-taglio-delle-accise-sul-gasolio-non-c-e-la-proroga-dello-sconto-dopo-l-8-novembre-cosa-succede-1794868",
+     "t": "News portal"
+    },
+    {
+     "n": "Leggo",
+     "u": "https://www.leggo.it/italia/cronache/07_novembre_2026_diesel_gasolio_nuovi_prezzi_senza_taglio_accise_quali_sono-9875749.html",
+     "t": "Italian daily"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The diesel excise cut expired on 7 November without an extension",
+     "n": "Sky TG24, Il Sole 24 Ore, Virgilio and Leggo, based on the Official Gazette of 7 November."
+    },
+    {
+     "s": "ok",
+     "c": "The cut was worth just under 4.9 cents a litre with VAT",
+     "n": "Il Sole 24 Ore and Leggo give the same figure; Sky TG24 gives about 4 cents before VAT."
+    },
+    {
+     "s": "warn",
+     "c": "Falling crude prices could offset the rise at the pump",
+     "n": "Statement by the consumer group Adusbef, reported by Sky TG24. It is a forecast, not a measured effect."
+    }
+   ],
+   "ctx": "Excise is a fixed tax per litre. The mobile excise mechanism lets the government use extra VAT income, caused by higher fuel prices, to cut excise temporarily. When the decree is not renewed, the ordinary rate returns automatically.",
+   "loop_query": "gas station fuel pump",
+   "i18n": {
+    "it": {
+     "title": "Scade senza proroga il taglio delle accise sul gasolio: da domenica fino a circa 5 centesimi in più al litro",
+     "summary": "Il governo non ha rinnovato il taglio temporaneo delle accise sul gasolio, terminato il 7 novembre. Lo sconto valeva poco meno di 4,9 centesimi al litro con l'Iva, quindi dall'8 novembre il diesel potrebbe costare qualche centesimo in più, anche se il calo del petrolio può compensare in parte.",
+     "body": [
+      "La Gazzetta Ufficiale di sabato 7 novembre non contiene la proroga dello sconto sulle accise del gasolio, il cui ultimo giorno era il 7 novembre. Il governo ha valutato fino all'ultimo se rinnovare il taglio con il meccanismo dell'accisa mobile, che usa il maggior gettito Iva dovuto ai prezzi più alti. La presidente del Consiglio Giorgia Meloni aveva detto venerdì che l'esecutivo lavora giorno e notte sul costo dei carburanti, ma si è tornati alle imposte ordinarie.",
+      "Il taglio, introdotto il 28 ottobre secondo Sky TG24, valeva circa 4 centesimi al litro prima dell'Iva, cioè poco meno di 4,9 centesimi con l'Iva. Dall'8 novembre torna l'accisa ordinaria di 672,90 euro per mille litri, solo sul gasolio e non sulla benzina.",
+      "Sky TG24 indica un prezzo medio del gasolio self di 2,224 euro al litro. L'associazione dei consumatori Adusbef osserva che il calo del petrolio greggio potrebbe annullare l'aumento e permettere ulteriori ribassi alla pompa. Il briefing di ieri riportava che il petrolio è sceso molto nell'ultima settimana sulle attese di un accordo di pace con l'Iran.",
+      "Per famiglie e autotrasportatori l'effetto è piccolo per litro, ma si somma per chi percorre molti chilometri. Resta da capire con quale rapidità i prezzi alla pompa seguiranno il greggio al ribasso nei prossimi giorni."
+     ],
+     "checks": [
+      {
+       "c": "Il taglio delle accise sul gasolio è scaduto il 7 novembre senza proroga",
+       "n": "Sky TG24, Il Sole 24 Ore, Virgilio e Leggo, sulla base della Gazzetta Ufficiale del 7 novembre."
+      },
+      {
+       "c": "Il taglio valeva poco meno di 4,9 centesimi al litro con l'Iva",
+       "n": "Il Sole 24 Ore e Leggo riportano la stessa cifra; Sky TG24 indica circa 4 centesimi prima dell'Iva."
+      },
+      {
+       "c": "Il calo del greggio potrebbe compensare l'aumento alla pompa",
+       "n": "Dichiarazione dell'associazione dei consumatori Adusbef riportata da Sky TG24. È una previsione, non un effetto misurato."
+      }
+     ],
+     "ctx": "L'accisa è un'imposta fissa per litro. Il meccanismo dell'accisa mobile permette al governo di usare il maggior gettito Iva, causato dai prezzi più alti dei carburanti, per ridurre temporaneamente l'accisa. Quando il decreto non viene rinnovato, l'aliquota ordinaria torna automaticamente.",
+     "media_caps": [
+      "Gasolio, scade il taglio delle accise: niente proroga e rischio rincari",
+      "Prezzi dei carburanti alla pompa in Italia",
+      "Immagine di Virgilio Notizie sulla fine del taglio delle accise sul gasolio"
+     ]
+    }
+   },
+   "id": 4
+  },
+  {
+   "sec": "ita",
+   "topic": "ai",
+   "time": "09:00",
+   "read": 4,
+   "title": "Italy files its bid for a European AI gigafactory this week: deadline 12 November, led by Leonardo, Eni and the AI4I foundation",
+   "summary": "Applications to host one of up to seven European AI gigafactories close on 12 November. Italy's bid is backed by the industry ministry and a consortium including Leonardo, Eni and the Turin foundation AI4Industry. The main challenges are electricity supply and slow AI adoption by Italian firms.",
+   "body": [
+    "The European high performance computing joint undertaking, EuroHPC, opened the call on 30 July 2026 to select consortia that will build and run up to seven AI gigafactories, very large computing sites for training AI models. Applications close on 12 November. Selection is expected in early 2027 and the first sites must be operating within 18 months of the contract.",
+    "Italy's bid was announced in May by the industry ministry led by Adolfo Urso, who called it a whole country effort. It involves Leonardo, Eni and the AI4Industry foundation of Turin, and Italian trade press says Enel, Saipem, Snam, Terna, FiberCop and the state lender CDP could join a dedicated company. One report puts the initial investment at about 1.2 billion euros, possibly above 5 billion. These figures are unconfirmed.",
+    "Power is the hard part. Each gigafactory is described as needing about one gigawatt of continuous electricity, while Italy has about 500 megawatts of data centre capacity today and projections of 1.4 to 2 gigawatts by 2030, according to Innovation Post. The same article says the European contribution covers about 17 percent of capital costs, far less than in other EuroHPC projects.",
+    "The competition is crowded: Innovation Post reported more than 70 expressions of interest from 16 member states in May. For students, the practical stake is jobs and compute access in Italy; what is unknown is where the site would be and whether Italy will win one of the seven places."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2026/08/ChatGPT-Image-3-ago-2026-10_02_27.jpg",
+     "cap": "Illustration of an AI gigafactory, from Agenda Digitale (AI-generated image)",
+     "credit": "Agenda Digitale"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Agenda Digitale",
+     "u": "https://www.agendadigitale.eu/infrastrutture/data-center/gigafactory-ai-in-italia-la-sfida-industriale-del-bando-ue/",
+     "t": "Italian digital policy outlet"
+    },
+    {
+     "n": "Innovation Post",
+     "u": "https://www.innovationpost.it/attualita/leuropa-vuole-4-gigafactory-ai-e-litalia-si-candida-che-chance-abbiamo/",
+     "t": "Italian tech outlet, 13 May"
+    },
+    {
+     "n": "MorningTech",
+     "u": "https://www.morningtech.it/litalia-si-candida-al-bando-europeo-per-le-gigafactory-ai/",
+     "t": "Italian tech outlet"
+    },
+    {
+     "n": "ZeroUno",
+     "u": "https://www.zerounoweb.it/data-center/lue-accelera-sullai-al-via-il-piano-per-sette-gigafactory-da-30-miliardi/",
+     "t": "Italian IT outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "EuroHPC's call closes on 12 November and aims at up to seven gigafactories",
+     "n": "Agenda Digitale, ZeroUno and other Italian outlets give the same deadline and number."
+    },
+    {
+     "s": "ok",
+     "c": "Leonardo, Eni and AI4Industry are part of Italy's bid",
+     "n": "Reported by the industry ministry's announcement as covered by Milano Finanza, Innovation Post and Agenda Digitale."
+    },
+    {
+     "s": "warn",
+     "c": "A dedicated company with Enel, Saipem, Snam, Terna, FiberCop and CDP and an initial 1.2 billion euros",
+     "n": "Reported by trade press only; not confirmed by the ministry in the sources found."
+    },
+    {
+     "s": "warn",
+     "c": "Figures on power and EU funding share (1 gigawatt, 17 percent)",
+     "n": "From a May article by Innovation Post; the call's final terms were not checked in the official documents."
+    }
+   ],
+   "ctx": "An AI gigafactory is a data centre campus with several hundred thousand advanced chips, aimed at training large models. The EU wants them to reduce dependence on US and Chinese computing power. A selection of winners is expected only in early 2027, so applying does not mean winning.",
+   "loop_query": "data center servers",
+   "i18n": {
+    "it": {
+     "title": "L'Italia presenta questa settimana la candidatura alla gigafactory europea dell'IA: scadenza 12 novembre, con Leonardo, Eni e la fondazione AI4I",
+     "summary": "Le candidature per ospitare una delle fino a sette gigafactory europee dell'intelligenza artificiale si chiudono il 12 novembre. La proposta italiana è sostenuta dal ministero delle Imprese e da un consorzio con Leonardo, Eni e la fondazione torinese AI4Industry. Le sfide principali sono l'energia elettrica e la lenta adozione dell'IA nelle imprese.",
+     "body": [
+      "L'impresa comune europea per il calcolo ad alte prestazioni, EuroHPC, ha aperto il bando il 30 luglio 2026 per scegliere i consorzi che costruiranno e gestiranno fino a sette gigafactory dell'IA, enormi centri di calcolo per addestrare i modelli. Le candidature si chiudono il 12 novembre. La selezione è attesa all'inizio del 2027 e i primi siti devono essere operativi entro 18 mesi dal contratto.",
+      "La candidatura italiana è stata annunciata a maggio dal ministero delle Imprese guidato da Adolfo Urso, che l'ha definita uno sforzo di sistema Paese. Coinvolge Leonardo, Eni e la fondazione AI4Industry di Torino, e la stampa di settore scrive che Enel, Saipem, Snam, Terna, FiberCop e la Cassa depositi e prestiti potrebbero entrare in una società dedicata. Un resoconto indica un investimento iniziale di circa 1,2 miliardi di euro, forse oltre 5 miliardi. Queste cifre non sono confermate.",
+      "La parte difficile è l'energia. Secondo Innovation Post, ogni gigafactory richiederebbe circa un gigawatt di potenza continua, mentre oggi l'Italia ha circa 500 megawatt di data center e prevede da 1,4 a 2 gigawatt entro il 2030. Lo stesso articolo dice che il contributo europeo copre circa il 17 per cento dei costi di investimento, molto meno che in altri progetti EuroHPC.",
+      "La concorrenza è affollata: a maggio Innovation Post riportava più di 70 manifestazioni di interesse da 16 Stati membri. Per gli studenti la posta in gioco pratica è il lavoro e l'accesso al calcolo in Italia; non si sa ancora dove sarebbe il sito e se l'Italia otterrà uno dei sette posti."
+     ],
+     "checks": [
+      {
+       "c": "Il bando EuroHPC si chiude il 12 novembre e punta a fino a sette gigafactory",
+       "n": "Agenda Digitale, ZeroUno e altre testate italiane indicano la stessa scadenza e lo stesso numero."
+      },
+      {
+       "c": "Leonardo, Eni e AI4Industry fanno parte della candidatura italiana",
+       "n": "Riportato dall'annuncio del ministero delle Imprese, ripreso da Milano Finanza, Innovation Post e Agenda Digitale."
+      },
+      {
+       "c": "Una società dedicata con Enel, Saipem, Snam, Terna, FiberCop e CDP e 1,2 miliardi di euro iniziali",
+       "n": "Riportato solo dalla stampa di settore; nelle fonti trovate non è confermato dal ministero."
+      },
+      {
+       "c": "Cifre su potenza e quota di fondi UE (un gigawatt, 17 per cento)",
+       "n": "Da un articolo di maggio di Innovation Post; i termini finali del bando non sono stati verificati nei documenti ufficiali."
+      }
+     ],
+     "ctx": "Una gigafactory dell'IA è un campus di data center con centinaia di migliaia di chip avanzati, pensato per addestrare grandi modelli. L'UE le vuole per ridurre la dipendenza dal calcolo statunitense e cinese. I vincitori saranno scelti solo all'inizio del 2027, quindi candidarsi non significa vincere.",
+     "media_caps": [
+      "Illustrazione di una gigafactory dell'IA da Agenda Digitale, immagine generata con IA"
+     ]
+    }
+   },
+   "id": 5
+  },
+  {
+   "sec": "ita",
+   "topic": "inn",
+   "time": "12:00",
+   "read": 3,
+   "title": "Einstein Telescope: ministers from Italy and Saxony visit the Sardinian site and relaunch their joint bid",
+   "summary": "On 3 November Italy's research minister Anna Maria Bernini and Saxony's science minister Sebastian Gemkow visited the Sos Enattos mine in Sardinia, Italy's candidate site for the Einstein Telescope. They back a joint Sardinia and Saxony bid built on two detectors, the so-called double L layout.",
+   "body": [
+    "The Einstein Telescope is a planned European observatory for gravitational waves, ripples in space and time produced by events such as black hole mergers. Italy proposes the former Sos Enattos mine near Lula, in the province of Nuoro in Sardinia. On 3 November minister Bernini, her Saxon counterpart Gemkow and Sardinia's president Alessandra Todde visited the site.",
+    "Bernini called Sos Enattos the best option to host the telescope, including in a double L configuration. Gemkow said the cross border project between Lusatia in Saxony and Sardinia shows the full spirit of the European ideal. Todde said that working together can deliver results and called it a unique opportunity for the island.",
+    "The double L idea places one L shaped detector in Sardinia and another in Saxony. A study by more than 200 experts, the Geometry Comparison Report, found that design advantageous over a single triangle in scientific reach, instrument cost and project management, according to Italy's astrophysics institute INAF.",
+    "No decision date or cost figures appear in the sources. A competing candidate, the Meuse-Rhine region between Belgium, the Netherlands and Germany, exists, and the final choice will be made at European level. For engineering students, a project of this size would mean decades of work in instrumentation, data and civil engineering."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=VDAiqkzdjuc",
+     "cap": "Anna Maria Bernini (Mur): «Einstein Telescope a Sos Enattos, ci crediamo fino in fondo»",
+     "credit": "MEDIAINAF TV",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.infn.it/wp-content/uploads/2026/11/Bernini-Gemkow-Sos-Enattos.jpeg",
+     "cap": "Ministers Bernini and Gemkow at the Sos Enattos site",
+     "credit": "INFN"
+    }
+   ],
+   "sources": [
+    {
+     "n": "INAF Media",
+     "u": "https://www.media.inaf.it/2026/11/03/einstein-telescope-un-altro-passo-avanti/",
+     "t": "National institute for astrophysics"
+    },
+    {
+     "n": "INFN",
+     "u": "https://www.infn.it/einstein-telescope-i-ministri-bernini-e-gemkow-e-la-presidente-todde-a-sos-enattos-per-rafforzare-la-candidatura-italia-sassonia/",
+     "t": "National institute for nuclear physics"
+    },
+    {
+     "n": "Sardegna Live",
+     "u": "https://www.sardegnalive.net/politica/einstein-telescope-sopralluogo-a-sos-enattos-sardegna-e-sassonia-insieme-per-il-progetto-europeo-vjgjr9kv",
+     "t": "Regional news outlet"
+    },
+    {
+     "n": "Einstein Telescope Italia",
+     "u": "https://www.einstein-telescope.it/en/2026/11/03/ministers-bernini-and-gemkow-and-president-todde-visit-sos-enattos-to-strengthen-the-italy-saxony-candidacy/",
+     "t": "Italian candidacy site"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Bernini, Gemkow and Todde visited Sos Enattos on 3 November",
+     "n": "INAF, INFN, Sardegna Live and the candidacy website agree."
+    },
+    {
+     "s": "warn",
+     "c": "The double L layout is scientifically preferable to a triangle",
+     "n": "Based on a study of more than 200 experts reported by INAF, an interested party. The final choice has not been made."
+    }
+   ],
+   "ctx": "Gravitational waves were first detected in 2015 by LIGO. The Einstein Telescope would be about ten times more sensitive than current detectors. The site choice is political as well as scientific, and decisions involve European funding bodies. The sources do not give a decision date.",
+   "loop_query": "mountain mine entrance",
+   "i18n": {
+    "it": {
+     "title": "Einstein Telescope: i ministri di Italia e Sassonia visitano il sito sardo e rilanciano la candidatura congiunta",
+     "summary": "Il 3 novembre la ministra dell'Università e della Ricerca Anna Maria Bernini e il ministro della Scienza della Sassonia Sebastian Gemkow hanno visitato la miniera di Sos Enattos in Sardegna, sito candidato dall'Italia per l'Einstein Telescope. Sostengono una candidatura comune Sardegna e Sassonia basata su due rivelatori, la cosiddetta configurazione a doppia L.",
+     "body": [
+      "L'Einstein Telescope è un osservatorio europeo di onde gravitazionali in progetto, cioè increspature dello spazio e del tempo prodotte da eventi come la fusione di buchi neri. L'Italia propone l'ex miniera di Sos Enattos, vicino a Lula, in provincia di Nuoro, in Sardegna. Il 3 novembre la ministra Bernini, il collega sassone Gemkow e la presidente della Sardegna Alessandra Todde hanno visitato il sito.",
+      "Bernini ha definito Sos Enattos l'opzione migliore per ospitare il telescopio, anche in una configurazione a doppia L. Gemkow ha detto che il progetto transfrontaliero tra la Lusazia in Sassonia e la Sardegna rappresenta pienamente lo spirito europeo. Todde ha affermato che lavorando insieme si possono ottenere risultati e ha parlato di una occasione unica per l'isola.",
+      "L'idea della doppia L prevede un rivelatore a forma di L in Sardegna e un altro in Sassonia. Secondo l'Istituto nazionale di astrofisica, INAF, uno studio di oltre 200 esperti, il Geometry Comparison Report, ha trovato questo schema vantaggioso rispetto a un unico triangolo per prestazioni scientifiche, costo degli strumenti e gestione del progetto.",
+      "Nelle fonti non compaiono una data di decisione né cifre di costo. Esiste un candidato concorrente, la regione Mosa-Reno tra Belgio, Paesi Bassi e Germania, e la scelta finale sarà europea. Per gli studenti di ingegneria, un progetto di queste dimensioni significherebbe decenni di lavoro in strumentazione, dati e ingegneria civile."
+     ],
+     "checks": [
+      {
+       "c": "Bernini, Gemkow e Todde hanno visitato Sos Enattos il 3 novembre",
+       "n": "INAF, INFN, Sardegna Live e il sito della candidatura concordano."
+      },
+      {
+       "c": "La configurazione a doppia L è scientificamente preferibile al triangolo",
+       "n": "Si basa su uno studio di oltre 200 esperti riportato dall'INAF, parte interessata. La scelta finale non è stata presa."
+      }
+     ],
+     "ctx": "Le onde gravitazionali furono rilevate per la prima volta nel 2015 da LIGO. L'Einstein Telescope sarebbe circa dieci volte più sensibile degli attuali rivelatori. La scelta del sito è politica oltre che scientifica e coinvolge enti europei di finanziamento. Le fonti non indicano una data di decisione.",
+     "media_caps": [
+      "Anna Maria Bernini (Mur): «Einstein Telescope a Sos Enattos, ci crediamo fino in fondo»",
+      "I ministri Bernini e Gemkow al sito di Sos Enattos"
+     ]
+    }
+   },
+   "id": 6
+  },
+  {
+   "sec": "ita",
+   "topic": "lav",
+   "time": "19:00",
+   "read": 4,
+   "title": "Italo strike of 9 November called off after a ruling by the strike watchdog; unions keep their 22-month-old contract dispute",
+   "summary": "The unions called off the national Italo strike planned for Monday 9 November after the strike guarantee commission intervened, so Italo trains will run normally. Unions say the contract has been expired for 22 months and the dispute continues. Other, smaller strikes still hit local transport and telecom call centres this week.",
+   "body": [
+    "On 6 November the unions withdrew the strike at Italo, the private high speed rail operator, that had been called for Monday 9 November. ANSA reports that the decision followed an intervention by Italy's strike guarantee commission, the body that checks compliance with the law on strikes in essential public services, and that Italo said its trains would run regularly.",
+    "Filt Cgil said it revoked out of a sense of responsibility, and the Fit Cisl union used the same words. Filt Cgil added that the move comes in a context of evident compression of the possibilities of mobilisation, and that the commission, in its view, has denied a constitutional right to unions representing about half of the workers. The commission's own reasoning was not available in the sources found.",
+    "The underlying dispute is unchanged: the unions say the national contract expired 22 months ago and complain about pay and conditions, while the company has asked for more flexibility and productivity. Italo's side of the contract talks was not found. The revocation does not end the claims, according to Filt Cgil.",
+    "Other action this week, according to QuiFinanza: local transport stoppages on 9 November in Genoa and Palermo, a national telecom and call centre strike on 11 and 12 November, and Milan's ATM metro and buses on 13 November. Live performance workers demonstrate in Rome on 9 November, per the Cgil calendar. For a young engineer, the practical point is to check when a sector's collective contract expires, because a long gap can freeze pay."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=3Krrx6eveKc",
+     "cap": "Related: November 2026 strikes, the calendar of dates",
+     "credit": "Il Gazzettino"
+    },
+    {
+     "type": "image",
+     "u": "https://st.ilfattoquotidiano.it/wp-content/uploads/2020/09/17/italo_treno.jpg",
+     "cap": "An Italo high speed train",
+     "credit": "Il Fatto Quotidiano"
+    },
+    {
+     "type": "image",
+     "u": "https://wips.plug.it/cips/notizie.virgilio.it/cms/2026/11/sciopero-lunedi-9-novembre-2026.jpg",
+     "cap": "Image from Virgilio Notizie on the strike planned for Monday 9 November",
+     "credit": "Virgilio Notizie"
+    }
+   ],
+   "sources": [
+    {
+     "n": "ANSA",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/italo-revocato-sciopero-del-9-novembre_f4fdcdef-9d0b-4df8-aaa4-542bd391e9df.html",
+     "t": "News agency"
+    },
+    {
+     "n": "Collettiva (Cgil)",
+     "u": "https://www.collettiva.it/copertine/lavoro/ntv-la-filt-cgil-revoca-lo-sciopero-del-9-novembre-pspe31s7",
+     "t": "Union news site (interested party); page not opened, search snippet confirms"
+    },
+    {
+     "n": "MilanoToday",
+     "u": "https://www.milanotoday.it/cronaca/sciopero/revocato-italo-9-novembre.html",
+     "t": "Local news outlet"
+    },
+    {
+     "n": "QuiFinanza",
+     "u": "https://quifinanza.it/info-utili/scioperi/scioperi-settimana-9-15-novembre-2026/1023353/",
+     "t": "Italian finance and service news outlet"
+    },
+    {
+     "n": "Cgil strike calendar 9 to 15 November",
+     "u": "https://www.cgil.it/strumenti/scioperi-e-vertenze/calendario-scioperi-9-15-novembre-2026-vertenze-mobilitazioni-e-iniziative-cgil-hff6vqr7",
+     "t": "Union calendar (interested party); page not opened, search snippet confirms"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Italo strike of 9 November was revoked on 6 November",
+     "n": "ANSA, MilanoToday, Collettiva and QuiFinanza all report the revocation; Italo says trains run normally."
+    },
+    {
+     "s": "ko",
+     "c": "Earlier listings that said only 41 of 120 Italo trains would run on 9 November",
+     "n": "These guaranteed-train lists were published before the revocation and no longer apply."
+    },
+    {
+     "s": "warn",
+     "c": "The commission denied a constitutional right to unions representing about half the workers",
+     "n": "Filt Cgil's own characterisation; the commission's reasoning was not found."
+    },
+    {
+     "s": "warn",
+     "c": "Live performance demonstration in Rome on 9 November and local strikes this week",
+     "n": "Union calendar and QuiFinanza only; hours may change."
+    }
+   ],
+   "ctx": "In Italy, essential public services such as rail must respect rules on notice and minimum service during strikes, supervised by the Commissione di garanzia. Collective contracts are negotiated between national unions and employer groups and set minimum pay for whole sectors. This item reports the unions' account; the company's and the commission's views are not fully available.",
+   "loop_query": "train station platform",
+   "i18n": {
+    "it": {
+     "title": "Sciopero Italo del 9 novembre revocato dopo l'intervento della Commissione di garanzia; i sindacati mantengono la vertenza sul contratto scaduto da 22 mesi",
+     "summary": "I sindacati hanno revocato lo sciopero nazionale di Italo previsto per lunedì 9 novembre dopo l'intervento della Commissione di garanzia degli scioperi, quindi i treni Italo circoleranno regolarmente. I sindacati dicono che il contratto è scaduto da 22 mesi e la vertenza continua. Altri scioperi minori toccano comunque trasporto locale e call center delle telecomunicazioni questa settimana.",
+     "body": [
+      "Il 6 novembre i sindacati hanno ritirato lo sciopero in Italo, l'operatore privato dell'alta velocità, indetto per lunedì 9 novembre. L'ANSA riporta che la decisione è seguita a un intervento della Commissione di garanzia sull'attuazione della legge sullo sciopero nei servizi pubblici essenziali, e che Italo ha detto che i treni circoleranno regolarmente.",
+      "La Filt Cgil ha detto di aver revocato per senso di responsabilità, e la Fit Cisl ha usato le stesse parole. La Filt Cgil ha aggiunto che la mossa arriva in un quadro di evidente compressione delle possibilità di mobilitazione e che la Commissione, a suo giudizio, ha negato un diritto costituzionale a sindacati che rappresentano circa metà dei lavoratori. Le motivazioni della Commissione non erano disponibili nelle fonti trovate.",
+      "La vertenza di fondo non cambia: i sindacati dicono che il contratto nazionale è scaduto da 22 mesi e lamentano retribuzioni e condizioni, mentre l'azienda ha chiesto più flessibilità e produttività. La posizione di Italo sul tavolo contrattuale non è stata trovata. La revoca non chiude le rivendicazioni, secondo la Filt Cgil.",
+      "Altre azioni questa settimana, secondo QuiFinanza: fermate del trasporto locale il 9 novembre a Genova e Palermo, uno sciopero nazionale di telecomunicazioni e call center l'11 e 12 novembre, e metro e bus di Milano con ATM il 13 novembre. I lavoratori dello spettacolo dal vivo manifestano a Roma il 9 novembre, secondo il calendario della Cgil. Per un giovane ingegnere, il punto pratico è controllare quando scade il contratto collettivo del settore, perché un lungo vuoto può bloccare gli stipendi."
+     ],
+     "checks": [
+      {
+       "c": "Lo sciopero di Italo del 9 novembre è stato revocato il 6 novembre",
+       "n": "ANSA, MilanoToday, Collettiva e QuiFinanza riportano la revoca; Italo dice che i treni circolano regolarmente."
+      },
+      {
+       "c": "Gli elenchi precedenti secondo cui il 9 novembre sarebbero circolati solo 41 treni Italo su 120",
+       "n": "Gli elenchi dei treni garantiti erano stati pubblicati prima della revoca e non valgono più."
+      },
+      {
+       "c": "La Commissione ha negato un diritto costituzionale a sindacati che rappresentano circa metà dei lavoratori",
+       "n": "Descrizione della Filt Cgil stessa; le motivazioni della Commissione non sono state trovate."
+      },
+      {
+       "c": "Manifestazione dello spettacolo dal vivo a Roma il 9 novembre e scioperi locali questa settimana",
+       "n": "Solo calendario sindacale e QuiFinanza; gli orari possono cambiare."
+      }
+     ],
+     "ctx": "In Italia i servizi pubblici essenziali come le ferrovie devono rispettare regole su preavviso e servizio minimo durante gli scioperi, sotto il controllo della Commissione di garanzia. I contratti collettivi si negoziano tra sindacati nazionali e associazioni dei datori di lavoro e fissano i minimi retributivi di interi settori. Questa notizia riporta la versione dei sindacati; il punto di vista di azienda e Commissione non è del tutto disponibile.",
+     "media_caps": [
+      "Correlato: gli scioperi di novembre 2026, il calendario",
+      "Un treno ad alta velocità Italo",
+      "Immagine di Virgilio Notizie sullo sciopero previsto per lunedì 9 novembre"
+     ]
+    }
+   },
+   "id": 7
+  },
+  {
+   "sec": "reg",
+   "time": "08:00",
+   "read": 5,
+   "title": "AI Act Article 50: what you must label and disclose since 2 August, and the two later dates that still matter",
+   "summary": "The transparency rules of Article 50 of the AI Act have applied since 2 August 2026. Chatbots must say they are AI, and AI-generated content must be marked. The Commission's final guidelines and a code of practice explain how, and marking for already deployed generative systems follows on 2 December 2026.",
+   "body": [
+    "Who is affected: providers and deployers of AI systems that talk to people, generate or edit audio, images, video or text, or recognise emotions. Article 50 sets four duties: tell people when they interact with an AI system, mark synthetic output in a machine readable way under Article 50, paragraph 2, label deepfakes, and label AI-generated text published to inform the public on matters of public interest.",
+    "What changed: the European Commission published its final guidelines on Article 50 on 20 July 2026, together with a Code of Practice on the transparency of AI-generated content, which it assessed as adequate. The code defines three EU icons, one for fully AI-generated content, one for AI-modified content and a basic icon with a second interactive layer. Law firm summaries say about 190 organisations signed the code, a figure not confirmed in an official source.",
+    "By when: most Article 50 duties started on 2 August 2026. Law firm summaries say the marking duty for generative systems already on the market applies from 2 December 2026, and an interoperability requirement for watermark detection from 2 February 2027. Fines for breaching Article 50 can reach 15 million euros or 3 percent of worldwide annual turnover, whichever is higher, and national market surveillance authorities enforce them.",
+    "Exceptions reported include systems used to detect or investigate crime, assistive editing tools, and outputs such as source code, very short text and machine to machine communication. Whether a given product is covered depends on the legal text and the guidelines. The sources I could open were law firm notes, and I could not open the Commission's press page or the Official Journal text, so check them before relying on any date."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=cEQzIenYWwY",
+     "cap": "Related: EU AI Act Article 50, labelling rules explained",
+     "credit": "Easydino",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlaymont_building_Brussels.jpg/1280px-Berlaymont_building_Brussels.jpg",
+     "cap": "The Berlaymont building, seat of the European Commission in Brussels",
+     "credit": "Wikimedia Commons"
+    },
+    {
+     "type": "image",
+     "u": "https://fpf.org/wp-content/uploads/2026/07/shutterstock_2814136079-scaled.jpg",
+     "cap": "Image from the Future of Privacy Forum's AI Act timeline analysis",
+     "credit": "Future of Privacy Forum"
+    }
+   ],
+   "sources": [
+    {
+     "n": "European Commission press corner (IP/26/1328)",
+     "u": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1328",
+     "t": "Primary source; page could not be opened, headline confirmed by search"
+    },
+    {
+     "n": "Paul Weiss",
+     "u": "https://www.paulweiss.com/insights/client-memos/eu-finalises-transparency-rules-for-ai-generated-content",
+     "t": "Law firm client memo"
+    },
+    {
+     "n": "Bird & Bird",
+     "u": "https://www.twobirds.com/en/insights/2026/european-commission-adopts-final-guidelines-on-ai-act-article-50-transparency-obligations-first-impr",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "Reed Smith",
+     "u": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102nbz0/transparency-obligations-for-ai-generated-content-the-code-of-practice-adequacy/",
+     "t": "Law firm briefing"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Final Article 50 guidelines were published on 20 July 2026 and the code of practice was found adequate",
+     "n": "Paul Weiss, Bird & Bird, Reed Smith and Faegre Drinker report the same, and the Commission press release exists."
+    },
+    {
+     "s": "warn",
+     "c": "Marking for already deployed generative systems applies from 2 December 2026 and watermark interoperability from 2 February 2027",
+     "n": "Taken from law firm summaries; the Official Journal text was not opened. Another summary phrases the December date as applying to general purpose models generating synthetic content."
+    },
+    {
+     "s": "warn",
+     "c": "About 190 organisations signed the code",
+     "n": "Single law firm source."
+    }
+   ],
+   "ctx": "The AI Act is Regulation (EU) 2024/1689. Article 50 is about transparency, not about banning uses. The Digital Omnibus delayed some other obligations but kept Article 50 largely on its date, with a grace period for marking. This is general information, not legal advice.",
+   "loop_query": "european union flags",
+   "i18n": {
+    "it": {
+     "title": "AI Act, articolo 50: cosa bisogna etichettare e dichiarare dal 2 agosto e le due date successive che contano ancora",
+     "summary": "Le regole di trasparenza dell'articolo 50 dell'AI Act si applicano dal 2 agosto 2026. I chatbot devono dichiarare di essere IA e i contenuti generati dall'IA devono essere marcati. Le linee guida finali della Commissione e un codice di condotta spiegano come, e la marcatura per i sistemi generativi già in uso arriva il 2 dicembre 2026.",
+     "body": [
+      "Chi è coinvolto: fornitori e utilizzatori di sistemi di IA che dialogano con le persone, generano o modificano audio, immagini, video o testo, oppure riconoscono emozioni. L'articolo 50 prevede quattro obblighi: informare le persone quando interagiscono con un sistema di IA, marcare i contenuti sintetici in formato leggibile dalle macchine ai sensi del paragrafo 2, etichettare i deepfake ed etichettare i testi generati dall'IA pubblicati per informare il pubblico su temi di interesse pubblico.",
+      "Cosa è cambiato: la Commissione europea ha pubblicato il 20 luglio 2026 le linee guida finali sull'articolo 50, insieme a un codice di condotta sulla trasparenza dei contenuti generati dall'IA, che ha giudicato adeguato. Il codice definisce tre icone europee: una per i contenuti interamente generati dall'IA, una per quelli modificati dall'IA e un'icona base con un secondo livello interattivo. Le sintesi degli studi legali dicono che circa 190 organizzazioni hanno aderito al codice, cifra non confermata da una fonte ufficiale.",
+      "Entro quando: la maggior parte degli obblighi dell'articolo 50 è partita il 2 agosto 2026. Le sintesi degli studi legali indicano che l'obbligo di marcatura per i sistemi generativi già sul mercato si applica dal 2 dicembre 2026 e un requisito di interoperabilità per il rilevamento delle filigrane dal 2 febbraio 2027. Le sanzioni per la violazione dell'articolo 50 possono arrivare a 15 milioni di euro o al 3 per cento del fatturato mondiale annuo, se più alto, e sono applicate dalle autorità nazionali di vigilanza del mercato.",
+      "Tra le esenzioni riportate ci sono i sistemi usati per rilevare o indagare reati, gli strumenti di editing assistivo e output come codice sorgente, testi molto brevi e comunicazioni tra macchine. Se un prodotto rientri o no dipende dal testo di legge e dalle linee guida. Le fonti che ho potuto aprire erano note di studi legali; non sono riuscito ad aprire la pagina stampa della Commissione né il testo della Gazzetta ufficiale dell'Unione, quindi verificate le date prima di farvi affidamento."
+     ],
+     "checks": [
+      {
+       "c": "Le linee guida finali sull'articolo 50 sono state pubblicate il 20 luglio 2026 e il codice di condotta è stato giudicato adeguato",
+       "n": "Paul Weiss, Bird & Bird, Reed Smith e Faegre Drinker riportano lo stesso, e il comunicato della Commissione esiste."
+      },
+      {
+       "c": "La marcatura per i sistemi generativi già in uso si applica dal 2 dicembre 2026 e l'interoperabilità delle filigrane dal 2 febbraio 2027",
+       "n": "Tratto da sintesi di studi legali; il testo della Gazzetta ufficiale dell'Unione non è stato aperto. Un'altra sintesi formula la data di dicembre come applicabile ai modelli per finalità generali che generano contenuti sintetici."
+      },
+      {
+       "c": "Circa 190 organizzazioni hanno firmato il codice",
+       "n": "Fonte unica, uno studio legale."
+      }
+     ],
+     "ctx": "L'AI Act è il Regolamento (UE) 2024/1689. L'articolo 50 riguarda la trasparenza, non vieta usi. Il pacchetto Digital Omnibus ha rinviato altri obblighi ma ha lasciato l'articolo 50 sostanzialmente alla sua data, con un periodo di tolleranza per la marcatura. Sono informazioni generali, non consulenza legale.",
+     "media_caps": [
+      "Correlato: AI Act, articolo 50, le regole di etichettatura spiegate",
+      "Il palazzo Berlaymont, sede della Commissione europea a Bruxelles",
+      "Immagine dall'analisi del Future of Privacy Forum sul calendario dell'AI Act"
+     ]
+    }
+   },
+   "id": 8
+  },
+  {
+   "sec": "reg",
+   "time": "09:00",
+   "read": 5,
+   "title": "AI Omnibus in force: lighter AI literacy duty, relief for mid-size firms and a longer runway for high-risk systems",
+   "summary": "Regulation (EU) 2026/1744, the AI Omnibus, amends the AI Act and entered into force on 27 July 2026. High-risk rules for Annex III systems move to 2 December 2027 and for product-embedded systems to 2 August 2028. The AI literacy duty is softened and small mid-cap companies get simplified rules.",
+   "body": [
+    "What changed in law: after a political deal on 7 May, the European Parliament endorsed the AI Omnibus on 16 June and the Council adopted it on 29 June 2026. It was signed on 8 July and entered into force on 27 July, according to law firm and compliance summaries that give it the number Regulation (EU) 2026/1744. I could not open EUR-Lex to confirm the number and dates.",
+    "Who benefits: the Future of Privacy Forum reports that simplified documentation and sandbox priority now extend to small mid-cap enterprises, defined as fewer than 750 employees and less than 150 million euros of turnover. Article 4 on AI literacy changes from providers and deployers having to ensure sufficient literacy to having to support its development. A new Article 4a allows processing special categories of personal data to detect bias in any AI system, not only high-risk ones.",
+    "Dates to keep: legacy general purpose models placed on the market before 2 August 2025 must comply by 2 August 2027, the same date by which national regulatory sandboxes must be operational. High-risk systems under Annex III apply from 2 December 2027 and those under Annex I from 2 August 2028. The AI Office also gains wider powers over systems built on general purpose models within the same company.",
+    "Yesterday's briefing covered the new 2 December 2026 dates for the ban on non-consensual intimate imagery and abuse material. What is not yet known is how each national authority will use its enforcement powers in practice. Check the consolidated text on EUR-Lex; this is not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=7KgSmRepatc",
+     "cap": "Related: EU AI Act delayed, what the Digital Omnibus postpones",
+     "credit": "Easydino"
+    },
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+     "cap": "The hemicycle of the European Parliament in Strasbourg",
+     "credit": "Wikimedia Commons / Diliff"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Future of Privacy Forum",
+     "u": "https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus/",
+     "t": "Policy think tank"
+    },
+    {
+     "n": "White & Case",
+     "u": "https://www.whitecase.com/insight-alert/eu-agrees-digital-omnibus-deal-simplify-ai-rules",
+     "t": "Law firm briefing; page not opened, headline confirmed by search"
+    },
+    {
+     "n": "Addleshaw Goddard",
+     "u": "https://www.addleshawgoddard.com/en/insights/insights-briefings/2026/technology/ai-omnibus-provisional-agreement-changes-eu-ai-act-delayed-deadlines/",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "Usercentrics",
+     "u": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+     "t": "Compliance software vendor"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "High-risk obligations move to 2 December 2027 for Annex III and 2 August 2028 for Annex I",
+     "n": "FPF, Addleshaw Goddard and Usercentrics give the same dates."
+    },
+    {
+     "s": "warn",
+     "c": "Regulation number 2026/1744, signed on 8 July and in force on 27 July 2026",
+     "n": "From secondary summaries; the Official Journal was not opened."
+    },
+    {
+     "s": "warn",
+     "c": "Small mid-cap relief for fewer than 750 employees and 150 million euros of turnover",
+     "n": "Reported by FPF only in the sources opened."
+    }
+   ],
+   "ctx": "The Omnibus is a simplification package proposed by the Commission in November 2025. Critics said it weakens protections; supporters said companies lacked the standards to comply on time. The standards from the European standardisation bodies CEN and CENELEC were late, which was the stated reason for the delay. This is general information, not legal advice.",
+   "loop_query": "european parliament chamber",
+   "i18n": {
+    "it": {
+     "title": "AI Omnibus in vigore: obbligo di alfabetizzazione sull'IA più leggero, sgravi per le medie imprese e più tempo per i sistemi ad alto rischio",
+     "summary": "Il Regolamento (UE) 2026/1744, l'AI Omnibus, modifica l'AI Act ed è entrato in vigore il 27 luglio 2026. Le regole per i sistemi ad alto rischio dell'Allegato III slittano al 2 dicembre 2027 e quelle per i sistemi incorporati nei prodotti al 2 agosto 2028. L'obbligo di alfabetizzazione sull'IA è attenuato e le piccole imprese a media capitalizzazione hanno regole semplificate.",
+     "body": [
+      "Cosa è cambiato nel diritto: dopo l'accordo politico del 7 maggio, il Parlamento europeo ha approvato l'AI Omnibus il 16 giugno e il Consiglio lo ha adottato il 29 giugno 2026. È stato firmato l'8 luglio ed è entrato in vigore il 27 luglio, secondo sintesi di studi legali e di società di conformità che gli attribuiscono il numero di Regolamento (UE) 2026/1744. Non sono riuscito ad aprire EUR-Lex per confermare numero e date.",
+      "Chi ne beneficia: il Future of Privacy Forum riporta che la documentazione semplificata e la priorità nelle sandbox si estendono ora alle piccole imprese a media capitalizzazione, definite come meno di 750 dipendenti e meno di 150 milioni di euro di fatturato. L'articolo 4 sull'alfabetizzazione in materia di IA passa da fornitori e utilizzatori che devono assicurare un livello sufficiente a fornitori e utilizzatori che devono sostenerne lo sviluppo. Un nuovo articolo 4 bis consente di trattare categorie particolari di dati personali per individuare distorsioni in qualsiasi sistema di IA, non solo in quelli ad alto rischio.",
+      "Date da tenere a mente: i modelli per finalità generali già sul mercato prima del 2 agosto 2025 devono adeguarsi entro il 2 agosto 2027, la stessa data entro cui le sandbox regolatorie nazionali devono essere operative. I sistemi ad alto rischio dell'Allegato III si applicano dal 2 dicembre 2027 e quelli dell'Allegato I dal 2 agosto 2028. L'Ufficio per l'IA ottiene anche poteri più ampi sui sistemi costruiti su modelli per finalità generali all'interno della stessa impresa.",
+      "Il briefing di ieri ha trattato le nuove date del 2 dicembre 2026 per il divieto di immagini intime non consensuali e di materiale di abuso. Non si sa ancora come ciascuna autorità nazionale userà in pratica i propri poteri di controllo. Verificate il testo consolidato su EUR-Lex; non è consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Gli obblighi per i sistemi ad alto rischio slittano al 2 dicembre 2027 per l'Allegato III e al 2 agosto 2028 per l'Allegato I",
+       "n": "FPF, Addleshaw Goddard e Usercentrics indicano le stesse date."
+      },
+      {
+       "c": "Regolamento numero 2026/1744, firmato l'8 luglio e in vigore dal 27 luglio 2026",
+       "n": "Da sintesi secondarie; la Gazzetta ufficiale dell'Unione non è stata aperta."
+      },
+      {
+       "c": "Sgravi per le piccole imprese a media capitalizzazione, meno di 750 dipendenti e 150 milioni di euro di fatturato",
+       "n": "Riportato solo da FPF tra le fonti aperte."
+      }
+     ],
+     "ctx": "L'Omnibus è un pacchetto di semplificazione proposto dalla Commissione nel novembre 2025. I critici dicono che indebolisce le tutele; i sostenitori che le imprese non avevano gli standard per conformarsi in tempo. Gli standard degli enti europei di normazione CEN e CENELEC erano in ritardo, motivo dichiarato del rinvio. Sono informazioni generali, non consulenza legale.",
+     "media_caps": [
+      "Correlato: AI Act rinviato, cosa sposta il Digital Omnibus",
+      "L'emiciclo del Parlamento europeo a Strasburgo"
+     ]
+    }
+   },
+   "id": 9
+  },
+  {
+   "sec": "reg",
+   "time": "08:30",
+   "read": 5,
+   "title": "Italy's privacy regulator fined Character.AI 158,000 euros and now targets chatbots that mimic personal relationships with minors",
+   "summary": "The Garante Privacy fined Character Technologies 158,000 euros in July for weak age checks and privacy notices on the Character.AI chatbot service. The authority has also said it supports European limits on chatbots that simulate personal relationships and may encourage emotional dependency. Any company offering chatbots to Italian minors should review age verification now.",
+   "body": [
+    "What happened: in a decision dated 3 July 2026 and announced on 9 July, the Garante fined Character Technologies Inc., which runs Character.AI, 158,000 euros. The authority found a deficient privacy notice, a late data protection impact assessment, a late appointment of a European representative, inadequate safeguards for minors and defective age verification.",
+    "What the company must do: make age verification work, make cooling off periods effective so that blocked minors cannot simply re-register, set minors' profiles to private by default, and report on compliance within 120 days. The Garante acknowledged some fixes made during the investigation but said more were needed because generative AI in an entertainment service reachable by children carries specific risks.",
+    "The newest signal: on 7 October the Garante issued an opinion on the health ministry's decree on the electronic health record, supporting access from age 14, and, as reported by Matrice Digitale on 8 November, backed new European safeguards for social networks, video games and AI chatbots. President Pasquale Stanzione asked to protect minors without turning age verification into surveillance, and favoured privacy preserving cryptographic methods.",
+    "Who is affected and what to do: providers and deployers of chatbots reachable by minors in Italy, mainly under the GDPR rules on notices, impact assessments, representatives and children's data, plus the AI Act's transparency duties. The 120 day deadline from a July decision falls around now, but the exact start date is not stated in the sources. This is not legal advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=LRbJ6bkomAE",
+     "cap": "Related: the role and powers of the Italian data protection authority",
+     "credit": "Simone Aliprandi",
+     "start": 10,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://www.garanteprivacy.it/o/g.docweb.display/images/bn.jpg",
+     "cap": "Banner of the Garante per la protezione dei dati personali website",
+     "credit": "Garante Privacy"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Garante Privacy, press release",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269594",
+     "t": "Italian data protection authority, primary source"
+    },
+    {
+     "n": "Garante Privacy, decision of 3 July 2026",
+     "u": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571",
+     "t": "Italian data protection authority, primary source"
+    },
+    {
+     "n": "Matrice Digitale, 8 November",
+     "u": "https://www.matricedigitale.it/2026/11/08/fascicolo-sanitario-14-anni-eu-kids-act-privacy-minori/",
+     "t": "Italian tech outlet; page could not be opened, snippet confirms"
+    },
+    {
+     "n": "Cybersecurity360",
+     "u": "https://www.cybersecurity360.it/legal/privacy-dati-personali/intelligenza-artificiale-nella-pa-si-ma-con-cautela-il-parere-del-garante-privacy/",
+     "t": "Italian cybersecurity outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "The Garante fined Character Technologies 158,000 euros by decision of 3 July 2026",
+     "n": "The Garante's own press release and decision."
+    },
+    {
+     "s": "warn",
+     "c": "The Garante backs European limits on chatbots simulating personal relationships",
+     "n": "Based on a search snippet of a 8 November Matrice Digitale article that could not be opened; the October opinion itself was not read."
+    },
+    {
+     "s": "warn",
+     "c": "The 120 day compliance deadline falls around now",
+     "n": "The sources do not give the start date of the 120 days."
+    }
+   ],
+   "ctx": "The Garante Privacy is Italy's data protection authority. It acted against ChatGPT in 2023 and later had that fine annulled in 2026, so its decisions can be challenged in court. The Italian AI Law 132 of 2025 also sets rules for minors, with parental consent below age 14. This is general information, not legal advice.",
+   "loop_query": "teenager using smartphone",
+   "i18n": {
+    "it": {
+     "title": "Il Garante Privacy ha multato Character.AI per 158 mila euro e ora guarda ai chatbot che imitano relazioni personali con i minori",
+     "summary": "Il Garante Privacy ha multato a luglio Character Technologies per 158 mila euro per controlli dell'età deboli e informative carenti sul servizio di chatbot Character.AI. L'autorità ha anche sostenuto limiti europei per i chatbot che simulano relazioni personali e possono favorire la dipendenza emotiva. Chi offre chatbot ai minori in Italia dovrebbe rivedere subito la verifica dell'età.",
+     "body": [
+      "Cosa è successo: con un provvedimento del 3 luglio 2026, annunciato il 9 luglio, il Garante ha multato per 158 mila euro Character Technologies Inc., che gestisce Character.AI. L'autorità ha rilevato un'informativa carente, una valutazione d'impatto sulla protezione dei dati tardiva, la nomina tardiva di un rappresentante europeo, garanzie insufficienti per i minori e una verifica dell'età difettosa.",
+      "Cosa deve fare l'azienda: far funzionare la verifica dell'età, rendere efficaci i periodi di attesa in modo che i minori bloccati non possano semplicemente registrarsi di nuovo, impostare i profili dei minori come privati per impostazione predefinita e riferire sulla conformità entro 120 giorni. Il Garante ha riconosciuto alcuni rimedi adottati durante l'istruttoria, ma ha ritenuto necessarie altre misure perché l'IA generativa in un servizio di intrattenimento accessibile ai bambini comporta rischi specifici.",
+      "Il segnale più recente: il 7 ottobre il Garante ha espresso un parere sul decreto del ministero della Salute sul fascicolo sanitario elettronico, favorevole all'accesso dai 14 anni, e, secondo Matrice Digitale dell'8 novembre, ha sostenuto nuove garanzie europee per social network, videogiochi e chatbot di IA. Il presidente Pasquale Stanzione ha chiesto di tutelare i minori senza trasformare la verifica dell'età in sorveglianza, e ha indicato metodi crittografici rispettosi della privacy.",
+      "Chi è coinvolto e cosa fare: fornitori e utilizzatori di chatbot raggiungibili da minori in Italia, soprattutto in base alle regole del GDPR su informative, valutazioni d'impatto, rappresentanti e dati dei minori, oltre agli obblighi di trasparenza dell'AI Act. La scadenza dei 120 giorni da una decisione di luglio cade più o meno ora, ma le fonti non indicano la data di inizio. Non è consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Il Garante ha multato Character Technologies per 158 mila euro con provvedimento del 3 luglio 2026",
+       "n": "Comunicato stampa e provvedimento del Garante."
+      },
+      {
+       "c": "Il Garante sostiene limiti europei sui chatbot che simulano relazioni personali",
+       "n": "Basato sull'anteprima di un articolo di Matrice Digitale dell'8 novembre che non si è potuto aprire; il parere di ottobre non è stato letto."
+      },
+      {
+       "c": "La scadenza di 120 giorni per la conformità cade più o meno ora",
+       "n": "Le fonti non indicano da quando decorrono i 120 giorni."
+      }
+     ],
+     "ctx": "Il Garante Privacy è l'autorità italiana per la protezione dei dati. Nel 2023 agì contro ChatGPT e nel 2026 quella sanzione è stata annullata, quindi le sue decisioni possono essere impugnate in tribunale. Anche la legge italiana sull'IA, la 132 del 2025, prevede regole per i minori, con consenso dei genitori sotto i 14 anni. Sono informazioni generali, non consulenza legale.",
+     "media_caps": [
+      "Correlato: ruolo e poteri dell'autorità italiana per la protezione dei dati",
+      "Banner del sito del Garante per la protezione dei dati personali"
+     ]
+    }
+   },
+   "id": 10
+  },
+  {
+   "sec": "ai",
+   "time": "19:00",
+   "read": 4,
+   "title": "Anthropic's record stock market debut looks uncertain as the AI sell-off hits; roadshow pencilled for the week of 16 November",
+   "summary": "Anthropic filed an amended listing document on 2 November and plans to list on Nasdaq under the symbol ANT. Investors quoted by the Wall Street Journal now say the valuation could land nearer 1 trillion dollars than the 1.5 trillion dollars targeted, and one raised a possible postponement after the tech sell-off. The company has not announced a delay.",
+   "body": [
+    "According to 24/7 Wall St, which cites Wall Street Journal and Reuters reporting, Anthropic filed an amended S-1 registration on 2 November. It lists third quarter revenue of 17 billion dollars, about twelve times a year earlier, and proposes Nasdaq trading under the symbol ANT. Goldman Sachs and Morgan Stanley lead 22 underwriting banks, and six brokers, including Fidelity, are offering retail access.",
+    "The price range, share count and amount to raise are still blank. A roadshow was pencilled for the week of 16 November, but investors quoted by the Journal say the valuation may end closer to 1 trillion dollars than the 1.5 trillion dollars sought, and another floated postponing the listing. Anthropic declined to comment to Reuters on roadshow timing. Earlier reports spoke of 2 trillion dollars and up to 100 billion dollars raised, so sources disagree on the target.",
+    "The background is a rout in AI stocks after the Democrats won both chambers of the US Congress. CBS News reported that the Nasdaq fell 5.5 percent on Thursday and that Nvidia lost 9.2 percent, with investors worried that restrictions on data centres could slow the AI buildout. The Nasdaq is more than 10 percent below its October peak. Wall Street rebounded on Friday, as yesterday's briefing reported.",
+    "For readers, this is a market story and not investment advice. Why it matters for a young engineer: the biggest AI lab's financing shapes hiring and compute spending across the industry. What is unknown is whether the sell-off persists and whether Anthropic will keep its calendar."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
+     "cap": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+     "credit": "Bloomberg Television",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://247wallst.com/wp-content/uploads/2026/08/Dario-Amodei.jpg",
+     "cap": "Anthropic chief executive Dario Amodei, image used by 24/7 Wall St",
+     "credit": "24/7 Wall St"
+    },
+    {
+     "type": "image",
+     "u": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/05/ad40c94d-fea7-44e3-a7b1-72dbba042c8a/thumbnail/1200x630/ed316bbaf51eb364d949829dbb6108a1/gettyimages-1206312753.jpg",
+     "cap": "Trading screens during the tech sell-off",
+     "credit": "Getty Images / CBS News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "24/7 Wall St, 7 November",
+     "u": "https://247wallst.com/investing/2026/11/07/anthropic-could-postpone-its-1-5-trillion-ipo-per-one-investor-as-market-sours-on-ai-trade-another-says-it-could-end-up-closer-to-1-trillion/",
+     "t": "Financial news site, citing WSJ and Reuters"
+    },
+    {
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+     "t": "US broadcaster"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html",
+     "t": "Financial news portal"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Anthropic has filed confidentially and then publicly for an initial public offering",
+     "n": "Yahoo Finance and 24/7 Wall St both describe the filings."
+    },
+    {
+     "s": "warn",
+     "c": "Valuation could land near 1 trillion dollars, with a possible postponement",
+     "n": "Investor opinions relayed secondhand; Anthropic has made no statement and the price range is blank."
+    },
+    {
+     "s": "warn",
+     "c": "Target valuation of 1.5 trillion dollars versus 2 trillion dollars reported earlier",
+     "n": "Sources disagree; earlier press quoted 2 trillion dollars and 100 billion dollars to be raised."
+    }
+   ],
+   "ctx": "An S-1 is the registration document a US company files before listing. A roadshow is the investor tour before pricing. A confidential filing allows a company to prepare quietly. Nothing here is investment advice.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "Il debutto record di Anthropic in Borsa appare incerto dopo il crollo dei titoli IA; roadshow ipotizzato per la settimana del 16 novembre",
+     "summary": "Anthropic ha depositato il 2 novembre il documento di quotazione aggiornato e prevede di quotarsi al Nasdaq con il simbolo ANT. Investitori citati dal Wall Street Journal dicono che la valutazione potrebbe arrivare vicino a 1.000 miliardi di dollari invece dei 1.500 miliardi puntati, e uno ha parlato di un possibile rinvio dopo il crollo del settore tecnologico. L'azienda non ha annunciato ritardi.",
+     "body": [
+      "Secondo 24/7 Wall St, che cita il Wall Street Journal e Reuters, Anthropic ha depositato il 2 novembre una registrazione S-1 aggiornata. Indica ricavi del terzo trimestre per 17 miliardi di dollari, circa dodici volte quelli di un anno prima, e propone la negoziazione al Nasdaq con il simbolo ANT. Goldman Sachs e Morgan Stanley guidano 22 banche collocatrici, e sei intermediari, tra cui Fidelity, offrono l'accesso ai piccoli investitori.",
+      "Intervallo di prezzo, numero di azioni e importo da raccogliere sono ancora in bianco. Un roadshow era ipotizzato per la settimana del 16 novembre, ma investitori citati dal Journal dicono che la valutazione potrebbe finire più vicina a 1.000 miliardi di dollari che ai 1.500 miliardi cercati, e un altro ha ipotizzato un rinvio della quotazione. Anthropic ha rifiutato di commentare con Reuters i tempi del roadshow. Notizie precedenti parlavano di 2.000 miliardi di dollari e fino a 100 miliardi raccolti, quindi le fonti non concordano sull'obiettivo.",
+      "Lo sfondo è il crollo dei titoli IA dopo la vittoria dei Democratici in entrambe le Camere del Congresso americano. La CBS News ha riportato che il Nasdaq è sceso del 5,5 per cento giovedì e che Nvidia ha perso il 9,2 per cento, con gli investitori preoccupati che restrizioni ai data center rallentino lo sviluppo dell'IA. Il Nasdaq è oltre il 10 per cento sotto il picco di ottobre. Wall Street è rimbalzata venerdì, come riportava il briefing di ieri.",
+      "Per i lettori questa è una notizia di mercato e non un consiglio di investimento. Perché conta per un giovane ingegnere: il finanziamento del più grande laboratorio di IA influenza assunzioni e spesa in calcolo in tutto il settore. Non si sa se il calo durerà e se Anthropic manterrà il calendario."
+     ],
+     "checks": [
+      {
+       "c": "Anthropic ha depositato prima in modo riservato e poi pubblico la richiesta di quotazione",
+       "n": "Yahoo Finance e 24/7 Wall St descrivono entrambi i depositi."
+      },
+      {
+       "c": "La valutazione potrebbe arrivare vicino a 1.000 miliardi di dollari, con un possibile rinvio",
+       "n": "Opinioni di investitori riferite di seconda mano; Anthropic non ha fatto dichiarazioni e l'intervallo di prezzo è in bianco."
+      },
+      {
+       "c": "Valutazione obiettivo di 1.500 miliardi di dollari contro i 2.000 miliardi riportati prima",
+       "n": "Le fonti divergono; la stampa precedente citava 2.000 miliardi di dollari e 100 miliardi da raccogliere."
+      }
+     ],
+     "ctx": "L'S-1 è il documento di registrazione che un'azienda americana deposita prima di quotarsi. Il roadshow è il giro tra gli investitori prima della fissazione del prezzo. Un deposito riservato permette di prepararsi senza clamore. Nulla qui è un consiglio di investimento.",
+     "media_caps": [
+      "Anthropic IPO Valuation Under Pressure After Tech Rout",
+      "Il capo di Anthropic Dario Amodei, immagine usata da 24/7 Wall St",
+      "Schermi di trading durante il crollo del settore tecnologico"
+     ]
+    }
+   },
+   "id": 11
+  },
+  {
+   "sec": "ai",
+   "time": "17:00",
+   "read": 3,
+   "title": "Google's Gemini Omni 1.2 Flash makes AI video clips 15 seconds long and cuts the price by 30 percent",
+   "summary": "Google DeepMind made Gemini Omni 1.2 Flash generally available on 5 November. It creates and edits video with sound up to 15 seconds, up from 10, and costs 7 cents per second at 720p. Each clip carries an invisible SynthID watermark.",
+   "body": [
+    "Gemini Omni 1.2 Flash generates video with audio and lets users change the result by talking to it, for example the background, lighting or aspect ratio, without starting over. Clips run from 3 to 15 seconds. It accepts character images, product photos, short motion clips of up to three seconds and audio cues as references.",
+    "Google says dialogue is more natural with clearer lip sync and better separation of speakers, and that camera transitions show less morphing and fewer jump cuts. The price is 7 cents per second at 720p, 30 percent less than the previous model, according to The Decoder. The model is available through the Gemini API, Google AI Studio, Google Cloud, Flow, Google Vids, the Gemini app for Ultra subscribers, and Google Ads.",
+    "Every clip carries an imperceptible SynthID watermark that indicates its origin. This links to the EU AI Act's rule on marking AI-generated content, covered in today's regulation section, though the sources do not say how Google handles the European labelling rules.",
+    "Why it matters: cheaper and longer clips make AI video usable in advertising and prototypes, and developers can build on the API. The sources are product announcements and tech press, so quality claims such as lip sync are Google's own and not independently tested."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=jpl7l7GUb_4",
+     "cap": "Related: Gemini Omni 1.2 Flash, fast and cheap video clips with sound",
+     "credit": "Fahd Mirza",
+     "start": 20,
+     "end": 60
+    },
+    {
+     "type": "image",
+     "u": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall-1200x675.png",
+     "cap": "Gemini logos, image from The Decoder",
+     "credit": "The Decoder"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Decoder",
+     "u": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+     "t": "Tech news outlet"
+    },
+    {
+     "n": "Android Authority",
+     "u": "https://www.androidauthority.com/google-gemini-omni-1-2-flash-announced-3732209/",
+     "t": "Tech news outlet; page not opened, snippet confirms"
+    },
+    {
+     "n": "StartupHub",
+     "u": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/gemini-omni-1-2-flash-stretches-clips-to-15-seconds",
+     "t": "Tech news outlet"
+    },
+    {
+     "n": "MLQ",
+     "u": "https://mlq.ai/news/google-makes-gemini-omni-12-flash-generally-available-with-15-second-video-and-lower-pricing/",
+     "t": "AI news outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Gemini Omni 1.2 Flash launched on 5 November with 15 second clips and 30 percent lower pricing",
+     "n": "The Decoder, Android Authority, StartupHub and MLQ agree."
+    },
+    {
+     "s": "warn",
+     "c": "Better lip sync and fewer jump cuts",
+     "n": "Google's own claims; no independent test found."
+    }
+   ],
+   "ctx": "Generative video models turn text, images or audio into short video. SynthID is Google's invisible watermarking technology. The 15 second limit is still short, so the model suits clips, not films.",
+   "loop_query": "video editing studio",
+   "i18n": {
+    "it": {
+     "title": "Gemini Omni 1.2 Flash di Google porta i video IA a 15 secondi e taglia il prezzo del 30 per cento",
+     "summary": "Google DeepMind ha reso disponibile a tutti Gemini Omni 1.2 Flash il 5 novembre. Crea e modifica video con audio fino a 15 secondi, contro i 10 precedenti, e costa 7 centesimi al secondo a 720p. Ogni clip porta una filigrana invisibile SynthID.",
+     "body": [
+      "Gemini Omni 1.2 Flash genera video con audio e permette di cambiare il risultato parlandogli, per esempio sfondo, luce o formato, senza ricominciare da capo. I clip durano da 3 a 15 secondi. Accetta come riferimento immagini di personaggi, foto di prodotto, brevi clip di movimento fino a tre secondi e indicazioni audio.",
+      "Google dice che il dialogo è più naturale, con sincronizzazione labiale più chiara e migliore distinzione tra chi parla, e che le transizioni di camera mostrano meno deformazioni e meno stacchi bruschi. Il prezzo è di 7 centesimi al secondo a 720p, il 30 per cento in meno del modello precedente, secondo The Decoder. Il modello è disponibile con l'API Gemini, Google AI Studio, Google Cloud, Flow, Google Vids, l'app Gemini per gli abbonati Ultra e Google Ads.",
+      "Ogni clip porta una filigrana SynthID impercettibile che ne indica l'origine. Questo si collega alla norma dell'AI Act europeo sulla marcatura dei contenuti generati dall'IA, trattata nella sezione sulla regolazione di oggi, anche se le fonti non dicono come Google gestisca le regole europee di etichettatura.",
+      "Perché conta: clip più lunghi ed economici rendono i video IA utilizzabili in pubblicità e prototipi, e gli sviluppatori possono costruirci sopra con l'API. Le fonti sono annunci di prodotto e stampa tecnica, quindi le affermazioni di qualità come la sincronizzazione labiale sono di Google e non verificate in modo indipendente."
+     ],
+     "checks": [
+      {
+       "c": "Gemini Omni 1.2 Flash è stato lanciato il 5 novembre con clip da 15 secondi e prezzi inferiori del 30 per cento",
+       "n": "The Decoder, Android Authority, StartupHub e MLQ concordano."
+      },
+      {
+       "c": "Migliore sincronizzazione labiale e meno stacchi bruschi",
+       "n": "Affermazioni di Google; non risultano test indipendenti."
+      }
+     ],
+     "ctx": "I modelli generativi di video trasformano testo, immagini o audio in brevi filmati. SynthID è la tecnologia di filigrana invisibile di Google. Il limite di 15 secondi è ancora breve, quindi il modello va bene per clip e non per film.",
+     "media_caps": [
+      "Correlato: Gemini Omni 1.2 Flash, clip video rapidi ed economici con audio",
+      "Loghi di Gemini, immagine di The Decoder"
+     ]
+    }
+   },
+   "id": 12
+  },
+  {
+   "sec": "pol",
+   "time": "10:00",
+   "read": 4,
+   "title": "Russia fires 36 ballistic missiles at Kyiv region as only four are intercepted; US, Russian and Ukrainian envoys meet Tuesday in Abu Dhabi",
+   "summary": "Zelensky said Russia launched 36 ballistic missiles and 172 drones in the latest overnight attack, with only four missiles shot down because Patriot interceptors ran short. Power and heating around Kyiv were hit and the Northern Bridge across the Dnipro was damaged. Peace talks with US mediators are due on 10 and 11 November.",
+   "body": [
+    "Ukrainian President Volodymyr Zelensky said Russia fired 36 ballistic missiles at Kyiv and the surrounding region, of which only four were intercepted for lack of Patriot interceptors. About 172 drones also hit Kyiv and 12 other regions, and air defences downed 149. At least two people were killed and around a dozen wounded across the country, according to reports, with nine wounded, including a child, from the drones.",
+    "Russia's Defence Ministry confirmed that it targeted the Northern Bridge and other facilities it said supported the Ukrainian army. Energy sites outside Kyiv, including lines carrying power from two nuclear plants, were seriously damaged. Mayor Vitali Klitschko called the energy situation extremely difficult for heating and water. Zelensky said Moscow was using diplomacy as a form of aggression and asked for stronger sanctions and US congressional support.",
+    "Delegations from Russia, Ukraine and the United States are due to meet in Abu Dhabi on Tuesday 10 and Wednesday 11 November. Vladimir Medinsky is Moscow's chief negotiator and US envoys Steve Witkoff and Jared Kushner mediate. The agenda reported covers post-war security arrangements, de-escalation, humanitarian measures and ending the war. Ukraine insists that nothing about Ukraine be decided without Ukraine.",
+    "The sides remain far apart on terms. Yesterday's briefing reported the start of this wave of strikes. New here are the interception figures, the bridge damage and the Kremlin's confirmation of its targets. Casualty figures vary between outlets and may rise."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=Fr8r4HMGQb8",
+     "cap": "Russia Fires 36 Ballistic Missiles At Kyiv Region, Ukraine Shoots Down Only 4| Key North Bridge Hit",
+     "credit": "Times Now",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Northern_bridge_across_the_Dnipro.jpg/1280px-Northern_bridge_across_the_Dnipro.jpg",
+     "cap": "The Northern Bridge across the Dnipro in Kyiv, file photo",
+     "credit": "Wikimedia Commons"
+    },
+    {
+     "type": "image",
+     "u": "https://static.themoscowtimes.com/image/og/12/94198__1200d16b55811dd68bd4b7b320d71b4c.jpg",
+     "cap": "Image from The Moscow Times report on the strikes near Kyiv",
+     "credit": "The Moscow Times"
+    }
+   ],
+   "sources": [
+    {
+     "n": "The Moscow Times",
+     "u": "https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198",
+     "t": "Independent Russian outlet in exile"
+    },
+    {
+     "n": "RTE",
+     "u": "https://www.rte.ie/news/world/2026/1107/1598347-russia-ukraine/",
+     "t": "Irish public broadcaster"
+    },
+    {
+     "n": "Manila Times",
+     "u": "https://www.manilatimes.net/2026/11/08/world/ukraine-hit-by-drone-missile-attacks-as-talks-with-russia-us-loom/2464614",
+     "t": "Philippine daily, wire copy"
+    },
+    {
+     "n": "Xinhua",
+     "u": "https://english.news.cn/20261108/1087d3550e394d1f92b67ed98554e75a/c.html",
+     "t": "Chinese state news agency"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+     "t": "US business broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Russia fired 36 ballistic missiles and about 172 drones; Northern Bridge damaged",
+     "n": "Xinhua, the Manila Times wire copy and The Moscow Times agree; Russia's ministry confirmed bridge targeting."
+    },
+    {
+     "s": "warn",
+     "c": "Only four of 36 missiles were intercepted for lack of Patriot interceptors",
+     "n": "Zelensky's statement, repeated by outlets; not independently verified."
+    },
+    {
+     "s": "ok",
+     "c": "US, Russia and Ukraine talks are set for 10 and 11 November in Abu Dhabi",
+     "n": "CNBC, Axios, US News and The Moscow Times report the same dates."
+    }
+   ],
+   "ctx": "Ballistic missiles are harder to intercept than drones and need systems such as Patriot. The talks are the fourth round of US-brokered meetings, according to the wire copy. Dates of the attack differ between outlets, which place it on 7 or 8 November, so this report calls it the latest overnight attack.",
+   "loop_query": "city skyline at night",
+   "i18n": {
+    "it": {
+     "title": "La Russia lancia 36 missili balistici sulla regione di Kiev e ne vengono intercettati solo quattro; martedì a Abu Dhabi i negoziatori di Stati Uniti, Russia e Ucraina",
+     "summary": "Zelensky ha detto che la Russia ha lanciato 36 missili balistici e 172 droni nell'ultimo attacco notturno, e solo quattro missili sono stati abbattuti perché mancavano intercettori Patriot. Colpiti energia e riscaldamento attorno a Kiev, danneggiato il ponte Settentrionale sul Dnipro. I colloqui di pace con mediatori americani sono previsti il 10 e 11 novembre.",
+     "body": [
+      "Il presidente ucraino Volodymyr Zelensky ha detto che la Russia ha lanciato 36 missili balistici su Kiev e dintorni, di cui solo quattro intercettati per mancanza di intercettori Patriot. Circa 172 droni hanno colpito anche Kiev e altre 12 regioni, e la difesa aerea ne ha abbattuti 149. Secondo le cronache almeno due persone sono morte e circa una dozzina sono rimaste ferite nel Paese; nove feriti, tra cui un bambino, sono dovuti ai droni.",
+      "Il ministero della Difesa russo ha confermato di aver preso di mira il ponte Settentrionale e altre strutture che a suo dire sostenevano l'esercito ucraino. Impianti energetici fuori Kiev, comprese linee che portano energia da due centrali nucleari, sono stati gravemente danneggiati. Il sindaco Vitali Klitschko ha definito estremamente difficile la situazione di riscaldamento e acqua. Zelensky ha detto che Mosca usa la diplomazia come forma di aggressione e ha chiesto sanzioni più dure e il sostegno del Congresso americano.",
+      "Delegazioni di Russia, Ucraina e Stati Uniti si incontreranno ad Abu Dhabi martedì 10 e mercoledì 11 novembre. Vladimir Medinsky è il capo negoziatore di Mosca e gli inviati americani Steve Witkoff e Jared Kushner fanno da mediatori. L'agenda riportata riguarda accordi di sicurezza per il dopoguerra, de-escalation, misure umanitarie e fine della guerra. L'Ucraina insiste che nulla sull'Ucraina venga deciso senza l'Ucraina.",
+      "Le parti restano lontane sulle condizioni. Il briefing di ieri riportava l'inizio di questa ondata di attacchi. Le novità qui sono i dati sulle intercettazioni, il danno al ponte e la conferma russa degli obiettivi. Il numero delle vittime varia tra le testate e potrebbe salire."
+     ],
+     "checks": [
+      {
+       "c": "La Russia ha lanciato 36 missili balistici e circa 172 droni; ponte Settentrionale danneggiato",
+       "n": "Xinhua, la copia di agenzia del Manila Times e The Moscow Times concordano; il ministero russo ha confermato il bersaglio del ponte."
+      },
+      {
+       "c": "Solo quattro missili su 36 intercettati per mancanza di intercettori Patriot",
+       "n": "Dichiarazione di Zelensky ripresa dalle testate; non verificata in modo indipendente."
+      },
+      {
+       "c": "I colloqui tra Stati Uniti, Russia e Ucraina sono fissati al 10 e 11 novembre ad Abu Dhabi",
+       "n": "CNBC, Axios, US News e The Moscow Times riportano le stesse date."
+      }
+     ],
+     "ctx": "I missili balistici sono più difficili da intercettare dei droni e richiedono sistemi come il Patriot. I colloqui sono il quarto ciclo di incontri mediati dagli Stati Uniti, secondo l'agenzia. Le date dell'attacco differiscono tra le testate, che lo collocano il 7 o l'8 novembre, quindi questo servizio lo chiama l'ultimo attacco notturno.",
+     "media_caps": [
+      "Russia Fires 36 Ballistic Missiles At Kyiv Region, Ukraine Shoots Down Only 4| Key North Bridge Hit",
+      "Il ponte Settentrionale sul Dnipro a Kiev, foto d'archivio",
+      "Immagine dal servizio di The Moscow Times sugli attacchi vicino a Kiev"
+     ]
+    }
+   },
+   "id": 13
+  },
+  {
+   "sec": "pol",
+   "time": "11:00",
+   "read": 4,
+   "title": "EU weighs a trade 'kill switch' against China as Beijing warns of countermeasures; EU deficit reaches 1 billion euros a day",
+   "summary": "Trade Commissioner Maros Sefcovic told MEPs that a fast trade defence tool, able to limit imports into the EU, should be presented by year end. China's ambassador to the EU, Cai Run, warned of countermeasures if Brussels adopts discriminatory measures. The EU's goods deficit with China is reported at about 1 billion euros a day.",
+   "body": [
+    "France and Germany pushed in early October for a mechanism that could let the European Union react quickly to market disruption, even by limiting exports into the Union. EU leaders asked the European Commission to design it. Sefcovic told Members of the European Parliament on Wednesday that it should be presented by the end of the year and would target countries that treat the EU unfairly or harm European interests. It does not name China.",
+    "Cai Run, Beijing's ambassador to the EU, said on Thursday that if the EU insists on restrictive and discriminatory measures against China, China will have to take countermeasures to firmly safeguard its interests. A widely shared WeChat post by trade expert Cui Fan listed possible responses: anti-discrimination and supply chain security investigations, export controls and reciprocal import limits. That post is an expert's opinion, not an official plan.",
+    "Euronews puts the EU's record trade deficit with China at about 1 billion euros a day, with Chinese imports up 25 percent in a year and every member state in deficit. Another summary says goods imports from China rose 12.5 percent over 2025. The Commission continues to impose duties on Chinese goods in several sectors, especially chemicals and machinery.",
+    "A new meeting between Sefcovic and China's Commerce Minister Wang Wentao is planned for March 2027. The SCMP describes the EU-China truce as under strain. What is unknown is the legal form of the tool, which products it would cover and whether it would comply with World Trade Organization rules. Both sides state their positions above; this report takes none."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=YyC-dxVABkA",
+     "cap": "China warns against EU’s further trade defence measures",
+     "credit": "AP Archive"
+    },
+    {
+     "type": "image",
+     "u": "https://images.euronews.com/articles/stories/09/94/31/85/1200x675_cmsv2_3fe45bb0-18bc-5e03-8dce-2b9b11e62963-9943185.jpg",
+     "cap": "Image from the Euronews report on the EU and China trade dispute",
+     "credit": "Euronews"
+    },
+    {
+     "type": "image",
+     "u": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/06/39872c90-578a-40bc-bc0d-fe48eadfef69_8cf6c2e1.jpg?itok=Yp-MHV2j&v=1793939807",
+     "cap": "Image from the South China Morning Post report on EU and China trade tensions",
+     "credit": "SCMP"
+    }
+   ],
+   "sources": [
+    {
+     "n": "Euronews",
+     "u": "https://www.euronews.com/2026/11/05/china-threatens-eu-with-retaliation-as-eu-mulls-kill-switch-to-defend-its-market",
+     "t": "European broadcaster"
+    },
+    {
+     "n": "South China Morning Post",
+     "u": "https://www.scmp.com/news/china/article/3373493/eu-china-trade-truce-under-strain-both-sides-brace-potential-trade-war",
+     "t": "Hong Kong daily"
+    },
+    {
+     "n": "Ajupress",
+     "u": "https://www.ajupress.com/view/20261106013723526",
+     "t": "Korean news agency"
+    },
+    {
+     "n": "Agence Europe",
+     "u": "https://agenceurope.eu/en/bulletin/article/13976/19/maros-sefcovic-outlines-plans-for-forthcoming-trade-diversification-package",
+     "t": "Brussels policy outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Sefcovic said the tool should be presented by the end of 2026",
+     "n": "Euronews and Ajupress report the same statement."
+    },
+    {
+     "s": "ok",
+     "c": "Cai Run warned of countermeasures",
+     "n": "Euronews, Ajupress and a French outlet quote the ambassador."
+    },
+    {
+     "s": "warn",
+     "c": "The EU deficit with China is about 1 billion euros a day",
+     "n": "Euronews figure; other outlets cite annual statistics and the exact basis was not checked in Eurostat data."
+    }
+   ],
+   "ctx": "The EU already has trade defence tools such as anti-dumping duties and the anti-coercion instrument. The idea of a kill switch is informal press language, not a legal term. For tech students: supply chains for chips, batteries and electronics could be affected if measures and counter-measures escalate.",
+   "loop_query": "container ship port",
+   "i18n": {
+    "it": {
+     "title": "L'UE valuta un 'interruttore' commerciale contro la Cina e Pechino minaccia contromisure; il deficit UE arriva a 1 miliardo di euro al giorno",
+     "summary": "Il commissario al Commercio Maros Sefcovic ha detto agli eurodeputati che uno strumento rapido di difesa commerciale, capace di limitare le importazioni nell'UE, dovrebbe essere presentato entro fine anno. L'ambasciatore cinese presso l'UE, Cai Run, ha avvertito di contromisure se Bruxelles adotta misure discriminatorie. Il deficit UE di beni con la Cina è riportato in circa 1 miliardo di euro al giorno.",
+     "body": [
+      "Francia e Germania hanno spinto all'inizio di ottobre per un meccanismo che permetta all'Unione europea di reagire in fretta alle distorsioni di mercato, anche limitando le importazioni nell'Unione. I leader europei hanno chiesto alla Commissione di progettarlo. Sefcovic ha detto mercoledì agli eurodeputati che dovrebbe essere presentato entro fine anno e riguarderebbe i Paesi che trattano l'UE in modo scorretto o danneggiano gli interessi europei. Non nomina la Cina.",
+      "Cai Run, ambasciatore di Pechino presso l'UE, ha detto giovedì che se l'UE insiste con misure restrittive e discriminatorie contro la Cina, la Cina dovrà adottare contromisure per salvaguardare con fermezza i propri interessi. Un post su WeChat molto condiviso dell'esperto di commercio Cui Fan elencava possibili risposte: indagini su discriminazione e sicurezza delle catene di fornitura, controlli sulle esportazioni e limiti reciproci alle importazioni. Quel post è un'opinione di un esperto, non un piano ufficiale.",
+      "Euronews indica il deficit commerciale record dell'UE con la Cina in circa 1 miliardo di euro al giorno, con importazioni cinesi cresciute del 25 per cento in un anno e ogni Stato membro in disavanzo. Un'altra sintesi riporta che le importazioni di beni dalla Cina sono salite del 12,5 per cento nel 2025. La Commissione continua a imporre dazi su beni cinesi in vari settori, soprattutto chimica e macchinari.",
+      "Un nuovo incontro tra Sefcovic e il ministro del Commercio cinese Wang Wentao è previsto per marzo 2027. Il South China Morning Post descrive la tregua UE-Cina come sotto pressione. Non si sa quale sarà la forma giuridica dello strumento, quali prodotti coprirà e se rispetterà le regole dell'Organizzazione mondiale del commercio. Sopra sono riportate le posizioni di entrambe le parti; questo servizio non ne prende nessuna."
+     ],
+     "checks": [
+      {
+       "c": "Sefcovic ha detto che lo strumento dovrebbe essere presentato entro fine 2026",
+       "n": "Euronews e Ajupress riportano la stessa dichiarazione."
+      },
+      {
+       "c": "Cai Run ha avvertito di contromisure",
+       "n": "Euronews, Ajupress e una testata francese citano l'ambasciatore."
+      },
+      {
+       "c": "Il deficit UE con la Cina è di circa 1 miliardo di euro al giorno",
+       "n": "Dato di Euronews; altre testate citano statistiche annuali e la base esatta non è stata verificata sui dati Eurostat."
+      }
+     ],
+     "ctx": "L'UE ha già strumenti di difesa commerciale come i dazi antidumping e lo strumento anti-coercizione. L'idea dell'interruttore è un'espressione informale della stampa, non un termine giuridico. Per gli studenti di tecnologia: le catene di fornitura di chip, batterie ed elettronica potrebbero risentirne se misure e contromisure si intensificano.",
+     "media_caps": [
+      "China warns against EU’s further trade defence measures",
+      "Immagine dal servizio di Euronews sulla disputa commerciale tra UE e Cina",
+      "Immagine dal servizio del South China Morning Post sulle tensioni commerciali UE-Cina"
+     ]
+    }
+   },
+   "id": 14
+  },
+  {
+   "sec": "pol",
+   "time": "09:00",
+   "read": 4,
+   "title": "Democrats win both chambers of Congress, with Senate control from January 2027, in a sweep that rattled AI stocks",
+   "summary": "Democrats won control of the US House and Senate in the 3 November midterms, according to projections from NBC News and CNN. NBC counts at least 258 House seats. The result takes effect in January 2027 and markets reacted over fears of limits on data centres.",
+   "body": [
+    "NBC News reports that Democrats took at least 258 House seats, the widest margin in 33 years, and flipped seven Republican held Senate seats: Iowa, Kansas, Ohio, Maine, North Carolina, South Carolina and Texas. CNN projected more than 250 House seats. Projected Senate totals vary between outlets, and the new Congress starts in January 2027.",
+    "NBC also reports Democratic flips of five governorships: Texas, Georgia, Nevada, Ohio and Iowa. Exit polls it cites showed 62 percent disapproval of President Donald Trump. Democratic leaders said they will investigate the administration and focus on living costs, including health care and Medicaid. President Trump acknowledged the Democratic majorities, according to Variety. His reaction on policy was not detailed in the sources.",
+    "For Europe, the effects are uncertain: a Democratic Congress can use budget and oversight powers on tariffs, Ukraine aid and technology rules, but the president keeps foreign policy powers. Markets focused on AI: CBS reported that the Nasdaq fell 5.5 percent on Thursday as investors feared limits on data centre construction. See the AI and business sections.",
+    "What is unknown: how many seats final counts will give each side, what legislation can pass over a presidential veto, and whether Democrats will actually restrict data centres. Treat market explanations as analysts' interpretation, not established cause."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=-GN02ltMvDQ",
+     "cap": "Democrats win control of the House and Senate",
+     "credit": "CNBC Television",
+     "start": 8,
+     "end": 50
+    },
+    {
+     "type": "image",
+     "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg",
+     "cap": "The US Capitol in Washington, file photo",
+     "credit": "Wikimedia Commons"
+    },
+    {
+     "type": "image",
+     "u": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-voting-midterms-student-cs-3de0c0.jpg",
+     "cap": "A voter on midterm election day",
+     "credit": "NBC News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "NBC News",
+     "u": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+     "t": "US broadcaster"
+    },
+    {
+     "n": "CNN",
+     "u": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress",
+     "t": "US broadcaster"
+    },
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+     "t": "US business broadcaster"
+    },
+    {
+     "n": "The Hill",
+     "u": "https://thehill.com/homenews/campaign/6196833-democrats-win-house-senate/",
+     "t": "US political news outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Democrats won control of both the House and the Senate",
+     "n": "NBC News, CNN, CNBC and The Hill report the same outcome."
+    },
+    {
+     "s": "warn",
+     "c": "Exact seat counts",
+     "n": "Outlets differ: NBC says at least 258 House seats, CNN says over 250, and Senate totals range from 54 to 56 depending on counting."
+    },
+    {
+     "s": "warn",
+     "c": "Markets fell because of fears over data centre restrictions",
+     "n": "Analyst interpretation quoted by CBS; no direct policy proposal was found."
+    }
+   ],
+   "ctx": "Midterms are held halfway through a president's term. The new Congress is sworn in in January 2027, so Republicans keep control until then. Both parties' stated aims are reported above; this report does not endorse either.",
+   "loop_query": "voting booth election",
+   "i18n": {
+    "it": {
+     "title": "I Democratici conquistano entrambe le Camere del Congresso, con il Senato dal gennaio 2027, in una vittoria che ha scosso i titoli IA",
+     "summary": "I Democratici hanno vinto il controllo di Camera e Senato americani alle elezioni di metà mandato del 3 novembre, secondo le proiezioni di NBC News e CNN. NBC conta almeno 258 seggi alla Camera. Il risultato vale da gennaio 2027 e i mercati hanno reagito temendo limiti ai data center.",
+     "body": [
+      "NBC News riporta che i Democratici hanno ottenuto almeno 258 seggi alla Camera, il margine più ampio in 33 anni, e hanno strappato ai Repubblicani sette seggi del Senato: Iowa, Kansas, Ohio, Maine, Carolina del Nord, Carolina del Sud e Texas. La CNN prevedeva oltre 250 seggi alla Camera. I totali previsti al Senato variano tra le testate, e il nuovo Congresso inizia a gennaio 2027.",
+      "NBC riporta anche il passaggio ai Democratici di cinque governatorati: Texas, Georgia, Nevada, Ohio e Iowa. Gli exit poll citati mostravano il 62 per cento di disapprovazione per il presidente Donald Trump. I leader democratici hanno detto che indagheranno sull'amministrazione e si concentreranno sul costo della vita, comprese sanità e Medicaid. Secondo Variety il presidente Trump ha riconosciuto le maggioranze democratiche. La sua reazione sulle politiche non è dettagliata nelle fonti.",
+      "Per l'Europa gli effetti sono incerti: un Congresso democratico può usare poteri di bilancio e controllo su dazi, aiuti all'Ucraina e regole tecnologiche, ma il presidente mantiene i poteri di politica estera. I mercati si sono concentrati sull'IA: la CBS ha riportato che il Nasdaq è sceso del 5,5 per cento giovedì perché gli investitori temevano limiti alla costruzione di data center. Vedi le sezioni IA ed economia.",
+      "Cosa non si sa: quanti seggi daranno i conteggi finali a ciascuna parte, quali leggi potranno passare sopra un veto presidenziale e se i Democratici limiteranno davvero i data center. Le spiegazioni sui mercati vanno considerate interpretazioni degli analisti, non cause accertate."
+     ],
+     "checks": [
+      {
+       "c": "I Democratici hanno vinto il controllo di Camera e Senato",
+       "n": "NBC News, CNN, CNBC e The Hill riportano lo stesso esito."
+      },
+      {
+       "c": "Numeri esatti dei seggi",
+       "n": "Le testate divergono: NBC dice almeno 258 seggi alla Camera, la CNN oltre 250, e i totali al Senato stanno attorno a 54-56 a seconda dei conteggi."
+      },
+      {
+       "c": "I mercati sono scesi per timori su restrizioni ai data center",
+       "n": "Interpretazione di analisti citata dalla CBS; non risulta una proposta politica diretta."
+      }
+     ],
+     "ctx": "Le elezioni di metà mandato si tengono a metà del mandato del presidente. Il nuovo Congresso giura a gennaio 2027, quindi fino ad allora i Repubblicani mantengono il controllo. Gli obiettivi dichiarati dei due partiti sono riportati sopra; questo servizio non sostiene nessuno dei due.",
+     "media_caps": [
+      "Democrats win control of the House and Senate",
+      "Il Campidoglio degli Stati Uniti a Washington, foto d'archivio",
+      "Un elettore nel giorno delle elezioni di metà mandato"
+     ]
+    }
+   },
+   "id": 15
+  },
+  {
+   "sec": "inn",
+   "time": "17:00",
+   "read": 4,
+   "title": "Rubin Observatory finds two hidden companions of the Milky Way in just 7 percent of the sky",
+   "summary": "Early data from the Vera C. Rubin Observatory revealed Aquarius IV, an ultra-faint dwarf galaxy 355,000 light years away, and Rubin-GC1, a star cluster hidden behind cosmic dust. The data covers only 7 percent of the night sky, so astronomers expect hundreds more satellites.",
+   "body": [
+    "Aquarius IV is a tiny galaxy in the far outskirts of the Milky Way, about 355,000 light years from Earth and roughly 14 million times dimmer than our galaxy. It is the first ultra-faint Milky Way satellite identified with Rubin data and was found with automated search algorithms. The study appeared in Research Notes of the American Astronomical Society.",
+    "Rubin-GC1 is a star cluster on the opposite side of the Milky Way, hidden behind thick clouds of cosmic dust. It shows up as a group of individually resolved stars in sky maps and is likely an accreted cluster tied to the Sagittarius stream. That study is accepted by The Astrophysical Journal Letters but not yet published, so it has not completed formal review.",
+    "Both results use preview data gathered between April 2025 and January 2026 covering about 7 percent of the sky. Lead researcher William Cerny said that if the observatory can find such faint systems in preview data, its ten year survey will surely find many more Milky Way satellites. Professor Marla Geha called it remarkable that this prospect is now real.",
+    "Why it matters: satellite galaxies are test cases for dark matter models, because their number and distribution depend on what dark matter is. The unknown is how many such systems exist; scientists suspect hundreds remain to be found. For students, the Rubin survey is also a huge software and data engineering project."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://cdn.uw.edu/wp-content/uploads/sites/6/2026/11/05101617/YN-press_RubinGC1_AquariusIV-scaled.jpeg",
+     "cap": "Rubin Observatory images of Rubin-GC1 and Aquarius IV",
+     "credit": "University of Washington / Rubin Observatory"
+    },
+    {
+     "type": "image",
+     "u": "https://www.sciencedaily.com/images/1920/hidden-companions-of-milky-way.webp",
+     "cap": "Illustration of hidden companions of the Milky Way",
+     "credit": "ScienceDaily"
+    }
+   ],
+   "sources": [
+    {
+     "n": "University of Washington News",
+     "u": "https://www.washington.edu/news/2026/11/05/rubin-observatory-milky-way-satellites/",
+     "t": "University press release"
+    },
+    {
+     "n": "ScienceDaily",
+     "u": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+     "t": "Science news aggregator"
+    },
+    {
+     "n": "Research Notes of the AAS, via IOPscience",
+     "u": "https://iopscience.iop.org/article/10.3847/2515-5172/ae993b",
+     "t": "Peer-reviewed journal"
+    },
+    {
+     "n": "Universe Today",
+     "u": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+     "t": "Space news outlet"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Aquarius IV is an ultra-faint Milky Way satellite about 355,000 light years away",
+     "n": "Published in Research Notes of the AAS and reported by the University of Washington and ScienceDaily."
+    },
+    {
+     "s": "warn",
+     "c": "Rubin-GC1 is a star cluster behind dust",
+     "n": "The paper is accepted by The Astrophysical Journal Letters but the final version was not yet checked."
+    },
+    {
+     "s": "warn",
+     "c": "Hundreds more satellites may be waiting",
+     "n": "Scientists' expectation, not a measured count."
+    }
+   ],
+   "ctx": "A satellite galaxy is a small galaxy that orbits a larger one. The Vera C. Rubin Observatory in Chile began its ten year survey of the southern sky. Preview data means early, partly processed data released before the full survey.",
+   "loop_query": "night sky stars telescope",
+   "i18n": {
+    "it": {
+     "title": "L'Osservatorio Rubin trova due compagni nascosti della Via Lattea in appena il 7 per cento del cielo",
+     "summary": "I primi dati dell'Osservatorio Vera C. Rubin hanno rivelato Aquarius IV, una galassia nana ultra debole a 355 mila anni luce, e Rubin-GC1, un ammasso di stelle nascosto dietro la polvere cosmica. I dati coprono solo il 7 per cento del cielo notturno, quindi gli astronomi si aspettano centinaia di altri satelliti.",
+     "body": [
+      "Aquarius IV è una piccola galassia ai margini estremi della Via Lattea, a circa 355 mila anni luce dalla Terra e circa 14 milioni di volte meno luminosa della nostra galassia. È il primo satellite ultra debole della Via Lattea identificato con dati di Rubin ed è stato trovato con algoritmi di ricerca automatici. Lo studio è uscito su Research Notes of the American Astronomical Society.",
+      "Rubin-GC1 è un ammasso di stelle sul lato opposto della Via Lattea, nascosto dietro spesse nubi di polvere cosmica. Appare come un gruppo di stelle risolte singolarmente nelle mappe del cielo ed è probabilmente un ammasso acquisito legato alla corrente del Sagittario. Quello studio è accettato da The Astrophysical Journal Letters ma non ancora pubblicato, quindi non ha completato la revisione formale.",
+      "Entrambi i risultati usano dati preliminari raccolti tra aprile 2025 e gennaio 2026 che coprono circa il 7 per cento del cielo. Il ricercatore principale William Cerny ha detto che se l'osservatorio riesce a trovare sistemi così deboli nei dati preliminari, la sua indagine decennale ne troverà certamente molti altri. La professoressa Marla Geha ha definito notevole che questa prospettiva sia ora realtà.",
+      "Perché conta: le galassie satellite sono banchi di prova per i modelli di materia oscura, perché numero e distribuzione dipendono da ciò che la materia oscura è. L'incognita è quanti sistemi esistano; gli scienziati sospettano che ne restino centinaia da scoprire. Per gli studenti, l'indagine di Rubin è anche un enorme progetto di ingegneria del software e dei dati."
+     ],
+     "checks": [
+      {
+       "c": "Aquarius IV è un satellite ultra debole della Via Lattea a circa 355 mila anni luce",
+       "n": "Pubblicato su Research Notes of the AAS e riportato dall'Università di Washington e da ScienceDaily."
+      },
+      {
+       "c": "Rubin-GC1 è un ammasso stellare dietro la polvere",
+       "n": "L'articolo è accettato da The Astrophysical Journal Letters ma la versione finale non è stata ancora verificata."
+      },
+      {
+       "c": "Centinaia di altri satelliti potrebbero attendere di essere scoperti",
+       "n": "Attesa degli scienziati, non un conteggio misurato."
+      }
+     ],
+     "ctx": "Una galassia satellite è una piccola galassia che orbita attorno a una più grande. L'Osservatorio Vera C. Rubin in Cile ha avviato la sua indagine decennale del cielo australe. Dati preliminari significa dati iniziali, elaborati in parte, rilasciati prima dell'indagine completa.",
+     "media_caps": [
+      "Immagini dell'Osservatorio Rubin di Rubin-GC1 e Aquarius IV",
+      "Illustrazione dei compagni nascosti della Via Lattea"
+     ]
+    }
+   },
+   "id": 16
+  },
+  {
+   "sec": "inn",
+   "time": "10:00",
+   "read": 4,
+   "title": "Artemis III is a docking rehearsal in Earth orbit, with Italy's Luca Parmitano on the crew, targeted no earlier than June 2027",
+   "summary": "NASA's Artemis III will not land on the Moon: it will test rendezvous and docking between the Orion capsule and test versions of two lunar landers in Earth orbit. ESA's Italian astronaut Luca Parmitano is one of four crew. The rocket is being prepared for a fuelling test on its pad, and launch is targeted no earlier than June 2027.",
+   "body": [
+    "After Artemis II flew around the Moon in April 2026, NASA changed Artemis III into an orbital test. Orion will practise rendezvous and docking with test versions of Blue Origin's Blue Moon Mk2 and SpaceX's Starship lunar lander in Earth orbit. A real landing is planned for Artemis IV, currently in 2028.",
+    "The crew is Andre Douglas, Luca Parmitano, Randy Bresnik and Frank Rubio. Parmitano is an Italian astronaut from the European Space Agency. NASA administrator Jared Isaacman said in August that he is extremely confident Artemis III will launch in 2027.",
+    "NASASpaceflight reports that the booster stacking was completed in October and the Space Launch System core stage has all four RS-25 engines installed. The short stack will roll to Launch Pad 39B for a tanking test, a rehearsal of loading fuel, in the coming months. That test will also give the crew a launch day rehearsal. One source says it is planned for November, another only says coming months.",
+    "The risks are the partners. Blue Origin's New Glenn rocket suffered a failure in May, and SpaceX's Starship has not yet reached orbit. If a lander is not ready, the mission plan could change again. NASA is also holding a public Max Power event at Kennedy Space Center on 7 and 8 November."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=l_aSLvwwpZE",
+     "cap": "NASA | Return to the Moon: Italian astronaut Parmitano to pilot Artemis III",
+     "credit": "Smart News Italia"
+    },
+    {
+     "type": "image",
+     "u": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
+     "cap": "Artemis III Space Launch System hardware being stacked",
+     "credit": "NASASpaceflight"
+    }
+   ],
+   "sources": [
+    {
+     "n": "NASASpaceflight",
+     "u": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
+     "t": "Space news outlet"
+    },
+    {
+     "n": "SpacePolicyOnline",
+     "u": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/",
+     "t": "Space policy outlet"
+    },
+    {
+     "n": "NASA mission blog, 13 October",
+     "u": "https://www.nasa.gov/blogs/missions/2026/10/13/nasa-completes-artemis-iii-booster-stacking-shares-status-update/",
+     "t": "Space agency, primary source"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Artemis III is an Earth orbit docking test with two lander test articles",
+     "n": "SpacePolicyOnline and NASASpaceflight report the mission change."
+    },
+    {
+     "s": "warn",
+     "c": "The tanking test is planned for November",
+     "n": "Sources differ: one says November, NASASpaceflight says in the coming months."
+    },
+    {
+     "s": "warn",
+     "c": "Launch no earlier than June 2027",
+     "n": "NASASpaceflight reports the target; Isaacman only said 2027."
+    }
+   ],
+   "ctx": "Artemis is NASA's programme to return humans to the Moon. A wet dress rehearsal or tanking test loads propellant without launching. The Italian angle is Parmitano, a veteran of two space station missions, flying on a European seat. This story is a progress report, not a breaking announcement.",
+   "loop_query": "rocket launch pad",
+   "i18n": {
+    "it": {
+     "title": "Artemis III è una prova di aggancio in orbita terrestre, con l'italiano Luca Parmitano nell'equipaggio, prevista non prima di giugno 2027",
+     "summary": "La missione Artemis III della NASA non atterrerà sulla Luna: proverà incontro e aggancio tra la capsula Orion e versioni di prova di due lander lunari in orbita terrestre. L'astronauta italiano dell'ESA Luca Parmitano è uno dei quattro membri dell'equipaggio. Il razzo si prepara a un test di rifornimento sulla rampa e il lancio è previsto non prima di giugno 2027.",
+     "body": [
+      "Dopo che Artemis II ha circumnavigato la Luna ad aprile 2026, la NASA ha trasformato Artemis III in un test orbitale. Orion proverà incontro e aggancio con versioni di prova del Blue Moon Mk2 di Blue Origin e del lander lunare Starship di SpaceX in orbita terrestre. Un vero allunaggio è previsto con Artemis IV, al momento nel 2028.",
+      "L'equipaggio è composto da Andre Douglas, Luca Parmitano, Randy Bresnik e Frank Rubio. Parmitano è un astronauta italiano dell'Agenzia spaziale europea. Il capo della NASA Jared Isaacman ha detto ad agosto di essere estremamente fiducioso che Artemis III partirà nel 2027.",
+      "NASASpaceflight riporta che l'assemblaggio dei booster è stato completato a ottobre e che il primo stadio del Space Launch System ha tutti e quattro i motori RS-25 installati. Il gruppo corto verrà portato alla rampa 39B per un test di rifornimento, una prova di caricamento del propellente, nei prossimi mesi. Il test darà all'equipaggio anche una prova del giorno del lancio. Una fonte dice che è previsto per novembre, un'altra solo nei prossimi mesi.",
+      "I rischi sono i partner. Il razzo New Glenn di Blue Origin ha subito un guasto a maggio e la Starship di SpaceX non ha ancora raggiunto l'orbita. Se un lander non fosse pronto, il piano della missione potrebbe cambiare ancora. La NASA tiene inoltre un evento pubblico, Max Power, al Kennedy Space Center il 7 e 8 novembre."
+     ],
+     "checks": [
+      {
+       "c": "Artemis III è un test di aggancio in orbita terrestre con due lander di prova",
+       "n": "SpacePolicyOnline e NASASpaceflight riportano il cambio di missione."
+      },
+      {
+       "c": "Il test di rifornimento è previsto per novembre",
+       "n": "Le fonti divergono: una dice novembre, NASASpaceflight dice nei prossimi mesi."
+      },
+      {
+       "c": "Lancio non prima di giugno 2027",
+       "n": "NASASpaceflight riporta l'obiettivo; Isaacman ha detto solo 2027."
+      }
+     ],
+     "ctx": "Artemis è il programma della NASA per riportare gli esseri umani sulla Luna. Una prova di rifornimento carica il propellente senza lanciare. L'aspetto italiano è Parmitano, veterano di due missioni sulla stazione spaziale, su un posto europeo. Questa notizia è un aggiornamento sullo stato dei lavori, non un annuncio improvviso.",
+     "media_caps": [
+      "NASA | Return to the Moon: Italian astronaut Parmitano to pilot Artemis III",
+      "Componenti del Space Launch System di Artemis III in fase di assemblaggio"
+     ]
+    }
+   },
+   "id": 17
+  },
+  {
+   "sec": "biz",
+   "time": "13:00",
+   "read": 4,
+   "title": "Bank of England raises rates to 4 percent, the first hike since 2023, and warns inflation could near 5 percent by mid-2027",
+   "summary": "The Bank of England raised Bank Rate by a quarter point to 4 percent on Thursday, voting 8 to 1. It cited energy prices linked to the Iran conflict and forecast UK inflation at about 5 percent by mid-2027. Markets see a one-in-four chance of another rise in December.",
+   "body": [
+    "The Monetary Policy Committee voted 8 to 1 to lift the rate from 3.75 to 4 percent, its first increase since August 2023, according to CNBC. One member wanted a larger half point rise, to 4.25 percent. Governor Andrew Bailey said there is enough inflationary pressure in the pipeline from higher energy prices to warrant an increase.",
+    "UK inflation was 3.5 percent in September. The Bank now expects about 5 percent by mid-2027 and says risks are to the upside unless there is real progress towards settling the conflict in the Middle East. The U.S.-Iran conflict is in its ninth month.",
+    "Market reaction was modest: the 10 year gilt yield rose 2 basis points to 5.15 percent, the 2 year yield rose 4 basis points to 4.78 percent, and the pound was little changed. Traders price about a 25 percent chance of another hike in December. Bailey speaks again on Monday 9 November.",
+    "Why it matters beyond Britain: it shows a major central bank tightening because of energy, while euro area inflation was at 4 percent in yesterday's briefing. What is unknown is how the European Central Bank will respond. This is a news report, not advice for mortgages or investments."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=DLt4CRJspco",
+     "cap": "Bank of England raises interest rates to 4%",
+     "credit": "Channel 4 News"
+    },
+    {
+     "type": "image",
+     "u": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
+     "cap": "The Bank of England in London, file image",
+     "credit": "Reuters / CNBC"
+    }
+   ],
+   "sources": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+     "t": "US business broadcaster"
+    },
+    {
+     "n": "Bank of England, November 2026 summary and minutes",
+     "u": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-summary-and-minutes/2026/monetary-policy-summary-and-minutes-november-2026",
+     "t": "Central bank, primary source"
+    },
+    {
+     "n": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/economy/policy/articles/bank-england-policymakers-set-views-121046246.html",
+     "t": "Financial news portal"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Bank Rate rose to 4 percent by an 8 to 1 vote on 5 November",
+     "n": "CNBC and the search summaries of the Bank of England minutes agree; the Bank is the primary source."
+    },
+    {
+     "s": "warn",
+     "c": "Inflation expected near 5 percent by mid-2027",
+     "n": "The Bank's own forecast, which depends on energy prices and can change."
+    },
+    {
+     "s": "warn",
+     "c": "One in four chance of a December hike",
+     "n": "Market pricing quoted by CNBC; it changes daily."
+    }
+   ],
+   "ctx": "Bank Rate is the Bank of England's main interest rate. A basis point is one hundredth of a percentage point. Energy prices feed into inflation through fuel, heating and goods costs.",
+   "loop_query": "city of london financial district",
+   "i18n": {
+    "it": {
+     "title": "La Banca d'Inghilterra alza i tassi al 4 per cento, il primo rialzo dal 2023, e avverte che l'inflazione potrebbe avvicinarsi al 5 per cento a metà 2027",
+     "summary": "La Banca d'Inghilterra ha alzato giovedì il tasso di un quarto di punto al 4 per cento, con un voto di 8 a 1. Ha citato i prezzi dell'energia legati al conflitto con l'Iran e prevede un'inflazione britannica attorno al 5 per cento a metà 2027. I mercati vedono una probabilità su quattro di un altro rialzo a dicembre.",
+     "body": [
+      "Il Comitato di politica monetaria ha votato 8 a 1 per portare il tasso dal 3,75 al 4 per cento, il primo aumento da agosto 2023, secondo la CNBC. Un membro voleva un rialzo maggiore di mezzo punto, al 4,25 per cento. Il governatore Andrew Bailey ha detto che nella filiera ci sono pressioni inflazionistiche sufficienti, causate dai prezzi dell'energia più alti, da giustificare un aumento.",
+      "L'inflazione britannica era al 3,5 per cento a settembre. La Banca ora si aspetta circa il 5 per cento a metà 2027 e dice che i rischi sono al rialzo senza reali progressi verso una soluzione del conflitto in Medio Oriente. Il conflitto tra Stati Uniti e Iran è al nono mese.",
+      "La reazione dei mercati è stata contenuta: il rendimento del titolo di Stato decennale è salito di 2 punti base al 5,15 per cento, quello biennale di 4 punti base al 4,78 per cento, e la sterlina è rimasta quasi invariata. Gli operatori prezzano circa il 25 per cento di probabilità di un altro rialzo a dicembre. Bailey parla di nuovo lunedì 9 novembre.",
+      "Perché conta oltre la Gran Bretagna: mostra una grande banca centrale che stringe per l'energia, mentre nel briefing di ieri l'inflazione dell'area euro era al 4 per cento. Non si sa come risponderà la Banca centrale europea. Questa è una cronaca, non un consiglio su mutui o investimenti."
+     ],
+     "checks": [
+      {
+       "c": "Il tasso è salito al 4 per cento con un voto di 8 a 1 il 5 novembre",
+       "n": "CNBC e le sintesi di ricerca dei verbali della Banca d'Inghilterra concordano; la Banca è la fonte primaria."
+      },
+      {
+       "c": "Inflazione attesa vicino al 5 per cento a metà 2027",
+       "n": "Previsione della Banca stessa, che dipende dai prezzi dell'energia e può cambiare."
+      },
+      {
+       "c": "Una probabilità su quattro di rialzo a dicembre",
+       "n": "Prezzi di mercato citati dalla CNBC; cambiano ogni giorno."
+      }
+     ],
+     "ctx": "Il Bank Rate è il principale tasso della Banca d'Inghilterra. Un punto base è un centesimo di punto percentuale. I prezzi dell'energia entrano nell'inflazione attraverso carburanti, riscaldamento e costo dei beni.",
+     "media_caps": [
+      "Bank of England raises interest rates to 4%",
+      "La Banca d'Inghilterra a Londra, immagine d'archivio"
+     ]
+    }
+   },
+   "id": 18
+  },
+  {
+   "sec": "biz",
+   "time": "11:00",
+   "read": 4,
+   "title": "Week ahead: US inflation on Tuesday and AI earnings from Cisco, Applied Materials and CoreWeave test a Nasdaq in correction",
+   "summary": "US consumer price data for October arrives on Tuesday 10 November, with forecasts of headline inflation near 3.7 percent. Cisco, Applied Materials, CoreWeave and Take-Two report earnings after the Nasdaq slid more than 10 percent from its October peak. Ten Fed officials are scheduled to speak.",
+   "body": [
+    "The Cleveland Fed's inflation nowcasting model projects that October consumer prices rose 0.24 percent in the month, with headline annual inflation staying at 3.7 percent and core easing to 2.5 percent from 2.6 percent, according to FXStreet. Producer prices follow on Friday. A nowcast is a model estimate, not a forecast by economists polled by news agencies.",
+    "Earnings include Occidental Petroleum, KKR, Cisco Systems and Applied Materials between 9 and 12 November, plus Rocket Lab, Take-Two Interactive, CoreWeave and Nebius. Ten Federal Reserve officials, including Goolsbee, Barkin and Bowman, are scheduled to speak, and Bank of England Governor Andrew Bailey speaks on Monday.",
+    "The backdrop is a sharp fall in AI shares after Democrats won Congress: CBS reported the Nasdaq dropped 5.5 percent on Thursday, with Nvidia down 9.2 percent, AMD down 17.3 percent and CoreWeave down 9.8 percent. The Nasdaq is down more than 10 percent from its October peak, which meets the usual definition of a correction. Yesterday's briefing reported a partial rebound on Friday.",
+    "Markets are closed today, Sunday. Whether the AI trade stabilises depends on the data and results listed above. Nothing here is investment advice."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=SAaMViHKWws",
+     "cap": "Related: October US consumer price report arrives to set Fed expectations",
+     "credit": "CME Group",
+     "start": 5,
+     "end": 45
+    },
+    {
+     "type": "image",
+     "u": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/05/ad40c94d-fea7-44e3-a7b1-72dbba042c8a/thumbnail/1200x630/ed316bbaf51eb364d949829dbb6108a1/gettyimages-1206312753.jpg",
+     "cap": "Trading floor during the tech sell-off",
+     "credit": "Getty Images / CBS News"
+    }
+   ],
+   "sources": [
+    {
+     "n": "FXStreet",
+     "u": "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-when-it-comes-to-us-inflation-size-matters-202611061844",
+     "t": "Financial analysis site"
+    },
+    {
+     "n": "Schaeffer's Investment Research",
+     "u": "https://www.schaeffersresearch.com/content/news/2026/11/05/the-week-ahead-inflation-data-on-deck-as-earnings-slow",
+     "t": "Investment research"
+    },
+    {
+     "n": "CBS News",
+     "u": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+     "t": "US broadcaster"
+    }
+   ],
+   "checks": [
+    {
+     "s": "warn",
+     "c": "October US CPI of about 3.7 percent annual and core 2.5 percent",
+     "n": "Cleveland Fed nowcast cited by FXStreet; the official figure arrives Tuesday."
+    },
+    {
+     "s": "ok",
+     "c": "Nasdaq fell 5.5 percent on Thursday and is more than 10 percent below its October peak",
+     "n": "CBS News figures; Variety and Yahoo report the same sell-off direction."
+    },
+    {
+     "s": "ok",
+     "c": "Earnings and Fed speakers are scheduled this week",
+     "n": "Schaeffer's, Bytes Europe and Trading Economics list the same calendar."
+    }
+   ],
+   "ctx": "CPI is the consumer price index. Core inflation excludes food and energy. A correction is a fall of 10 percent or more from a recent peak. Dates and company reporting times can change.",
+   "loop_query": "stock market trading screens",
+   "i18n": {
+    "it": {
+     "title": "La settimana che viene: martedì l'inflazione USA e i conti di Cisco, Applied Materials e CoreWeave mettono alla prova un Nasdaq in correzione",
+     "summary": "I dati sui prezzi al consumo americani di ottobre arrivano martedì 10 novembre, con previsioni di inflazione generale vicina al 3,7 per cento. Cisco, Applied Materials, CoreWeave e Take-Two presentano i conti dopo che il Nasdaq è sceso di oltre il 10 per cento dal picco di ottobre. Sono in programma interventi di dieci esponenti della Fed.",
+     "body": [
+      "Il modello di previsione immediata della Fed di Cleveland stima che a ottobre i prezzi al consumo siano saliti dello 0,24 per cento sul mese, con l'inflazione annua generale ferma al 3,7 per cento e quella di fondo in calo al 2,5 dal 2,6 per cento, secondo FXStreet. I prezzi alla produzione seguono venerdì. Una stima immediata è il risultato di un modello, non una previsione degli economisti interpellati dalle agenzie.",
+      "Tra i conti ci sono Occidental Petroleum, KKR, Cisco Systems e Applied Materials tra il 9 e il 12 novembre, oltre a Rocket Lab, Take-Two Interactive, CoreWeave e Nebius. Dieci esponenti della Federal Reserve, tra cui Goolsbee, Barkin e Bowman, sono attesi in pubblico, e il governatore della Banca d'Inghilterra Andrew Bailey parla lunedì.",
+      "Lo sfondo è un forte calo dei titoli IA dopo la vittoria dei Democratici al Congresso: la CBS ha riportato che il Nasdaq è sceso del 5,5 per cento giovedì, con Nvidia in calo del 9,2 per cento, AMD del 17,3 e CoreWeave del 9,8. Il Nasdaq è oltre il 10 per cento sotto il picco di ottobre, il che rientra nella definizione usuale di correzione. Il briefing di ieri riportava un rimbalzo parziale venerdì.",
+      "Oggi, domenica, i mercati sono chiusi. Se il comparto IA si stabilizzerà dipende dai dati e dai conti elencati. Nulla qui è un consiglio di investimento."
+     ],
+     "checks": [
+      {
+       "c": "Inflazione USA di ottobre attorno al 3,7 per cento annuo e di fondo al 2,5 per cento",
+       "n": "Stima immediata della Fed di Cleveland citata da FXStreet; il dato ufficiale arriva martedì."
+      },
+      {
+       "c": "Il Nasdaq è sceso del 5,5 per cento giovedì ed è oltre il 10 per cento sotto il picco di ottobre",
+       "n": "Cifre della CBS News; Variety e Yahoo riportano la stessa direzione del calo."
+      },
+      {
+       "c": "Questa settimana sono in calendario conti societari e interventi della Fed",
+       "n": "Schaeffer's, Bytes Europe e Trading Economics elencano lo stesso calendario."
+      }
+     ],
+     "ctx": "Il CPI è l'indice dei prezzi al consumo. L'inflazione di fondo esclude alimentari ed energia. Una correzione è un calo del 10 per cento o più da un massimo recente. Date e orari dei conti possono cambiare.",
+     "media_caps": [
+      "Correlato: in arrivo il dato sui prezzi al consumo Usa di ottobre, che orienterà le attese sulla Fed",
+      "Sala di contrattazione durante il crollo dei titoli tecnologici"
+     ]
+    }
+   },
+   "id": 19
+  },
+  {
+   "sec": "lav",
+   "time": "09:00",
+   "read": 5,
+   "title": "Platform work rules: EU states must turn the directive into national law by 2 December, with employment presumption and limits on algorithmic management",
+   "summary": "Directive (EU) 2024/2831 gives gig platform workers a rebuttable presumption of employment where a platform controls the work, and requires human oversight of algorithmic management. Member states must transpose it by 2 December 2026, and most had not finished by mid-2026. Germany is debating a direct employment rule for food delivery.",
+   "body": [
+    "The directive covers workers on digital platforms such as delivery and ride services. Where facts show a platform exercises control and direction over how the work is done, the worker is presumed to be an employee, unless the platform proves otherwise. It also imposes transparency duties and requires human oversight of automated systems that assign tasks, evaluate or discipline workers.",
+    "The deadline is 2 December 2026. Legal trackers cited by search summaries say most member states had not completed their laws by mid-2026. Spain's Riders Law of 2021 already presumes employment for delivery, Belgium has its own criteria since 2022, and the Netherlands applies the Deliveroo criteria through general law.",
+    "In Germany, DLA Piper reports that the federal council adopted a non-binding resolution in October asking that the law include a statutory direct employment requirement for food delivery workers. The federal government said in May that it is examining measures on subcontractors, including possible direct employment. I could not verify the state of the Italian transposition in the sources found.",
+    "What it means for a young engineer: you may build the scheduling, rating and pay algorithms that the directive regulates, so explainability and human review become product requirements. If you take gig or freelance work, the presumption of employment may change your rights, but it depends on national law and each case. This is general information, not legal advice."
+   ],
+   "media": [
+    {
+     "type": "image",
+     "u": "https://knowledge.dlapiper.com/export/sites/genie/images/news-events-banners/abstract-glass-building-with-trees.jpg_1585541765.jpg",
+     "cap": "Banner image from DLA Piper's employment law knowledge site",
+     "credit": "DLA Piper"
+    }
+   ],
+   "sources": [
+    {
+     "n": "DLA Piper GENIE",
+     "u": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/germany-moves-forward-on-transposing-the-eu-platform-work-directive",
+     "t": "Law firm employment tracker"
+    },
+    {
+     "n": "CMS",
+     "u": "https://cms.law/en/bel/legal-updates/from-gig-to-guarantee-how-the-eu-is-transforming-platform-work",
+     "t": "Law firm briefing"
+    },
+    {
+     "n": "Garrigues",
+     "u": "https://bloglaboral.garrigues.com/en/riders-law-and-platform-work-directive-challenges-ahead",
+     "t": "Law firm labour blog"
+    },
+    {
+     "n": "Teamed",
+     "u": "https://www.teamed.global/eu-platform-work/spain",
+     "t": "Employment compliance provider"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Member states must transpose Directive 2024/2831 by 2 December 2026",
+     "n": "DLA Piper, CMS and Garrigues give the same deadline."
+    },
+    {
+     "s": "warn",
+     "c": "Most member states had not finished transposition by mid-2026",
+     "n": "From legal tracker summaries; no official count was found."
+    },
+    {
+     "s": "warn",
+     "c": "Germany's federal council asked for direct employment for food delivery",
+     "n": "DLA Piper; a non-binding resolution, not law."
+    }
+   ],
+   "ctx": "A rebuttable presumption means the law assumes a fact, here employment, until the platform shows otherwise. Algorithmic management means software that assigns, monitors or evaluates work. The directive sits alongside the AI Act, which treats some employment AI as high-risk. Not legal advice.",
+   "loop_query": "delivery rider bicycle city",
+   "i18n": {
+    "it": {
+     "title": "Lavoro su piattaforma: gli Stati UE devono recepire la direttiva entro il 2 dicembre, con presunzione di lavoro subordinato e limiti alla gestione algoritmica",
+     "summary": "La direttiva (UE) 2024/2831 dà ai lavoratori delle piattaforme una presunzione relativa di lavoro subordinato quando la piattaforma controlla il lavoro e richiede la supervisione umana della gestione algoritmica. Gli Stati devono recepirla entro il 2 dicembre 2026 e a metà 2026 la maggior parte non aveva finito. La Germania discute una norma di assunzione diretta per il food delivery.",
+     "body": [
+      "La direttiva riguarda i lavoratori delle piattaforme digitali, come consegne e trasporto. Se i fatti mostrano che la piattaforma esercita controllo e direzione su come si svolge il lavoro, il lavoratore è presunto dipendente, salvo prova contraria della piattaforma. Impone anche obblighi di trasparenza e richiede la supervisione umana dei sistemi automatizzati che assegnano compiti, valutano o sanzionano i lavoratori.",
+      "La scadenza è il 2 dicembre 2026. Gli osservatori giuridici citati nelle sintesi di ricerca dicono che a metà 2026 la maggior parte degli Stati membri non aveva completato le proprie leggi. La legge spagnola sui rider del 2021 già presume il lavoro subordinato per le consegne, il Belgio ha propri criteri dal 2022 e i Paesi Bassi applicano i criteri Deliveroo con il diritto generale.",
+      "In Germania, secondo DLA Piper, il Bundesrat ha approvato a ottobre una risoluzione non vincolante che chiede che la legge includa l'obbligo di assunzione diretta per i lavoratori delle consegne di cibo. Il governo federale ha detto a maggio di esaminare misure sui subappaltatori, compresa una possibile assunzione diretta. Non sono riuscito a verificare lo stato del recepimento italiano nelle fonti trovate.",
+      "Cosa significa per un giovane ingegnere: potreste costruire gli algoritmi di turnazione, valutazione e paga che la direttiva regola, quindi spiegabilità e revisione umana diventano requisiti di prodotto. Se fate lavoro su piattaforma o freelance, la presunzione di subordinazione può cambiare i vostri diritti, ma dipende dalla legge nazionale e dal singolo caso. Sono informazioni generali, non consulenza legale."
+     ],
+     "checks": [
+      {
+       "c": "Gli Stati membri devono recepire la direttiva 2024/2831 entro il 2 dicembre 2026",
+       "n": "DLA Piper, CMS e Garrigues indicano la stessa scadenza."
+      },
+      {
+       "c": "A metà 2026 la maggior parte degli Stati non aveva completato il recepimento",
+       "n": "Da sintesi di osservatori giuridici; non è stato trovato un conteggio ufficiale."
+      },
+      {
+       "c": "Il Bundesrat tedesco ha chiesto l'assunzione diretta per il food delivery",
+       "n": "DLA Piper; è una risoluzione non vincolante, non una legge."
+      }
+     ],
+     "ctx": "Una presunzione relativa significa che la legge assume un fatto, qui il lavoro subordinato, finché la piattaforma non dimostra il contrario. La gestione algoritmica è il software che assegna, controlla o valuta il lavoro. La direttiva si affianca all'AI Act, che tratta alcune IA per il lavoro come ad alto rischio. Non è consulenza legale.",
+     "media_caps": [
+      "Immagine di banner dal sito di conoscenza di DLA Piper sul diritto del lavoro"
+     ]
+    }
+   },
+   "id": 20
+  },
+  {
+   "sec": "lav",
+   "time": "18:00",
+   "read": 5,
+   "title": "Google joins Microsoft and Oracle with voluntary exit offers as big tech cuts pass 100,000 this year; euro area youth unemployment is 15.4 percent",
+   "summary": "Google is offering voluntary exit packages, following Microsoft, which has offered buyouts to about 60,000 staff, and Oracle, which cut 21,000 jobs. Counts of tech layoffs and buyouts for 2026 range from over 100,000 to nearly 200,000, depending on the tracker. For graduates, euro area youth unemployment is 15.4 percent.",
+   "body": [
+    "24/7 Wall St reported on 5 November that Google is offering voluntary exit packages without giving the scope, joining Microsoft, Oracle and Meta. It says combined layoffs and buyouts at big tech passed 100,000 this year, that Microsoft offered voluntary retirement to about 60,000 employees, and that Oracle cut 21,000 jobs, 13 percent of staff. Another report says Meta is weighing cuts of 16,000, about 20 percent of staff, which remains unconfirmed.",
+    "Counts differ. TechRepublic's tally, based on a tracker, put the number of tech workers affected in 2026 at 196,349 as of 23 October, while Onmanorama cited about 135,000. Amazon alone has 16,820 reported cuts. Two explanations compete: AI makes some work redundant, or companies are cutting staff to pay for data centres, with spending on AI infrastructure rising sharply.",
+    "For graduates, entry-level hiring in tech is under pressure while demand shifts to AI skills. Eurostat reports that in September 2026 euro area unemployment was 6.5 percent and youth unemployment, under 25, was 15.4 percent, up from 15.1 percent in August and with 80,000 more young people unemployed than a year earlier. Italy's youth rate was 19.9 percent in September, according to Istat.",
+    "What it means for you: apply broadly, build a project portfolio that shows you can work with AI tools, and consider the public sector and smaller firms, which keep hiring. What is unknown is whether the cuts are cyclical or structural, and how far they will spread beyond tech."
+   ],
+   "media": [
+    {
+     "type": "video",
+     "u": "https://www.youtube.com/watch?v=CHdYC4ViJQM",
+     "cap": "Google, Microsoft and Canva offer buyouts as AI reshapes jobs",
+     "credit": "The Indian Express"
+    },
+    {
+     "type": "image",
+     "u": "https://247wallst.com/wp-content/uploads/2026/04/shutterstock-711833602-huge-licensed-scaled.jpg",
+     "cap": "Stock image used by 24/7 Wall St for its tech layoffs report",
+     "credit": "24/7 Wall St"
+    },
+    {
+     "type": "image",
+     "u": "https://img.onmanorama.com/content/dam/mm/en/archive/news/business/images/2026/11/5/article.jpg",
+     "cap": "Image from Onmanorama's report on tech job losses",
+     "credit": "Onmanorama"
+    }
+   ],
+   "sources": [
+    {
+     "n": "24/7 Wall St, 5 November",
+     "u": "https://247wallst.com/investing/2026/11/05/google-joins-the-surge-of-tech-layoffs/",
+     "t": "Financial news site"
+    },
+    {
+     "n": "TechRepublic",
+     "u": "https://www.techrepublic.com/article/news-tech-layoffs-2026-companies-cutting-jobs/",
+     "t": "Tech news outlet; page not opened, snippet confirms"
+    },
+    {
+     "n": "Onmanorama",
+     "u": "https://www.onmanorama.com/news/business/2026/11/05/ai-axe-falls-1-35-lakh-tech-jobs-gone-in-10-months.html",
+     "t": "Indian news outlet"
+    },
+    {
+     "n": "Eurostat, euro area unemployment September 2026",
+     "u": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-30102026-bp",
+     "t": "EU statistics office, primary source"
+    },
+    {
+     "n": "Orizzonte Scuola (Istat data)",
+     "u": "https://www.orizzontescuola.it/lavoro-a-settembre-gli-occupati-sono-24-milioni-328mila-disoccupazione-ferma-al-63-scende-quella-giovanile-al-199/",
+     "t": "Education news outlet reporting Istat September data"
+    }
+   ],
+   "checks": [
+    {
+     "s": "ok",
+     "c": "Euro area unemployment was 6.5 percent and youth unemployment 15.4 percent in September 2026",
+     "n": "Eurostat release of 30 October, confirmed by secondary summaries."
+    },
+    {
+     "s": "warn",
+     "c": "Google voluntary exit packages and Microsoft buyouts to 60,000 staff",
+     "n": "24/7 Wall St and TechRepublic summaries; Google has not specified the scope and company statements were not found."
+    },
+    {
+     "s": "warn",
+     "c": "Meta weighing 16,000 cuts",
+     "n": "Single trade press report; unconfirmed by Meta."
+    },
+    {
+     "s": "warn",
+     "c": "Total tech layoffs in 2026",
+     "n": "Trackers differ: about 135,000 versus 196,349, depending on definitions."
+    }
+   ],
+   "ctx": "Voluntary exit packages let staff leave with payments, which often precede or replace layoffs. Trackers such as TrueUp and Layoffs.fyi count different companies and dates, so totals differ. Entry-level effects are hard to isolate from the wider economy, which in this period includes high energy prices.",
+   "loop_query": "office workers laptop",
+   "i18n": {
+    "it": {
+     "title": "Google si aggiunge a Microsoft e Oracle con le uscite volontarie mentre i tagli delle big tech superano quota 100 mila nell'anno; la disoccupazione giovanile nell'area euro è al 15,4 per cento",
+     "summary": "Google offre pacchetti di uscita volontaria, dopo Microsoft, che ha offerto buonuscite a circa 60 mila dipendenti, e Oracle, che ha tagliato 21 mila posti. I conteggi di licenziamenti e uscite nel tech nel 2026 vanno da oltre 100 mila a quasi 200 mila a seconda del tracker. Per i neolaureati, la disoccupazione giovanile nell'area euro è al 15,4 per cento.",
+     "body": [
+      "24/7 Wall St ha riportato il 5 novembre che Google offre pacchetti di uscita volontaria senza precisarne la portata, unendosi a Microsoft, Oracle e Meta. Scrive che licenziamenti e uscite delle big tech hanno superato quota 100 mila quest'anno, che Microsoft ha offerto il pensionamento volontario a circa 60 mila dipendenti e che Oracle ha tagliato 21 mila posti, il 13 per cento del personale. Un altro resoconto dice che Meta valuta tagli per 16 mila posti, circa il 20 per cento del personale, non confermati.",
+      "I conteggi differiscono. Il conteggio di TechRepublic, basato su un tracker, indicava 196.349 lavoratori del tech coinvolti nel 2026 al 23 ottobre, mentre Onmanorama citava circa 135 mila. Solo Amazon ha 16.820 tagli segnalati. Due spiegazioni si contendono il campo: l'IA rende superfluo parte del lavoro, oppure le aziende tagliano personale per pagare i data center, con una spesa per infrastrutture IA in forte crescita.",
+      "Per i neolaureati, le assunzioni di ingresso nel tech sono sotto pressione mentre la domanda si sposta verso competenze di IA. Eurostat riporta che a settembre 2026 la disoccupazione nell'area euro era al 6,5 per cento e quella giovanile, sotto i 25 anni, al 15,4 per cento, in aumento dal 15,1 di agosto e con 80 mila giovani disoccupati in più rispetto a un anno prima. Il tasso giovanile italiano era al 19,9 per cento a settembre, secondo l'Istat.",
+      "Cosa significa per voi: candidatevi in modo ampio, costruite un portfolio di progetti che mostri che sapete lavorare con strumenti di IA e considerate il settore pubblico e le aziende più piccole, che continuano ad assumere. Non si sa se i tagli siano ciclici o strutturali e quanto si diffonderanno oltre il tech."
+     ],
+     "checks": [
+      {
+       "c": "A settembre 2026 la disoccupazione nell'area euro era al 6,5 per cento e quella giovanile al 15,4 per cento",
+       "n": "Comunicato Eurostat del 30 ottobre, confermato da sintesi secondarie."
+      },
+      {
+       "c": "Pacchetti di uscita volontaria di Google e buonuscite Microsoft a 60 mila dipendenti",
+       "n": "Sintesi di 24/7 Wall St e TechRepublic; Google non ha precisato la portata e non sono state trovate dichiarazioni aziendali."
+      },
+      {
+       "c": "Meta valuta 16 mila tagli",
+       "n": "Un solo resoconto di stampa di settore; non confermato da Meta."
+      },
+      {
+       "c": "Totale dei licenziamenti tech nel 2026",
+       "n": "I tracker divergono: circa 135 mila contro 196.349, a seconda delle definizioni."
+      }
+     ],
+     "ctx": "I pacchetti di uscita volontaria permettono ai dipendenti di andarsene con un compenso e spesso precedono o sostituiscono i licenziamenti. Tracker come TrueUp e Layoffs.fyi contano aziende e date diverse, per questo i totali differiscono. Gli effetti sui neoassunti sono difficili da separare dall'economia più ampia, che in questo periodo include prezzi dell'energia alti.",
+     "media_caps": [
+      "Google, Microsoft e Canva offrono buonuscite mentre l'IA ridisegna il lavoro",
+      "Immagine d'archivio usata da 24/7 Wall St per il servizio sui licenziamenti nel tech",
+      "Immagine dal servizio di Onmanorama sui posti persi nel tech"
+     ]
+    }
+   },
+   "id": 21
+  }
+ ],
+ "i18n": {
+  "it": {
+   "date_label": "domenica 8 novembre 2026"
+  }
+ }
+}
